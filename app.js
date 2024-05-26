@@ -1,10 +1,12 @@
+"use strict";
 import createError from "http-errors";
 import express, { json, urlencoded } from "express";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 import cookieParser from "cookie-parser";
 import connectDB from "./config/db.js";
-
+import session from "express-session";
+import flash from "connect-flash";
 import logger from "morgan";
 import bodyParser from "body-parser";
 
@@ -14,6 +16,15 @@ import usersRouter from "./routes/users.js";
 const app = express();
 
 connectDB();
+
+app.use(
+  session({
+    secret: "your-secret-key",
+    resave: false,
+    saveUninitialized: true,
+  })
+);
+app.use(flash());
 
 // Get the directory name
 const __dirname = dirname(fileURLToPath(import.meta.url));

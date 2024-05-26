@@ -2,6 +2,7 @@
 import { Router } from "express";
 import jwt from "jsonwebtoken";
 import bcrypt from "bcrypt";
+import Subscription from "../models/Subscription.js";
 import User from "../models/user.js";
 const router = Router();
 
@@ -9,13 +10,41 @@ const router = Router();
 
 /* GET home page. */
 router.get("/", function (req, res, next) {
-  res.render("index", { errorMessage: "" });
+  res.render('index', {
+    messages: {
+      error: req.flash('error'),
+      success: req.flash('success')
+    }
+  });
 });
 
 /* AUthentication*/
 // Login
 router.get("/login", function (req, res, next) {
   res.render("auth/login", { errorMessage: "" });
+});
+
+router.post("/subscribe", async (req, res) => {
+  const { email } = req.body;
+
+  try {
+    // Check if the email already exists in the database
+    const existingSubscription = await Subscription.findOne({ email });
+    if (existingSubscription) {
+      req.flash("error", "This email is already subscribed.");
+      return res.redirect("/#subscribe");
+    }
+
+    // Create a new subscription
+    const newSubscription = new Subscription({ email });
+    await newSubscription.save();
+
+    req.flash("success", "Congrats, you have subscribed to Examwiz!");
+    return res.redirect("/#subscribe");
+  } catch (err) {
+    req.flash("error", "An error occurred. Please try again later.");
+    return res.redirect("/#subscribe");
+  }
 });
 
 router.post("/login", async function async(req, res, next) {
