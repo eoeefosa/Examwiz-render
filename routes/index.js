@@ -306,9 +306,44 @@ router.get("/lock-screen", function (req, res, next) {
 /* Admin*/
 
 // Dashboard route
-router.get("/dashboard", verifyToken, function (req, res) {
+router.get("/dashboard", verifyToken, async function (req, res) {
   // Access user information from req.user and pass it to the view
-  const { username, email } = req.user;
-  res.render("user/courses", { title: "Dashboard", username, email });
+  const { username, email, _id } = req.user;
+
+  const user = await User.findById({ _id });
+
+  const {
+    referralCode,
+    balance,
+    plan,
+    follower,
+    following,
+    bonusPoints,
+    is_online,
+  } = user;
+
+  console.log(
+    username,
+    email,
+    referralCode,
+    balance,
+    plan,
+    follower,
+    following,
+    bonusPoints,
+    is_online
+  );
+  res.render("user/courses", {
+    title: "Dashboard",
+    username,
+    email,
+    referralCode,
+    balance,
+    plan,
+    follower,
+    following,
+    bonusPoints,
+    is_online,
+  });
 });
 export default router;
