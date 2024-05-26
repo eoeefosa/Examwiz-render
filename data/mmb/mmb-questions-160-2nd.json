@@ -1,0 +1,678 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following bacteria causes infection/disease that mimics mycoses?",
+    "options": [
+      "Norcodia species",
+      "Streptomyces species",
+      "Actinomyces species",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Actinomyces species can cause infection/disease that mimics mycoses. While Nocardia and Streptomyces are also bacteria, they are not typically associated with infections that mimic mycoses."
+  },
+  {
+    "id": 2,
+    "question": "Which or the following describes eumycetoma?",
+    "options": [
+      "It is a chronic subcutaneous granulomatous inflammatory disease",
+      "It may or bacterial or fungal origin",
+      "It is communicable, spreading from person to person",
+      "It is characterised by formation of sclerotic tissues in tissue",
+      "It commonly has a lymphocutaneous presentation"
+    ],
+    "answer": [
+      "It is a chronic subcutaneous granulomatous inflammatory disease"
+    ],
+    "explanation": "Eumycetoma is indeed a chronic subcutaneous granulomatous inflammatory disease. It is not communicable, and while it can be of bacterial or fungal origin, it is commonly associated with fungal infections."
+  },
+  {
+    "id": 3,
+    "question": "A 45 year old farmer presents with chronic swelling on the left lower limb. A biopsy was taken from the lesion and histology showed characteristic 'sclerotic bodies'. Which of these fungi could be responsible?",
+    "options": [
+      "Aspergillus fumigatus",
+      "Fonsecaea pedrosoi",
+      "Sprothrix schenckii",
+      "Basidobolus ranarum",
+      "Madurella mycetomatis"
+    ],
+    "answer": ["Fonsecaea pedrosoi"],
+    "explanation": "Madurella mycetomatis is a fungus commonly associated with mycetoma. It forms characteristic 'sclerotic bodies' in tissue, as described in the histology findings."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following statements is true about actinomycosis?",
+    "options": [
+      "The aetiology is Madurella grisea",
+      "Treatable with antifungal drugs",
+      "Does not respond to antibactarial agent",
+      "May be caused by normal flora of the oral cavity",
+      "None of the above"
+    ],
+    "answer": ["May be caused by normal flora of the oral cavity"],
+    "explanation": "Madurella mycetomatis is a fungus commonly associated with mycetoma. It forms characteristic 'sclerotic bodies' in tissue, as described in the histology findings."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following diagnostic features and mycoses is wrongly paired?",
+    "options": [
+      "Fumagoid bodies -- Chromoblastomycosis",
+      "Spherules -- Coccidioidomycosis",
+      "'Sailor's wheel appearance' -- Paracoccidioidomycosis",
+      "Black grains -- Actinomycetoma",
+      "Halo sign on chest computerized tomography -- Aspergillosis"
+    ],
+    "answer": ["Black grains -- Actinomycetoma"],
+    "explanation": "Spherules are actually associated with Coccidioidomycosis, not Chromoblastomycosis. Chromoblastomycosis is characterized by the presence of sclerotic bodies."
+  },
+  {
+    "id": 6,
+    "question": "Systemic mycoses are characterised by which of the following?",
+    "options": [
+      "Aetiologic agents are usually dimorphic fungi",
+      "Transmission occurs mainly by the inhalation of spores",
+      "A primary inoculation complex is produced in the lungs",
+      "Dissemination to other organs is by hematogenous spread in some individuals",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Systemic mycoses are indeed characterized by these features. They are often caused by dimorphic fungi, transmitted through inhalation, leading to a primary complex in the lungs and potential dissemination to other organs via hematogenous spread."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following statement is true concerning histoplasmosis?",
+    "options": [
+      "The detection of spherules with endospores in sputum or tissue is pathognomonic",
+      "Tuberculate microconidia are observed in culture grown at 25°C",
+      "The microconidia are responsible for transmission",
+      "The macroconidia are important in transmission",
+      "The yeast form is responsible for transmission in the environment"
+    ],
+    "answer": ["The microconidia are responsible for transmission"],
+    "explanation": "In histoplasmosis, the macroconidia of Histoplasma capsulatum are important in transmission, particularly through inhalation of airborne conidia."
+  },
+  {
+    "id": 8,
+    "question": "Laboratory methods in mycology include(s) which of the following procedure(s)?",
+    "options": [
+      "Direct microscopic examination of pathological samples",
+      "Fungal Culture",
+      "Scrological Tests",
+      "Molecular methods including Polymerase chain reaction (PCR)",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Laboratory methods in mycology include direct microscopic examination, fungal culture, and molecular methods such as PCR. These methods are used to identify fungal pathogens."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following statements is correct?",
+    "options": [
+      "Paracoccidioidomycosis is also known as Darling's disease",
+      "Paracoccidioides brazilliensis yeasts are spherical in shape with a double layer",
+      "Paracoccidioidomycosis is endemic in South East Asia",
+      "Paracoccidioidomycosis affects the skin",
+      "None of the above"
+    ],
+    "answer": [
+      "Paracoccidioides brazilliensis yeasts are spherical in shape with a double layer"
+    ],
+    "explanation": "None of the statements are correct. Paracoccidioidomycosis is not known as Darling's disease, it is caused by Paracoccidioides brasiliensis, not spherical with a double layer, it is endemic in South America, and it affects mucosal tissues primarily."
+  },
+  {
+    "id": 10,
+    "question": "A 60 year old lady presents with facial swelling involving the rhino-orbital region. On examination, there is a necrotic patch on the hard palate. Fasting blood sugar is markedly elevated. Which of the following is correct?",
+    "options": [
+      "The likely diagnosis is mycetoma",
+      "Blastomyces dermatitidis is the likely cause",
+      "Mucor spp is a possible cause",
+      "The causative fungus is dematiaceous",
+      "Histopathology is not useful in the diagnosis"
+    ],
+    "answer": ["Mucor spp is a possible cause"],
+    "explanation": "The symptoms described are consistent with mucormycosis, particularly rhino-orbital-cerebral mucormycosis. Mucor spp. are common causative agents in these cases."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is caused by an intestinal nematode?",
+    "options": [
+      "Strongyloidiasis",
+      "Dracunculiasis",
+      "Filariasis",
+      "Diphyllobothriasis",
+      "Trichinosis"
+    ],
+    "answer": ["Strongyloidiasis"],
+    "explanation": "Strongyloidiasis is caused by the intestinal nematode Strongyloides stercoralis. The other options are caused by different types of parasites."
+  },
+  {
+    "id": 12,
+    "question": "Which of these is true about cestodes?",
+    "options": [
+      "They are protozoan parasites",
+      "They are roundworms that are infective for vertebrates and invertebrates",
+      "Species have life cycle events that have only one intermediate host",
+      "They possess a well developed digestive system",
+      "The distinct body regions include scolex, neck and strobila"
+    ],
+    "answer": ["The distinct body regions include scolex, neck and strobila"],
+    "explanation": "Cestodes, or tapeworms, have distinct body regions including the scolex, neck, and strobila. They are not protozoan parasites or roundworms."
+  },
+  {
+    "id": 13,
+    "question": "In humans, beef tapeworm infection is acquired by",
+    "options": [
+      "Ingesting the eggs of Taenia saginata",
+      "Ingesting the gravid segment of Taenia solium",
+      "Swimming in water contaminated with Diphyllobothrium latum eggs",
+      "Ingesting cysticerci of Taenia saginata in undercooked meat",
+      "Ingesting cysticerci of taeniid tapeworm in undercooked fish"
+    ],
+    "answer": ["Ingesting cysticerci of Taenia saginata in undercooked meat"],
+    "explanation": "Beef tapeworm infection, caused by Taenia saginata, is acquired by ingesting the eggs of the parasite, typically through consumption of contaminated food."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is not a tapeworm larval disease?",
+    "options": [
+      "Coenurosis",
+      "Cysticercosis",
+      "Hydatid disease",
+      "Diphyllobothriasis",
+      "Ocular sparganosis"
+    ],
+    "answer": ["Diphyllobothriasis"],
+    "explanation": "Diphyllobothriasis is a tapeworm infection caused by the adult worm, not the larval stage. The other options refer to larval stages of tapeworms."
+  },
+  {
+    "id": 15,
+    "question": "Which of these is a trematode of medical importance?",
+    "options": [
+      "Enterobius vermicularis",
+      "Echinococcus granulosus",
+      "Paragonimus westermanii",
+      "Trichinella spiralis",
+      "Dipillidum caninum"
+    ],
+    "answer": ["Paragonimus westermanii"],
+    "explanation": "Paragonimus westermanii is a trematode of medical importance, causing paragonimiasis. The other options are not trematodes."
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is true of Schistosoma species?",
+    "options": [
+      "They are digenean",
+      "They lack well developed alimentary canals",
+      "They are hermaphrodites",
+      "They produce operculated eggs",
+      "All produce ova with terminal spines"
+    ],
+    "answer": ["They are digenean"],
+    "explanation": "Schistosoma species are hermaphroditic trematodes. They are not digenean, as they have well-developed alimentary canals, and they produce eggs with terminal spines but not operculated eggs."
+  },
+  {
+    "id": 17,
+    "question": "Which of these applies to a paratenic host?",
+    "options": [
+      "Harbours a viable non-developmental parasite stage",
+      "Describable in the life cycle of all cestodes",
+      "First intermediate host of fish tapeworm",
+      "Synonymous with second intermediate host",
+      "All of the above"
+    ],
+    "answer": ["Harbours a viable non-developmental parasite stage"],
+    "explanation": "A paratenic host harbors a viable, non-developmental parasite stage. It is not necessarily described in the life cycle of all cestodes, nor is it synonymous with the second intermediate host."
+  },
+  {
+    "id": 18,
+    "question": "Which of these is NOT a criterion for the rejection of stool as diagnostic sample for parasites?",
+    "options": [
+      "Diarrhea stool stored for 48 hours at 25°C",
+      "Evidence of contamination with urine",
+      "Evidence of contamination with water",
+      "Use of laxative within 10 days of sample collection",
+      "Sample not collected in sterile bottle"
+    ],
+    "answer": ["Diarrhea stool stored for 48 hours at 25°C"],
+    "explanation": "While storing diarrhea stool for 48 hours at 25°C may affect the quality of the sample, it is not a criterion for rejection. The other options are valid criteria for rejection of stool samples."
+  },
+  {
+    "id": 19,
+    "question": "Which of following correctly describe(s) direct wet stool smear procedure(s)?",
+    "options": [
+      "Viewing parasites with a hand lens",
+      "Preparation in normal saline detects parasites",
+      "Preparation in iodine reveals morphological characteristics of parasites",
+      "Viewing parasites with a hand lens & Preparation in normal saline detects parasites are correct",
+      "Preparation in normal saline detects parasites & Preparation in iodine reveals morphological characteristics of parasites are correct"
+    ],
+    "answer": [
+      "Preparation in normal saline detects parasites & Preparation in iodine reveals morphological characteristics of parasites are correct"
+    ],
+    "explanation": "Preparation of a direct wet stool smear in iodine allows for the visualization of morphological characteristics of parasites, while preparation in normal saline helps in detecting parasites. Viewing parasites with a hand lens is not part of the procedure."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following clinical manifestations is correctly matched with the predisposing helminthic infections?",
+    "options": [
+      "Iron deficiency anaemia - Ascaris lumbricoides",
+      "Megaloblastic anaemia - Paragonimus westermanii",
+      "Rectal prolapse - Trichinella spiralis",
+      "Leg ulcer - Dracunculus medinensis",
+      "Haemoptysis - Schistosoma haematobium"
+    ],
+    "answer": ["Leg ulcer - Dracunculus medinensis"],
+    "explanation": "Rectal prolapse is associated with heavy infestations of Trichinella spiralis. The other options are not correctly matched with their predisposing helminthic infections."
+  },
+
+  {
+    "id": 21,
+    "question": "Penicillin",
+    "options": [
+      "May cause IgE-mediated hypersensitivity",
+      "May cause type II hypersensitivity reaction",
+      "May cause serum sickness",
+      "May cause delayed hypersensitivity reaction (type IV)",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Penicillin can cause various types of hypersensitivity reactions, including IgE-mediated reactions, type II hypersensitivity reactions, serum sickness, and delayed hypersensitivity reactions (type IV)."
+  },
+  {
+    "id": 22,
+    "question": "About type 1 hypersensitivity",
+    "options": [
+      "The reaction occurs only in sensitized individuals",
+      "Goodpasture syndrome is a typical example",
+      "Leukotrienes and prostaglandins are preformed mediators",
+      "Reaction is IgG mediated",
+      "Reaction is cell mediated"
+    ],
+    "answer": ["The reaction occurs only in sensitized individuals"],
+    "explanation": "Type 1 hypersensitivity reactions occur in sensitized individuals upon re-exposure to an allergen. Goodpasture syndrome is actually an example of type II hypersensitivity. Leukotrienes and prostaglandins are not preformed mediators, and the reaction is mediated by IgE antibodies, not IgG or cell-mediated mechanisms."
+  },
+  {
+    "id": 23,
+    "question": "A known sickle cell disease patient developed jaundice following blood transfusion. Investigations revealed hemolytic anemia due to ABO incompatibility resulting from clerical errors at the blood bank. Which of the following is true of the reaction?",
+    "options": [
+      "Cytotoxic T cells played a major role",
+      "It involved IgE antibodies",
+      "It involved the formation of circulating immune complexes",
+      "It was complement mediated",
+      "Preformed mediators such as histamine were responsible for lysis of the red blood cells"
+    ],
+    "answer": ["It was complement mediated"],
+    "explanation": "The reaction described is a hemolytic transfusion reaction, which is typically complement mediated. It does not involve IgE antibodies or cytotoxic T cells, and preformed mediators such as histamine are not responsible for lysis in this context."
+  },
+  {
+    "id": 24,
+    "question": "Concerning autoimmunity which of these is correct?",
+    "options": [
+      "Clonal deletion is a mechanism in peripheral tolerance",
+      "The testes are immune privileged sites",
+      "Molecular mimicry plays no role in the development of autoimmunity",
+      "Autoreactive T cells become anergic in the thymus",
+      "All of the above"
+    ],
+    "answer": ["Clonal deletion is a mechanism in peripheral tolerance"],
+    "explanation": "Clonal deletion is indeed a mechanism in peripheral tolerance, where autoreactive T cells are eliminated to prevent autoimmunity. The testes are immune privileged sites, molecular mimicry can play a role in autoimmunity, and autoreactive T cells become anergic in the thymus, all contributing to the development of autoimmunity."
+  },
+  {
+    "id": 25,
+    "question": "Which of these is an organ-specific autoimmune disorder?",
+    "options": [
+      "Grave's disease",
+      "Rheumatoid arthritis",
+      "Sjogren's syndrome",
+      "Systemic lupus erythematosus",
+      "None of the above"
+    ],
+    "answer": ["Grave's disease"],
+    "explanation": "None of the listed options are organ-specific autoimmune disorders. Grave's disease, rheumatoid arthritis, and systemic lupus erythematosus are systemic autoimmune disorders, while Sjogren's syndrome affects multiple organs but is not considered organ-specific."
+  },
+  {
+    "id": 26,
+    "question": "About Poliovirus",
+    "options": [
+      "Sabin vaccine may cause vaccine-associated poliomyelitis",
+      "It has only one serotype and so is eradicable by vaccination",
+      "It is transmitted via respiratory droplets",
+      "50% of infected persons develop paralytic poliomyelitis",
+      "None of the above"
+    ],
+    "answer": ["Sabin vaccine may cause vaccine-associated poliomyelitis"],
+    "explanation": "The Sabin vaccine does not cause vaccine-associated poliomyelitis; it is the Salk vaccine that can rarely cause this. Poliovirus has three serotypes, which complicates eradication efforts. It is primarily transmitted via the fecal-oral route, not respiratory droplets, and only a small percentage of infected individuals develop paralytic poliomyelitis."
+  },
+  {
+    "id": 27,
+    "question": "Concerning Dengue fever",
+    "options": [
+      "It is not a form of hemorrhagic fever",
+      "The 17 D vaccine is preventive",
+      "The causative agent belongs to the Filoviridae family",
+      "Transmission is through unscreened blood transfusion",
+      "Transmission is through Aedes aegypti"
+    ],
+    "answer": ["Transmission is through Aedes aegypti"],
+    "explanation": "Dengue fever is a form of hemorrhagic fever transmitted primarily through the bite of the Aedes aegypti mosquito. There is no 17D vaccine for dengue, and the causative agent belongs to the Flaviviridae family, not Filoviridae."
+  },
+  {
+    "id": 28,
+    "question": "Which of these viruses are paired with the correct virus family?",
+    "options": [
+      "Hepatitis A virus- Picornaviridae",
+      "Lassa virus- Flaviviridae",
+      "Polio virus- Paramyxoviridae",
+      "Rotavirus- Adenoviridae",
+      "None of the above"
+    ],
+    "answer": ["Hepatitis A virus- Picornaviridae"],
+    "explanation": "The pairings provided are incorrect. Hepatitis A virus belongs to the Picornaviridae family, Lassa virus to the Arenaviridae family, Polio virus to the Picornaviridae family, and Rotavirus to the Reoviridae family."
+  },
+  {
+    "id": 29,
+    "question": "Bacterial spores",
+    "options": [
+      "Cannot be destroyed by autoclaving",
+      "Are reproductive in function",
+      "Are possessed by Staphylococci",
+      "Are possessed by Clostridia",
+      "Are very susceptible to antibiotics"
+    ],
+    "answer": ["Are possessed by Clostridia"],
+    "explanation": "Bacterial spores are resistant structures produced by certain bacteria, such as Clostridia. They are highly resistant to heat and chemicals, including autoclaving, and are not reproductive in function."
+  },
+  {
+    "id": 30,
+    "question": "Which of these is true about bacterial plasmids?",
+    "options": [
+      "They may code for antibiotic resistance",
+      "They carry genes for endotoxin",
+      "They are incapable of autonomous replication",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": ["They may code for antibiotic resistance"],
+    "explanation": "Bacterial plasmids are extrachromosomal DNA molecules that can carry genes for antibiotic resistance among other traits. They are capable of autonomous replication and are not related to endotoxins."
+  },
+  {
+    "id": 31,
+    "question": "Epidemic meningitis in Northern Nigeria is mostly caused by:",
+    "options": [
+      "Haemophilus influenzae",
+      "Streptococcus agalactiae",
+      "Streptococcus pneumoniae",
+      "Neisseria meningitidis",
+      "Prevotella melaninogenica"
+    ],
+    "answer": ["Neisseria meningitidis"],
+    "explanation": "Epidemic meningitis in Northern Nigeria is mostly caused by Neisseria meningitidis, particularly serogroup A. The other listed organisms can also cause meningitis but may not be the primary cause of epidemics in that region."
+  },
+  {
+    "id": 32,
+    "question": "The following are true about meningitis except:",
+    "options": [
+      "The CSF of tuberculous meningitis forms spider-web clot on top when left standing for a while.",
+      "The CSF of viral meningitis is opalescent and the predominant inflammatory cells are monocytes.",
+      "The CSF of acute bacterial meningitis is turbid, with mainly polymorphonuclear leukocytes.",
+      "The CSF of Cryptococcus meningitis needs to be subjected to Indian ink staining.",
+      "The CSF of N. fowleri meningo-encephalitis will reveal amoebic movements on wet mount."
+    ],
+    "answer": [
+      "The CSF of viral meningitis is opalescent and the predominant inflammatory cells are monocytes."
+    ],
+    "explanation": "The CSF of N. fowleri meningo-encephalitis will not reveal amoebic movements on wet mount. This option is incorrect. The other statements are generally true regarding the characteristics of different types of meningitis."
+  },
+  {
+    "id": 33,
+    "question": "Which one of these options is untrue?",
+    "options": [
+      "Graft versus Host (GVH) reaction can be treated with cyclophosphamide, cyclosporine A & corticosteroid.",
+      "GVH is common in bone marrow transplant.",
+      "The bone is one of those tissues/organs referred to as a privilege site for transplantation.",
+      "Hyper-acute TRR occurs within minutes to hours after transplantation.",
+      "The bone marrow, blood vessels, and the endocrines are worse tolerated grafts."
+    ],
+    "answer": [
+      "The bone is one of those tissues/organs referred to as a privilege site for transplantation."
+    ],
+    "explanation": "The bone is not considered a privileged site for transplantation. Privileged sites include the brain, eye, and testes, where the immune response to grafts is often suppressed or altered. The other statements are generally true regarding transplantation reactions."
+  },
+  {
+    "id": 34,
+    "question": "About Prion diseases and Prion proteins: Which one of these statements is untrue?",
+    "options": [
+      "Prion proteins do not possess nucleic acids",
+      "Prion proteins are found mostly in the brain and lympho-reticular tissues.",
+      "They are incapable of inducing inflammatory response.",
+      "They are capable of evoking the production of specific antibodies and Immunocompetent effector cells.",
+      "They resist proteolytic digest."
+    ],
+    "answer": [
+      "They are capable of evoking the production of specific antibodies and Immunocompetent effector cells."
+    ],
+    "explanation": "Prion diseases and proteins can induce an inflammatory response. This statement is incorrect. The other statements are generally true regarding prions."
+  },
+  {
+    "id": 35,
+    "question": "The following are true about disinfection and disinfectants except:",
+    "options": [
+      "It is applicable on inanimate items only",
+      "When applied, all forms of microbial life are eliminated including their spores",
+      "Examples are Triclosan, Phenolic compounds, Iodine, and Alcohol.",
+      "Some of their mechanisms of action include: denaturation of proteins, and inactivation of microbial enzymes.",
+      "Chlorhexidine (Hibitane) and Mercuric compounds are incorporated into soaps and are marketed as medicated soaps."
+    ],
+    "answer": [
+      "When applied, all forms of microbial life are eliminated including their spores"
+    ],
+    "explanation": "Disinfection is applicable to both inanimate and animate objects, while sterilization refers to the elimination of all microbial life including their spores. The other statements are generally true regarding disinfection and disinfectants."
+  },
+  {
+    "id": 36,
+    "question": "Advantages of newer disinfectants such as Peracetic acid and superoxide water include the following except:",
+    "options": [
+      "Broad-spectrum activities",
+      "Environmentally friendly",
+      "Used for critical items",
+      "Rapid bactericidal effect",
+      "They are high-level disinfectants"
+    ],
+    "answer": ["Used for critical items"],
+    "explanation": "Newer disinfectants like Peracetic acid and superoxide water are effective against a broad spectrum of microorganisms, are environmentally friendly, have a rapid bactericidal effect, and are high-level disinfectants. However, they are not typically used for critical items, which require sterilization."
+  },
+  {
+    "id": 37,
+    "question": "The following are quality control methods for sterilization except:",
+    "options": [
+      "The use of Brownie's tube",
+      "The use of Bowie-Dick's tape",
+      "The use of PVC Azo dye",
+      "The use of Robertson's sterilization indicator",
+      "The use of Bacillus stearothermophilus spore test"
+    ],
+    "answer": ["The use of Robertson's sterilization indicator"],
+    "explanation": "Quality control methods for sterilization include the use of Brownie's tube, Bowie-Dick's tape, Robertson's sterilization indicator, and the Bacillus stearothermophilus spore test. The use of PVC Azo dye is not a standard method for sterilization quality control."
+  },
+  {
+    "id": 38,
+    "question": "Which is the odd one out, about the general properties of the mycobacteria:",
+    "options": [
+      "Possession of a thick waxy (lipid rich) cell wall.",
+      "They are acid-fast bacilli",
+      "They are strict anaerobes",
+      "They are mostly slow growers",
+      "They can be identified with Ziehl Neelsen stain."
+    ],
+    "answer": ["They are strict anaerobes"],
+    "explanation": "Mycobacteria are not strict anaerobes; they are aerobes or facultative anaerobes. They possess a thick waxy (lipid-rich) cell wall, are acid-fast bacilli, are mostly slow growers, and can be identified with the Ziehl-Neelsen stain."
+  },
+  {
+    "id": 39,
+    "question": "Which of the following is not a cause of tuberculosis?",
+    "options": [
+      "Mycobacterium ulcerans (M. ulcerans)",
+      "M. tuberculosis",
+      "M. africanum",
+      "M. bovis",
+      "M. canettii"
+    ],
+    "answer": ["Mycobacterium ulcerans (M. ulcerans)"],
+    "explanation": "Mycobacterium ulcerans is not a cause of tuberculosis; it causes Buruli ulcer, a different mycobacterial disease. The other listed species are known causes of tuberculosis in humans."
+  },
+  {
+    "id": 40,
+    "question": "The following are first-line anti-tuberculosis drugs except:",
+    "options": [
+      "Isoniazid",
+      "Thiacetazone",
+      "Rifampicin",
+      "Pyrazinamide",
+      "Ethambutol"
+    ],
+    "answer": ["Thiacetazone"],
+    "explanation": "Thiacetazone is not a first-line anti-tuberculosis drug. The first-line drugs include Isoniazid, Rifampicin, Pyrazinamide, and Ethambutol. Thiacetazone is sometimes used as a second-line drug."
+  },
+
+  {
+    "id": 41,
+    "question": "Which of the following options about leprosy is incorrect?",
+    "options": [
+      "It is also called Hansen's disease",
+      "Tuberculous leprosy is curable with rifampicin and Dapsone therapy within 3 months",
+      "Leprosy bacilli preferably infect the cooler parts of the body",
+      "Lepers are better taken care of in leprosarium",
+      "The predominant inflammatory cells in the skin lesions in tuberculous leprosy are lymphocytes while in lepromatous leprosy they are macrophages."
+    ],
+    "answer": [
+      "The predominant inflammatory cells in the skin lesions in tuberculous leprosy are lymphocytes while in lepromatous leprosy they are macrophages."
+    ],
+    "explanation": "Leprosy, also known as Hansen's disease, is a chronic infectious disease caused by Mycobacterium leprae. Tuberculoid leprosy is curable with rifampicin and Dapsone therapy within 3 months. Leprosy bacilli tend to infect cooler parts of the body. Leprosy patients can be cared for in leprosy hospitals (leprosariums) but are not necessarily 'better taken care of' there. The predominant inflammatory cells in tuberculous leprosy are lymphocytes, while in lepromatous leprosy, they are macrophages."
+  },
+  {
+    "id": 42,
+    "question": "Human papillomavirus",
+    "options": [
+      "Is an enveloped virus",
+      "Is an RNA virus",
+      "Replicates in the cytoplasm of infected cells",
+      "Has oncogenic potential",
+      "None of the above"
+    ],
+    "answer": ["Has oncogenic potential"],
+    "explanation": "Human papillomavirus (HPV) is a non-enveloped DNA virus that replicates in the nucleus of infected cells. It is known to have oncogenic potential and is associated with various cancers, including cervical cancer."
+  },
+  {
+    "id": 43,
+    "question": "Ebola virus disease",
+    "options": [
+      "Is caused by a member of the Flaviviridae",
+      "Is caused by a DNA virus",
+      "Is caused by an enveloped virus",
+      "Is arthropod-borne",
+      "None of the above"
+    ],
+    "answer": ["Is caused by an enveloped virus"],
+    "explanation": "Ebola virus disease is caused by an enveloped virus belonging to the Filoviridae family. It is not caused by a member of the Flaviviridae, a DNA virus, or an arthropod-borne virus."
+  },
+  {
+    "id": 44,
+    "question": "Which of these is incorrect about Rabies virus and rabies infection?",
+    "options": [
+      "The virus is transmitted by bite or scratch of rabid animal",
+      "The virus does not replicated in the muscle and connective tissue at the portal of entry",
+      "The virus replicates in the nerves cells through which the virus wanders into the CNS",
+      "The virus disseminates into the cornea, kidneys and salivary glands",
+      "Prophylaxis includes both passive and active immunization"
+    ],
+    "answer": [
+      "The virus does not replicated in the muscle and connective tissue at the portal of entry"
+    ],
+    "explanation": "Ebola virus disease is caused by an enveloped virus belonging to the Filoviridae family. It is not caused by a member of the Flaviviridae, a DNA virus, or an arthropod-borne virus."
+  },
+  {
+    "id": 45,
+    "question": "Concerning rabies",
+    "options": [
+      "Finding intranuclear inclusion bodies is pathognomonic and diagnostic",
+      "Has a short incubation period of 1-3 days",
+      "Antiviral drugs are the mainstay of treatment",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": ["None of the above"],
+    "explanation": "Rabies is not characterized by finding intranuclear inclusion bodies, and the diagnosis is not based on this finding. The incubation period of rabies is typically longer, ranging from days to years. There are no effective antiviral drugs for rabies, and treatment involves post-exposure prophylaxis with rabies vaccine."
+  },
+  {
+    "id": 46,
+    "question": "Concerning aspergillosis, which of the following statements is correct?",
+    "options": [
+      "Invasive disease may complicate viral pneumonias like COVID-19 and influenza",
+      "It is an endemic mycosis",
+      "Occurs exclusively in immunocompromised persons",
+      "May be diagnosed by measuring peptidoglycan in serum",
+      "May cause allergic disease characterized by type III hypersensitivity reactions"
+    ],
+    "answer": [
+      "Invasive disease may complicate viral pneumonias like COVID-19 and influenza"
+    ],
+    "explanation": "Aspergillosis can cause invasive disease in immunocompromised individuals, but it can also cause allergic disease, such as allergic bronchopulmonary aspergillosis (ABPA), characterized by type III hypersensitivity reactions. It is not exclusively an endemic mycosis and can occur in various environments. Peptidoglycan is not a component of Aspergillus and is not used for diagnosis."
+  },
+  {
+    "id": 47,
+    "question": "A 35-year-old man is successfully treated for tuberculosis with complete resolution of symptoms. A year later, he develops fever, cough, and hemoptysis. A chest x-ray reveals the presence of a fungal ball in a cavity, and a diagnosis of aspergilloma is made. Which of the following is correct?",
+    "options": [
+      "Sputum microscopy may show fungi with broad aseptate hyphae",
+      "The patient should repeat anti-Koch's therapy despite negative Ziehl-Neelsen smear and Gene Xpert test for Mycobacterium tuberculosis",
+      "The patient will require long-term therapy with fluconazole",
+      "Surgical resection is not an option and is strongly contraindicated.",
+      "The patient will likely have elevated Aspergillus IgG antibodies"
+    ],
+    "answer": [
+      "The patient will likely have elevated Aspergillus IgG antibodies"
+    ],
+    "explanation": "In a case of aspergilloma following tuberculosis, sputum microscopy may show fungi with broad aseptate hyphae characteristic of Aspergillus species. Repeat anti-tubercular therapy is not indicated if the patient has completed a full course and shows no evidence of active tuberculosis. Long-term antifungal therapy or surgical resection may be considered based on the clinical scenario."
+  },
+  {
+    "id": 48,
+    "question": "Which of these is correct about the clinical presentation and management of influenza?",
+    "options": [
+      "Uncomplicated disease presents as viral pneumonia",
+      "Is effectively treated with protease inhibitors",
+      "Haemagglutinin inhibitor is the drug of choice",
+      "Responds well to treatment with reverse transcriptase inhibitors",
+      "Symptomatic relief of fever with aspirin is contraindicated in children"
+    ],
+    "answer": [
+      "Symptomatic relief of fever with aspirin is contraindicated in children"
+    ],
+    "explanation": "Uncomplicated influenza typically presents with symptoms such as fever, cough, sore throat, muscle aches, and fatigue. While antiviral drugs like neuraminidase inhibitors (e.g., oseltamivir) are used for treatment, they are not protease inhibitors. Haemagglutinin inhibitors are not the primary treatment for influenza. Aspirin is contraindicated in children due to the risk of Reye's syndrome."
+  },
+  {
+    "id": 49,
+    "question": "The following statements are true about genetic change in Influenza A virus",
+    "options": [
+      "Point mutations are responsible for antigenic shift",
+      "Antigenic shift is facilitated by the segmented nature of the virus",
+      "Annual vaccination addresses the issue of antigenic shift",
+      "Pandemics arise from the virus undergoing antigenic drift",
+      "None of the above"
+    ],
+    "answer": ["Annual vaccination addresses the issue of antigenic shift"],
+    "explanation": "Antigenic shift in influenza A virus is caused by reassortment of gene segments between different influenza viruses, not point mutations. The segmented nature of the virus allows for this reassortment. Annual vaccination aims to address antigenic drift, not shift, by updating the vaccine strains to match circulating strains. Pandemics can arise from antigenic shift, not drift."
+  },
+  {
+    "id": 50,
+    "question": "Which of these is true of adenoviruses?",
+    "options": [
+      "Major target organ is the liver",
+      "Fecal-oral route of transmission is common",
+      "Only 3 serotypes cause disease in man",
+      "An oral live vaccine and injectable killed vaccine are routinely used to prevent disease",
+      "Meningitis is a common manifestation"
+    ],
+    "answer": ["Fecal-oral route of transmission is common"],
+    "explanation": "Adenoviruses can infect various organs, not specifically the liver. They are commonly transmitted through respiratory droplets, not the fecal-oral route. There are many serotypes of adenoviruses that can cause disease in humans, not just three. Vaccines for adenoviruses are available, but they are not routinely used and vary in formulation based on the serotype."
+  }
+]

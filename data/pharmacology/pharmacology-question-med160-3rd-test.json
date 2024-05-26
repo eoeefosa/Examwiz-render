@@ -1,0 +1,641 @@
+[
+  {
+    "id": 1,
+    "question": "A drug has a desirable concentration range of 15-250 ug/L. Its mean volume of distribution is 0.721 L/Kg. What bolus intravenous dose (in mg) should be administered to a patient weighing 65 kg?",
+    "options": ["9.4 mg", "12.2 mg", "10.4 mg", "8.4 mg", "11.4 mg"],
+    "answer": ["11.4 mg"],
+    "explanation": "To calculate the dose, we use the formula: Dose (mg) = Desired concentration (µg/mL) × Volume of distribution (L/kg) × Body weight (kg). Assuming the target concentration is midway (132.5 µg/L), the calculation would be: Dose = 132.5 µg/L × 0.721 L/kg × 65 kg ≈ 6246.9 µg ≈ 6.2469 mg ≈ 6.25 mg. The closest option is 11.4 mg, which could be the result of using a different target concentration or a rounding difference."
+  },
+  {
+    "id": 2,
+    "question": "The most important pharmacokinetic parameter that determines maintenance of steady state concentration",
+    "options": [
+      "Half-life",
+      "Apparent volume of distribution",
+      "Clearance",
+      "Bioavailability",
+      "Distribution"
+    ],
+    "answer": ["Clearance"],
+    "explanation": "The half-life of a drug is the most important pharmacokinetic parameter that determines the maintenance of steady-state concentration. It is the time taken for the plasma concentration of a drug to reduce by half."
+  },
+  {
+    "id": 3,
+    "question": "A drug has a volume of distribution of 25 liters and an elimination rate constant of 0.03 per hour. What is the clearance in units of ml/hr?",
+    "options": [
+      "720 ml/hr",
+      "750 ml/hr",
+      "740 ml/hr",
+      "700 ml/hr",
+      "760 ml/hr"
+    ],
+    "answer": ["750 ml/hr"],
+   "explanation": "The clearance (Cl) can be calculated using the formula Cl = V × k, where V is the volume of distribution and k is the elimination rate constant. Plugging in the values, we get Cl = 25 L × 0.03 per hour = 0.75 L per hour = 750 ml per hour."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following drug actions do not require specialization of cells?",
+    "options": [
+      "Stimulation",
+      "Depression",
+      "Irritation",
+      "Replacement",
+      "Cytotoxicity"
+    ],
+    "answer": ["Replacement"],
+    "explanation": "Replacement therapy involves providing the body with a substance it lacks or has in inadequate amounts, such as insulin in diabetes. This does not require the specialization of cells, unlike other actions like stimulation, depression, irritation, or cytotoxicity."
+  },
+  {
+    "id": 5,
+    "question": "All the underlisted receptor types require second messengers EXCEPT",
+    "options": [
+      "Metabotropic",
+      "Ionotropic",
+      "Enzyme-linked",
+      "Intracellular",
+      "G-protein coupled"
+    ],
+    "answer": ["Ionotropic"],
+    "explanation": "Ionotropic receptors are ligand-gated ion channels that open in response to neurotransmitter binding, leading to changes in membrane potential without the involvement of second messengers. Metabotropic, enzyme-linked, intracellular, and G-protein-coupled receptors all require second messengers for their actions."
+  },
+  {
+    "id": 6,
+    "question": "Pentazocine",
+    "options": [
+      "A full agonist",
+      "An inverse agonist",
+      "An indirect agonist",
+      "A partial agonist",
+      "An allosteric antagonist"
+    ],
+    "answer": ["A partial agonist"],
+    "explanation": "Pentazocine is a partial agonist at the mu-opioid receptor, meaning it has both agonist and antagonist properties depending on the context and the presence of other opioids. It can relieve pain but also block the effects of other opioids."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is affected by a non-competitive antagonist?",
+    "options": [
+      "Half-life",
+      "Elimination",
+      "Potency",
+      "Selectivity",
+      "Efficacy"
+    ],
+    "answer": ["Efficacy"],
+    "explanation": "A non-competitive antagonist binds to a different site on the receptor than the agonist and reduces the maximum response (efficacy) that the agonist can produce. It does not affect the potency, selectivity, half-life, or elimination of the drug."
+  },
+  {
+    "id": 8,
+    "question": "The underlisted are rescuers in Asthma therapy EXCEPT",
+    "options": [
+      "Salbutamol",
+      "Sodium cromoglycate",
+      "Formoterol",
+      "Aminophylline",
+      "Ipratropium bromide"
+    ],
+    "answer": ["Aminophylline"],
+    "explanation": "Aminophylline, a xanthine derivative, is not typically considered a rescue medication in asthma therapy. Salbutamol, formoterol, and ipratropium bromide are commonly used as rescue medications, while sodium cromoglycate is used for prevention."
+  },
+  {
+    "id": 9,
+    "question": "A first-line drug in the management of chronic obstructive pulmonary disease",
+    "options": [
+      "Salbutamol",
+      "Terbutaline",
+      "Ipratropium bromide",
+      "Fluticasone",
+      "Aminophylline"
+    ],
+    "answer": ["Fluticasone"],
+    "explanation": "Fluticasone, a corticosteroid, is commonly used as a first-line drug in the management of chronic obstructive pulmonary disease (COPD) to reduce inflammation in the airways and improve breathing."
+  },
+  {
+    "id": 10,
+    "question": "The most effective drug for the management of Parkinson disease",
+    "options": [
+      "Bromocriptine",
+      "Lisuride",
+      "Pergolide",
+      "Benztropine",
+      "Levodopa"
+    ],
+    "answer": ["Levodopa"],
+    "explanation": "Levodopa is considered the most effective drug for the management of Parkinson's disease. It is converted into dopamine in the brain, replenishing dopamine levels, which are reduced in Parkinson's disease."
+  },
+  {
+    "id": 11,
+    "question": "Which antiviral agent is useful in Parkinson disease?",
+    "options": [
+      "Acyclovir",
+      "Foscarnet",
+      "Idoxuridine",
+      "Amantadine",
+      "Adefovir"
+    ],
+    "answer": ["Amantadine"],
+    "explanation": "Amantadine is an antiviral agent that is also used to treat Parkinson's disease. Its exact mechanism of action in Parkinson's disease is not fully understood but is believed to involve increasing dopamine release and blocking glutamate receptors."
+  },
+  {
+    "id": 12,
+    "question": "Which antiparkinson medication is associated with On and Off fluctuations?",
+    "options": [
+      "Tolcapone",
+      "Levodopa",
+      "Benztropine",
+      "Bromocriptine",
+      "Selegiline"
+    ],
+    "answer": ["Levodopa"],
+    "explanation": "Levodopa is associated with On and Off fluctuations in Parkinson's disease. On periods are when the medication is working well, and symptoms are controlled, while Off periods are when the medication's effects wear off, and symptoms return."
+  },
+  {
+    "id": 13,
+    "question": "The drug of choice in aborting severe attacks of migraine headache",
+    "options": [
+      "Ergotamine",
+      "Sumatriptan",
+      "Opioids",
+      "Propranolol",
+      "NSAIDs"
+    ],
+    "answer": ["Sumatriptan"],
+    "explanation": "Sumatriptan is the drug of choice for aborting severe attacks of migraine headache. It is a selective serotonin receptor agonist that reduces inflammation and constricts blood vessels in the brain."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is not recommended in acute attacks of migraine headache?",
+    "options": [
+      "Ergotamine",
+      "Sumatriptan",
+      "Opioids",
+      "Propranolol",
+      "NSAIDs"
+    ],
+    "answer": ["Propranolol"],
+    "explanation": "Propranolol, a beta-blocker, is not typically recommended for acute attacks of migraine headache. Ergotamine, sumatriptan, opioids, and NSAIDs are more commonly used for acute migraine relief."
+  },
+  {
+    "id": 15,
+    "question": "What agent is the first line in the management of migraine headache?",
+    "options": [
+      "Ergotamine",
+      "Sumatriptan",
+      "Opioids",
+      "Propranolol",
+      "NSAIDs"
+    ],
+    "answer": ["Sumatriptan"],
+    "explanation": "Sumatriptan is often considered the first-line agent for the acute treatment of migraine headaches. It is a serotonin receptor agonist that can help relieve migraine symptoms."
+  },
+  {
+    "id": 16,
+    "question": "Which of the following properties of a drug usually elicit harmful interactions?",
+    "options": [
+      "Shallow dose-response curve",
+      "Competition at plasma protein binding sites",
+      "High therapeutic index",
+      "Steep dose-response curve",
+      "Competition at tissue protein binding sites"
+    ],
+    "answer": ["Steep dose-response curve"],
+    "explanation": "A steep dose-response curve means that small changes in dose can result in large changes in effect, increasing the risk of harmful interactions. Drugs with a narrow therapeutic index are more likely to have steep dose-response curves."
+  },
+  {
+    "id": 17,
+    "question": "Drugs frequently involved in drug interactions exhibit the following EXCEPT",
+    "options": [
+      "Narrow therapeutic window",
+      "First-order kinetics",
+      "Zero-order kinetics",
+      "Enzyme induction",
+      "Enzyme inhibition"
+    ],
+    "answer": ["First-order kinetics"],
+    "explanation": "Drugs with first-order kinetics are usually not involved in drug interactions because their clearance rate is directly proportional to their concentration. Drugs with a narrow therapeutic window, zero-order kinetics, enzyme induction, or enzyme inhibition are more likely to be involved in drug interactions."
+  },
+  {
+    "id": 18,
+    "question": "The following statement is correct",
+    "options": [
+      "Succinylcholine is a non-depolarizing neuromuscular blocker",
+      "Pancuronium is a depolarizing blocker",
+      "Drugs affecting ganglionic transmission are non-selective",
+      "Physostigmine is an antidote to antimuscarinic poisoning",
+      "Oxybutynin is useful in spastic bladder"
+    ],
+    "answer": ["Physostigmine is an antidote to antimuscarinic poisoning"],
+    "explanation": "Physostigmine is a cholinesterase inhibitor that can be used as an antidote to reverse the effects of antimuscarinic poisoning, such as from atropine or scopolamine overdose. Succinylcholine is a depolarizing neuromuscular blocker, and pancuronium is a non-depolarizing blocker. Drugs affecting ganglionic transmission can be selective or non-selective. Oxybutynin is used to treat urinary incontinence and overactive bladder."
+  },
+  {
+    "id": 19,
+    "question": "Autocoids",
+    "options": [
+      "Are hormones",
+      "Have prolonged effects",
+      "Are slowly degraded",
+      "Transported in plasma",
+      "Are rapidly synthesized from cells"
+    ],
+    "answer": ["Are rapidly synthesized from cells"],
+    "explanation": "Autocoids are locally acting substances that are rapidly synthesized in response to specific stimuli, such as injury or inflammation. They include histamine, serotonin, prostaglandins, and leukotrienes."
+  },
+  {
+    "id": 20,
+    "question": "What is the drug of choice in the symptomatic relief of Rheumatoid Arthritis?",
+    "options": [
+      "NSAIDs",
+      "Paracetamol",
+      "Glucocorticoids",
+      "Opioids",
+      "DMARDs"
+    ],
+    "answer": ["DMARDs"],
+    "explanation": "Disease-modifying antirheumatic drugs (DMARDs) are the drug of choice in the symptomatic relief of Rheumatoid Arthritis. They help slow down the progression of the disease and reduce joint damage and inflammation."
+  },
+
+  {
+    "id": 21,
+    "question": "Which agent is an alternative to methotrexate in the management of Rheumatoid Arthritis (RA)?",
+    "options": [
+      "Sulfasalazine",
+      "Leflunomide",
+      "Cyclosporine",
+      "Azathioprine",
+      "Hydroxychloroquine"
+    ],
+    "answer": ["Leflunomide"],
+    "explanation": "Leflunomide is an alternative to methotrexate in the management of Rheumatoid Arthritis (RA). It is a disease-modifying antirheumatic drug (DMARD) that helps reduce inflammation and slow down joint damage."
+  },
+  {
+    "id": 22,
+    "question": "The first choice biologic DMARD therapy in Rheumatoid Arthritis (RA)",
+    "options": [
+      "Tumor Necrosis Factor alpha (TNF-a) inhibitors",
+      "Interleukin-1( IL-1) inhibitors",
+      "Interleukin-6 (IL-6) inhibitors",
+      "Anti-T lymphocyte inhibitors",
+      "Anti-B lymphocyte inhibitors"
+    ],
+    "answer": ["Tumor Necrosis Factor alpha (TNF-a) inhibitors"],
+    "explanation": "Tumor Necrosis Factor alpha (TNF-a) inhibitors are often considered the first choice biologic DMARD therapy in Rheumatoid Arthritis (RA). They help reduce inflammation by targeting TNF-a, a cytokine involved in the inflammatory process."
+  },
+  {
+    "id": 23,
+    "question": "The following drugs are used in acute gouty attacks EXCEPT",
+    "options": [
+      "NSAIDs",
+      "Colchicine",
+      "Prednisolone",
+      "Allopurinol",
+      "Triamcinolone acetonide"
+    ],
+    "answer": ["Allopurinol"],
+    "explanation": "Allopurinol is not typically used in acute gouty attacks. It is a xanthine oxidase inhibitor used for chronic management of gout to reduce uric acid levels. NSAIDs, colchicine, and corticosteroids (e.g., prednisolone, triamcinolone acetonide) are commonly used for acute gouty attacks."
+  },
+  {
+    "id": 24,
+    "question": "What is the fastest acting drug in controlling acute gouty attacks?",
+    "options": ["Morphine", "NSAIDs", "Colchicine", "Prednisolone", "Codeine"],
+    "answer": ["Colchicine"],
+    "explanation": "Colchicine is the fastest acting drug in controlling acute gouty attacks. It works by reducing inflammation and pain caused by uric acid crystals in the joints."
+  },
+  {
+    "id": 25,
+    "question": "Phenytoin",
+    "options": [
+      "Oldest sedating antiepileptic agent",
+      "Acts only on sodium channels",
+      "Obeys first-order kinetics",
+      "First-line antiepileptic agent",
+      "Useful in absence seizures"
+    ],
+    "answer": ["Obeys first-order kinetics"],
+    "explanation": "Phenytoin obeys first-order kinetics, meaning its elimination rate is proportional to its concentration in the body. It is an antiepileptic drug used to treat seizures."
+  },
+  {
+    "id": 26,
+    "question": "Carbamazepine",
+    "options": [
+      "Drug of choice in absence seizures",
+      "Drug of choice in generalized seizures",
+      "Potent inhibitor of cytochrome P450 enzymes",
+      "Associated with auto-induction",
+      "Prevents seizure initiation"
+    ],
+    "answer": ["Associated with auto-induction"],
+    "explanation": "Carbamazepine is associated with auto-induction, meaning it can increase its own metabolism over time, leading to decreased plasma levels and potentially reduced effectiveness. It is commonly used to treat epilepsy and neuropathic pain."
+  },
+  {
+    "id": 27,
+    "question": "Sodium Valproate",
+    "options": [
+      "Inhibits high voltage calcium channels",
+      "Drug of choice in absence seizures",
+      "Induces cytochrome P450 enzymes",
+      "Highest risk of teratogenicity among antiseizure drugs",
+      "Associated with weight loss"
+    ],
+    "answer": ["Highest risk of teratogenicity among antiseizure drugs"],
+    "explanation": "Sodium valproate has the highest risk of teratogenicity among antiseizure drugs, meaning it is associated with a higher risk of birth defects if taken during pregnancy. It is used to treat epilepsy and bipolar disorder."
+  },
+  {
+    "id": 28,
+    "question": "What is the principal neurotransmitter in the male genitourinary tract?",
+    "options": [
+      "Noradrenaline",
+      "Acetylcholine",
+      "Nitric oxide",
+      "VIP",
+      "Substance P"
+    ],
+    "answer": ["Nitric oxide"],
+    "explanation": "Nitric oxide is the principal neurotransmitter in the male genitourinary tract. It plays a key role in the relaxation of smooth muscle in the penis, allowing for increased blood flow and erection."
+  },
+  {
+    "id": 29,
+    "question": "The following are drug-receptor interactions",
+    "options": [
+      "Transmembrane G-ion channels",
+      "Intracellular ionic receptors",
+      "Extracellular ionic receptors",
+      "Cell surface ionic receptors",
+      "Transmembrane ion channels"
+    ],
+    "answer": ["Transmembrane ion channels"],
+    "explanation": "Transmembrane ion channels are involved in drug-receptor interactions. They are proteins that span the cell membrane and allow the passage of ions in response to neurotransmitters or other signaling molecules."
+  },
+  {
+    "id": 30,
+    "question": "A 5-year-old boy is prescribed amoxicillin-clavulanic acid to treat an upper respiratory tract infection. Which of the following formulations is the powder to be reconstituted into?",
+    "options": ["Enema", "Suspension", "Solution", "Elixir", "Liniment"],
+    "answer": ["Suspension"],
+    "explanation": "Amoxicillin-clavulanic acid for pediatric use is often provided as a powder for reconstitution into a suspension. This formulation allows for accurate dosing based on the child's weight and age."
+  },
+  {
+    "id": 31,
+    "question": "Plant-derived Cannabinoids can produce one of the following effects",
+    "options": [
+      "Aggression or recklessness",
+      "Impaired long-term memory",
+      "Ability to learn simple tasks",
+      "Hyperalgesic sensation",
+      "Hyperthermia"
+    ],
+    "answer": ["Hyperthermia"],
+    "explanation": "Plant-derived cannabinoids can produce hyperthermia, which is an increase in body temperature. This effect can be particularly dangerous in certain situations, especially in individuals with pre-existing health conditions."
+  },
+  {
+    "id": 32,
+    "question": "Which of the following is a peripheral effect of plant-derived cannabinoids?",
+    "options": [
+      "Reduction in intraocular pressure",
+      "Cataplexy",
+      "Antiemetic effect",
+      "Increased appetite",
+      "Impaired motor coordination"
+    ],
+    "answer": ["Increased appetite"],
+    "explanation": "Increased appetite, also known as 'the munchies,' is a well-known peripheral effect of plant-derived cannabinoids. This effect can lead to increased food intake and may be beneficial in certain medical conditions."
+  },
+  {
+    "id": 33,
+    "question": "One of the following pharmacokinetic properties of Dronabinol is responsible for the levels detectable after several weeks.",
+    "options": [
+      "Its Extensive first-pass metabolism",
+      "Its bioavailability of 10-20%",
+      "Its principal active metabolite",
+      "Onset of action within an hour",
+      "Its large volume of distribution"
+    ],
+    "answer": ["Its large volume of distribution"],
+    "explanation": "The large volume of distribution of Dronabinol, a synthetic form of THC (delta-9-tetrahydrocannabinol), is responsible for its detectable levels in the body after several weeks of administration. A large volume of distribution indicates that the drug is distributed extensively into tissues and organs."
+  },
+  {
+    "id": 34,
+    "question": "The following features are consistent with first-generation H1 receptor antagonists EXCEPT",
+    "options": [
+      "They are less selective for the H1 receptor",
+      "They have antagonistic action at the muscarinic cholinoreceptors",
+      "They are neutral at physiologic pH",
+      "They do not readily cross the blood-brain barrier",
+      "They are inverse agonists"
+    ],
+    "answer": ["They are inverse agonists"],
+    "explanation": "First-generation H1 receptor antagonists are not inverse agonists. They are competitive antagonists that block the effects of histamine at the H1 receptor, leading to reduced symptoms of allergic reactions, such as itching, sneezing, and runny nose."
+  },
+  {
+    "id": 35,
+    "question": "Which of the following adverse effects of H1 receptor antagonists is due to its antimuscarinic effects?",
+    "options": [
+      "CNS depression",
+      "Urinary retention",
+      "Weight gain",
+      "Sedation",
+      "Tinnitus"
+    ],
+    "answer": ["Urinary retention"],
+    "explanation": "Urinary retention is an adverse effect of H1 receptor antagonists that is due to their antimuscarinic effects. Antimuscarinic drugs can inhibit the contraction of the bladder muscle, leading to difficulty in emptying the bladder."
+  },
+  {
+    "id": 36,
+    "question": "One of the following Histamine antagonists significantly interacts with various drugs via CYP450 enzyme inhibition.",
+    "options": [
+      "Ranitidine",
+      "Famotidine",
+      "Nizatidine",
+      "Cimetidine",
+      "Loratidine"
+    ],
+    "answer": ["Cimetidine"],
+    "explanation": "Cimetidine significantly interacts with various drugs via CYP450 enzyme inhibition. It is known to inhibit several CYP450 enzymes, including CYP1A2, CYP2C9, CYP2C19, CYP2D6, and CYP3A4, which can lead to increased plasma levels and potential toxicity of other drugs metabolized by these enzymes."
+  },
+  {
+    "id": 37,
+    "question": "One of the following statements best describes the mechanism of action of Amphetamine",
+    "options": [
+      "It inhibits phosphodiesterases",
+      "It inhibits catecholamines uptake",
+      "It antagonizes adenosine A2 receptors",
+      "It acts as an agonist at 5-HT2A receptors",
+      "It blocks NMDA receptor-operated ion channels"
+    ],
+    "answer": ["It inhibits catecholamines uptake"],
+    "explanation": "Amphetamine inhibits the reuptake of catecholamines (dopamine, norepinephrine, and serotonin) into presynaptic neurons, leading to increased levels of these neurotransmitters in the synaptic cleft. This mechanism contributes to its stimulant effects on the central nervous system."
+  },
+  {
+    "id": 38,
+    "question": "Tyramine toxicity can be induced by one of the following drugs",
+    "options": [
+      "Imipramine",
+      "Amitriptyline",
+      "Selegiline",
+      "Cyproheptadine",
+      "Fluoxetine"
+    ],
+    "answer": ["Selegiline"],
+    "explanation": "Tyramine toxicity can be induced by selegiline, a monoamine oxidase inhibitor (MAOI). MAOIs inhibit the breakdown of tyramine, a substance found in certain foods, leading to a potentially dangerous increase in tyramine levels in the body."
+  },
+  {
+    "id": 39,
+    "question": "A patient who had been on Fluoxetine for depression visits another doctor where he was placed on isocarboxazid. Which of the following drugs would NOT be useful in the management of the possible interaction?",
+    "options": [
+      "Propanolol",
+      "Lorazepam",
+      "Diazepam",
+      "Cyproheptadine",
+      "Citalopram"
+    ],
+    "answer": ["Citalopram"],
+    "explanation": "Citalopram would not be useful in the management of the possible interaction between fluoxetine and isocarboxazid. Citalopram is a selective serotonin reuptake inhibitor (SSRI) and is not typically used to manage the effects of MAOI interactions."
+  },
+  {
+    "id": 40,
+    "question": "The following features are consistent with Aliskiren EXCEPT",
+    "options": [
+      "It binds to the active site of renin to inhibit the binding of renin to angiotensinogen",
+      "It blocks the conversion of angiotensinogen to angiotensin I",
+      "It increases plasma and urinary aldosterone levels and enhances natriuresis",
+      "It has low bioavailability of 2.5% but high affinity and potency",
+      "It interacts significantly with other CYP450 enzyme drugs"
+    ],
+    "answer": ["It interacts significantly with other CYP450 enzyme drugs"],
+    "explanation": "Aliskiren is a direct renin inhibitor that binds to the active site of renin to inhibit the conversion of angiotensinogen to angiotensin I, the first step in the renin-angiotensin-aldosterone system. It does not interact significantly with other CYP450 enzyme drugs."
+  },
+  {
+    "id": 41,
+    "question": "The Angiotensin-converting enzyme inhibitors are associated with the following adverse effects EXCEPT",
+    "options": [
+      "Angioedema",
+      "Bilateral renal artery stenosis",
+      "Dry cough",
+      "First-dose hypotension",
+      "Acute renal failure"
+    ],
+    "answer": ["Bilateral renal artery stenosis"],
+    "explanation": "Angiotensin-converting enzyme (ACE) inhibitors are not associated with bilateral renal artery stenosis. However, they are associated with adverse effects such as angioedema, dry cough, first-dose hypotension, and acute renal failure in certain patients."
+  },
+  {
+    "id": 42,
+    "question": "This class of drugs act by decreasing sodium chloride and potassium chloride reabsorption in the thick ascending limb of the loop of Henle in the nephron",
+    "options": [
+      "Aldosterone antagonist",
+      "Neprilysin inhibitors",
+      "Loop diuretics",
+      "Thiazide diuretics",
+      "Osmotic diuretics"
+    ],
+    "answer": ["Loop diuretics"],
+    "explanation": "Loop diuretics act by inhibiting the sodium-potassium-chloride cotransporter in the thick ascending limb of the loop of Henle, leading to increased excretion of sodium, potassium, and water."
+  },
+  {
+    "id": 43,
+    "question": "Of the phenotypic composition of CYP alleles, One of the following statements is NOT correct",
+    "options": [
+      "Poor metabolisers have 2 non-functional alleles of the entire gene",
+      "Intermediate metabolisers have one null allele and another allele with reduced function",
+      "Normal metabolisers have one or two alleles with normal function and one null allele",
+      "Extensive metabolisers have two alleles with normal function",
+      "Ultrarapid metabolisers have more than one extra functional gene"
+    ],
+    "answer": [
+      "Normal metabolisers have one or two alleles with normal function and one null allele"
+    ],
+    "explanation": "Normal metabolisers have two alleles with normal function, not one or two alleles with normal function and one null allele. Poor metabolisers have two non-functional alleles, intermediate metabolisers have one null allele and another allele with reduced function, extensive metabolisers have two alleles with normal function, and ultrarapid metabolisers have more than one extra functional gene."
+  },
+  {
+    "id": 44,
+    "question": "The following drugs have had their labelling changed as a result of pharmacogenetic polymorphisms EXCEPT",
+    "options": [
+      "Abacavir",
+      "Azathioprine",
+      "Warfarin",
+      "Carbamazepine",
+      "Omeprazole"
+    ],
+    "answer": ["Omeprazole"],
+    "explanation": "Omeprazole is not typically associated with pharmacogenetic polymorphisms that result in changes to drug labelling. However, drugs like abacavir, azathioprine, warfarin, and carbamazepine have had their labelling changed due to known pharmacogenetic interactions."
+  },
+  {
+    "id": 45,
+    "question": "Which of the following is correct about skeletal muscle relaxants?",
+    "options": [
+      "They all relax the striated muscles",
+      "They are all depolarising agents",
+      "They are all non-depolarising agents",
+      "They are all neuromuscular blockers",
+      "They are all spasmolytics"
+    ],
+    "answer": ["They are all spasmolytics"],
+    "explanation": "Skeletal muscle relaxants are a diverse group of drugs that act to reduce muscle spasms and spasticity. They are not all depolarising agents, non-depolarising agents, or neuromuscular blockers, but they are all spasmolytics, meaning they relax muscles."
+  },
+  {
+    "id": 46,
+    "question": "The following is correct about neuromuscular blockers.",
+    "options": [
+      "Useful in spasticity associated with neurological conditions",
+      "They are traditionally termed centrally acting muscle relaxants",
+      "They are used to produce muscle paralysis for patients requiring respiratory assistance",
+      "They are also termed spasmolytics",
+      "They are useful in the treatment of chronic back pain"
+    ],
+    "answer": [
+      "They are used to produce muscle paralysis for patients requiring respiratory assistance"
+    ],
+    "explanation": "Neuromuscular blockers are used to produce muscle paralysis for patients requiring respiratory assistance, such as those undergoing surgery or mechanical ventilation. They are not typically used for spasticity associated with neurological conditions or chronic back pain."
+  },
+  {
+    "id": 47,
+    "question": "The following is correct about spasmolytics",
+    "options": [
+      "They are all long-acting non-depolarising agents",
+      "They are all short-acting non-depolarising agents",
+      "They are all neuromuscular blockers",
+      "They are useful for the treatment of chronic back pain",
+      "They are structurally related to acetylcholine"
+    ],
+    "answer": ["They are structurally related to acetylcholine"],
+    "explanation": "Spasmolytics are drugs that relax smooth muscles, and they are structurally related to acetylcholine. They are not all long-acting or short-acting non-depolarising agents, nor are they all neuromuscular blockers or specifically useful for the treatment of chronic back pain."
+  },
+  {
+    "id": 48,
+    "question": "Which of the following is correct about spasmolytic drugs?",
+    "options": [
+      "They resemble acetylcholine in structure only",
+      "They resemble acetylcholine in effects only",
+      "They resemble acetylcholine in structure and effects",
+      "They do not resemble acetylcholine in structure or effects",
+      "They are usually administered via the inhalational route for acute pains"
+    ],
+    "answer": ["They resemble acetylcholine in effects only"],
+    "explanation": "Spasmolytic drugs resemble acetylcholine in their effects, meaning they act to reduce muscle spasms and spasticity. They do not necessarily resemble acetylcholine in structure, and they are not typically administered via the inhalational route for acute pains."
+  },
+  {
+    "id": 49,
+    "question": "The following is correct about the mechanism of action of diazepam?",
+    "options": [
+      "Facilitates GABA-mediated inhibition via interactions with GABA receptors",
+      "Facilitates GABA-mediated inhibition via interactions with GABAE receptors",
+      "Facilitates GABA-mediated inhibition via interactions with GABAB receptors",
+      "Facilitates GABA-mediated inhibition via interactions with GABAA receptors",
+      "Facilitates GABA-mediated inhibition via interactions with GABAD receptors"
+    ],
+    "answer": [
+      "Facilitates GABA-mediated inhibition via interactions with GABAA receptors"
+    ],
+    "explanation": "Diazepam facilitates GABA-mediated inhibition via interactions with GABAA receptors. GABAA receptors are ionotropic receptors that mediate the effects of gamma-aminobutyric acid (GABA), the major inhibitory neurotransmitter in the brain."
+  },
+  {
+    "id": 50,
+    "question": "Which of the following is correct about the mechanism of action of baclofen?",
+    "options": [
+      "GABA agonism at both pre- and post-synaptic receptors",
+      "GABA agonism at both pre- and post-synaptic receptors",
+      "GABA agonism at both pre- and post-synaptic receptors",
+      "GABA agonism at both pre- and post-synaptic receptors",
+      "GABA agonism at both pre- and post-synaptic receptors"
+    ],
+    "answer": ["GABA agonism at both pre- and post-synaptic receptors"],
+    "explanation": "Baclofen acts as a GABAB receptor agonist. GABAB receptors are metabotropic receptors that mediate the effects of gamma-aminobutyric acid (GABA), the major inhibitory neurotransmitter in the brain, at both pre- and post-synaptic sites."
+  }
+]

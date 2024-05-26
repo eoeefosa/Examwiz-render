@@ -1,0 +1,618 @@
+{
+  "Questions": [
+    {
+      "id": 1,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 2,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 3,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 4,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 5,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 6,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 7,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 8,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 9,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 10,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 11,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 12,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 13,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 14,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 15,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 16,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 17,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 18,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 19,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 20,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 21,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 22,
+      "question": "The Brain can be imaged by the following Except",
+      "options": ["Artegiogram"],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 23,
+      "question": "which of the following is not a thalamic nuclei",
+      "options": [
+        "Nucleus centromediamus",
+        "Nucleus parafascicularis",
+        "Nucleus medialis",
+        "Nucleus reticularis",
+        "Olivary nucleus"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 24,
+      "question": "Which of the following nucleus is matter found in the Hypothalamus not the midbrain",
+      "options": [
+        "Nucleus of the mamillary body",
+        "Red Nucleus",
+        "Paraventricular nucleus",
+        "Anterior Hypothalamic nucleus",
+        "Emboliform nucleus"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 25,
+      "question": "Which of the following statements is correct",
+      "options": [
+        "The septum pellucidum separated the lateral ventricles",
+        "The fibers of the internal capsule are rarely affected in cerebrovascular accident",
+        "The Basal Ganglia are not involved in Co-ordination of movement",
+        "The outer surface of the Brain is made up of the white matter",
+        "The Grey matter of the Brain is made up of nerve fibers"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 26,
+      "question": "Which of the following is not part of the visual pathway",
+      "options": [
+        "Optic nerve",
+        "Optic chaisma",
+        "Optic tract",
+        "Optic Radiation",
+        "Olfactory tract"
+      ],
+      "answer": [false, false, false, false, true],
+      "explanation": "",
+      "topic": "neuroanatomy"
+    },
+    {
+      "id": 27,
+      "question": "Voluntary movements require the participation of all the following Except",
+      "options": [
+        "Precentral gyrus",
+        "Cerebellum",
+        "Extrapyramidal motor system",
+        "Lower motor neurons",
+        "Solar plexus"
+      ],
+      "answer": [false, false, false, false, true],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 28,
+      "question": "Upper motor Neurone fibres arise from",
+      "options": [
+        "Cells in the precentral gyrus",
+        "Cells in the Calcarine Sulcus",
+        "Cells in the Decussation of stilling",
+        "Cells in the lateral Geniculate body",
+        "Cells in the Genu of the corpus callosum"
+      ],
+      "answer": [false, false, false, false, false],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 29,
+      "question": "Disorders of the upper motor neuron causes all of the following except",
+      "options": [
+        "Weakness or paralysis of movements of part of one side of the body",
+        "Increased tone of spastic type",
+        "Increase in Amplitude of tendon reflexes",
+        "Loss of abdominal reflexes",
+        "Muscle Atrophy"
+      ],
+      "answer": [false, false, false, false, true],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 30,
+      "question": "Localised paralyses affecting one limb only are characteristic of lesions at the level of",
+      "options": [
+        "Cortex",
+        "Internal capsular",
+        "Brain stem",
+        "Spinal Cord",
+        "Thalamus"
+      ],
+      "answer": [false, false, false, false, false],
+      "explanation": "",
+      "topic": "neuroanatomy"
+    },
+    {
+      "id": 31,
+      "question": "Disease of the lower motor neurones results in the following signs Except",
+      "options": [
+        "Weakness or paralysis of muscles",
+        "flaccidity",
+        "Atrophy",
+        "Abdominal and plantar reflexes remain normal",
+        "Increased tone on passive movement"
+      ],
+      "answer": [false, false, false, false, true],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 32,
+      "question": "One of the following is not true about the Extrapyramidal System",
+      "options": [
+        "It Extends from the cortex to the medulla",
+        "Its influence on lower motor neuronse modifies voluntary motor activity",
+        "Interspersed in this lattice work of fibres are areas of grey matter",
+        "The Basal Ganglia are weel defined nuclear masses",
+        "Dysfunctions of the system does not affect movements"
+      ],
+      "answer": [false, false, false, false, true],
+      "explanation": "",
+      "topic": "neuroanatomy"
+    },
+    {
+      "id": 33,
+      "question": "Disease of the Extrapyramidal system can lead to all of the following Except",
+      "options": [
+        "Lead-pip rigidity",
+        "Cop-wheel rigidity",
+        "Focal Epilepsy",
+        "Tremor",
+        "choreiform movement"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 34,
+      "question": "The following movement is Extrapyramidal in origin",
+      "options": [
+        "Focal Epilepsy",
+        "Tics",
+        "Fasciculation",
+        "Dystoma",
+        "Fine tremor of anxiety neurosis"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 35,
+      "question": "Principal effect of disease of the cerebellum include all the following Except",
+      "options": [
+        "Muscular Hypotonia",
+        "Dysmetria",
+        "Dysdiadochokineses",
+        "Disturbance of posture and Gait",
+        "Schizophrenia"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 36,
+      "question": "which of these is not a primary component of the superficial sensations that arise from the skin",
+      "options": ["Touch", "Pain", "Warmth", "Cold", "Pressure"],
+      "answer": [false, false, false, false, true],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 37,
+      "question": "The following structure is not involved in the pain pathway",
+      "options": [
+        "Spinothalamic tract",
+        "medial leminiscus",
+        "Thalamus",
+        "Post central Gyrus",
+        "Optic chaisma"
+      ],
+      "answer": [false, false, false, false, true],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 38,
+      "question": "A lesion confined to the posterior column of the spinal cord will cause",
+      "options": [
+        "Loss of position and vibration sense on the contralateral side, sparing sensations of pain, touch, warmth and cold",
+        "Loss of sensations of pain, touch warmth and cold on the ipsilateral side sparing position and vibration sense on the contralateral side",
+        "Loss of position and vibration sense on the ipsilateral side without sparing the sensations of pain touch warmth and cold",
+        "Loss of position and vibration sense on the ipsilateral side sparing the sensations of pain, touch warmth and cold",
+        "Loss of postion and vibration sense on contralateral side only"
+      ],
+      "answer": [false, false, false, true, false],
+      "explanation": "A lesion confined to the posterior column of the spinal cord will cause loss of position and vibration sense on the ipsilateral side sparing the sensations of pain, touch, warmth and cold",
+      "topic": "neuroanatomy"
+    },
+    {
+      "id": 39,
+      "question": "A patient presents with Apathy, lack of Remorse, impared memory and intellect. which of the following areas of the brain is likely to be damaged",
+      "options": [
+        "Parietal lobe",
+        "Frontal lobe",
+        "Occipital lobe",
+        "Temporal lobe",
+        "Limbic system"
+      ],
+      "answer": [false, true, false, false, false],
+      "explanation": "",
+      "topic": "neuroanatomy"
+    },
+    {
+      "id": 40,
+      "question": "Anaesthesia is likely to depress",
+      "options": [
+        "Limbic system",
+        "Venticular system",
+        "Blood-brain barrier",
+        "Reticular Activating system",
+        "Visual pathway"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 41,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 42,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 43,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 44,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 45,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 46,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 47,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 48,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 49,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 50,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 51,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 52,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 53,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 54,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 55,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 56,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 57,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 58,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 59,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 60,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 61,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 62,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 63,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    },
+    {
+      "id": 64,
+      "question": "",
+      "options": [],
+      "answer": [],
+      "explanation": "",
+      "topic": ""
+    }
+  ]
+}

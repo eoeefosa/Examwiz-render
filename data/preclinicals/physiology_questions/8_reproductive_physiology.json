@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "question": "The primary sex organ in the male is the",
+    "options": [
+      "penis",
+      "scrotum",
+      "testes",
+      "all of these",
+      "none of the above"
+    ],
+    "answer": ["testes"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 2,
+    "question": "The production of spermatozoa is by a process known as",
+    "options": [
+      "spermatogenesis",
+      "spermiogenesis",
+      "steroidogenesis",
+      "oogenesis",
+      "spermatid"
+    ],
+    "answer": ["spermatogenesis"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 3,
+    "question": "The following are accessory reproductive cells except",
+    "options": [
+      "epidydymis",
+      "ductus deferens",
+      "ejaculatory duct",
+      "urethra",
+      "testes"
+    ],
+    "answer": ["testes"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 4,
+    "question": "The normal scrotal temperature for spermatogenesis is",
+    "options": ["25◦c", "27◦c", "35◦c", "37 ◦c", "39◦c"],
+    "answer": ["35◦c"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 5,
+    "question": "The blood testes barrier is provided byt the following",
+    "options": [
+      "seminiferous tubules",
+      "sertoli cells",
+      "epidydymis",
+      "testosterone",
+      "scrotum"
+    ],
+    "answer": ["sertoli cells"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 6,
+    "question": "In what part of the mature spermatozoa are lytic enzymes stored?",
+    "options": ["DNA", "nucleus", "acrosome", "mitochondria", "cytoplasm"],
+    "answer": ["acrosome"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 7,
+    "question": "Normal sperm count is between",
+    "options": [
+      "20,000 – 50,000",
+      "20 -50 million",
+      "50- 120 million",
+      "150 – 120 million",
+      "none of these"
+    ],
+    "answer": ["50- 120 million"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 8,
+    "question": "The following are component of seminal fluid except",
+    "options": [
+      "spermine",
+      "fructose",
+      "fibrinogen",
+      "glycogen",
+      "prostaglandin"
+    ],
+    "answer": ["glycogen"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 9,
+    "question": "The primary sex organ in the female is",
+    "options": ["vagina", "breast", "ovary", "uterus", "cervix"],
+    "answer": ["ovary"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 10,
+    "question": "Fertilization occurs normally in the",
+    "options": ["ovary", "uterine tube", "uterus", "cervix", "vagina"],
+    "answer": ["ovary"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is regarded as the hormone of pregnancy",
+    "options": [
+      "oestrogen",
+      "testosterone",
+      "progesterone",
+      "corpus luteum",
+      "oxytocin"
+    ],
+    "answer": ["progesterone"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 12,
+    "question": "The following are signs of ovolution except",
+    "options": [
+      "change is basal body temperature",
+      "mid-cycle pain",
+      "menstruation",
+      "cervical mucus discharge",
+      "breast tenderness"
+    ],
+    "answer": ["change is basal body temperature"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 13,
+    "question": "Oogenesis is the development of the",
+    "options": ["zygote", "embryo", "ovum", "ovary", "fetus"],
+    "answer": ["ovum"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 14,
+    "question": "Oestrogen is secreted by the following except",
+    "options": [
+      "corpus luteum",
+      "theca interna",
+      "granulose cells",
+      "all of these",
+      "none of these"
+    ],
+    "answer": ["none of these"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 15,
+    "question": "With respect to the ovary, the first two weeks of the menstrual cycle is referred to as",
+    "options": [
+      "menstrual phase",
+      "follicular phase",
+      "proliferative phase",
+      "luteal phase",
+      "secretory phase"
+    ],
+    "answer": ["menstrual phase"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 16,
+    "question": "The onset of menstruation is known as",
+    "options": ["puberty", "maturity", "menopause", "menarche", "period"],
+    "answer": ["menarche"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 17,
+    "question": "The duration of pregnancy in women from the last menstrual period is approximately",
+    "options": ["36 weeks", "38 weeks", "40 weeks", "42 weeks", "9 months"],
+    "answer": ["40 weeks"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 18,
+    "question": "When a sperm fertilizes an ovum it forms",
+    "options": ["morula", "blastocyst", "zygote", "embryo", "trophoblast"],
+    "answer": ["zygote"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 19,
+    "question": "Early pregnancy is detected by the presence of",
+    "options": [
+      "oestrogen",
+      "human chorionic gonadotropin",
+      "progesterone",
+      "human placenta lactogen",
+      "human placenta thyrotropin"
+    ],
+    "answer": ["human chorionic gonadotropin"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 20,
+    "question": "The following are placenta hormones except",
+    "options": [
+      "oxytocin",
+      "estrogen",
+      "progesterone",
+      "human chorionic gonadotropin",
+      "human placenta lactogen"
+    ],
+    "answer": ["oxytocin"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 21,
+    "question": "Child birth is known as",
+    "options": [
+      "pregnancy",
+      "expulsion",
+      "parturition",
+      "lactation",
+      "menopause"
+    ],
+    "answer": ["parturition"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 22,
+    "question": "Milk ejection reflex is inhibited by",
+    "options": ["prolactin", "oxytocin", "relaxin", "inhibin", "oestrogen"],
+    "answer": [""],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 23,
+    "question": "The average age for menopause is",
+    "options": [
+      "15-45 years",
+      "15-55 years",
+      "35 -45 years",
+      "45 – 55 years",
+      "55 – 65 years"
+    ],
+    "answer": [""],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 24,
+    "question": "In man chromosomes have the following pairs of autosomes",
+    "options": ["46", "44", "23", "22", "2"],
+    "answer": ["22"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  },
+  {
+    "id": 25,
+    "question": "The transmission of discrete traits from each parents is termed",
+    "options": [
+      "segregation",
+      "inheritance",
+      "phenotype",
+      "genotype",
+      "gender"
+    ],
+    "answer": ["inheritance"],
+    "explanation": "",
+    "topic": "Reproductive physiology"
+  }
+]

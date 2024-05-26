@@ -1,0 +1,468 @@
+[
+  {
+    "id": 1,
+    "question": "Concerning ER",
+    "options": [
+      "connection between nuclear membrane and nucleus",
+      "nuclear membrane and cell membrane",
+      "formed from compact structures",
+      "formed from tubular microsomal structures",
+      "B and D"
+    ],
+    "answer": ["B and D"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["cell physiology"]
+  },
+  {
+    "id": 2,
+    "question": "The following are examples of integral protein except",
+    "options": [
+      "cell adhesion protein",
+      "antigen",
+      "channel protein",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["cell physiology"]
+  },
+  {
+    "id": 3,
+    "question": "The process of engulfing solvents or fluid's is known as",
+    "options": ["phagocytosis", "pinocytosis", "osmosis", "diffusion"],
+    "answer": ["pinocytosis"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["cell physiology"]
+  },
+  {
+    "id": 4,
+    "question": "Which best describes homeostasis",
+    "options": [
+      "fluctuation with homeostatic range",
+      "maintenance of constant body temperature",
+      "dynamic equilibrium",
+      "changing environment",
+      "none of the above"
+    ],
+    "answer": ["dynamic equilibrium"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["cell physiology"]
+  },
+  {
+    "id": 5,
+    "question": "Transportation of a molecule across membrane with the help of protein is called",
+    "options": [
+      "simple diffusion",
+      "facilitated diffusion",
+      "carrier-mediated diffusion",
+      "active diffusion"
+    ],
+    "answer": ["facilitated diffusion"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["cell physiology"]
+  },
+  {
+    "id": 6,
+    "question": "Which system is least involved in homeostasis",
+    "options": ["integumentary", "reproductive", "CVS", "endocrine"],
+    "answer": ["reproductive"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["cell physiology"]
+  },
+  {
+    "id": 7,
+    "question": "A cell must expend energy to transport substances using",
+    "options": [
+      "cell membrane pumps",
+      "facilitated diffusion",
+      "ion channels",
+      "osmosis",
+      "simple diffusion"
+    ],
+    "answer": ["cell membrane pumps"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["cell physiology"]
+  },
+  {
+    "id": 8,
+    "question": "The two body system that regulate homeostasis are the",
+    "options": [
+      "CVS and endocrine",
+      "reproductive and endocrine",
+      "integumentary and nervous",
+      "nervous and endocrine"
+    ],
+    "answer": ["nervous and endocrine"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["cell physiology"]
+  },
+  {
+    "id": 9,
+    "question": "The following points about microfilament are true except",
+    "options": [
+      "they form cytoskeleton with microtubules",
+      "this provide support and shape",
+      "they form intracellular conducting channels",
+      "they are part of the cell"
+    ],
+    "answer": ["they form intracellular conducting channels"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["cell physiology"]
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is not true of the nuclear envelope",
+    "options": [
+      "The nuclear envelope is exactly like other cellular membranes",
+      "The nuclear envelope separates the genetic material from the cytoplasm",
+      "The nuclear envelope is a pair of concrete membranes",
+      "The nuclear envelope is studded with pores",
+      "all of the above"
+    ],
+    "answer": ["The nuclear envelope is a pair of concrete membranes"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["cell physiology"]
+  },
+  {
+    "id": 11,
+    "question": "Which of the following correctly lists the levels of organization from least complex to most complex",
+    "options": [
+      "cellular,tissue, chemical system, organ, organism",
+      "chemical, cellular, tissue, organ,system,organism",
+      "tissue, cellular,chemical, organ, system, organism",
+      "chemical, tissue, system , organ,organism"
+    ],
+    "answer": ["chemical, cellular, tissue, organ,system,organism"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["cell physiology"]
+  },
+  {
+    "id": 12,
+    "question": "Non-membrane bound organelle include the following except",
+    "options": ["ribosome", "centrioles", "cytoplasm", "cytoskeleton"],
+    "answer": ["cytoplasm"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["cell physiology"]
+  },
+  {
+    "id": 13,
+    "question": "Membrane bound organelle include the following except",
+    "options": ["mitochondria", "nucleus", "ribosome", "golgi apparatus"],
+    "answer": ["ribosome"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["cell physiology"]
+  },
+  {
+    "id": 14,
+    "question": "The cell organelle which consist of membranous saccules called cisternae is called",
+    "options": ["mitochondria", "peroxisomes", "lysosomes", "golgi apparatus"],
+    "answer": ["golgi apparatus"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["cell physiology"]
+  },
+  {
+    "id": 15,
+    "question": "The type of bulk transport that involves the transport of substances from high hydrostatic pressure to low hydrostatic pressure is",
+    "options": [
+      "phagocytosis",
+      "pinocytosis",
+      "filtration",
+      "vesicular transport"
+    ],
+    "answer": ["filtration"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["cell physiology"]
+  },
+  {
+    "id": 16,
+    "question": "The process by which macromolecules are absorbed into the cell interior is called",
+    "options": [
+      "phagocytosis",
+      "pinocytosis",
+      "filtration",
+      "facilitated diffusion"
+    ],
+    "answer": ["pinocytosis"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["cell physiology"]
+  },
+  {
+    "id": 17,
+    "question": "Which of these in the extracellular matrix does the cell membrane bind to?",
+    "options": [
+      "chondroitin sulfate",
+      "heparin sulfate",
+      "fibronectin",
+      "hyaluronic acid",
+      "none of the above"
+    ],
+    "answer": ["fibronectin"],
+    "explanation": "cell membrane bind fibronectin and laminin in the extracellular matrix",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["cell physiology"]
+  },
+  {
+    "id": 18,
+    "question": "Which of the cell organelle is used for the formation of basal bodies",
+    "options": ["lysosomes", "peroxisomes", "centrioles", "cytoskeleton"],
+    "answer": ["centrioles"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["cell physiology"]
+  },
+  {
+    "id": 19,
+    "question": "Which of the cell organelle contains membranous sacs called cristae",
+    "options": ["centriole", "golgi apparatus", "mitochondria", "peroxisomes"],
+    "answer": ["mitochondria"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["cell physiology"]
+  },
+  {
+    "id": 20,
+    "question": "Genetic information of nuclear DNA is transmitted to the site of protein synthesis by",
+    "options": ["rRNA", "mRNA", "tRNA", "polysomes"],
+    "answer": ["mRNA"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["cell physiology"]
+  },
+  {
+    "id": 21,
+    "question": "The following are features of sympathetic discharge reactions except",
+    "options": [
+      "muscle vasculature dilates",
+      "increase in GIT motility",
+      "increase in BMR",
+      "increase HR"
+    ],
+    "answer": ["increase in GIT motility"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["ANS"]
+  },
+  {
+    "id": 22,
+    "question": "Which of the following is not correct ?",
+    "options": [
+      "all preganglionic neuron secrete acetylcholine",
+      "all postganglionic parasympathetic neuron secrete acetylcholine",
+      "all postganglionic sympathetic neuron secrete noradrenaline",
+      "all postganglionic parasympathetic neuron are short",
+      "all preganglionic sympathetic neuron are short"
+    ],
+    "answer": ["all postganglionic sympathetic neuron secrete noradrenaline"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["ANS"]
+  },
+  {
+    "id": 23,
+    "question": "SLUDD responses will not include",
+    "options": ["lacrimation", "tachycardia", "salivation", "urination"],
+    "answer": ["tachycardia"],
+    "explanation": "SLUDGE:  Salivate, lacrimate, urinate, defecate, gastrointestinal effects, emesis (vomiting) and bradycardia",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["ANS"]
+  },
+  {
+    "id": 24,
+    "question": "The nerve cell contains the following except",
+    "options": [
+      "nissl granules",
+      "centrosome",
+      "mitochondria",
+      "golgi body",
+      "none of these"
+    ],
+    "answer": ["centrosome"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["ANS"]
+  },
+  {
+    "id": 25,
+    "question": "The white colour of the myelinated nerve fibre is produced by",
+    "options": [
+      "saltatory cells",
+      "secretory cells",
+      "myelin sheath",
+      "schwann cells",
+      "axon"
+    ],
+    "answer": ["myelin sheath"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["muscle physiology"]
+  },
+  {
+    "id": 26,
+    "question": "The ability of nerve fibre to transmit impulse from the area of stimulation to other area known as",
+    "options": [
+      "conductivity",
+      "action potential",
+      "salutatory conduction",
+      "summation",
+      "adaptation"
+    ],
+    "answer": ["conductivity"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["muscle physiology"]
+  },
+  {
+    "id": 27,
+    "question": "All of the following are true of skeletal muscles except",
+    "options": [
+      "they are voluntary",
+      "they are branched",
+      "they are striated",
+      "they are mononucleated",
+      "none of the above"
+    ],
+    "answer": ["they are mononucleated"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["muscle physiology"]
+  },
+  {
+    "id": 28,
+    "question": "All of the following are true of cardiac muscles except",
+    "options": [
+      "they are involuntary",
+      "they are unbranched",
+      "they are striated",
+      "they are mononucleated",
+      "none of the above"
+    ],
+    "answer": ["they are unbranched"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["muscle physiology"]
+  },
+  {
+    "id": 29,
+    "question": "All of the following are true of smooth muscles except",
+    "options": [
+      "they are spindle-shaped",
+      "they are unbranched",
+      "they lack cross striations",
+      "they are involuntary",
+      "none of these"
+    ],
+    "answer": ["none of these"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["muscle physiology"]
+  },
+  {
+    "id": 30,
+    "question": "The following are supplied by the autonomic nervous system except",
+    "options": [
+      "skeletal system",
+      "cardiac muscle",
+      "smooth muscle",
+      "all of these",
+      "none of these"
+    ],
+    "answer": ["skeletal system"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["muscle physiology"]
+  },
+  {
+    "id": 31,
+    "question": "Which of the following is not part of the actin filament?",
+    "options": [
+      "actin",
+      "myosin",
+      "tropomyosin",
+      "troponin",
+      "none of the above"
+    ],
+    "answer": ["myosin"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["muscle physiology"]
+  },
+  {
+    "id": 32,
+    "question": "Active site of F-actin molecule is covered by",
+    "options": [
+      "troponin",
+      "tropomyosin",
+      "troponin T",
+      "troponin C",
+      "all of the above"
+    ],
+    "answer": ["tropomyosin"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["muscle physiology"]
+  },
+  {
+    "id": 33,
+    "question": "Each myosin head has two attachment sites; one site is for actin while the other is for",
+    "options": [
+      "Calcium ion",
+      "ATP molecule",
+      "troponin T",
+      "all of these",
+      "none of these"
+    ],
+    "answer": ["ATP molecule"],
+    "explanation": "",
+    "subcourse": ["TOPIC BY TOPIC"],
+    "course": "PHYSIOLOGY",
+    "topics": ["muscle physiology"]
+  }
+]

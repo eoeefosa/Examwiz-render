@@ -292,12 +292,13 @@ router.get("/logout", function (req, res) {
   // });
 
   // Redirect to login page after clearing the cookie
-  res.redirect("auth/login");
+  res.redirect("/login");
 });
 
 router.get("/2FA", function (req, res, next) {
   res.render("auth/2FA", { title: "login" });
 });
+
 router.get("/lock-screen", function (req, res, next) {
   res.render("auth/lock-screen", { title: "login" });
 });
@@ -308,6 +309,6 @@ router.get("/lock-screen", function (req, res, next) {
 router.get("/dashboard", verifyToken, function (req, res) {
   // Access user information from req.user and pass it to the view
   const { username, email } = req.user;
-  res.render("admin/dashboard", { title: "Dashboard", username, email });
+  res.render("user/courses", { title: "Dashboard", username, email });
 });
 export default router;

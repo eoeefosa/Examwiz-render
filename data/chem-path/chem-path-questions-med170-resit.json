@@ -1,0 +1,634 @@
+[
+  {
+    "id": 1,
+    "question": "Laboratory investigations in the management of diabetes mellitus may not include:",
+    "options": [
+      "Estimation of glycated hemoglobin",
+      "Estimation of urinary albumin",
+      "Estimation of plasma lipids",
+      "Estimation of plasma electrolytes",
+      "None of the above"
+    ],
+    "answer": ["None of the above"],
+    "explanation": "All of the listed laboratory investigations are commonly included in the management of diabetes mellitus for assessing glycemic control, kidney function, lipid levels, and electrolyte balance."
+  },
+  {
+    "id": 2,
+    "question": "Concerning the pathogenesis of diabetes mellitus (DM):",
+    "options": [
+      "HLA is commonly associated with type 1 DM",
+      "HLA is commonly associated with type 2 DM",
+      "Insulin autoantibodies are a known cause in type 2 DM",
+      "Loss of cell function is a known cause in type 1 DM",
+      "Excessive insulin activity is a known cause of DM"
+    ],
+    "answer": ["HLA is commonly associated with type 1 DM"],
+    "explanation": "While HLA (Human Leukocyte Antigen) is commonly associated with type 1 DM, it is not commonly associated with type 2 DM. Type 1 DM is primarily characterized by autoimmune destruction of pancreatic beta cells, often involving HLA."
+  },
+  {
+    "id": 3,
+    "question": "Insulin does not enhance cellular uptake of glucose in the following:",
+    "options": [
+      "Cardiac muscle",
+      "Adipose tissue",
+      "Brain",
+      "Pancreas",
+      "Skeletal muscle"
+    ],
+    "answer": ["Brain"],
+    "explanation": "Insulin receptors are not commonly found in brain cells, and insulin does not play a significant role in enhancing glucose uptake in the brain compared to other tissues like adipose tissue, skeletal muscle, and cardiac muscle."
+  },
+  {
+    "id": 4,
+    "question": "Potassium is associated with the following except:",
+    "options": [
+      "The most abundant intracellular cation",
+      "Regulates muscle contraction",
+      "Regulates PH",
+      "Regulates insulin secretion",
+      "Is exchanged for H* in the tubules"
+    ],
+    "answer": ["Regulates PH"],
+    "explanation": "Potassium is primarily regulated by the kidneys and is not directly exchanged for hydrogen ions (H+) in the tubules. It plays a crucial role in intracellular processes, muscle function, and pH regulation."
+  },
+  {
+    "id": 5,
+    "question": "Causes of hypernatremia include the following except:",
+    "options": [
+      "Osmotic diuresis",
+      "Diabetes insipidus",
+      "Prolonged diarrhea",
+      "Severe burns",
+      "Congestive cardiac failure"
+    ],
+    "answer": ["Congestive cardiac failure"],
+    "explanation": "Congestive cardiac failure is not typically associated with hypernatremia. Other conditions like osmotic diuresis, diabetes insipidus, prolonged diarrhea, and severe burns can lead to increased sodium levels in the blood."
+  },
+  {
+    "id": 6,
+    "question": "Hypervolemic hyponatremia may not occur in:",
+    "options": [
+      "Congestive cardiac failure",
+      "Liver cirrhosis",
+      "Nephrotic syndrome",
+      "Renal failure",
+      "Excessive sweating"
+    ],
+    "answer": ["Excessive sweating"],
+    "explanation": "Excessive sweating is more likely to lead to hypovolemic hyponatremia due to loss of both water and electrolytes. Hypervolemic hyponatremia is often associated with conditions like congestive cardiac failure, liver cirrhosis, and nephrotic syndrome."
+  },
+  {
+    "id": 7,
+    "question": "Predominant sodium depletion occurs in:",
+    "options": [
+      "Decreased ADH secretion",
+      "Primary aldosteronism",
+      "Failure of tubular response to aldosterone",
+      "Diarrhea",
+      "Failure of water intake"
+    ],
+    "answer": ["Failure of tubular response to aldosterone"],
+    "explanation": "Predominant sodium depletion is more likely to occur in conditions where there is a lack of adequate water intake, leading to concentrated sodium levels in the body. Conditions like decreased ADH secretion, primary aldosteronism, and diarrhea can also contribute to sodium imbalance."
+  },
+  {
+    "id": 8,
+    "question": "In hyperkalemia, ECG changes do not include:",
+    "options": [
+      "Absent T waves",
+      "Widening of QRS complex",
+      "Wide PR interval",
+      "Tall T waves",
+      "Ventricular fibrillation"
+    ],
+    "answer": ["Absent T waves"],
+    "explanation": "While hyperkalemia can lead to various ECG changes, including absent T waves, widening of QRS complex, wide PR interval, and tall T waves, ventricular fibrillation is not a typical ECG finding in hyperkalemia."
+  },
+  {
+    "id": 9,
+    "question": "Renal function does not include:",
+    "options": [
+      "Regulation of plasma osmolality",
+      "Production of erythropoietin",
+      "Conversion of glutamine to ammonia",
+      "Synthesis of 1,25-dihydroxycholecalciferol",
+      "Secretion of bicarbonate"
+    ],
+    "answer": ["Secretion of bicarbonate"],
+    "explanation": "Renal function involves many processes, including the regulation of plasma osmolality, production of erythropoietin, synthesis of 1,25-dihydroxycholecalciferol (active form of vitamin D), and secretion of bicarbonate. The conversion of glutamine to ammonia primarily occurs in the liver."
+  },
+  {
+    "id": 10,
+    "question": "In acute kidney injury the following may occur except:",
+    "options": [
+      "There may be dehydration.",
+      "There may be pruritus",
+      "There is hypophosphatemia",
+      "There may be hypermagnesemia",
+      "Urine output is increased in the polyuric phase"
+    ],
+    "answer": ["There is hypophosphatemia"],
+    "explanation": "In acute kidney injury, there may be dehydration, pruritus, hypermagnesemia, and increased urine output in the polyuric phase. However, hypophosphatemia is not typically associated with acute kidney injury and is more commonly seen in other conditions like hyperparathyroidism or respiratory alkalosis."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is not correct concerning cortisol:",
+    "options": [
+      "Promotes gluconeogenesis",
+      "Improves insulin function",
+      "Causes hyperglycemia",
+      "Causes hypernatremia",
+      "Causes hypokalemia"
+    ],
+    "answer": ["Improves insulin function"],
+    "explanation": "Cortisol is known to promote gluconeogenesis, which can lead to hyperglycemia. It also causes hypernatremia and hypokalemia. However, cortisol does not improve insulin function; instead, it can contribute to insulin resistance."
+  },
+  {
+    "id": 12,
+    "question": "Adrenocortical causes of hypertension do not include:",
+    "options": [
+      "21-B-Hydroxylase deficiency",
+      "Hyperaldosteronism",
+      "11-B-Hydroxylase deficiency",
+      "17-a-Hydroxylase deficiency",
+      "Adrenal adenoma"
+    ],
+    "answer": ["21-B-Hydroxylase deficiency"],
+    "explanation": "Adrenocortical causes of hypertension include conditions like 21-B-Hydroxylase deficiency, hyperaldosteronism, 11-B-Hydroxylase deficiency, and adrenal adenoma. 17-a-Hydroxylase deficiency is not typically associated with hypertension but can lead to other hormonal imbalances."
+  },
+  {
+    "id": 13,
+    "question": "Addison's disease may present with:",
+    "options": [
+      "Hyperglycemia",
+      "Hypertension",
+      "Hypocortisolism",
+      "Glucocorticoid excess",
+      "Hypernatremia"
+    ],
+    "answer": ["Hypocortisolism"],
+    "explanation": "Addison's disease, or primary adrenal insufficiency, is characterized by hypocortisolism and often presents with symptoms like fatigue, weight loss, and hyperpigmentation. Hypernatremia is not a typical presentation of Addison's disease."
+  },
+  {
+    "id": 14,
+    "question": "Cushing's syndrome may not present with:",
+    "options": [
+      "Obesity",
+      "Proximal myopathy",
+      "Osteoporosis",
+      "Hyperglycemia",
+      "Hypercholesterolemia"
+    ],
+    "answer": ["Hypercholesterolemia"],
+    "explanation": "Cushing's syndrome is characterized by excessive cortisol production, leading to symptoms like obesity, proximal myopathy, osteoporosis, and hypercholesterolemia. While hyperglycemia can occur in some cases of Cushing's syndrome, it is not a universal symptom."
+  },
+  {
+    "id": 15,
+    "question": "Metabolic acidosis may not result from:",
+    "options": [
+      "Persistent vomiting",
+      "Increased endogenous acid production",
+      "Failure to secrete H* by the kidney",
+      "Excessive loss of bicarbonate",
+      "Salicylate poisoning"
+    ],
+    "answer": ["Persistent vomiting"],
+    "explanation": "Metabolic acidosis can result from various conditions, including persistent vomiting, increased endogenous acid production, excessive loss of bicarbonate (e.g., in diarrhea), and salicylate poisoning. Failure to secrete hydrogen ions (H+) by the kidney is more commonly associated with renal tubular acidosis (RTA) rather than metabolic acidosis."
+  },
+  {
+    "id": 16,
+    "question": "The following statement is not correct:",
+    "options": [
+      "Acidemia is blood PH < 7.35",
+      "Alkalemia is blood PH > 7.35",
+      "The normal blood PH is 7.35-7.45",
+      "Hypokalemia may cause acidosis",
+      "Whole blood is the preferred specimen for gas analysis"
+    ],
+    "answer": ["Alkalemia is blood PH > 7.35"],
+    "explanation": "Hypokalemia is more commonly associated with alkalosis rather than acidosis. Low potassium levels can lead to increased renal hydrogen ion excretion, resulting in alkalosis rather than acidosis. Acidosis is more commonly associated with hyperkalemia."
+  },
+  {
+    "id": 17,
+    "question": "Features of glycogen storage disease does not include:",
+    "options": [
+      "Hepatomegaly",
+      "Hypoglycemia",
+      "Hyperglycemia",
+      "Failure to thrive",
+      "Muscle weakness"
+    ],
+    "answer": ["Hyperglycemia"],
+    "explanation": "Glycogen storage diseases are characterized by impaired glycogen synthesis or breakdown, leading to symptoms like hepatomegaly, hypoglycemia, failure to thrive, and muscle weakness. Hyperglycemia is not typically associated with these conditions."
+  },
+  {
+    "id": 18,
+    "question": "Glucose-6-phosphatase deficiency is not characterized by:",
+    "options": [
+      "Hepatomegaly",
+      "Hyperglycemia",
+      "Hypertriglyceridemia",
+      "Lactic acidosis",
+      "Lipolysis"
+    ],
+    "answer": ["Hyperglycemia"],
+    "explanation": "Glucose-6-phosphatase deficiency, also known as von Gierke disease, is characterized by hepatomegaly, hypoglycemia, hypertriglyceridemia, and lactic acidosis. Lipolysis, the breakdown of fats, is not a primary feature of this condition."
+  },
+  {
+    "id": 19,
+    "question": "Concerning tumour markers:",
+    "options": [
+      "ACTH is not elevated in Cushing's syndrome",
+      "ACTH is not elevated in Cushing's disease",
+      "ACTH is not elevated in small cell carcinoma of the lungs.",
+      "ADH is not elevated in small cell carcinoma of the lung",
+      "None of the above is correct"
+    ],
+    "answer": ["ACTH is not elevated in Cushing's syndrome"],
+    "explanation": "Tumor markers like ACTH can be elevated in Cushing's syndrome and Cushing's disease, and ACTH is also elevated in small cell carcinoma of the lungs. These markers can be useful in diagnosis and monitoring of these conditions."
+  },
+  {
+    "id": 20,
+    "question": "Adaptive processes to starvation does not include:",
+    "options": [
+      "Decrease in glucagon in the first phase",
+      "Decrease in insulin",
+      "Decreased gluconeogenesis",
+      "Decreased protein degradation",
+      "Elevated ketones"
+    ],
+    "answer": ["Decrease in glucagon in the first phase"],
+    "explanation": "During starvation, there is an initial increase in glucagon levels to stimulate gluconeogenesis and maintain blood glucose levels. Glucagon levels decrease in the later phases of starvation as ketone bodies become the primary energy source. The other listed processes are adaptive responses to starvation."
+  },
+  {
+    "id": 21,
+    "question": "In hypergonadotropic hypogonadism in MALES",
+    "options": [
+      "Follicle Stimulating Hormone is High.",
+      "Follicle stimulating hormone is Low",
+      "Follicle stimulating hormone level is normal.",
+      "Testosterone is markedly raised.",
+      "Testosterone is normal"
+    ],
+    "answer": ["Follicle Stimulating Hormone is High."],
+    "explanation": "Hypergonadotropic hypogonadism is characterized by high levels of gonadotropins (FSH and LH) and low testosterone levels. This condition indicates dysfunction of the testes rather than the pituitary gland, leading to impaired sperm production and infertility."
+  },
+  {
+    "id": 22,
+    "question": "In hypogonadotropic hypogonadism in FEMALES",
+    "options": [
+      "Serum Follicle stimulating hormone is Low.",
+      "Serum Follicle stimulating hormone is high",
+      "Oestradiol level is high.",
+      "Oestradiol level is normal",
+      "None of the above"
+    ],
+    "answer": ["None of the above"],
+    "explanation": "Hypogonadotropic hypogonadism in females is characterized by low levels of gonadotropins (FSH and LH) and low estrogen levels. This condition indicates dysfunction of the hypothalamus or pituitary gland, leading to menstrual irregularities and infertility."
+  },
+  {
+    "id": 23,
+    "question": "The Following are NOT hormones of the Anterior Pituitary EXCEPT.",
+    "options": [
+      "Oxytocin",
+      "Antidiuretic hormone",
+      "Prolactin",
+      "Inhibin",
+      "Somatostatin"
+    ],
+    "answer": ["Prolactin"],
+    "explanation": "Oxytocin and antidiuretic hormone (ADH) are produced by the hypothalamus and stored in the posterior pituitary. Prolactin, inhibin, and somatostatin are hormones produced by the anterior pituitary."
+  },
+  {
+    "id": 24,
+    "question": "Concerning Thyroid Stimulating Hormone",
+    "options": [
+      "It is secreted from the hypothalamus.",
+      "It's level is markedly raised in hypothyroidism",
+      "It is one of the thyroid hormones",
+      "It's level is markedly low in hypothyroidism",
+      "Only A is correct"
+    ],
+    "answer": ["It's level is markedly raised in hypothyroidism"],
+    "explanation": "Thyroid Stimulating Hormone (TSH) is secreted by the anterior pituitary gland, not the hypothalamus. TSH levels are typically elevated in hypothyroidism as the body tries to stimulate the thyroid gland to produce more thyroid hormones."
+  },
+  {
+    "id": 25,
+    "question": "The following will cause hyperthyroidism",
+    "options": [
+      "Iodine deficiency Goitre",
+      "Subtotal thyroidectomy",
+      "Graves disease",
+      "Hashimoto's disease",
+      "Thyroid agenesis"
+    ],
+    "answer": ["Graves disease"],
+    "explanation": "Hashimoto's disease is an autoimmune condition that causes hypothyroidism, not hyperthyroidism. Hyperthyroidism is more commonly caused by conditions like Graves' disease, toxic adenomas, or excessive iodine intake."
+  },
+  {
+    "id": 26,
+    "question": "Dexamethasone Suppression test is Useful in the investigation of",
+    "options": [
+      "Renal tubular Acidosis",
+      "Malabsorption syndrome",
+      "Carcinoid Syndrome",
+      "Hypercortisolism",
+      "Conn's syndrome"
+    ],
+    "answer": ["Hypercortisolism"],
+    "explanation": "The dexamethasone suppression test is used to diagnose hypercortisolism, also known as Cushing's syndrome. It involves administering dexamethasone and measuring cortisol levels to assess the feedback mechanism of the hypothalamic-pituitary-adrenal (HPA) axis."
+  },
+  {
+    "id": 27,
+    "question": "Iron absorption is enhanced by the following EXCEPT.",
+    "options": [
+      "Acidic PH",
+      "Vitamin C ingestion",
+      "Arginine",
+      "Phytates",
+      "Iron deficiency states"
+    ],
+    "answer": ["Phytates"],
+    "explanation": "Iron absorption is enhanced by factors like acidic pH, vitamin C ingestion, and iron deficiency states, which increase the solubility and absorption of iron. Phytates, found in grains and legumes, can inhibit iron absorption."
+  },
+  {
+    "id": 28,
+    "question": "Vitamin B12 is Maximally absorbed in",
+    "options": ["Jejunum", "Duodenum", "Colon", "Terminal ileum", "Stomach"],
+    "answer": ["Terminal ileum"],
+    "explanation": "Vitamin B12 is absorbed in the terminal ileum of the small intestine, where it binds to intrinsic factor produced by the stomach. Absorption of vitamin B12 requires intact intrinsic factor and a functional terminal ileum."
+  },
+  {
+    "id": 29,
+    "question": "Calcitriol",
+    "options": [
+      "It is the active form of Growth hormone",
+      "It is the active form of Vitamin D",
+      "It does not have any action on the bone",
+      "It has an indirect action on the intestine.",
+      "Low levels will cause Paget's disease"
+    ],
+    "answer": ["It is the active form of Vitamin D"],
+    "explanation": "Calcitriol is the active form of vitamin D, which plays a crucial role in calcium and phosphate metabolism, bone health, and immune function. It is synthesized in the kidneys from vitamin D."
+  },
+  {
+    "id": 30,
+    "question": "Causes of HYPOCALCAEMIA include",
+    "options": [
+      "Primary hyperparathyroidism",
+      "Hypervitaminosis D",
+      "Hypoalbuminemia",
+      "Hypermagnesemia",
+      "Acute Renal Failure"
+    ],
+    "answer": ["Acute Renal Failure"],
+    "explanation": "Hypocalcemia can be caused by various factors, including primary hyperparathyroidism, hypervitaminosis D, hypoalbuminemia, and acute renal failure. However, hypermagnesemia, or elevated magnesium levels, is not a common cause of hypocalcemia."
+  },
+  {
+    "id": 31,
+    "question": "The most effective form of Renal Replacement Therapy is:",
+    "options": [
+      "Peritoneal dialysis",
+      "Hemodialysis",
+      "Cadeveric transplant",
+      "Hemodiafiltration",
+      "Live-transplant"
+    ],
+    "answer": ["Live-transplant"],
+    "explanation": "While peritoneal dialysis, hemodialysis, and cadaveric transplant are effective forms of renal replacement therapy, a live transplant from a compatible donor is considered the most effective in terms of long-term outcomes and quality of life for the recipient."
+  },
+  {
+    "id": 32,
+    "question": "Reasons for exclusion during pre-operative assessment of kidney transplant patients include:",
+    "options": [
+      "Body mass index < 40",
+      "Ischaemic heart disease",
+      "Any immunological disease",
+      "Severe chronic lung disease",
+      "Severe Malaria"
+    ],
+    "answer": ["Severe chronic lung disease"],
+    "explanation": "During the pre-operative assessment of kidney transplant patients, factors like body mass index, presence of ischemic heart disease, immunological diseases, and severe chronic lung disease are considered. Severe malaria can be a contraindication due to the risk of complications and infection."
+  },
+  {
+    "id": 33,
+    "question": "Causes of hypoalbuminemia include all but one of the following:",
+    "options": [
+      "Burns",
+      "Malnutrition",
+      "Hyperthyroidism",
+      "Hypothyroidism",
+      "Nephrotic syndrome"
+    ],
+    "answer": ["Hyperthyroidism"],
+    "explanation": "Hypoalbuminemia, or low albumin levels, can be caused by conditions like burns, malnutrition, nephrotic syndrome, and liver disease. Hyperthyroidism is not typically associated with hypoalbuminemia."
+  },
+  {
+    "id": 34,
+    "question": "Reference intervals are dependent on all but one of the following:",
+    "options": ["Race", "Gender", "Age", "Complexion", "All of the above"],
+    "answer": ["Complexion"],
+    "explanation": "Reference intervals for laboratory tests are established based on factors like race, gender, and age, as these variables can affect normal ranges. Complexion, or skin color, is not typically a factor in determining reference intervals."
+  },
+  {
+    "id": 35,
+    "question": "One of the acute complications of haemodialysis is:",
+    "options": [
+      "Anaemia",
+      "Septicaemia",
+      "Pyrexia",
+      "Amyloidosis",
+      "Peritonitis"
+    ],
+    "answer": ["Pyrexia"],
+    "explanation": "Haemodialysis, a common treatment for kidney failure, can lead to complications like peritonitis, which is an inflammation of the peritoneum. Other complications include anaemia, septicaemia, and amyloidosis."
+  },
+  {
+    "id": 36,
+    "question": "Biochemical features of Wilson's disease include:",
+    "options": [
+      "Increase in plasma cerruloplasmin",
+      "Low urinary excretion of copper",
+      "Normal total serum copper",
+      "Low plasma cerruloplasmin",
+      "None of the above"
+    ],
+    "answer": ["Low plasma cerruloplasmin"],
+    "explanation": "Wilson's disease is characterized by copper accumulation in the body due to a defect in copper transport. Biochemical features include low plasma ceruloplasmin levels, increased urinary copper excretion, and elevated liver copper levels."
+  },
+  {
+    "id": 37,
+    "question": "Which of the following is an integral apolipoprotein present in VLDL, IDL, and LDL.",
+    "options": ["Apo B-100", "Apo B-48", "Apo C-11", "Apo E", "Apo C-I"],
+    "answer": ["Apo B-100"],
+    "explanation": "Apo B-100 is an integral apolipoprotein present in VLDL (very low-density lipoprotein), IDL (intermediate-density lipoprotein), and LDL (low-density lipoprotein). It is involved in the transport of cholesterol and triglycerides."
+  },
+  {
+    "id": 38,
+    "question": "Advantages of Point of Care Testing include all of the following except;",
+    "options": [
+      "Fast turnaround time",
+      "Prompt and effective patient treatment",
+      "Minimizes delay associated with sample collection and preparation",
+      "It is not useful in remote villages or rural areas",
+      "Avoidance of transportation time for specimens to the main laboratory"
+    ],
+    "answer": ["It is not useful in remote villages or rural areas"],
+    "explanation": "Point of Care Testing (POCT) offers advantages like fast turnaround time, prompt treatment decisions, and minimized delays in sample processing. However, it may still be useful in remote areas where access to centralized laboratories is limited."
+  },
+  {
+    "id": 39,
+    "question": "In which of the following regions of the gastrointestinal tract will the loss of fluid lead to metabolic acidosis and hypokalaemia?",
+    "options": [
+      "Small intestine",
+      "Appendix",
+      "Colon",
+      "Gall bladder",
+      "Stomach"
+    ],
+    "answer": ["Colon"],
+    "explanation": "Loss of fluid from the colon can lead to metabolic acidosis and hypokalemia. The colon plays a crucial role in electrolyte and water absorption, and its dysfunction can disrupt acid-base balance and electrolyte levels."
+  },
+  {
+    "id": 40,
+    "question": "Biochemical features of hepato-renal syndrome include:",
+    "options": [
+      "Hypernatraemia",
+      "Hyperkalaemia",
+      "Metabolic acidosis",
+      "Metabolic alkalosis",
+      "Hyperventilation"
+    ],
+    "answer": ["Metabolic acidosis"],
+    "explanation": "Hepato-renal syndrome is a serious complication of liver disease characterized by renal dysfunction and fluid retention. Biochemical features include metabolic acidosis, renal impairment, and electrolyte abnormalities."
+  },
+  {
+    "id": 41,
+    "question": "CSF protein is 100mg/dl, CSF glucose is 20mg/dl. The laboratory results above are suggestive of?",
+    "options": [
+      "Acute bacterial meningitis",
+      "Viral meningitis",
+      "Viral encephalitis",
+      "Fungal meningitis",
+      "Meningoencephalitis"
+    ],
+    "answer": ["Fungal meningitis"],
+    "explanation": "CSF protein levels of 100mg/dl and CSF glucose levels of 20mg/dl are indicative of acute bacterial meningitis. In bacterial meningitis, CSF protein levels are typically elevated, while CSF glucose levels are decreased."
+  },
+  {
+    "id": 42,
+    "question": "Increase CSF glutamine concentration often indicates",
+    "options": [
+      "Amoebic meningitis",
+      "Brain abscess",
+      "Reye's syndrome",
+      "Leptospirosis",
+      "Syphilis"
+    ],
+    "answer": ["Reye's syndrome"],
+    "explanation": "An increase in CSF glutamine concentration is often seen in Reye's syndrome, a rare but serious condition that can affect the liver and brain. Reye's syndrome is most commonly seen in children and teenagers recovering from a viral infection."
+  },
+  {
+    "id": 43,
+    "question": "Nucleotides, the building blocks of nucleic acids, are linked together by",
+    "options": [
+      "Peptide bonds",
+      "Glycosidic bonds",
+      "Phosphodiester bonds",
+      "Hydrogen bonds",
+      "Carbon bonds"
+    ],
+    "answer": ["Phosphodiester bonds"],
+    "explanation": "Nucleotides, the building blocks of nucleic acids like DNA and RNA, are linked together by phosphodiester bonds. These bonds form between the phosphate group of one nucleotide and the hydroxyl group of another, creating a chain."
+  },
+  {
+    "id": 44,
+    "question": "which of the following enzymes is used for Pre-PCR decontamination procedures?",
+    "options": [
+      "DNA glycosylase",
+      "DNA polymerase",
+      "DNA Ligase",
+      "Reverse transcriptase",
+      "Elastase"
+    ],
+    "answer": ["DNA glycosylase"],
+    "explanation": "DNA glycosylase is used in pre-PCR decontamination procedures to remove any DNA contamination that could interfere with the PCR (polymerase chain reaction) process. This enzyme can specifically recognize and remove damaged or incorrect bases in DNA."
+  },
+  {
+    "id": 45,
+    "question": "Molecular diagnostic tests can be used to",
+    "options": [
+      "Detect tumour antigens",
+      "Monitor levels of therapeutic drugs",
+      "Detect infectious diseases",
+      "Monitor hormone levels",
+      "Monitor clotting profile"
+    ],
+    "answer": ["Detect infectious diseases"],
+    "explanation": "Molecular diagnostic tests, such as PCR (polymerase chain reaction) and nucleic acid amplification tests, can be used to detect infectious diseases by identifying the genetic material (DNA or RNA) of pathogens like viruses and bacteria in patient samples."
+  },
+  {
+    "id": 46,
+    "question": "The following are Acute Porphyrias EXCEPT",
+    "options": [
+      "Erythropoietic porphyria",
+      "Variegate porphyria",
+      "Acute intermittent porphyria",
+      "Hereditary Coproporphyria",
+      "None of the above"
+    ],
+    "answer": ["None of the above"],
+    "explanation": "Acute porphyrias are a group of rare metabolic disorders characterized by abnormalities in heme production. Erythropoietic porphyria, variegate porphyria, acute intermittent porphyria, and hereditary coproporphyria are all examples of acute porphyrias."
+  },
+  {
+    "id": 47,
+    "question": "Levels of the following hormone is Raised Throughout Pregnancy",
+    "options": [
+      "HCG",
+      "Oestrogen",
+      "Luteinizing hormone",
+      "Follicle stimulating hormone",
+      "Inhibin"
+    ],
+    "answer": ["Oestrogen"],
+    "explanation": "Human chorionic gonadotropin (HCG) is a hormone produced by the placenta during pregnancy. HCG levels increase rapidly in the early stages of pregnancy and remain elevated throughout pregnancy. It is the hormone detected by pregnancy tests."
+  },
+  {
+    "id": 48,
+    "question": "In Kwashiorkor",
+    "options": [
+      "Plasma Albumin level is high",
+      "Plasma Albumin level is low",
+      "Diaorrhea is Rare",
+      "Retinol binding protein level is high",
+      "Only option D is correct"
+    ],
+    "answer": ["Only option D is correct"],
+    "explanation": "Kwashiorkor is a form of severe acute malnutrition characterized by protein deficiency. In kwashiorkor, plasma albumin levels are typically low, and other features include edema, skin lesions, and an enlarged liver."
+  },
+  {
+    "id": 49,
+    "question": "Hypersecretion of Antidiuretic hormone will cause",
+    "options": [
+      "Diabetes insipidus",
+      "Acromegaly",
+      "Syndrome of inappropriate ADH secretion",
+      "Diabetes Mellitus",
+      "Conn's syndrome"
+    ],
+    "answer": ["Syndrome of inappropriate ADH secretion"],
+    "explanation": "Hypersecretion of antidiuretic hormone (ADH), also known as vasopressin, can lead to a condition known as syndrome of inappropriate ADH secretion (SIADH). SIADH is characterized by excessive water retention and hyponatremia."
+  },
+  {
+    "id": 50,
+    "question": "AntiMullerian hormone is useful in",
+    "options": [
+      "Assessing testicular function",
+      "Assessing placental function",
+      "Detecting if Ovulation has taken place.",
+      "Assessing the Ovarian reserve",
+      "Assessing renal function"
+    ],
+    "answer": ["Assessing the Ovarian reserve"],
+    "explanation": "Anti-Müllerian hormone (AMH) is a hormone produced by cells in the ovarian follicles. It is used as a marker of ovarian reserve, which refers to the number and quality of a woman's eggs. AMH levels can help assess the likelihood of success with fertility treatments."
+  }
+]

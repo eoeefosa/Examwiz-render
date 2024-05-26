@@ -1,0 +1,384 @@
+[
+  {
+    "id": 1,
+    "question": "Expired air is a combination of dead space air and ?",
+    "options": [
+      "expired air",
+      "alveolar air",
+      "dead air",
+      "none of the  above"
+    ],
+    "answer": ["alveolar air"],
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "question": "hyperventilation is also called ?",
+    "options": [
+      "small ventilation",
+      "large ventilation",
+      "over ventilation",
+      "under ventilation"
+    ],
+    "answer": ["over ventilation"],
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "question": "Cells involved in secretion of surfactant include the following except ?",
+    "options": [
+      "type II alveolar epithelial cells in the lungs",
+      "clara cells",
+      "claude cells",
+      "none of the above"
+    ],
+    "answer": ["claude cells"],
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "question": "The following are true about ventilation/perfusion ratio except ?",
+    "options": [
+      "ratio of dead space air and volume of blood that perfused the lungs",
+      "ratio of alveolar ventilation and amount of blood perfused that perfused the lungs",
+      "it is expressed as Va/Q",
+      "B and C are correct"
+    ],
+    "answer": [
+      "ratio of dead space air and volume of blood that perfused the lungs"
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "question": " The following will shift the HbO₂ dissociation curve to the right except ?",
+    "options": [
+      "decrease PO₂",
+      "increase PO₂",
+      "increase temperature",
+      "increase 2,3 DPG",
+      "decrease H+ concentration"
+    ],
+    "answer": ["decrease H+ concentration"],
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "question": "The major routes of CO₂ transport in the blood is ?",
+    "options": [
+      "dissolved form",
+      "carbonic acid",
+      "bicarbonate",
+      "as carbamino compound"
+    ],
+    "answer": ["bicarbonate"],
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is the site of highest airway resistance?",
+    "options": [
+      "trachea",
+      "largest bronchi",
+      "medium sized bronchi",
+      "smallest bronchi"
+    ],
+    "answer": ["medium sized bronchi"],
+    "explanation": "Medium sized bronchi are the sites of highest airway resistance"
+  },
+  {
+    "id": 8,
+    "question": "compared with systemic circulation, the pulmonary circulation has ?",
+    "options": [
+      "higher blood flow",
+      "lower resistance",
+      "higher arterial pressure",
+      " higher cardiac air"
+    ],
+    "answer": ["higher blood flow"],
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "question": "If an area of lung is not ventilated, because of bronchial obstruction , the pulmonary capillary blood serving that area will have a PO₂ that is ?",
+    "options": [
+      "equal to atmospheric PO₂",
+      "equal to mixed venous PO₂",
+      "higher than inspired PO₂",
+      "lower than mixed venous PO₂",
+      "equal to the normal sysytemic arterial PO₂"
+    ],
+    "answer": ["lower than mixed venous PO₂"],
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "question": "bradypnea refers to ?",
+    "options": [
+      "increase in rate of respiration",
+      "decrease in rate of respiration",
+      "abnormal increase in rate of respiration",
+      "difficulty in breathing",
+      "shallow breathing"
+    ],
+    "answer": ["decrease in rate of respiration"],
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "question": "Factors involved increasing pulmonary ventilation during exercise are ?",
+    "options": [
+      "higher centres, chemoreceptors & propoceptors",
+      "lower centres, chemoreceptors",
+      "chemoreceptors, proprioceptors",
+      "higher centres and chemoreceptors"
+    ],
+    "answer": ["higher centres, chemoreceptors & propoceptors"],
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "question": "Deficiency of surfactant in adults is also referred to as?",
+    "options": [
+      "adult respiratory distress syndrome (ARDS)",
+      "Adult respire distress",
+      "acute respiratory distress",
+      "none of the above",
+      "A-C are correct"
+    ],
+    "answer": ["acute respiratory distress"],
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "question": "In which of the following vascular bed does hypoxia causes vasoconstriction?",
+    "options": [
+      "skin",
+      "coronary",
+      "cerebral",
+      "pulmonary",
+      "none of the above"
+    ],
+    "answer": ["pulmonary"],
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "question": "Therapy for hypoxia?",
+    "options": [
+      "CO₂ Therapy",
+      "O₂ therapy",
+      "CO therapy",
+      "nitrogen therapy",
+      "all of the above"
+    ],
+    "answer": ["O₂ therapy"],
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "question": "Mountain sickness seen in people climbing to high altitude is characterized by the following except ?",
+    "options": [
+      "increased blood pressure",
+      "polycythemia",
+      "increased pulmonary blood flow",
+      "weakness and fatigue",
+      "none of the above"
+    ],
+    "answer": ["polycythemia"],
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "question": "Mountain sickness seen in people climbing to high altitude can be avoided by",
+    "options": [
+      "rapid ascent",
+      "slow and steady ascent and breathing in O₂",
+      "by carrying helium gas",
+      "A and C are correct",
+      "A-C are correct"
+    ],
+    "answer": ["slow and steady ascent and breathing in O₂"],
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "question": "Acclimitization refers to ?",
+    "options": [
+      "adaptation or adjustment by the body in high altitude",
+      "it is getting adjusted to the high O₂ in high altitude",
+      "it takes a few minute to few hours to be fully acclimatized",
+      "only A and B are correct",
+      "none of the above"
+    ],
+    "answer": ["adaptation or adjustment by the body in high altitude"],
+    "explanation": "Acclimatization refers to the adaptations or the adjustments by the body in high altitude. it takes several days to several weeks,for a person to slowly gets adapted or adjusted to the \b 'low oxygen tension', so that hypoxic effects are reduced. \n\t\bNote at high altitude there is low oxygen tension"
+  },
+  {
+    "id": 18,
+    "question": "Cardiovascular changes in acclimatization include the following except?",
+    "options": [
+      "increase heart rate",
+      "increase cardiac output",
+      "vasodilation",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "CARDIOVASCULAR CHANGES IN ACCLIMATIZATION inclues \n\t Increased heart rate \n\t Increase in force of contraction of the heart \n\t increase in cardiac output \n\t vasodilation \n\t Increase in blood flow to heart, brain and muscles"
+  },
+  {
+    "id": 19,
+    "question": "In deep sea or mines, the problem is ?",
+    "options": [
+      "high barometric pressure",
+      "low barometric pressure",
+      "increase in volume of air",
+      "increase oxygen tension",
+      "none of the above"
+    ],
+    "answer": ["high barometric pressure"],
+    "explanation": "At deep sea level, pressure increases tremendously, at every 10 metres(33 feet) depth, there is an increase pressure of 1 atmosphere(760mm Hg)"
+  },
+  {
+    "id": 20,
+    "question": "Nitrogen narcosis is common in?",
+    "options": [
+      "high altitude",
+      "deep sea",
+      "high altitude and deep sea",
+      "at sea level",
+      "none of the above"
+    ],
+    "answer": ["deep sea"],
+    "explanation": "Narcosis refers to unconsciousness or stupor produced by drugs. Stupor refers to lethargy with suppression of sensations and feelings. Nitrogen narcosis means narcotic effect produced by nitrogen at high pressure. Nitrogen nacrosis is common in deep sea divers, who breathe compressed air (K sembulingam Prema Sembulingam Essentials of medical physiology)"
+  },
+  {
+    "id": 21,
+    "question": "Symptoms of nitrogen narcosis include the following except",
+    "options": [
+      "lethargy",
+      "unconsciousness",
+      "stupor",
+      "suppression of sensation",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "Narcosis refers to unconsciousness or stupor produced by drugs. Stupor refers to lethargy with suppression of sensations and feelings. Nitrogen narcosis means narcotic effect produced by nitrogen at high pressure. Nitrogen nacrosis is common in deep sea divers, who breathe compressed air (K sembulingam Prema Sembulingam Essentials of medical physiology)"
+  },
+  {
+    "id": 22,
+    "question": "Cyanosis is characterized by ?",
+    "options": [
+      "diffused bluish discolouration of skin and mucous membrane",
+      "it I due to presence of large concentration of reduced haemoglobin",
+      "reduced Hb conc is about 5-7 g/dl",
+      "none of the above is correct",
+      "all of the above are correct"
+    ],
+    "answer": ["all of the above are correct"],
+    "explanation": "Cyanosis is defined as the diffused bluish coloration of skin and mucus membrane. It is due to the presence of large amount of reduced hemoglobin in the blood. Quantity of reduced hemoglobin should be at least 5 to 7 g/dL in the blood to cause cyanosis.(K sembulingam Prema Sembulingam Essentials of medical physiology)"
+  },
+  {
+    "id": 23,
+    "question": "which of the following are true of inspiration?",
+    "options": [
+      "intrapleural pressure is positive",
+      "intrapleural pressure is negative",
+      "the volume of air in the lungs is small",
+      "alveolar pressure equals atmospheric pressure",
+      "none of the above"
+    ],
+    "answer": ["intrapleural pressure is negative"],
+    "explanation": "During inspiration, the diaphragm contracts and pushes the abdominal contents downward. However, the ribs are lifted upwards and outward, thus increasing the intrathoracic volume and subsequently decreasing the intrathoracic pressure.Thus, initiating the inflow of air into the lungs."
+  },
+  {
+    "id": 24,
+    "question": " spirometer measures all the following except ?",
+    "options": [
+      "tidal volume",
+      "vital phases capacity",
+      "FeV1",
+      "FVC",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "Lung funtion test are carried out mostly using spirometer"
+  },
+  {
+    "id": 25,
+    "question": "functional residual capacity is ?",
+    "options": [
+      "volume of air remaining in the lungs after normal expiration",
+      "volume of air remaining in the lungs after forced expiration",
+      "volume of air breathed in and out of the lungs",
+      "none of the above"
+    ],
+    "answer": ["volume of air remaining in the lungs after normal expiration"],
+    "explanation": "",
+    "image": ""
+  },
+  {
+    "id": 26,
+    "question": "sneezing reflex?",
+    "options": [
+      "is a modified respiratory process",
+      "it is characterized by forced expiration",
+      "it is a protective reflex",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": ["all of the above"],
+    "explanation": "Sneezing is a modified respiratory process characterized by forced expiration. It is a protective reflex caused by irritation of nasal mucous membrane"
+  },
+  {
+    "id": 27,
+    "question": "Regulation of pulmonary blood flow includes",
+    "options": [
+      "cardiac output",
+      "vascular resistance",
+      "nervous factors",
+      "gravit of hydrostatic pressure",
+      "all of the above"
+    ],
+    "answer": ["all of the above"],
+    "explanation": "Pulmonary blood flow is regulated by the following factors:\n\t1. Cardiac output\n\t2. Vascular resistance \n\t3. Nervous factors \n\t4. Chemical factors\n\t5. Gravity and hydrostatic pressure"
+  },
+  {
+    "id": 28,
+    "question": "During exercise ?",
+    "options": [
+      " vascular resistance decreases",
+      " blood flow increases",
+      "none of the above",
+      "all of the above"
+    ],
+    "answer": ["all of the above"],
+    "explanation": ""
+  },
+  {
+    "id": 29,
+    "question": "Arterial PO₂ is reduced in ?",
+    "options": [
+      "anaemia",
+      "KCN poisoning",
+      "pulmonary hypoventilation",
+      "CO poisoning",
+      "none of the above"
+    ],
+    "answer": ["pulmonary hypoventilation"],
+    "explanation": "Hypoxia is reduced oxygen availablity to tissues \nHypercapnea is increase carbondioxide content in blood\nHypoventilation is the causes hypoxic hypoxia and hypercapnea \n only hypoxic hypoxia leads to decreased arterial pO2 \n anemia leads to stagnant hypoxia \n kCN and CO poisoning leads to Hisototoxic hypoxia \nTherefore pulmonary hypoventilation leads to increase pCO2 and decreased pO2"
+  },
+  {
+    "id": 30,
+    "question": "changes during inspiration include the following except",
+    "options": [
+      "thoracic cage enlarges",
+      "lungs expand",
+      "increase intrathoracic volume",
+      "positive intrathoracic pressure"
+    ],
+    "answer": ["positive intrathoracic pressure"],
+    "explanation": "During inspiration, the diaphragm contracts and pushes the abdominal contents downward. However, the ribs are lifted upwards and outward, thus increasing the intrathoracic volume and subsequently decreasing the intrathoracic pressure.Thus, initiating the inflow of air into the lungs."
+  }
+]

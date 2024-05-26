@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "questionType": "objective",
+    "question": "Factors responsible for toxicity include:",
+    "options": [
+      "The dose",
+      "Age",
+      "Hypersensitivity",
+      "Duration of exposure",
+      "None of the above"
+    ],
+    "answer": ["The dose"],
+    "explanation": "Toxicity is often dose-dependent. ",
+    "searchTags": [
+      "Toxicity Factors",
+      "Dose-Dependent Toxicity",
+      "Risk Assessment"
+    ],
+    "topics": ["Toxicology"]
+  },
+  {
+    "id": 2,
+    "questionType": "objective",
+    "question": "Indications for parenteral nutrition:",
+    "options": [
+      "Mucositis",
+      "Peritonitis",
+      "Peptic ulcer disease",
+      "Acute",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Parenteral nutrition may be indicated in various conditions, including mucositis, peritonitis, peptic ulcer disease, and acute illnesses. Recognizing indications for parenteral nutrition is essential for patient care.",
+    "searchTags": [
+      "Parenteral Nutrition",
+      "Indications for Parenteral Nutrition",
+      "Clinical Nutrition"
+    ],
+    "topics": ["Clinical Nutrition"]
+  },
+  {
+    "id": 3,
+    "questionType": "objective",
+    "question": "Secondary causes of hyperaldosteronism include:",
+    "options": [
+      "Obesity",
+      "Pregnancy",
+      "Liver cirrhosis",
+      "Nephrotic syndrome",
+      "Severe cardiac failure"
+    ],
+    "answer": ["Severe cardiac failure"],
+    "explanation": "Hyperaldosteronism can have secondary causes, including severe cardiac failure. ",
+    "searchTags": ["Hyperaldosteronism", "Secondary Causes", "Endocrinology"],
+    "topics": ["Endocrine Disorders"]
+  },
+  {
+    "id": 4,
+    "questionType": "objective",
+    "question": "Complications of parenteral nutrition include:",
+    "options": ["Bleeding", "Shock", "Sepsis", "Fever", "Cholestasis"],
+    "answer": ["Cholestasis"],
+    "explanation": "Parenteral nutrition may lead to various complications, including cholestasis. Recognizing complications is important for monitoring and managing patients receiving parenteral nutrition.",
+    "searchTags": [
+      "Parenteral Nutrition Complications",
+      "Cholestasis",
+      "Clinical Nutrition"
+    ],
+    "topics": ["Clinical Nutrition"]
+  },
+  {
+    "id": 5,
+    "questionType": "objective",
+    "question": "Secondary causes of hyperaldosteronism include:",
+    "options": [
+      "Obesity",
+      "Pregnancy",
+      "Liver cirrhosis",
+      "Nephrotic syndrome",
+      "Severe cardiac failure"
+    ],
+    "answer": ["Severe cardiac failure"],
+    "explanation": "Hyperaldosteronism can have secondary causes, including severe cardiac failure. ",
+    "searchTags": ["Hyperaldosteronism", "Secondary Causes", "Endocrinology"],
+    "topics": ["Endocrine Disorders"]
+  },
+  {
+    "id": 6,
+    "questionType": "objective",
+    "question": "About Vitamin C:",
+    "options": [
+      "Fat-soluble",
+      "Also known as Ascorbic acid",
+      "Has antioxidant properties",
+      "Deficiency favors collagen synthesis",
+      "Deficiency causes scurvy"
+    ],
+    "answer": ["Also known as Ascorbic acid"],
+    "explanation": "Vitamin C, also known as ascorbic acid, has essential roles in the body, including antioxidant properties. ",
+    "searchTags": ["Vitamin C", "Ascorbic Acid", "Nutritional Assessment"],
+    "topics": ["Nutrition and Dietary Factors"]
+  },
+  {
+    "id": 7,
+    "questionType": "objective",
+    "question": "The following are thyroid hormones:",
+    "options": ["T3", "Thyroxine", "TSH", "Calcitonin", "LH"],
+    "answer": ["T3", "Thyroxine", "TSH"],
+    "explanation": "Thyroid hormones include T3 (triiodothyronine), thyroxine (T4), and thyroid-stimulating hormone (TSH). ",
+    "searchTags": ["Thyroid Hormones", "T3", "T4", "TSH"],
+    "topics": ["Endocrine Disorders"]
+  },
+  {
+    "id": 8,
+    "questionType": "objective",
+    "question": "Which of the following would migrate to the beta band at 8.6 pH:",
+    "options": [
+      "Transferrin",
+      "Haptoglobin",
+      "Antichymotrypsin",
+      "Oncho",
+      "All of the above"
+    ],
+    "answer": ["Antichymotrypsin"],
+    "explanation": "Antichymotrypsin is known to migrate to the beta band at 8.6 pH during electrophoresis. ",
+    "searchTags": [
+      "Electrophoretic Patterns",
+      "Protein Electrophoresis",
+      "Clinical Laboratory Medicine"
+    ],
+    "topics": ["Laboratory Techniques in Clinical Practice"]
+  },
+  {
+    "id": 9,
+    "questionType": "objective",
+    "question": "On Cushing syndrome:",
+    "options": [
+      "Hypoglycemia",
+      "Hypokalemia",
+      "Proteolysis",
+      "Hyperglycemia",
+      "Water retention"
+    ],
+    "answer": ["Hyperglycemia"],
+    "explanation": "Cushing syndrome is associated with hypercortisolism, which can lead to hyperglycemia. ",
+    "searchTags": [
+      "Cushing Syndrome",
+      "Hypercortisolism",
+      "Endocrine Disorders"
+    ],
+    "topics": ["Endocrinology"]
+  },
+  {
+    "id": 10,
+    "questionType": "objective",
+    "question": "Hypokalemia can be seen in:",
+    "options": [
+      "Hypoaldosteronism",
+      "Insulin insufficiency",
+      "Lactic acidosis",
+      "Alcoholic acidosis",
+      "Diabetic ketoacidosis"
+    ],
+    "answer": ["Diabetic ketoacidosis"],
+    "explanation": "Hypokalemia can occur in diabetic ketoacidosis due to various factors. ",
+    "searchTags": [
+      "Hypokalemia",
+      "Diabetic Ketoacidosis",
+      "Electrolyte Imbalances"
+    ],
+    "topics": ["Clinical Medicine"]
+  },
+  {
+    "id": 11,
+    "questionType": "objective",
+    "question": "Reducing substances in urine include the following except:",
+    "options": ["Fructose", "Sucrose", "Creatinine", "Uric acid", "Aspirin"],
+    "answer": ["Creatinine"],
+    "explanation": "Creatinine is not considered a reducing substance in urine.",
+    "searchTags": [
+      "Reducing Substances",
+      "Urine Analysis",
+      "Clinical Pathology"
+    ],
+    "topics": ["Clinical Pathology"]
+  },
+  {
+    "id": 12,
+    "questionType": "objective",
+    "question": "Biochemical findings in CKD include:",
+    "options": [
+      "Hyperuricemia",
+      "Hypocalcemia",
+      "Hypomagnesemia",
+      "Colitis",
+      "Pericarditis"
+    ],
+    "answer": ["Hyperuricemia"],
+    "explanation": "Hyperuricemia is one of the biochemical findings in Chronic Kidney Disease (CKD).",
+    "searchTags": ["CKD", "Chronic Kidney Disease", "Biochemical Findings"],
+    "topics": ["Renal Disorders"]
+  },
+  {
+    "id": 13,
+    "questionType": "objective",
+    "question": "Point-of-care testing disadvantages include:",
+    "options": [
+      "Increased efficiency of workers",
+      "Increased cost",
+      "Different reference ranges",
+      "Duplication of equipment",
+      "[Option missing]"
+    ],
+    "answer": ["Increased cost"],
+    "explanation": "Point-of-care testing may have disadvantages, including increased cost.",
+    "searchTags": [
+      "Point-of-care Testing",
+      "Clinical Laboratory",
+      "Disadvantages"
+    ],
+    "topics": ["Clinical Laboratory Medicine"]
+  },
+  {
+    "id": 14,
+    "questionType": "objective",
+    "question": "Amine precursors include the following:",
+    "options": [
+      "Histidine",
+      "Noradrenaline",
+      "Dopamine",
+      "Dihydroxyphenylalanine",
+      "Tyrosine"
+    ],
+    "answer": ["Dihydroxyphenylalanine"],
+    "explanation": "Dihydroxyphenylalanine is an amine precursor.",
+    "searchTags": ["Amine Precursors", "Neurotransmitters", "Biochemistry"],
+    "topics": ["Biochemistry"]
+  },
+  {
+    "id": 15,
+    "questionType": "objective",
+    "question": "Controllable preanalytical variables include:",
+    "options": ["Diet", "Posture", "Age", "Exercise", "Race"],
+    "answer": ["Diet", "Posture", "Exercise"],
+    "explanation": "Controllable preanalytical variables include factors like diet, posture, and exercise.",
+    "searchTags": [
+      "Preanalytical Variables",
+      "Laboratory Techniques",
+      "Clinical Pathology"
+    ],
+    "topics": ["Clinical Pathology"]
+  },
+  {
+    "id": 16,
+    "questionType": "objective",
+    "question": "On hypogonadotrophic hypogonadism:",
+    "options": [
+      "Hyperprolactinemia",
+      "Sheehan syndrome",
+      "Pregnancy",
+      "Menopause",
+      "Polycystic ovarian syndrome"
+    ],
+    "answer": ["Hyperprolactinemia"],
+    "explanation": "Hyperprolactinemia is associated with hypogonadotrophic hypogonadism.",
+    "searchTags": [
+      "Hypogonadotrophic Hypogonadism",
+      "Endocrine Disorders",
+      "Reproductive Medicine"
+    ],
+    "topics": ["Endocrine Disorders"]
+  },
+  {
+    "id": 17,
+    "questionType": "objective",
+    "question": "About Vitamin A:",
+    "options": [
+      "Water-soluble",
+      "Exists in 3 physiological states",
+      "Deficiency causes wet beri-beri",
+      "Deficiency causes pellagra",
+      "Excessive intake does not cause toxicity"
+    ],
+    "answer": ["Excessive intake does not cause toxicity"],
+    "explanation": "Vitamin A, in excessive intake, does not cause toxicity.",
+    "searchTags": ["Vitamin A", "Nutritional Assessment", "Toxicity"],
+    "topics": ["Nutrition and Dietary Factors"]
+  },
+  {
+    "id": 18,
+    "questionType": "objective",
+    "question": "Insensible water loss in neonates is due to:",
+    "options": [
+      "Low surface area to volume ratio",
+      "Underdevelopment of epidermis",
+      "Little subcutaneous fat",
+      "Low metabolic rate",
+      "Low respiratory rate"
+    ],
+    "answer": ["Underdevelopment of epidermis"],
+    "explanation": "Insensible water loss in neonates is due to underdevelopment of the epidermis.",
+    "searchTags": ["Insensible Water Loss", "Neonatal Care", "Pediatrics"],
+    "topics": ["Pediatric Pathology"]
+  },
+  {
+    "id": 19,
+    "questionType": "objective",
+    "question": "Apolipoprotein CII characteristics include:",
+    "options": [
+      "Mwt 8250",
+      "Mwt 2800",
+      "Produced in intestine",
+      "Inhibits lipoprotein lipase",
+      "Half-life of 15 days"
+    ],
+    "answer": ["Inhibits lipoprotein lipase"],
+    "explanation": "Apolipoprotein CII is known to inhibit lipoprotein lipase.",
+    "searchTags": ["Apolipoprotein CII", "Lipoprotein Lipase", "Biochemistry"],
+    "topics": ["Biochemistry"]
+  },
+  {
+    "id": 20,
+    "questionType": "objective",
+    "question": "Apolipoprotein CII characteristics include:",
+    "options": [
+      "Mwt 8250",
+      "Mwt 2800",
+      "Produced in liver",
+      "Inhibits lipoprotein lipase",
+      "Half-life is 15 days"
+    ],
+    "answer": ["Inhibits lipoprotein lipase"],
+    "explanation": "Apolipoprotein CII is known to inhibit lipoprotein lipase.",
+    "searchTags": ["Apolipoprotein CII", "Lipoprotein Lipase", "Biochemistry"],
+    "topics": ["Biochemistry"]
+  },
+  {
+    "id": 21,
+    "questionType": "objective",
+    "question": "Causes of hyponatremia in neonates include:",
+    "options": [
+      "Excess maternal oxytocin infusion",
+      "Infusion of water in excess of sodium",
+      "Diuretic therapy",
+      "Acute renal diagnosis",
+      "[Option missing]"
+    ],
+    "answer": ["Infusion of water in excess of sodium"],
+    "explanation": "Hyponatremia in neonates can result from the infusion of water in excess of sodium.",
+    "searchTags": ["Hyponatremia", "Neonatal Care", "Pediatrics"],
+    "topics": ["Pediatric Pathology"]
+  },
+  {
+    "id": 22,
+    "questionType": "objective",
+    "question": "Hormones increased in menopause include:",
+    "options": ["LH", "Estradiol", "TSH", "FSH", "Progesterone"],
+    "answer": ["LH", "FSH"],
+    "explanation": "Luteinizing hormone (LH) and follicle-stimulating hormone (FSH) are increased in menopause.",
+    "searchTags": ["Menopause", "Hormonal Changes", "Reproductive Medicine"],
+    "topics": ["Endocrine Disorders"]
+  },
+  {
+    "id": 23,
+    "questionType": "objective",
+    "question": "Hypokalemia causes include:",
+    "options": [
+      "Lactic acidosis",
+      "Alcoholic acidosis",
+      "DKA",
+      "Insulin deficiency",
+      "Hyperaldosteronism"
+    ],
+    "answer": ["DKA"],
+    "explanation": "Hypokalemia can occur in Diabetic Ketoacidosis (DKA) among various other conditions.",
+    "searchTags": [
+      "Hypokalemia",
+      "Diabetic Ketoacidosis",
+      "Electrolyte Imbalances"
+    ],
+    "topics": ["Clinical Medicine"]
+  },
+  {
+    "id": 24,
+    "questionType": "objective",
+    "question": "About stress:",
+    "options": [
+      "Release of catecholamines",
+      "Serum transferrin increases",
+      "Serum albumin increases",
+      "Decrease in serum haptoglobin",
+      "There is hepatic glycogenolysis"
+    ],
+    "answer": ["Release of catecholamines"],
+    "explanation": "Stress is associated with the release of catecholamines in the body.",
+    "searchTags": ["Stress", "Catecholamines", "Biochemical Response"],
+    "topics": ["Biochemistry"]
+  },
+  {
+    "id": 25,
+    "questionType": "objective",
+    "question": "Causes of secondary hyperaldosteronism include:",
+    "options": [
+      "Pregnancy",
+      "Obesity",
+      "Liver cirrhosis",
+      "Nephrotic syndrome",
+      "Severe cardiac failure"
+    ],
+    "answer": ["Severe cardiac failure"],
+    "explanation": "Secondary hyperaldosteronism can be caused by severe cardiac failure.",
+    "searchTags": ["Secondary Hyperaldosteronism", "Endocrine Disorders"],
+    "topics": ["Endocrine Disorders"]
+  },
+  {
+    "id": 26,
+    "questionType": "objective",
+    "question": "Ketone is found in urine in:",
+    "options": ["Anaemia", "DM", "Hypertension", "Exercise", "Starvation"],
+    "answer": ["DM"],
+    "explanation": "Ketones can be found in urine during Diabetes Mellitus (DM).",
+    "searchTags": ["Ketones", "Urine Analysis", "Metabolic Disorders"],
+    "topics": ["Clinical Pathology"]
+  },
+  {
+    "id": 27,
+    "questionType": "objective",
+    "question": "Analytes that decrease with age include:",
+    "options": ["LDH", "Insulin", "N.A.", "Thyroxine", "Potassium"],
+    "answer": ["Insulin"],
+    "explanation": "Insulin levels may decrease with age among various other factors.",
+    "searchTags": ["Aging", "Insulin Levels", "Geriatrics"],
+    "topics": ["Geriatric Medicine"]
+  },
+  {
+    "id": 28,
+    "questionType": "objective",
+    "question": "Clinical features of Cushing's syndrome include:",
+    "options": [
+      "Menstrual irregularities",
+      "Osteoporosis",
+      "Hypertension",
+      "Hirsutism",
+      "Muscular hyperplasia of the extremities"
+    ],
+    "answer": ["Osteoporosis", "Hypertension", "Hirsutism"],
+    "explanation": "Cushing's syndrome is associated with various clinical features, including osteoporosis, hypertension, and hirsutism.",
+    "searchTags": [
+      "Cushing's Syndrome",
+      "Hypercortisolism",
+      "Endocrine Disorders"
+    ],
+    "topics": ["Endocrinology"]
+  },
+  {
+    "id": 29,
+    "questionType": "objective",
+    "question": "Causes of spurious hyperkalemia include:",
+    "options": [
+      "Contamination with potassium salt",
+      "High potassium diet",
+      "Mechanical-induced hemolysis",
+      "Delay in separating serum and plasma",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Spurious hyperkalemia can result from various factors, including contamination, diet, hemolysis, and delays in sample processing.",
+    "searchTags": [
+      "Hyperkalemia",
+      "Laboratory Techniques",
+      "Clinical Pathology"
+    ],
+    "topics": ["Laboratory Techniques in Clinical Practice"]
+  },
+  {
+    "id": 30,
+    "questionType": "objective",
+    "question": "Match the following analytes with their respective tests:",
+    "options": [
+      "Bile pigments - Guaiac test",
+      "Protein - Rothera",
+      "Urobilinogen - Ehrlich",
+      "Glucose - Clinitest",
+      "Hemoglobin - Fouchet"
+    ],
+    "answer": [
+      "Bile pigments - Guaiac test",
+      "Protein - Rothera",
+      "Urobilinogen - Ehrlich",
+      "Glucose - Clinitest",
+      "Hemoglobin - Fouchet"
+    ],
+    "explanation": "Matching analytes with their respective tests is crucial for accurate laboratory diagnostics.",
+    "searchTags": [
+      "Laboratory Tests",
+      "Analyte Detection",
+      "Clinical Pathology"
+    ],
+    "topics": ["Laboratory Techniques in Clinical Practice"]
+  },
+  {
+    "id": 31,
+    "questionType": "objective",
+    "question": "Extrinsic receptors include:",
+    "options": ["5HTP1", "5HT4", "5HT3", "5HTP2", "5HT5"],
+    "answer": ["5HT4", "5HT3"],
+    "explanation": "Extrinsic receptors play a role in various physiological processes. ",
+    "searchTags": ["Extrinsic Receptors", "Pharmacology", "Physiology"],
+    "topics": ["Pharmacology"]
+  },
+  {
+    "id": 32,
+    "questionType": "objective",
+    "question": "On Kwashiokor:",
+    "options": [
+      "Hypoalbuminemia is an important feature.",
+      "Hypernutrition is an important cause",
+      "Elevated prealbumin and retinol binding protein",
+      "Serum amino acids are elevated",
+      "None of the above"
+    ],
+    "answer": ["Hypoalbuminemia is an important feature."],
+    "explanation": "Kwashiokor is characterized by various clinical features, including hypoalbuminemia.",
+    "searchTags": ["Kwashiokor", "Malnutrition", "Pediatrics"],
+    "topics": ["Pediatric Pathology"]
+  },
+  {
+    "id": 33,
+    "questionType": "objective",
+    "question": "Chronic kidney disease can be caused by:",
+    "options": [
+      "Essential hypertension",
+      "Scorpion bite",
+      "DM",
+      "Acute tubular necrosis",
+      "Obstructive uropathy"
+    ],
+    "answer": ["Essential hypertension", "DM", "Obstructive uropathy"],
+    "explanation": "Various factors can contribute to chronic kidney disease, including essential hypertension, diabetes mellitus, and obstructive uropathy.",
+    "searchTags": ["Chronic Kidney Disease", "Renal Disorders", "Nephrology"],
+    "topics": ["Nephrology"]
+  },
+  {
+    "id": 34,
+    "questionType": "objective",
+    "question": "Reducing substances in urine include all of the following except:",
+    "options": ["Fructose", "Sucrose", "Creatinine", "Uric acid", "Aspirin"],
+    "answer": ["Creatinine"],
+    "explanation": "Reducing substances in urine are indicative of certain metabolic conditions. Creatinine is not considered a reducing substance.",
+    "searchTags": ["Urinalysis", "Reducing Substances", "Metabolic Disorders"],
+    "topics": ["Clinical Pathology"]
+  },
+  {
+    "id": 35,
+    "questionType": "objective",
+    "question": "Factors contributing to the etiology of obesity include:",
+    "options": [
+      "Genetic predisposition",
+      "Serum leptin",
+      "Hypervitaminosis",
+      "Sedentary lifestyle",
+      "Dietary habits"
+    ],
+    "answer": [
+      "Genetic predisposition",
+      "Sedentary lifestyle",
+      "Dietary habits"
+    ],
+    "explanation": "Obesity has multifactorial etiology, including genetic factors, lifestyle choices, and dietary habits.",
+    "searchTags": ["Obesity", "Etiology", "Genetics"],
+    "topics": ["Nutrition and Dietary Factors"]
+  },
+  {
+    "id": 36,
+    "questionType": "objective",
+    "question": "Indications for parenteral nutrition include:",
+    "options": [
+      "Mucositis",
+      "Peritonitis",
+      "Peptic ulcer",
+      "Acute Diarrhoea",
+      "Bone marrow transplant"
+    ],
+    "answer": ["Mucositis", "Peritonitis", "Bone marrow transplant"],
+    "explanation": "Parenteral nutrition is indicated in various clinical conditions, including mucositis, peritonitis, and during bone marrow transplant.",
+    "searchTags": ["Parenteral Nutrition", "Clinical Nutrition", "Indications"],
+    "topics": ["Clinical Nutrition"]
+  },
+  {
+    "id": 37,
+    "questionType": "objective",
+    "question": "Enzymes involved in the synthesis of cortisol include:",
+    "options": [
+      "11-beta-hydroxylase",
+      "21-alpha-hydroxylase",
+      "1-alpha-hydroxylase",
+      "17-hydroxyprogesterone",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Cortisol synthesis involves multiple enzymes, including 11-beta-hydroxylase, 21-alpha-hydroxylase, 1-alpha-hydroxylase, and 17-hydroxyprogesterone.",
+    "searchTags": ["Cortisol Synthesis", "Enzymes", "Endocrinology"],
+    "topics": ["Endocrine Disorders"]
+  },
+  {
+    "id": 38,
+    "questionType": "objective",
+    "question": "Biochemical features of chronic kidney disease include:",
+    "options": [
+      "Hyperuricemia",
+      "Hypocalcemia",
+      "Hypomagnesemia",
+      "Pericarditis",
+      "Colitis"
+    ],
+    "answer": ["Hyperuricemia", "Hypocalcemia", "Hypomagnesemia"],
+    "explanation": "Chronic kidney disease is associated with various biochemical abnormalities, including hyperuricemia, hypocalcemia, and hypomagnesemia.",
+    "searchTags": [
+      "Chronic Kidney Disease",
+      "Biochemical Abnormalities",
+      "Renal Disorders"
+    ],
+    "topics": ["Nephrology"]
+  },
+  {
+    "id": 39,
+    "questionType": "objective",
+    "question": "On cerebrospinal fluid (CSF):",
+    "options": [
+      "Clear and colorless",
+      "Has more sodium and chloride than plasma",
+      "More protein in neonatal CSF than adult",
+      "Total volume is replaced every 12 hours",
+      "Is about 100-200 mls"
+    ],
+    "answer": [
+      "Clear and colorless",
+      "Total volume is replaced every 12 hours"
+    ],
+    "explanation": "",
+    "searchTags": ["Cerebrospinal Fluid", "Neurology", "Diagnostic Tests"],
+    "topics": ["Neurology"]
+  },
+  {
+    "id": 40,
+    "questionType": "objective",
+    "question": "About Vitamin C:",
+    "options": [
+      "Also known as ascorbic acid",
+      "Fat-soluble",
+      "Has antioxidant properties",
+      "Reduced collagen synthesis"
+    ],
+    "answer": ["Also known as ascorbic acid", "Has antioxidant properties"],
+    "explanation": "Vitamin C, also known as ascorbic acid, is essential for various physiological functions, including its antioxidant properties.",
+    "searchTags": ["Vitamin C", "Ascorbic Acid", "Antioxidants"],
+    "topics": ["Nutrition and Dietary Factors"]
+  },
+  {
+    "id": 41,
+    "questionType": "objective",
+    "question": "Which of these decreases with age:",
+    "options": ["LDH", "Insulin", "Thyroxine", "Potassium", "Albumin"],
+    "answer": ["LDH", "Insulin", "Thyroxine", "Potassium", "Albumin"],
+    "explanation": "Certain physiological parameters may show changes with age, including a decrease in insulin and thyroxine.",
+    "searchTags": ["Aging", "Physiological Changes", "Clinical Parameters"],
+    "topics": ["Geriatric Medicine"]
+  },
+  {
+    "id": 42,
+    "questionType": "objective",
+    "question": "Which of these indicates ovarian reserve:",
+    "options": [
+      "Inhibin A",
+      "Anti-Mullerian hormone",
+      "Inhibin B",
+      "Estradiol",
+      "Luteinizing hormone"
+    ],
+    "answer": ["Anti-Mullerian hormone", "Inhibin B"],
+    "explanation": "Ovarian reserve is an important aspect of reproductive health, and certain hormones, such as anti-Mullerian hormone and inhibin B, are indicators of it.",
+    "searchTags": ["Ovarian Reserve", "Reproductive Health", "Hormones"],
+    "topics": ["Reproductive Medicine"]
+  },
+  {
+    "id": 43,
+    "questionType": "objective",
+    "question": "Disadvantages of point-of-care testing:",
+    "options": [
+      "Duplication of machine",
+      "Variability in lab results",
+      "Better management of lab data",
+      "Efficient utilization of lab personnel",
+      "Increased cost of operation"
+    ],
+    "answer": [
+      "Duplication of machine",
+      "Variability in lab results",
+      "Increased cost of operation"
+    ],
+    "explanation": "While point-of-care testing has advantages, it also has certain disadvantages, including potential duplication of machines, variability in results, and increased operational costs.",
+    "searchTags": [
+      "Point-of-Care Testing",
+      "Clinical Laboratories",
+      "Diagnostic Tests"
+    ],
+    "topics": ["Clinical Pathology"]
+  },
+  {
+    "id": 44,
+    "questionType": "objective",
+    "question": "Ketone is found in urine in:",
+    "options": [
+      "Anaemia",
+      "DM",
+      "Hypertension",
+      "Exercise",
+      "Prolonged fasting"
+    ],
+    "answer": ["DM", "Exercise", "Prolonged fasting"],
+    "explanation": "The presence of ketones in urine is associated with specific conditions, including diabetes mellitus, exercise, and prolonged fasting.",
+    "searchTags": ["Ketones", "Urinalysis", "Metabolic Disorders"],
+    "topics": ["Clinical Pathology"]
+  },
+  {
+    "id": 45,
+    "questionType": "objective",
+    "question": "Causes of renal oliguria include:",
+    "options": [
+      "Acute blood loss",
+      "Ruptured ectopic pregnancy",
+      "Poison",
+      "Burns",
+      "Acute pancreatitis"
+    ],
+    "answer": ["Acute blood loss", "Poison", "Burns", "Acute pancreatitis"],
+    "explanation": "Renal oliguria can be caused by various factors, including acute blood loss, exposure to toxic substances, burns, and acute pancreatitis.",
+    "searchTags": ["Renal Oliguria", "Renal Disorders", "Nephrology"],
+    "topics": ["Nephrology"]
+  },
+  {
+    "id": 46,
+    "questionType": "objective",
+    "question": "On the etiology of obesity:",
+    "options": [
+      "Genetic predisposition",
+      "Serum leptin",
+      "Hypervitaminosis",
+      "Sedentary lifestyle",
+      "Dietary habits"
+    ],
+    "answer": [
+      "Genetic predisposition",
+      "Sedentary lifestyle",
+      "Dietary habits"
+    ],
+    "explanation": "Obesity has multifactorial etiology, including genetic factors, lifestyle choices, and dietary habits.",
+    "searchTags": ["Obesity", "Etiology", "Genetics"],
+    "topics": ["Nutrition and Dietary Factors"]
+  },
+  {
+    "id": 47,
+    "questionType": "objective",
+    "question": "Insensible water loss in neonate is due to:",
+    "options": [
+      "Low surface area to volume ratio",
+      "Underdevelopment of epidermis",
+      "Little subcutaneous fat",
+      "Low metabolic rate",
+      "Low respiratory rate"
+    ],
+    "answer": [
+      "Low surface area to volume ratio",
+      "Underdevelopment of epidermis",
+      "Little subcutaneous fat"
+    ],
+    "explanation": "Insensible water loss in neonates is influenced by factors such as surface area to volume ratio, underdevelopment of the epidermis, and limited subcutaneous fat.",
+    "searchTags": ["Neonatology", "Water Loss", "Pediatrics"],
+    "topics": ["Pediatrics"]
+  }
+]

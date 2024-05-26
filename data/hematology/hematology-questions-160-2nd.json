@@ -1,0 +1,815 @@
+[
+  {
+    "id": 1,
+    "questionType": "objective",
+    "question": "Reed-Steinberg cells are least abundant in this subtype of Hodgkin Lymphoma",
+    "options": [
+      "Nodular sclerosis classical HL",
+      "Lymphocyte rich classical HL",
+      "Mixed cellularity classical HL",
+      "Lymphocyte depleted Classical HL",
+      "Nodular lymphocyte-predominant Hodgkin's lymphoma (NLPHL)"
+    ],
+    "answer": ["Nodular lymphocyte-predominant Hodgkin's lymphoma (NLPHL)"],
+    "explanation": "Reed-Steinberg cells are least abundant in Nodular lymphocyte-predominant Hodgkin's lymphoma (NLPHL).",
+    "searchTags": [],
+    "sources": ["2021 2nd test"],
+    "topics": "Hodgkin Lymphoma Subtypes",
+    "course": "Pathology",
+    "subcourse": "Hematology",
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0.0,
+    "previous10AttemptQuestionscore": [],
+    "averageUnderstandingRatePer10": [],
+    "iscompleted": false,
+    "averagerating": 0,
+    "variationgiven": 0
+  },
+  {
+    "id": 2,
+    "questionType": "objective",
+    "question": "A combination therapy which includes Anti-CD-20 is not appropriate for these subclasses of Hodgkin Lymphoma except:",
+    "options": [
+      "Nodular sclerosis classical HL",
+      "Lymphocyte rich classical HL",
+      "Mixed cellularity classical HL",
+      "Lymphocyte depleted Classical HL",
+      "Nodular lymphocyte-predominant Hodgkin's lymphoma (NLPHL)"
+    ],
+    "answer": ["Nodular lymphocyte-predominant Hodgkin's lymphoma (NLPHL)"],
+    "explanation": "Anti-CD-20 therapy (e.g., rituximab) is not typically used in classical HL subtypes.",
+    "searchTags": [],
+    "sources": ["2021 2nd test"],
+    "topics": "Hodgkin Lymphoma Subtypes",
+    "course": "Pathology",
+    "subcourse": "Hematology",
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0.0,
+    "previous10AttemptQuestionscore": [],
+    "averageUnderstandingRatePer10": [],
+    "iscompleted": false,
+    "averagerating": 0,
+    "variationgiven": 0
+  },
+  {
+    "id": 3,
+    "questionType": "objective",
+    "question": "Differential diagnosis of Hodgkin Lymphoma includes all except:",
+    "options": [
+      "Non-Hodgkin Lymphoma",
+      "Infectious mononucleosis",
+      "Secondary polycythemia",
+      "Tuberculosis",
+      "Nasopharyngeal carcinoma"
+    ],
+    "answer": ["Secondary polycythemia"],
+    "explanation": "Differential diagnosis of Hodgkin Lymphoma includes various conditions, but secondary polycythemia is not typically considered in the list.",
+    "searchTags": [],
+    "sources": ["2021 2nd test"],
+    "topics": "Hodgkin Lymphoma Diagnosis",
+    "course": "Pathology",
+    "subcourse": "Hematology",
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0.0,
+    "previous10AttemptQuestionscore": [],
+    "averageUnderstandingRatePer10": [],
+    "iscompleted": false,
+    "averagerating": 0,
+    "variationgiven": 0
+  },
+  {
+    "id": 4,
+    "questionType": "objective",
+    "question": "One of the following is incorrectly matched!",
+    "options": [
+      "Burkitt's lymphoma and t(8; 22)",
+      "t(11;14)(q24;q32) and multiple myeloma",
+      "t(9;22) and follicular lymphoma",
+      "BCL-1 (cyclin D1) and IgH and mantle cell lymphoma",
+      "BCL-2 (anti-apoptotic) and IgH in follicular lymphoma"
+    ],
+    "answer": ["t(9;22) and follicular lymphoma"],
+    "explanation": "The translocation t(9;22) is typically associated with chronic myeloid leukemia (CML), not follicular lymphoma.",
+    "searchTags": [],
+    "sources": ["2021 2nd test"],
+    "topics": "Cytogenetics in Lymphomas",
+    "course": "Pathology",
+    "subcourse": "Hematology",
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0.0,
+    "previous10AttemptQuestionscore": [],
+    "averageUnderstandingRatePer10": [],
+    "iscompleted": false,
+    "averagerating": 0,
+    "variationgiven": 0
+  },
+  {
+    "id": 5,
+    "questionType": "objective",
+    "question": "Which one of the following is an aggressive and has the potential for cure",
+    "options": [
+      "Diffuse large B cell lymphoma",
+      "Follicular lymphoma",
+      "MALTOMA of the small intestine",
+      "Anaplastic T cell lymphoma",
+      "Small lymphocytic lymphoma"
+    ],
+    "answer": ["Diffuse large B cell lymphoma"],
+    "explanation": "Diffuse large B cell lymphoma is an aggressive lymphoma but has the potential for cure with appropriate treatment.",
+    "searchTags": [],
+    "sources": ["2021 2nd test"],
+    "topics": "Non-Hodgkin Lymphoma Subtypes",
+    "course": "Pathology",
+    "subcourse": "Hematology",
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0.0,
+    "previous10AttemptQuestionscore": [],
+    "averageUnderstandingRatePer10": [],
+    "iscompleted": false,
+    "averagerating": 0,
+    "variationgiven": 0
+  },
+  {
+    "id": 6,
+    "questionType": "objective",
+    "question": "All the statements are true except:",
+    "options": [
+      "Non-Hodgkin's lymphomas (NHL) are a heterogeneous group of malignant lymphomas with many different subtypes.",
+      "Environmental and genetic factors have been implicated in the pathogenesis of the disease",
+      "Every few years the classification is updated, but today, morphology, immunophenotype molecular, cytogenetics, and other techniques are used for diagnosis.",
+      "Chemotherapy, radiotherapy, and monoclonal antibodies are useful tools in the management of NHL",
+      "Targeted therapy is not encouraged"
+    ],
+    "answer": ["Targeted therapy is not encouraged"],
+    "explanation": "Targeted therapy is encouraged in the management of NHL, so this statement is not true.",
+    "searchTags": [],
+    "sources": ["2021 2nd test"],
+    "topics": "Non-Hodgkin Lymphoma Diagnosis and Treatment",
+    "course": "Pathology",
+    "subcourse": "Hematology",
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0.0,
+    "previous10AttemptQuestionscore": [],
+    "averageUnderstandingRatePer10": [],
+    "iscompleted": false,
+    "averagerating": 0,
+    "variationgiven": 0
+  },
+  {
+    "id": 7,
+    "questionType": "objective",
+    "question": "Ingredients in the definition of multiple myeloma include all but one of the following",
+    "options": [
+      "It is a clonal neoplastic disease characterized by abnormal proliferation of malignant plasma cells that elaborate abnormal immunoglobulin or immunoglobulin fragments (light chains)",
+      "These Ig are incompetent and ineffective, hence cause impaired immunity",
+      "The excess Plasma Cells crowd out the normal haemopoietic cells of the bone marrow",
+      "Tissue infiltration, organ failure, destruction of bones",
+      "Plasma cells giving rise to multiple myeloma arise from precursor B cells"
+    ],
+    "answer": [
+      "Plasma cells giving rise to multiple myeloma arise from precursor B cells"
+    ],
+    "explanation": "Multiple myeloma arises from malignant plasma cells, not precursor B cells.",
+    "searchTags": [],
+    "sources": ["2021 2nd test"],
+    "topics": "Multiple Myeloma Definition",
+    "course": "Pathology",
+    "subcourse": "Hematology",
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0.0,
+    "previous10AttemptQuestionscore": [],
+    "averageUnderstandingRatePer10": [],
+    "iscompleted": false,
+    "averagerating": 0,
+    "variationgiven": 0
+  },
+  {
+    "id": 8,
+    "questionType": "objective",
+    "question": "The following are true about the epidemiology of multiple myeloma (MM) except:",
+    "options": [
+      "It accounts for about 2% of all malignancies and about 20% of all hematological malignancies",
+      "Median age 60-65 years; younger age accounts for less than 2%.",
+      "Obese individuals may have a greater propensity to develop MM.",
+      "The incidence in the Negroid population is twice that of the Caucasians.",
+      "Exposure to repeated X-ray will certainly lead to MM."
+    ],
+    "answer": [
+      "It accounts for about 2% of all malignancies and about 20% of all hematological malignancies"
+    ],
+    "explanation": "Exposure to X-rays is not a certain cause of MM, so this statement is not true.",
+    "searchTags": [],
+    "sources": ["2021 2nd test"],
+    "topics": "Multiple Myeloma Epidemiology",
+    "course": "Pathology",
+    "subcourse": "Hematology",
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0.0,
+    "previous10AttemptQuestionscore": [],
+    "averageUnderstandingRatePer10": [],
+    "iscompleted": false,
+    "averagerating": 0,
+    "variationgiven": 0
+  },
+  {
+    "id": 9,
+    "questionType": "objective",
+    "question": "Multiple myeloma defining events include all of the following excluding:",
+    "options": [
+      "Calcinosis",
+      "Bone disease",
+      "Hypercalcemia",
+      "Chronic renal disease",
+      "Anemia"
+    ],
+    "answer": ["Calcinosis"],
+    "explanation": "Calcinosis is not typically associated with multiple myeloma defining events.",
+    "searchTags": [],
+    "sources": ["2021 2nd test"],
+    "topics": "Multiple Myeloma Diagnosis",
+    "course": "Pathology",
+    "subcourse": "Hematology",
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0.0,
+    "previous10AttemptQuestionscore": [],
+    "averageUnderstandingRatePer10": [],
+    "iscompleted": false,
+    "averagerating": 0,
+    "variationgiven": 0
+  },
+  {
+    "id": 10,
+    "questionType": "objective",
+    "question": "In the criteria for staging multiple myeloma, only one of the following is correct",
+    "options": [
+      "Stage 1: serum B2 microglobulin <3.5g/L and albumin",
+      "Stage 1: serum B2 microglobulin <3.5mg/L and albumin >3.5mg/L",
+      "Stage 2: Serum B2 microglobulin <5.5mg/L and albumin <3.5g/L",
+      "Stage 2: Serum B2 microglobulin >5.5g/dL and albumin <3.5g/dL",
+      "Stage 3: Serum B2 microglobulin >5.5mg/L, and serum =3.5g/dL"
+    ],
+    "answer": ["Stage 2: Serum B2 microglobulin <5.5mg/L and albumin <3.5g/L"],
+    "explanation": "In the criteria for staging multiple myeloma, Stage 3 involves serum B2 microglobulin >5.5mg/L and serum albumin =3.5g/dL.",
+    "searchTags": [],
+    "sources": ["2021 2nd test"],
+    "topics": "Multiple Myeloma Staging",
+    "course": "Pathology",
+    "subcourse": "Hematology",
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0.0,
+    "previous10AttemptQuestionscore": [],
+    "averageUnderstandingRatePer10": [],
+    "iscompleted": false,
+    "averagerating": 0,
+    "variationgiven": 0
+  },
+  {
+    "id": 11,
+    "questionType": "objective",
+    "question": "Concerning Acute Leukemia",
+    "options": [
+      "Defined as the presence of over 20% blast cells in blood or BM",
+      "It's an indolent disease",
+      "Usually non-aggressive disease",
+      "Malignant transformation does not occur in HSC.",
+      "Malignant transformation occurs only in tissues."
+    ],
+    "answer": [
+      "Defined as the presence of over 20% blast cells in blood or BM"
+    ],
+    "explanation": "Acute leukemia is defined as the presence of over 20% blast cells in the blood or bone marrow.",
+    "searchTags": [],
+    "sources": ["2021 2nd test"],
+    "topics": "Acute Leukemia Definition",
+    "course": "Pathology",
+    "subcourse": "Hematology",
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0.0,
+    "previous10AttemptQuestionscore": [],
+    "averageUnderstandingRatePer10": [],
+    "iscompleted": false,
+    "averagerating": 0,
+    "variationgiven": 0
+  },
+  {
+    "id": 12,
+    "questionType": "objective",
+    "question": "Classification of Acute leukemia is based on",
+    "options": [
+      "Duration",
+      "Origin",
+      "Morphology",
+      "Numbering",
+      "course of disease"
+    ],
+    "answer": ["Morphology"],
+    "explanation": "The classification of leukemia is primarily based on the morphology (appearance) of the leukemia cells.",
+    "searchTags": [],
+    "sources": ["2021 2nd test"],
+    "topics": "Leukemia Classification",
+    "course": "Pathology",
+    "subcourse": "Hematology",
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0.0,
+    "previous10AttemptQuestionscore": [],
+    "averageUnderstandingRatePer10": [],
+    "iscompleted": false,
+    "averagerating": 0,
+    "variationgiven": 0
+  },
+
+  {
+    "id": 13,
+    "question": "Incidence of acute leukemia",
+    "options": [
+      "ALL is most common in children",
+      "AML is most common in children",
+      "AML represents 80% of leukemias among children",
+      "ALL has a male preponderance for T-ALL",
+      "AML is found in less than 10% in childhood"
+    ],
+    "answer": ["ALL is most common in children"],
+    "explanation": "Acute lymphoblastic leukemia (ALL) is the most common type of leukemia in children, accounting for about 75-80% of cases. Acute myeloid leukemia (AML) is the second most common type of leukemia in children."
+  },
+  {
+    "id": 14,
+    "question": "According to FAB classification for AML",
+    "options": [
+      "MO is Erythroleukemia",
+      "M1 is Monocytic",
+      "M2 is Monoblastic",
+      "M3 is Acute Promyelocytic",
+      "M4 is Granulocytic"
+    ],
+    "answer": ["M3 is Acute Promyelocytic"],
+    "explanation": "According to the French-American-British (FAB) classification, M3 subtype of acute myeloid leukemia (AML) is known as Acute Promyelocytic Leukemia (APL)."
+  },
+  {
+    "id": 15,
+    "question": "According to FAB classification for ALL",
+    "options": [
+      "L1 blast cells are heterogeneous",
+      "L2 blast cells: heterogeneous, low NC ratio",
+      "L3 Blasts: cytoplasm is vacuolated with prominent nucleoli",
+      "L3 blast cells lack nucleoli",
+      "L1 blast cells: low NC ratio"
+    ],
+    "answer": ["L3 Blasts: cytoplasm is vacuolated with prominent nucleoli"],
+    "explanation": "L1 blast cells: small, uniform, high N:C ratio, scanty cytoplasm\n\n L2 blast cells: large, heterogenous prominent lower nucleoli: cytoplasmic \n\n L3 vacuolated blasts: prominent nucleoli, strong basophilic cytoplasm & cytoplasmic vacuoles (usu B-ALL)*\n\n *In WHO classification, L3 cases with mature immunophenotype and Burkitt's lymphoma translocations are not classified as ALL"
+  },
+
+  {
+    "id": 16,
+    "question": "Which of the following myeloproliferative neoplasms is most likely to be over 95% JAK2 positive?",
+    "options": [
+      "Myelofibrosis",
+      "Polycythemia",
+      "Essential thrombocythemia",
+      "Chronic myeloid leukemia",
+      "Somatic Mastocytosis"
+    ],
+    "answer": ["Polycythemia"],
+    "explanation": "Polycythemia vera (PV) is a myeloproliferative neoplasm that is most likely to be over 95% JAK2 positive."
+  },
+  {
+    "id": 17,
+    "question": "The commonest form of treatment in Nigeria for Polycythemia is",
+    "options": [
+      "Hydration",
+      "Venesection",
+      "Ruxolitinib",
+      "Transfusion of whole blood",
+      "Transfusion of red cell concentrate"
+    ],
+    "answer": ["Venesection"],
+    "explanation": "Venesection, or phlebotomy, is a common treatment for Polycythemia vera (PV) to reduce the excess red blood cell count and lower the risk of complications."
+  },
+  {
+    "id": 18,
+    "question": "An uncontrolled production of platelets is known as",
+    "options": [
+      "Leukemia",
+      "Polycythemia",
+      "Thrombocythemia",
+      "Myelofibrosis",
+      "Thrombocytopenia"
+    ],
+    "answer": ["Thrombocythemia"],
+    "explanation": "Thrombocythemia, or thrombocytosis, is the uncontrolled production of platelets, leading to an elevated platelet count in the blood."
+  },
+  {
+    "id": 19,
+    "question": "The dominant clinical feature in acute leukemia is from",
+    "options": [
+      "Organ infiltration",
+      "Pulmonary hypertension",
+      "Bone marrow failure",
+      "Tumor lysis syndrome",
+      "Catastrophic hemorrhage"
+    ],
+    "answer": ["Bone marrow failure"],
+    "explanation": "The dominant clinical feature in acute leukemia is often related to bone marrow failure, which can manifest as anemia, thrombocytopenia, and neutropenia."
+  },
+  {
+    "id": 20,
+    "question": "Tear drop shaped cells is characteristic of",
+    "options": [
+      "Polycythemia rubra vera",
+      "Gaucher disease",
+      "Thalassemia",
+      "Myelofibrosis",
+      "None of the above"
+    ],
+    "answer": ["Myelofibrosis"],
+    "explanation": "Tear drop shaped cells, or dacrocytes, are characteristic of myelofibrosis, a condition characterized by the replacement of bone marrow with fibrous tissue."
+  },
+  {
+    "id": 21,
+    "question": "The most appropriate site of Haemopoiesis in a twenty-year-old man is the:",
+    "options": [
+      "Red pulp of the spleen",
+      "Liver",
+      "Kidney",
+      "Thymus",
+      "Marrow of the skull, sternum and iliac crest"
+    ],
+    "answer": ["Marrow of the skull, sternum and iliac crest"],
+    "explanation": "In a twenty-year-old man, the most appropriate site of hematopoiesis is the marrow of the skull, sternum, and iliac crest, where active hematopoiesis occurs in adults."
+  },
+  {
+    "id": 22,
+    "question": "Thrombopoietin is the growth factor for:",
+    "options": [
+      "Erythropoiesis",
+      "Granulopoiesis",
+      "Megakaryopoiesis",
+      "Lymphopoiesis",
+      "Monocyte production"
+    ],
+    "answer": ["Megakaryopoiesis"],
+    "explanation": "Thrombopoietin is the growth factor responsible for stimulating the production of platelets (thrombopoiesis) from megakaryocytes in the bone marrow."
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is a B-Lymphocyte growth factor:",
+    "options": ["CFU-GEMM", "CFU-GM", "Interleukin-7", "CFU-Meg", "CFU-BL"],
+    "answer": ["Interleukin-7"],
+    "explanation": "Interleukin-7 (IL-7) is a growth factor that plays a critical role in the development and survival of B-lymphocytes."
+  },
+  {
+    "id": 24,
+    "question": "The extracellular matrix of the bone marrow supports haemopoiesis and consists of the following glycoproteins except",
+    "options": [
+      "Fibronectin",
+      "Haemonectin",
+      "Macrophages",
+      "Collagen",
+      "Proteoglycans"
+    ],
+    "answer": ["Haemonectin"],
+    "explanation": "Haemonectin is not a glycoprotein found in the extracellular matrix of the bone marrow. The other options (Fibronectin, Collagen, and Proteoglycans) are part of the bone marrow extracellular matrix."
+  },
+  {
+    "id": 25,
+    "question": "The approximate iron content of three units of packed red cells for transfusion is:",
+    "options": [
+      "100mg of iron",
+      "200mg of iron",
+      "750mg of iron",
+      "400mg of iron",
+      "300mg of iron"
+    ],
+    "answer": ["750mg of iron"],
+    "explanation": "The approximate iron content of three units of packed red cells for transfusion is around 300mg of iron."
+  },
+  {
+    "id": 26,
+    "question": "Iron deficiency anaemia is associated with which lab parameter:",
+    "options": [
+      "Elevated lactate dehydrogenase level",
+      "Reduced serum calcium",
+      "Elevated beta-2 microglobulin",
+      "Elevated serum transferrin receptor level",
+      "Reduced serum immunoglobulin"
+    ],
+    "answer": ["Elevated serum transferrin receptor level"],
+    "explanation": "Iron deficiency anaemia is associated with an elevated serum transferrin receptor level, which reflects increased erythropoiesis in response to iron deficiency."
+  },
+  {
+    "id": 27,
+    "question": "Which of the underlisted is not a Lab finding in Iron deficiency anaemia:",
+    "options": [
+      "Elevated Total iron binding capacity",
+      "Elevated free erythrocyte protoporphyrin",
+      "Micro-normoblast in the blood film",
+      "Absence of dying cells in the blood film",
+      "Elevated serum ferritin level"
+    ],
+    "answer": ["Elevated serum ferritin level"],
+    "explanation": "Iron deficiency anemia is characterized by\n1. low hemoglobin \n2. low hematocrit \n3.  low mean corpuscular volume (MCV), and \n4.low serum iron levels, as well as high transferrin or total iron-binding capacity (TIBC).\n5. Microscopic examination of a blood film in iron deficiency anemia reveals small, oval-shaped cells with pale centers, which are called microcytes \n\nHowever, the absence of dying cells is not a typical finding in iron deficiency anemia. Dying cells, or fragmented red blood cells, are more commonly associated with hemolytic anemias, where red blood cells are destroyed prematurely."
+  },
+  {
+    "id": 28,
+    "question": "Which of the underlisted is not a lab finding in the diagnosis of unstable haemoglobins:",
+    "options": [
+      "Heinz body test",
+      "Coomb's test",
+      "Haemoglobin electrophoresis",
+      "Measuring the change of absorbance at a specific wavelength",
+      "Haemoglobin stability test"
+    ],
+    "answer": ["Haemoglobin electrophoresis"],
+    "explanation": "Measuring the change of absorbance at a specific wavelength is not a lab finding in the diagnosis of unstable hemoglobins.\n\n Unstable hemoglobinopathies are rare inherited hemoglobinopathies in which the solubility of hemoglobin (Hb) is altered, leading to \n1.  Hb precipitates (Heinz bodies),\n2. reduced red blood cell (RBC) lifespan, and \n3. hemolytic anemia.\n\n Laboratory testing for unstable hemoglobinopathies consists of \n1. an initial evaluation,\n2. specialized testing, and  \n3. genetic testing. \n\nThe initial evaluation usually reveals normocytic anemia with nonspecific findings of hemolysis,\n\n and specialized testing includes\n1. stability testing,\n2. Heinz body test, and\n3. hemoglobin electrophoresis.\n\n Genetic testing, particularly globin gene sequencing, is the only technique that may detect some of the rare unstable hemoglobins\n\nThe Coombs test, also known as the antiglobulin test, is a blood test that checks for antibodies that attack red blood cells. There are two types of Coombs tests: direct and indirect. The direct Coombs test looks for antibodies that are stuck to the surface of red blood cells, while the indirect Coombs test looks for antibodies that are floating in the blood. The indirect Coombs test is used to screen blood before a transfusion and to detect antibodies in pregnant women that could harm their unborn baby. A positive Coombs test result indicates the presence of antibodies that can attack red blood cells, which can be caused by several conditions, including autoimmune hemolytic anemia, hemolytic disease of the newborn, and transfusion reactions. The Coombs test is performed by taking a small sample of blood from a vein in the arm or hand, and no special preparation is necessary."
+  },
+  {
+    "id": 29,
+    "question": "Which of the following is not a feature of severe Hereditary Spherocytosis:",
+    "options": [
+      "Haemorrhagic bullae",
+      "The haemoglobin level is less than 6gm/dl",
+      "The serum bilirubin level is greater or equal to 3mg.",
+      "The spectrin level is less than 20 percent of normal membrane spectrin level.",
+      "Leg ulcers may be a complication"
+    ],
+    "answer": ["Haemorrhagic bullae"],
+    "explanation": "Haemorrhagic bullae are not a feature of severe Hereditary Spherocytosis. The other options are associated with severe Hereditary Spherocytosis."
+  },
+  {
+    "id": 30,
+    "question": "The most beneficial therapy in Hereditary Spherocytosis is:",
+    "options": [
+      "Busulphan and prednisolone",
+      "Fludarabine and cyclophosphamide",
+      "Folic acid and red blood cell transfusion",
+      "Factor VII therapy",
+      "Fresh frozen plasma and cryoprecipitate"
+    ],
+    "answer": ["Folic acid and red blood cell transfusion"],
+    "explanation": "The most beneficial therapy in Hereditary Spherocytosis is folic acid supplementation and, in severe cases, red blood cell transfusion to manage anemia and support erythropoiesis."
+  },
+  {
+    "id": 31,
+    "question": "Which of the following diagnostic methods used in haematology is most sensitive?",
+    "options": [
+      "Morphology",
+      "Cytogenetics",
+      "Immunophenotyping",
+      "PCR",
+      "Florescent in-situ hybridization"
+    ],
+    "answer": ["PCR"],
+    "explanation": "The most sensitive diagnostic method in haematology is Polymerase Chain Reaction (PCR), particularly for the detection of specific genetic mutations or the presence of low levels of genetic material \n\n Flow cytometry is also highly sensitive for the detection of specific cell surface markers, which is essential in the diagnosis and classification of haematological malignancies\n\nFluorescent in-situ hybridization (FISH) is also sensitive for detecting specific chromosomal abnormalities, which is useful in the diagnosis and monitoring of certain haematological disorders.\n\n However, PCR is generally considered the most sensitive method for molecular diagnostics in haematology"
+  },
+  {
+    "id": 32,
+    "question": "Which of these cells is commonly used for cytogenetic studies?",
+    "options": [
+      "Lymphocyte",
+      "Neutrophil",
+      "Macrophage",
+      "Erythrocytes",
+      "Platelets"
+    ],
+    "answer": ["Lymphocyte"],
+    "explanation": "Lymphocytes are commonly used for cytogenetic studies due to their ability to be cultured and their relatively stable karyotypes."
+  },
+  {
+    "id": 33,
+    "question": "Clinical applications of specific haematological investigations include the following except",
+    "options": [
+      "Establish clonality",
+      "Classify diseases",
+      "Recommend a therapy",
+      "Determine prognosis purposes",
+      "None of the above"
+    ],
+    "answer": ["None of the above"],
+    "explanation": "Clinical applications of specific haematological investigations include establishing clonality, classifying diseases, recommending therapy, and determining prognosis."
+  },
+  {
+    "id": 34,
+    "question": "Which of these cytogenetic patterns is not correctly linked to an appropriate haematological condition?",
+    "options": [
+      "t(9:22) Chronic myeloid leukaemia",
+      "t(15:17) Acute myeloid leukaemia (M3)",
+      "inversion 16 Acute myeloid leukaemia (M4)",
+      "t(8:21) Acute myeloid leukaemia (M1)",
+      "t(9:23) Acute lymphoblastic leukaemia (ALL)"
+    ],
+    "answer": ["t(8:21) Acute myeloid leukaemia (M1)"],
+    "explanation": "The cytogenetic pattern that is not correctly linked to an appropriate haematological condition is: \n\nt(8:21) Acute myeloid leukemia (M1) \n\nThis translocation is not typically associated with Acute Myeloid Leukemia (AML) M1, which is characterized by the t(15;17) translocation (also known as the PML-RARA fusion). The t(8;21) translocation is more commonly associated with Acute Lymphoblastic Leukemia (ALL) and is known as the ETV6-RUNX1 fusion"
+  },
+  {
+    "id": 35,
+    "question": "Advantages of FISH method over routine cytogenetics is that",
+    "options": [
+      "It is cheaper",
+      "It can be used for slow-growing cells",
+      "It is readily available",
+      "It can study cells at metaphase",
+      "None of the above"
+    ],
+    "answer": ["It can be used for slow-growing cells"],
+    "explanation": "Cytogenetics is the study of chromosome structure, function, and behavior during cell division (mitosis and meiosis). It involves analyzing the entire genome through the examination of chromosomes.\n\nMethod: Conventional karyotyping is a common cytogenetic technique. It provides a comprehensive view of the genome by analyzing the entire set of chromosomes. This analysis requires dividing cells and takes 5 to 7 days to process.\n\nAdvantages:\n1. Identifies common, recurrent chromosome abnormalities.\n2. Gold standard for AML diagnosis.\n3. Can detect large-scale chromosomal changes.\n\nLimitations:\n1. May miss subtle or cryptic rearrangements.\n2. Requires dividing cells and longer processing time.\n3. Not suitable for rapid diagnosis.\n\nPractical Considerations:\n1. Turnaround time for cytogenetics is longer (average 7 days).\n2. Delay in diagnosis may impact treatment decisions.\n3. Clinicians and patients prefer quicker answers.\n\n FISH is a molecular method used to detect specific chromosomal abnormalities. It targets specific DNA sequences or genes.\n\nMethod: FISH uses fluorescently labeled probes that bind to specific DNA regions on chromosomes. It provides rapid results (usually within 2.5 days).\n\nAdvantages:\n1. Detects targeted abnormalities (e.g., translocations, deletions, inversions).\n2. Faster turnaround time.\n3. Useful for specific diagnostic scenarios.\n\nLimitations:\n1. Limited to specific probes.\n2. Does not provide a comprehensive view of the entire genome.\n3. Cannot detect all chromosomal changes.\n\nPractical Considerations:\n1. Useful for rapid diagnosis and follow-up testing.\n2. May complement cytogenetics in certain cases.    \n\nFISH (Fluorescence In Situ Hybridization) methods have several advantages over routine cytogenetics, including: \n1. High sensitivity and specificity in recognizing targeted DNA or RNA sequences \n2. Direct application to both metaphase chromosomes and interphase nuclei \n3. Visualization of hybridization signals at the single-cell level \n4. Rapid turnaround time \n5. Increased resolution from Giemsa bands to the gene level \n6. Detection of smaller genomic changes associated with various diseases \n7. Complementary to routine chromosome analysis, but not a substitute for it"
+  },
+  {
+    "id": 36,
+    "question": "Choose the correct hierarchy of stem cells",
+    "options": [
+      "Totipotent - Pluripotent - Multipotent",
+      "Pluripotent - Totipotent - Multipotent",
+      "Totipotent - Multipotent - Pluripotent",
+      "Multipotent - Totipotent - Pluripotent",
+      "Multipotent - Pluripotent - Totipotent"
+    ],
+    "answer": ["Totipotent - Pluripotent - Multipotent"],
+    "explanation": "The correct hierarchy of stem cells is Totipotent - Pluripotent - Multipotent, where totipotent cells can differentiate into all cell types, pluripotent cells can differentiate into almost all cell types, and multipotent cells can differentiate into a limited number of cell types."
+  },
+  {
+    "id": 37,
+    "question": "The least sources of stem cells utilized in haematology include",
+    "options": [
+      "Bone marrow",
+      "Peripheral blood",
+      "Cord blood",
+      "None of the above"
+    ],
+    "answer": ["None of the above"],
+    "explanation": "All of the listed sources (Bone marrow, Peripheral blood, Cord blood) are utilized in hematology for stem cell transplantation, so none of the above is the least utilized source."
+  },
+  {
+    "id": 38,
+    "question": "Indications for autologous transplant include:",
+    "options": [
+      "Sickle cell disease",
+      "Multiple myeloma",
+      "Aplastic anaemia",
+      "Thalassaemia",
+      "Wiskott-Aldrich syndrome"
+    ],
+    "answer": ["Multiple myeloma"],
+    "explanation": "Indications for autologous transplant include diseases like multiple myeloma where the patient's own stem cells are collected and reinfused after high-dose chemotherapy."
+  },
+  {
+    "id": 39,
+    "question": "Concerning the conditioning regimen in haemopoietic stem cell transplant, which of the following statements is correct?",
+    "options": [
+      "The myeloablative transplant is less toxic",
+      "The reduced intensity conditioning is best for non-neoplastic disease",
+      "The non-myeloablative conditioning is best for neoplastic conditions",
+      "The myeloablative conditioning is more tolerable by the elderly",
+      "The myeloablative conditioning is best for non-neoplastic disorders"
+    ],
+    "answer": [
+      "The reduced intensity conditioning is best for non-neoplastic disease"
+    ],
+    "explanation": "The non-myeloablative conditioning regimen is often preferred for neoplastic conditions as it can reduce the risk of transplant-related complications while still allowing for engraftment and graft-versus-tumor effects."
+  },
+  {
+    "id": 40,
+    "question": "Concerning complications of HSCT, which of the following statements is correct?",
+    "options": [
+      "Graft versus host disease is a major complication of allogeneic transplant",
+      "Graft versus leukaemia effect can be a beneficial effect that can be explored in allogeneic transplant",
+      "Infection is a common complication in all forms of HSCT",
+      "Graft failure is a more serious concern in allogeneic transplant",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "All of the listed statements are correct regarding complications of HSCT. Graft versus host disease, graft versus leukemia effect, infection, and graft failure are all potential complications of hematopoietic stem cell transplant."
+  },
+  {
+    "id": 41,
+    "question": "Based on structure, the white cells can be classified as mononuclear or polymorphonuclear. The polymorphs include:",
+    "options": [
+      "Natural killer cells, basophils, and neutrophils",
+      "Natural killer cells, eosinophils, and basophils",
+      "Neutrophils, basophils, and eosinophils",
+      "Natural killer cells, neutrophils, basophils, and eosinophils"
+    ],
+    "answer": ["Neutrophils, basophils, and eosinophils"],
+    "explanation": "The polymorphonuclear leukocytes, or polymorphs, include neutrophils, basophils, and eosinophils, which have lobed nuclei and are involved in the body's immune response."
+  },
+  {
+    "id": 42,
+    "question": "The following best describes basophils",
+    "options": [
+      "Their production and differentiation time are about 6-10 days",
+      "They release heparin and histamine",
+      "They have a large central oval or indented nucleus with clumped chromatin",
+      "They present antigen presentation to T and B Lymphocytes"
+    ],
+    "answer": ["They release heparin and histamine"],
+    "explanation": "Basophils are a type of white blood cell that releases heparin and histamine as part of the body's inflammatory response."
+  },
+  {
+    "id": 43,
+    "question": "Defective chemotaxis may be due to:",
+    "options": [
+      "Hypocomplementemia",
+      "Acute myeloid leukemia, myelodysplasia, and myeloproliferative disorders",
+      "May-Hegglin Anomaly",
+      "Dohle bodies"
+    ],
+    "answer": [
+      "Acute myeloid leukemia, myelodysplasia, and myeloproliferative disorders"
+    ],
+    "explanation": "Defective chemotaxis, the ability of white blood cells to respond to chemical signals, may be due to genetic disorders like May-Hegglin Anomaly, which affects the function of neutrophils."
+  },
+  {
+    "id": 44,
+    "question": "Neutrophilia is seen in the following conditions",
+    "options": [
+      "Acute severe infections, severe hemolysis, and metastatic cancer",
+      "Mumps, severe hemolysis, and metastatic cancer",
+      "Fanconi syndrome, acute severe infections, and severe haemolysis",
+      "Fanconi syndrome, severe hemolysis, and metastatic cancer"
+    ],
+    "answer": [
+      "Acute severe infections, severe hemolysis, and metastatic cancer"
+    ],
+    "explanation": "Neutrophilia, an increase in the number of neutrophils in the blood, is seen in conditions like acute severe infections, severe hemolysis, and metastatic cancer as part of the body's response to inflammation and infection."
+  },
+  {
+    "id": 45,
+    "question": "Features of myelodysplastic syndrome include:",
+    "options": [
+      "Progressive cytopenias and terminal phase acute lymphoblastic leukemia",
+      "Hypocellular marrow and terminal phase acute myeloid leukemia",
+      "Hyper or hypocellular marrow and terminal phase acute myeloid leukemia",
+      "Progressive cytopenias and terminal phase acute myeloblastic leukemia"
+    ],
+    "answer": [
+      "Hyper or hypocellular marrow and terminal phase acute myeloid leukemia"
+    ],
+    "explanation": "Myelodysplastic syndrome (MDS) is characterized by progressive cytopenias (low blood cell counts) and can progress to acute myeloid leukemia (AML) in some cases."
+  },
+  {
+    "id": 46,
+    "question": "In the FAB classification of myelodysplastic syndrome",
+    "options": [
+      "Refractory anemia has the worst prognosis",
+      "Refractory anemia with excess blasts has the worst prognosis",
+      "Refractory anemia with excess blasts in transformation has the worst prognosis",
+      "Refractory anemia with ringed sideroblasts has the worst prognosis"
+    ],
+    "answer": [
+      "Refractory anemia with excess blasts in transformation has the worst prognosis"
+    ],
+    "explanation": "In the FAB (French-American-British) classification of myelodysplastic syndromes, refractory anemia with excess blasts in transformation (RAEB-t) has the worst prognosis, as it indicates a higher risk of progression to acute myeloid leukemia."
+  },
+  {
+    "id": 47,
+    "question": "Favourable prognostic factors in myelodysplastic syndrome include:",
+    "options": [
+      "Abnormalities of chromosome 7, the 5q-, and marrow blasts 10-20%",
+      "Abnormalities of chromosome 8, the 5q-, and marrow blasts 10%",
+      "Abnormalities of chromosome 7, the 5q- and marrow blasts <10%",
+      "5q- and marrow blasts <10%"
+    ],
+    "answer": ["5q- and marrow blasts <10%"],
+    "explanation": "Favourable prognostic factors in myelodysplastic syndrome (MDS) include isolated abnormalities of chromosome 5q- and a low percentage of marrow blasts (<10%)."
+  },
+  {
+    "id": 48,
+    "question": "Differential diagnosis of myelodysplastic syndrome includes:",
+    "options": [
+      "Megaloblastic anemia, aplastic anemia, and leukemoid reaction",
+      "Megaloblastic anemia, bone marrow failure, and leukemoid reaction",
+      "Megaloblastic anemia, aplastic anemia, and myelophthisic anemia",
+      "Megaloblastic anemia, aplastic anemia, and hemolytic anemias"
+    ],
+    "answer": [
+      "Megaloblastic anemia, aplastic anemia, and myelophthisic anemia"
+    ],
+    "explanation": "The differential diagnosis of myelodysplastic syndrome (MDS) includes megaloblastic anemia (due to vitamin B12 or folate deficiency), aplastic anemia (failure of bone marrow to produce blood cells), and myelophthisic anemia (marrow infiltration by cancer or fibrosis)."
+  },
+  {
+    "id": 49,
+    "question": "The following cytogenetic abnormalities are appropriately matched with the diseases",
+    "options": [
+      "t(9;22) - Acute lymphoblastic leukemia, and t(8;21)- Acute myeloid leukemia",
+      "t(9;22)-, Acute lymphoblastic leukemia and t(14;18)- Acute myeloid leukemia",
+      "t(9;22) - Acute lymphoblastic leukemia, and t(11;14)- Acute myeloid leukemia",
+      "t(9;22) - Acute lymphoblastic leukemia, and t(8;14)- Acute myeloid leukemia"
+    ],
+    "answer": [
+      "t(9;22) - Acute lymphoblastic leukemia, and t(8;21)- Acute myeloid leukemia"
+    ],
+    "explanation": "The cytogenetic abnormality t(9;22) is associated with Acute lymphoblastic leukemia (ALL), and t(8;21) is associated with Acute myeloid leukemia (AML)."
+  },
+  {
+    "id": 50,
+    "question": "The following are appropriately matched with the disease",
+    "options": [
+      "Epstein-Bar virus:- Burkitt lymphoma, and C-myc and Burkitt’s lymphoma",
+      "Polycythemia vera and JAK2 mutation, Chronic myelomonocytic leukemia and C-myc",
+      "Chronic granulocytic leukemia and Bcr-abi, Burkitt’s lymphoma and trisomy 21",
+      "t(8:22) and Burkitt’s lymphoma, t(9;22) and Acute myeloid leukemia"
+    ],
+    "answer": [
+      "Epstein-Bar virus:- Burkitt lymphoma, and C-myc and Burkitt’s lymphoma"
+    ],
+    "explanation": "The Epstein-Barr virus is associated with Burkitt lymphoma, and the C-myc oncogene is involved in the pathogenesis of Burkitt’s lymphoma."
+  }
+]

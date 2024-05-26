@@ -1,0 +1,593 @@
+[
+  {
+    "id": 1,
+    "question": "The GIT starts with",
+    "options": [
+      "Buccal cavity",
+      "Pharynx",
+      "Epiglottis",
+      "Tongue",
+      "All of the above"
+    ],
+    "answer": ["Buccal cavity"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is not a primary digestive organ",
+    "options": [
+      "Anus",
+      "Gullet",
+      "Parotid gland",
+      "Small intestine",
+      "Stomach"
+    ],
+    "answer": ["Parotid gland"],
+    "explanation": "Primary digestive organ are where actual digestion takes place. They include \n 1. Mouth\n 2. Pharynx \n 3.  Esophagus \n 4. Small intestine \n 5. Large intestine",
+    "topic": "git physiology"
+  },
+  {
+    "id": 3,
+    "question": "The main function of canine tooth in man",
+    "options": ["Biting", "Grinding", "Smiling", "Tearing", "Beauty"],
+    "answer": ["Tearing"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 4,
+    "question": "The outermost layer of the gastrointestinal tract is",
+    "options": [
+      "Mucosa",
+      "Muscularis",
+      "Lamina propria",
+      "Submucosa",
+      "Serosa"
+    ],
+    "answer": ["Serosa"],
+    "explanation": "The outermost layer of the gastrointestinal tract is either serous or fibrous in nature.Serous layer covers Abdominal organs(e.g stomach,small intestine and large intestine). Fibrous layer covers pharynx and esophagus",
+    "topic": "git physiology"
+  },
+  {
+    "id": 5,
+    "question": "The enteric nervous system is present in the wall of",
+    "options": [
+      "pharynx",
+      "oesophagus",
+      "mouth",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": ["oesophagus"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 6,
+    "question": "In humans , mixed saliva contains about ...... % of water",
+    "options": ["20", "60", "89", "70", "none of the above"],
+    "answer": ["none of the above"],
+    "explanation": "In humans mixed saliva contains about 99% of water",
+    "topic": "git physiology"
+  },
+  {
+    "id": 7,
+    "question": "The digestion of protein starts in",
+    "options": ["Mouth", "Oesophagus", "Stomach", "Duodenum", "Jejunum"],
+    "answer": ["Stomach"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is not a primary digestive organ",
+    "options": [
+      "Pharynx",
+      "Oesophagus",
+      "Tongue",
+      "Small intestine",
+      "All of the above"
+    ],
+    "answer": ["Tongue"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 9,
+    "question": "The innermost layer of the gastrointestinal tract is",
+    "options": [
+      "Mucus layer",
+      "Submucus layer",
+      "Muscular layer",
+      "Serous layer",
+      "Fibrous layer"
+    ],
+    "answer": ["Mucus layer"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is not a major salivary gland ?",
+    "options": [
+      "Parotid",
+      "Submaxillary",
+      "Submandibular",
+      "Sublingual",
+      "None of the above"
+    ],
+    "answer": ["None of the above"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 11,
+    "question": "Which of these enzymes break down polysaccharide to disaccharides",
+    "options": [
+      "Pancreatic amylase",
+      "Dextrinase",
+      "Trehalase",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": ["None of the above"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 12,
+    "question": "Which of the following break down protein to peptones",
+    "options": [
+      "pepsin",
+      "trypsin",
+      "chymotrypsin",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following break down proteoses to amino acids",
+    "options": [
+      "pepsin",
+      "trypsin",
+      "chymotrypsin",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 14,
+    "question": "Which of the following break down proteoses to disaccharides",
+    "options": [
+      "pepsin",
+      "trypsin",
+      "carboxypeptidases",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following break down dipeptides to amino acids",
+    "options": [
+      "pepsin",
+      "trypsin",
+      "chymotrypsin",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 16,
+    "question": "Which of the following break down tripeptides to amino aicds",
+    "options": [
+      "pepsin",
+      "trypsin",
+      "chymotrypsin",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following fluids is made up of 87.6% of water",
+    "options": [
+      "salivary juice",
+      "pancreatic juice",
+      "bile secretion",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 18,
+    "question": "Aminopeptidases break down which of the following substances",
+    "options": [
+      "dipeptidases",
+      "tripeptidases",
+      "large polypeptides",
+      "all of the above",
+      "None of the above"
+    ],
+    "answer": ["large polypeptides"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is found in the succus entericus",
+    "options": [
+      "pepsin",
+      "trypsin",
+      "chymotrypsin",
+      "tripeptidses",
+      "none of the above"
+    ],
+    "answer": ["tripeptidses"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 20,
+    "question": "Which of the following enzymes is found in the succus entericus",
+    "options": [
+      "phospholipase A",
+      "phospholipase",
+      "carboxypeptidases",
+      "tripeptidase",
+      "all of the above"
+    ],
+    "answer": ["tripeptidase"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 21,
+    "question": "Which of the following stimulate the production of hydrochloric acid in the stomach",
+    "options": [
+      "Histamine",
+      "secretin",
+      "peptide YY",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": ["Histamine"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 22,
+    "question": "Which of the enzymes break down triglcerides to fatty acids",
+    "options": [
+      "phospholipase",
+      "phospholipase B",
+      "carboxypeptidases",
+      "intestinal lipase",
+      "all of the above"
+    ],
+    "answer": ["intestinal lipase"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 23,
+    "question": "The stomach wall is made up of the following layers except:",
+    "options": [
+      "serous layer",
+      "mucous layer",
+      "muscular layer",
+      "submucosal layer",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 24,
+    "question": "Meissner's plexus can be found in which layer",
+    "options": [
+      "serous",
+      "mucous",
+      "muscular",
+      "submucosal",
+      "none of the above"
+    ],
+    "answer": ["submucosal"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 25,
+    "question": "The parasympathetic supply to the stomach is via:",
+    "options": [
+      "hypoglossal nerve",
+      "trigeminal nerve",
+      "vagus nerve",
+      "glossopharyngeal nerve",
+      "none of the above"
+    ],
+    "answer": ["vagus nerve"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 26,
+    "question": "The end product of carbohydrates are",
+    "options": ["glucose", "fructose", "all of the above", "none of the above"],
+    "answer": ["all of the above"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 27,
+    "question": "One of the following is involved in carbohydrate digestion",
+    "options": [
+      "40% of it is initiated by salivary amylase",
+      "none of the above",
+      "end product is only glucose",
+      "pancreatic amylase is less potent than salivary amylase"
+    ],
+    "answer": ["40% of it is initiated by salivary amylase"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 28,
+    "question": "Salivary secretion per day",
+    "options": [
+      "1L",
+      "2.5 L",
+      "3.2 L",
+      "cannot be extimated",
+      "none of the above"
+    ],
+    "answer": ["1L"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 29,
+    "question": "Concerning mastication which is incorrect",
+    "options": [
+      "most muscles of mastication are all innervated by the trigerminal nerve",
+      "it is not necessary for digestion of vegetables",
+      "leads to formation of bolus",
+      "not all food digested are masticated",
+      "none of the above"
+    ],
+    "answer": ["it is not necessary for digestion of vegetables"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 30,
+    "question": "Gastrectomy results in deficiency of the following vitamins",
+    "options": ["A", "C", "D", "E", "none of the above"],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 31,
+    "question": "Saliva plays the following role EXCEPT",
+    "options": [
+      "aids bolus formation",
+      "aids digestion of carbohydrate",
+      "acts as buffer",
+      "aid digestion of protein",
+      "none of the above"
+    ],
+    "answer": ["aid digestion of protein"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 32,
+    "question": "Cross section of the gut from inside to outside",
+    "options": [
+      "mucosa-submucosa-serosa- muscular",
+      "serosa-mucosa- muscular-submucosa",
+      "mucosa- submucosa-muscular-serosa",
+      "none of the above",
+      "all ofthe above"
+    ],
+    "answer": ["mucosa- submucosa-muscular-serosa"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 33,
+    "question": "Mastication",
+    "options": [
+      "decrease surface area for enzyme and food",
+      "incisor and canine help in chewing",
+      "improve taste",
+      "a and b",
+      "none of the above"
+    ],
+    "answer": ["improve taste"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 34,
+    "question": "The involuntary phase of deglutition is _________",
+    "options": [
+      "oral",
+      "pharyngeal",
+      "oesophageal",
+      "b and c",
+      "all of the above"
+    ],
+    "answer": ["b and c"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 35,
+    "question": "Treatment of PUD is by these drugs except",
+    "options": [
+      "Rantidine",
+      "omeprazole",
+      "fontidine",
+      "aspirin",
+      "none of the above"
+    ],
+    "answer": ["aspirin"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 36,
+    "question": "All of these are part of micelle except",
+    "options": [
+      "glycerol",
+      "fatty acid",
+      "monoglyceride",
+      "lysolecithin",
+      "cholesterol"
+    ],
+    "answer": ["lysolecithin"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 37,
+    "question": "Which of the following papillae does not contain taste bud but it is the most numerous",
+    "options": [
+      "filiform",
+      "Circumvallate",
+      "fungiform",
+      "oliate",
+      "none of the above"
+    ],
+    "answer": ["filiform"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 38,
+    "question": "Which of these carry efferent fibres to the tongue",
+    "options": ["trigeminal", "adducens", "hypoglossal", "facial"],
+    "answer": ["hypoglossal"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 39,
+    "question": "Concerning deglutition, which is incorrect",
+    "options": [
+      "it is also known as swallowing",
+      "control centre is in the medulla",
+      "inhibited in oral phase",
+      "divided into 3 phases",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 40,
+    "question": "Concerning xerostomia, which is incorrect",
+    "options": [
+      "decrease saliva secretion",
+      "prone to dental caries",
+      "dryness of mouth",
+      "sjogren syndrome",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 41,
+    "question": "Damaging factors implicated in ulcer patients include the following except",
+    "options": [
+      "H+ and pepsin",
+      "helicobacter",
+      "NSAIDS",
+      "stress and smoking",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 42,
+    "question": "Concerning patients with lactose intolerance, which of the following is false",
+    "options": [
+      "yoghurt is more tolerated than dietary milk",
+      "dietary counseling is needed for management",
+      "decline in lactase activity from birth to adulthood",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 43,
+    "question": "Sympathetic stimulation of the gastrointestinal tract have____________ effect on the sphincter",
+    "options": [
+      "constricting",
+      "contracting",
+      "dilatating",
+      "contracting/ dilatating",
+      "none of the above"
+    ],
+    "answer": ["constricting"],
+    "explanation": "",
+    "topic": "git physiology"
+  },
+  {
+    "id": 44,
+    "question": "Cranial nerve 6 and 4 are _______________",
+    "options": [
+      "Motor nerves",
+      "Sensory nerves",
+      "Mixed nerves (both motor and sensory)",
+      "Autonomic nerves"
+    ],
+    "answer": ["Mixed nerves (both motor and sensory)"],
+    "explanation": "Cranial nerve 6 is the abducens nerve, and cranial nerve 4 is the trochlear nerve. Both of these cranial nerves are mixed nerves, meaning they contain both motor and sensory fibers. The abducens nerve primarily controls eye movement (motor function), while the trochlear nerve is involved in eye movement and proprioception (both motor and sensory functions). Therefore, the correct answer is `Mixed nerves (both motor and sensory).`",
+    "topic": "git physiology"
+  },
+  {
+    "id": 45,
+    "question": "Which of the following is not an accessory digestive organ",
+    "options": [
+      "Teeth",
+      "Submandibular gland",
+      "Liver",
+      "Anus",
+      "Gall bladder"
+    ],
+    "answer": ["Anus"],
+    "explanation": "Accessory digestive organ which help primary digestive organs in the process of digestion. They include \n 1. Teeth\n 2. Tongue \n 3.  Salivary glands \n 4. Exocrine part of pancreas \n 5. Liver \n 6. Gall bladder",
+    "topic": "git physiology"
+  }
+]

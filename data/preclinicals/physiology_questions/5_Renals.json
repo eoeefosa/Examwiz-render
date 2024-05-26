@@ -1,0 +1,299 @@
+[
+  {
+    "id": 1,
+    "question": "The juxtaglomerular cells secrete rennin in response to",
+    "options": [
+      "rise in arterial blood pressure",
+      "rise in ECF volume",
+      "fall in arterial blood pressure",
+      "hypernatraemia",
+      "hypercalcemia"
+    ],
+    "answer": ["fall in arterial blood pressure"],
+    "explanation": "The decrease in arterial pressure causes prorenin to be converted to renin in the juxtaglomerular cells, renin catalyzes the conversion of angiotensinogen \b{(renin substrate)} to angiotensin I, Angiotensin I has mild vasoconstrictor properties, Angiotensin I is converted to angiotensin II, catalyzed by an enzyme called \b{angiotensin converting enzyme} that is present in the endothelium of the lung vessels, Angiotensin II is an extremely powerful vasoconstrictor"
+  },
+  {
+    "id": 2,
+    "question": "The kidney has the following functions",
+    "options": [
+      "hormonal",
+      "excretory",
+      "gluconeogenesis",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "The kidney participates in whole-body homeostasis, regulating acid-base balance, electrolyte concentrations, extracellular fluid volume and blood pressure. The kidney accomplishes these homeostatic functions both independently and in concert with other organs, particularly those of the endocrine system. Various endocrine hormones coordinate these endocrine functions; these include renin, angiotensin II, aldosterone, antidiuretic hormone, and atrial natriuretic peptide, among others.\n \b Functions of the kidney include \n 1. Excretion of wastes \n 2. Reabsorbtion of vital nutrients \n 3. Acid-base homeostasis \n 4. Osmolality regulation \n 5. Regulation of ECF \n 6. Blood Pressure regulation \n 7. Hormone Secretion \n 8. They degrade several polypetide hormones, including insulin, glucagon & parathyroid hormone \n 9. They synthesize ammonia, which plays a role in acid base balance \n 10. They synthesize substances that affect renal blood flow & Sodium excretion, including arachidonic acid derivatives (prostaglandins, thromboxane A2) and Kallikrein (a prostaglandin enzyme that results in the production of kinins"
+  },
+  {
+    "id": 3,
+    "question": "The determinants of glomerular filtration rate include the following",
+    "options": [
+      " membrane charge",
+      "size of the particle",
+      " glomerular hydrostatic pressure",
+      "all of the above",
+      " none of the above"
+    ],
+    "answer": ["all of the above"],
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "question": "The net filtration pressure is about",
+    "options": ["20 mmHg", "60 mmHg", "75 mmHg", "90mmHg", "100 mmHg"],
+    "answer": ["20 mmHg"],
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "question": "Which of the following has a clearance that is equal to the the glomerular filtration rate:",
+    "options": ["sodium", "potassium", "inulin", "bicarbonate", "protein"],
+    "answer": ["inulin"],
+    "explanation": "answer is inulin"
+  },
+  {
+    "id": 6,
+    "question": " The cortical nephrons helps in the",
+    "options": [
+      "concentration of urine",
+      "formation of urine",
+      "a and b",
+      "none of the above"
+    ],
+    "answer": ["formation of urine"],
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "question": "The juxtamedullary nephrons helps in the :",
+    "options": [
+      "concentration of urine",
+      "formation of urine",
+      "a and b",
+      "none of the above"
+    ],
+    "answer": ["concentration of urine"],
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "question": "The cortical nephrons constitutes ……. Of the human nephrons",
+    "options": ["15%", "35%", "85%", "100%", "50%"],
+    "answer": ["85%"],
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "question": "The filtration membrane has the following except :",
+    "options": [
+      "fenestra",
+      "pedicels",
+      "podocytes",
+      "antrum",
+      "basement membrane"
+    ],
+    "answer": ["antrum"],
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "question": "The following is not present in the glomerular filtrate :",
+    "options": ["glucose", "plasma proteins", "sodium", "potassium", "urea"],
+    "answer": ["plasma proteins"],
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is not freely filtered",
+    "options": ["glucose", "plasma protein", "sodium", "potassium", "urea"],
+    "answer": ["plasma protein"]
+  },
+  {
+    "id": 12,
+    "question": " Paracellin 1 is related to the absorption of the following :",
+    "options": [
+      "potassium ion",
+      "sodium ion",
+      "magnesium ion",
+      "calcium ion",
+      "bicarbonate ion"
+    ],
+    "answer": ["magnesium ion"],
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "question": "The fraction of glomerular filtrate absorbed in the proximal convoluted tubule is ………",
+    "options": ["1/5", "7/8", "½", "4/5", "none of the above"],
+    "answer": ["7/8"],
+    "explanation": "Glomerulotubular balance ensures that a constant fraction of the filtered load is reabsorbed by the proximal tubule, even if the filtered load increases or decreases. This constant fraction (or percentage) is normally maintained at 67% of the filtered load (by now, a familiar number)"
+  },
+  {
+    "id": 14,
+    "question": "The renal threshold for glucose is about :",
+    "options": ["100 mg/dl", "30mg/dl", "180 mg/dl", "150 mg/dl", "125 mg/dl"],
+    "answer": ["180 mg/dl"],
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is transported in an antiport fashion with sodium ion in the proximal convoluted tubule :",
+    "options": [
+      "albumin",
+      "hydrogen ion",
+      "glucose",
+      "chloride ion",
+      "all of the above"
+    ],
+    "answer": ["hydrogen ion"],
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "question": "Glucose transport in renal tubule is inhibited by…….",
+    "options": [
+      "panadol",
+      "paracellin -1",
+      "protein",
+      "phlorhizin",
+      "paluther"
+    ],
+    "answer": ["phlorhizin"],
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "question": "The process of urine formation involves the following processes:",
+    "options": [
+      "reabsorption",
+      "filtration",
+      "secretion",
+      "a and b only",
+      "all of the above"
+    ],
+    "answer": ["all of the above"],
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "question": "The filtration fraction is usually about :",
+    "options": ["19%", "50 %", "46 %", "90 %", "25%"],
+    "answer": ["19%"],
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "question": "The following agents cause contraction of the mesengial cells",
+    "options": ["ANP", "dopamine", "cAMP", "endothelins"],
+    "answer": ["endothelins"],
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "question": "The following contribute to medullary gradient except",
+    "options": ["Urea", "sodium", "chloride", "proteins", "none of the above"],
+    "answer": ["proteins"],
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "question": "The kidneys are",
+    "options": [
+      "inta-abdominal organs",
+      "intraperitoneal organs",
+      "retroperitoneal organs",
+      "intra pelvic organs",
+      "gastro intestinal structures"
+    ],
+    "answer": ["retroperitoneal organs"],
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "question": "The total number of nephrons in each human kidney is about",
+    "options": ["5000", "5 million", "500000", "2 million", "1 million"],
+    "answer": ["1 million"],
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "question": "The function of the kidney does not include",
+    "options": [
+      "filtration of nitrogenous waste",
+      "regulation of body acidity",
+      "gluconeogensis",
+      "production of rennin",
+      "secretion of erythropoietin"
+    ],
+    "answer": ["production of rennin"],
+    "explanation": ""
+  },
+  {
+    "id": 24,
+    "question": "The major function of the juxtaglomerular nephron is",
+    "options": [
+      "regulation of cortical interstitial concentration",
+      "production of growth hormone",
+      "regulation of medullary interstitial hyperosmolality",
+      "secretion of glucose",
+      "none of the above"
+    ],
+    "answer": ["regulation of medullary interstitial hyperosmolality"],
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "question": "Blood supply to the renal cortex is by",
+    "options": [
+      "renal artery",
+      "interlobular artery",
+      "segmental artery",
+      "renal sinus",
+      "renal vein"
+    ],
+    "answer": ["interlobular artery"],
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "question": "Which of the following options is false?",
+    "options": [
+      "glomerular membrane filters cell and protein free fluid into the Bowman’s space",
+      "renal tubular reabsorption enters peritubular capillaries and vasa recta",
+      "efferent arteriole supplies blood into glomerular capillaries",
+      "macular densa cells are renal tubular fluid osmolar sensors",
+      "juxtaglomerular cells are innervated by renal nerves"
+    ],
+    "answer": ["efferent arteriole supplies blood into glomerular capillaries"],
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "question": "Normal net glomerular filtration pressure is",
+    "options": ["100 mmHg", "50 mmHg", "80mmHg", "-20mmHg", "+ 10mmHg"],
+    "answer": ["+ 10mmHg"],
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "question": "Which of these hormones acts on the principal cells of the nephron?",
+    "options": [
+      "aldosterone",
+      "arginine",
+      "vasopressin",
+      "angiotensinogen",
+      "vitamin D",
+      "all of the above"
+    ],
+    "answer": ["vasopressin"],
+    "explanation": ""
+  },
+  {
+    "id": 29,
+    "question": "The ‘ gold standard’ substance for measurement of GFR is",
+    "options": ["fructose", "PAH", "Dextrin", "inulin", "creatinine"],
+    "answer": ["inulin"],
+    "explanation": ""
+  }
+]

@@ -1,0 +1,814 @@
+[
+  {
+    "id": 1,
+    "question": "Hormones are synthesized and secreted by",
+    "options": [
+      "skeletal muscle fibre",
+      "ductless glands",
+      "pancreatic acinar cells",
+      "parotid glands",
+      "all of the above"
+    ],
+    "answer": ["ductless glands"],
+    "explanation": "Hormones are synthesized and secreted from endocrine gland (also called ductless gland) \n They are termed ductless glands because the hormones secreted by them are released directly into blood without any duct)",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 2,
+    "question": "Hormones are secreted directly into",
+    "options": [
+      "stomach",
+      "urinary bladder",
+      "gall bladder",
+      "blood and plasma",
+      "only blood"
+    ],
+    "answer": ["blood and plasma"],
+    "explanation": "Hormones are secreted directly into blood",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 3,
+    "question": "Hormones that act through intracellular or nuclear receptors produce their effects within",
+    "options": [
+      "hours or days",
+      "seconds",
+      "minutes",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": ["hours or days"],
+    "explanation": "Hormones that act through intracellular or nuclear receptors such as steriod hormones are slow acting hormones",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following hormones act through cell membrane receptors?",
+    "options": [
+      "steroid hormones",
+      "thyroxine",
+      "peptide hormone",
+      "vit. D",
+      "none"
+    ],
+    "answer": ["peptide hormone"],
+    "explanation": "Protein(peptide) hormones and the catecholamines act by activating the intracellular enzymes through cell membrane receptors \n Thyroid and steroid hormones execute their function by acting on genes in the target cells",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 5,
+    "question": "Adrenal cortex does not secrete",
+    "options": [
+      "cortisol",
+      "androgens",
+      "mineralcorticoid",
+      "aldosterone",
+      "dopamine"
+    ],
+    "answer": ["dopamine"],
+    "explanation": "Adrenal cortex is differntiated into 3 zones namely \n 1. Zona glomerulosa(Outermost layers) which secrete mineralocorticoids(mainly aldosterone) \n 2. zona fasciculata which secretes glucorticoids(mainly cortisol) and small amount of androgens \n  zona recticularis  which secretes androgens and small amount of glucocorticoids \n dopamine(also called prolactin-inhibitory hormone) is secreted by the hypothalamus",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 6,
+    "question": "one of these hormones is not secreted by the placenta",
+    "options": [
+      "estrogen",
+      "leutenizing hormone",
+      "chorionic gonadotropin",
+      "progesterone",
+      "sommatomammotropin"
+    ],
+    "answer": ["leutenizing hormone"],
+    "explanation": "Hormones secreted by placenta are \n 1. Human chorionic gonadotropin \n 2. Estrogen \n 3. Progesterone \n 4. Human chorionic sommatomammotropin \n 5. Relaxin",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 7,
+    "question": "One of these is a local hormone",
+    "options": [
+      "corticosterone",
+      "growth hormone",
+      "epinephrine",
+      "parathyroid hormone",
+      "acetylcholine"
+    ],
+    "answer": ["acetylcholine"],
+    "explanation": "Local hormones are the substances which act on the same area of their secretion or in immediate neighborhood  e.g \n prostaglandins, \n serotonin, \n histamine, \n heparin, \n acetylcholine, \n endothelins, \n adrenomedullin etc",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 8,
+    "question": "The active transport of calcium and phosphate from intestine into blood is facilitated by",
+    "options": [
+      "vitamin A",
+      "vitamin B1",
+      "vitamin D3",
+      "vitamin C",
+      "vitamin D"
+    ],
+    "answer": ["vitamin D3"],
+    "explanation": "The most important form of vitamin D known as vitamin D3 is very essential for calcium and phosphate absorbtion in the GI tract",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 9,
+    "question": "Which of these statements is correct?",
+    "options": [
+      "sterols are converted to D3 in the skin",
+      "utraviolent light stimulates cytochrome P450 in the liver",
+      "vit. D3 is synthesized in the liver",
+      "active metabolite vit.D3 is synthesized in the proximal tubule of the kidney",
+      "none of the above"
+    ],
+    "answer": [
+      "active metabolite vit.D3 is synthesized in the proximal tubule of the kidney"
+    ],
+    "explanation": "Parathormone convert 25-hydroxycholecalciferol  to 1,25-dihydroxycholecalciferol(calcitriol: active vitamin D3) in the mitochondria of the proximal convutated tubule of the kidney",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 10,
+    "question": "One of these statement is not correct for parathyroid hormone",
+    "options": [
+      "stimulates differentiation of immune cells",
+      "it is secreted by chief cell",
+      "it increases bone resorption",
+      "it increases calcium reabsorption in renal tubules",
+      "stimulates osteoblast and osteoclast"
+    ],
+    "answer": ["stimulates differentiation of immune cells"],
+    "explanation": "Parathormone or parathyroid hormones are secreted by cheif/principal cell of the parathyroid gland, they increase blood calcium levels by \n increasing bone resorption(osteoclastic activity) by \n \t a. stimulation of osteoblast and osteoclast and\n \t b. increasing proliferation of oesteoclast \n and \n increasing calcium reabsorption in distal convoluted tubule and proximal part of collection duct of kidney",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 11,
+    "question": "One of these is not a pancreatic islet cell hormone",
+    "options": [
+      "glucagon",
+      "insulin",
+      "somatostatin",
+      "calcitonin",
+      "pancreatic polypeptide"
+    ],
+    "answer": ["calcitonin"],
+    "explanation": "The islets of langerhans contain 4 cell types and each cell secretes a different hormone or peptide \n 1. Alpha cell(20%) sythesizes glucagon \n Beta cell (65%) synthesizes insulin \n Delta cell(10%) synthesizes somatostatin and gastrin \n F cell secretes pancreatic polypeptide",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 12,
+    "question": "Identify the correct statement;",
+    "options": [
+      "beta cells secrete glucagon",
+      "alpha cells secrete insulin",
+      "delta cells secrete somatostatin",
+      "oxyntic cells secrete pancreatic polypeptide",
+      "none of the above"
+    ],
+    "answer": ["delta cells secrete somatostatin"],
+    "explanation": "The islets of langerhans contain 4 cell types and each cell secretes a different hormone or peptide \n 1. Alpha cell(20%) sythesizes glucagon \n Beta cell (65%) synthesizes insulin \n Delta cell(10%) synthesizes somatostain and gastrin \n F cell secretes pancreatic polypeptide",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 13,
+    "question": "The parathyroid hormone;",
+    "options": [
+      "decreases plasma calcium",
+      "increases plasma phosphate",
+      "inhibits vit D3",
+      "promotes phosphate excretion",
+      "none of the above"
+    ],
+    "answer": ["promotes phosphate excretion"],
+    "explanation": "Parathyroid hormone \n increases plasma calcium level,\n increases phosphate excretion in the kidney and increases phosphate absorption in the GI tract through stimulation of calcitriol",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 14,
+    "question": "Glucagon secretion is increased by",
+    "options": ["glucose", "secretin", "somatostatin", "insulin", "exercise"],
+    "answer": ["exercise"],
+    "explanation": "Glucagon secretion is stimulated by \n 1. hypoglycemia \n 2. sympathetic stimulation \n 3. Increased amino acid level in blood \n 4. Cholecystokinin (CCK) \n 5. cortisol \n 6. Stress \n 7. Gastrin \n 7. Excercise",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 15,
+    "question": "In diabetes mellitus",
+    "options": [
+      "relative lack of insulin occurs in type 1",
+      "absolute lack occurs in type 2",
+      "excess somatostatin worsens hyperglycemia",
+      "excess glucagon causes hypoglycemia",
+      "none of the above"
+    ],
+    "answer": ["excess somatostatin worsens hyperglycemia"],
+    "explanation": "Primary diabetes mellitus can be classified as  type 1 or type 2 \n type 1 diabeties mellitus is due to absolute lack of insulin because of destruction of beta cell in islets of langerhans \n type 2 diabetes mellitus is due to insulin resistance (failure of insulin receptors to give response to insulin) \n somatostatin or Growth hormone is inhibited by hyperglycemia \n and glucagon increases glucose levels in blood",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 16,
+    "question": "Effects of insulin may not include",
+    "options": [
+      "inhibition of lipoprotein lipase",
+      "increase in glycogen storage",
+      "increase in potassium uptake",
+      "increased protein storage",
+      "increased cell growth"
+    ],
+    "answer": ["inhibition of lipoprotein lipase"],
+    "explanation": "Some Effect of Insulin are \n 1. It promotes storage of fat in adipose tissue by inhibition the enzymes which degrade the triglycerides(such as Lipoprotein lipase) \n 2. It promotes rapid conversion of glucose into glycogen and storage of storage of glycogen in muscle and liver \n 3. It inhibits cellular utilization of protein and thus responsible for the conservation and storage of glucose \n 4. Along with growth hormone insulin promotes growth of body by anabolic action on proteins.",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 17,
+    "question": "The hormones secreted by the hypothalamus do not include",
+    "options": [
+      "corticotropin releasing hormone",
+      "growth hormone releasing hormone",
+      "thyrotrophin releasing hormone",
+      "leutenizing hormone releasing hormone",
+      "thyroid stimulating hormone"
+    ],
+    "answer": ["thyroid stimulating hormone"],
+    "explanation": "Hypothalamic neurohormone \n 1. Growth hormone releasing hormone \n 2. Growth hormone inhibiting hormone \n 3. Thyrotrophin releasing hormone \n 4. Gonadotropin releasing hormone \n 5. corticotropin releasing hormone\n 6. Dopamine or prolactin-inhibition factor(PIF)",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 18,
+    "question": "Glucagon is",
+    "options": [
+      "anabolic",
+      "catabolic",
+      "steroid",
+      "not a peptide",
+      "inhibits insulin release"
+    ],
+    "answer": ["catabolic"],
+    "explanation": "anabolism involve building large molecules like glucagon for simple onces like Glucose while catabolism involes breaking down large molecules like Glucagon to simple onces like glucose. \nTherefore Glucagon is an catabolic hormone while insulin is an anabolic hormone",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 19,
+    "question": "glucagon",
+    "options": [
+      "increases glycogen deposits",
+      "decreases lipolysis",
+      "is ketogenic",
+      "promotes insulin action",
+      "all of the above"
+    ],
+    "answer": ["is ketogenic"],
+    "explanation": "Glucagon shows lipolytic and ketogenic actions. It increases lipolysis and promotes ketogenensis in the liver",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 20,
+    "question": "The posterior pituitary gland",
+    "options": [
+      "is also called adenohypophysis",
+      "is an extension of the thalamus",
+      "secrete oxytocin from mamillary nuclei",
+      "secrete vasopressin from neurons of the supraoptic nuclei",
+      "none of the above"
+    ],
+    "answer": ["secrete vasopressin from neurons of the supraoptic nuclei"],
+    "explanation": "The posterior pituitary gland is also called neurohypophysis \n it secretes ADH(vasopressin ) for the Paraventricular nucleus and Oxytocin form the supraoptic nucleus",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 21,
+    "question": "The posterior pituitary gland secretes",
+    "options": [
+      "prolactin secreting hormone",
+      "mainly endorphins",
+      "galanin",
+      "somatosatin",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "The posterior pituitary gland secretes ADH(vasopressin) and Oxytocin",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 22,
+    "question": "Direct action of hormones on target tissues may not cause",
+    "options": [
+      "increased water permeability",
+      "increased sodium permeability",
+      "increased breakdown of starch",
+      "activation of membrane kinase",
+      "increased synthesis of enzymes"
+    ],
+    "answer": ["increased breakdown of starch"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 23,
+    "question": "Steroid hormones bind with receptors located in",
+    "options": [
+      "cyclic AMP",
+      "cell nucleus",
+      "cyclic GMP",
+      "membrane RNA",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "Hormone enters the interior of cell and binds with receptor in cytoplasm (steroid hormone) or in nucleus (thyroid hormone) and forms hormone- receptor complex",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 24,
+    "question": "One of these hormones do not activate second messenger molecule",
+    "options": [
+      "parathyroid hormone",
+      "glucagon",
+      "vasopresssin",
+      "thyroid hormones",
+      "secretin"
+    ],
+    "answer": ["thyroid hormones"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 25,
+    "question": "Effects of insulin in adipose tissue does not include",
+    "options": [
+      "increased potassium uptake",
+      "activation of hormone sensitive lipase",
+      "increased glucose uptake",
+      "increased glycerol phosphate synthesis",
+      "inhibition of lipoprotein lipase"
+    ],
+    "answer": ["activation of lipoprotein lipase"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 26,
+    "question": "The population of islet cells in the pancreas is about",
+    "options": [
+      "2 million",
+      "50 million",
+      "80 million",
+      "30 million",
+      "none of the above"
+    ],
+    "answer": ["2 million"],
+    "explanation": "Human pancreas contains 1 to 2 million islet cells",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 27,
+    "question": "Which islet cells secretes somatostatin?",
+    "options": [
+      "beta cells",
+      "f cells",
+      "delta cells",
+      "alpha cells",
+      "none of the above"
+    ],
+    "answer": ["delta cells"],
+    "explanation": "The islets of langerhans contain 4 cell types and each cell secretes a different hormone or peptide \n 1. Alpha cell(20%) sythesizes glucagon \n Beta cell (65%) synthesizes insulin \n Delta cell(10%) synthesizes somatostatin and gastrin \n F cell secretes pancreatic polypeptide",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 28,
+    "question": "Which of these stimulate secretion of glucagon",
+    "options": ["glucose", "ketones", "insulin", "phenytoin", "theophylline"],
+    "answer": ["glucose"],
+    "explanation": "Glucagon secretion is stimulated by \n 1. hypoglycemia \n 2. sympathetic stimulation \n 3. Increased amino acid level in blood \n 4. Cholecystokinin (CCK) \n 5. cortisol \n 6. Stress \n 7. Gastrin \n 7. Excercise",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 29,
+    "question": "Which of these inhibit glucagon secretion",
+    "options": ["alanine", "secretin", "cortisol", "gastri", "acetylcholine"],
+    "answer": ["secretin"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 30,
+    "question": "Which is a steroid hormone?",
+    "options": [
+      "taoxifen",
+      "metformin",
+      "aldactone",
+      "cortisol",
+      "prednisolone"
+    ],
+    "answer": ["cortisol"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 31,
+    "question": "Gonadotropin releasing hormone is a",
+    "options": [
+      "mineralocorticoid",
+      "steroid hormone",
+      "peptide hormone",
+      "pituitary hormone",
+      "glucocorticoid"
+    ],
+    "answer": ["peptide hormone"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 32,
+    "question": "Gonadotropin releasing hormone is inhibited by",
+    "options": [
+      "estrogen",
+      "progesterone",
+      "FSH",
+      "testosterone",
+      "all of the above"
+    ],
+    "answer": ["all of the above"],
+    "explanation": "all of the above",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 33,
+    "question": "Gonadotropin releasing hormone",
+    "options": [
+      "is released by anterior pituitary gland",
+      "is released by posterior pituitary gland",
+      "controls metabolism",
+      "control sexual functions",
+      "all of the above"
+    ],
+    "answer": ["control sexual functions"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 34,
+    "question": "Adult who produce excess growth hormone develop",
+    "options": [
+      "myxoddema",
+      "gigantism",
+      "anasarca",
+      "Cretinism",
+      "Acromegaly"
+    ],
+    "answer": ["Acromegaly"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 35,
+    "question": "Parathyroid hormone does not",
+    "options": [
+      "increase bone resorption",
+      "increase renal tubular Ca²ᶧ reabsorption",
+      "increase plasma phosphate concentration",
+      "increase synthesis of Vit. D3",
+      "cause bone disease in excess conc."
+    ],
+    "answer": ["increase plasma phosphate concentration"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 36,
+    "question": "All steroid hormones are secreted from",
+    "options": [
+      "amino acid",
+      "protein",
+      "carbohydrate",
+      "cholesterol",
+      "all of the above"
+    ],
+    "answer": ["cholesterol"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 37,
+    "question": "Diseases associated with Adrenal cortex include the following except",
+    "options": [
+      "Addison's disease",
+      "cushings disease",
+      "cone's disease",
+      "adrenogenital syndrome",
+      "Down syndrome"
+    ],
+    "answer": ["adrenogenital syndrome"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 38,
+    "question": "Hormones found in the hypothalamic puituitary-gonadal axis include the following except",
+    "options": [
+      "corticotrophin releasing hormone",
+      "growth hormone releasing hormone",
+      "luteinizing hormone releasing hormone",
+      "prolactin inhibiting hormone (factors)",
+      "follicle stimulating hormone"
+    ],
+    "answer": ["corticotrophin releasing hormone"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 39,
+    "question": "Hormones release from the posterior pituitary glands include",
+    "options": ["ADH", "oxytocin", "FSH", "option A and C", "option A and B"],
+    "answer": ["option A and B"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 40,
+    "question": "G-protein is also known as",
+    "options": ["ATP", "GTP", "UTP", "glucocorticoids", "all of the above"],
+    "answer": ["GTP"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 41,
+    "question": "Cathecolamines includes the following except",
+    "options": [
+      "adrenaline",
+      "noradrena;ine",
+      "dopamine",
+      "cortisol",
+      "all of the above"
+    ],
+    "answer": ["cortisol"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 42,
+    "question": "Steroid hormones include except",
+    "options": [
+      "calcitriol",
+      "Aldosterone",
+      "cortisol",
+      "Adrogens",
+      "dopamine"
+    ],
+    "answer": ["dopamine"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 43,
+    "question": "Hormones which exert their effect through cell membrane include the following except",
+    "options": ["insulin", "glucagon", "cortisol", "adrenaline", "dopamine"],
+    "answer": ["cortisol"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following enzyme converts cAMP back to ATP",
+    "options": [
+      "phospholipase",
+      "lipoprotein lipase",
+      "phosphodiesterase",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 45,
+    "question": "Examples of 2nd messengers include",
+    "options": [
+      "innositol triphosphate",
+      "camoduline",
+      "TAG",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": ["all of the above"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 46,
+    "question": "Glucagon has its major effects in the",
+    "options": [" lungs", "liver", "spleen", "kidney", "brain"],
+    "answer": ["liver"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 47,
+    "question": "_______is used to differentiate between type 1 and type 2 diabetes mellitus",
+    "options": [
+      "angitensin II",
+      "ACTH",
+      "C-peptide",
+      "pre-pro insulin",
+      "somatostatin"
+    ],
+    "answer": ["C-peptide"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 48,
+    "question": "Example of anabolic hormone include",
+    "options": [
+      "thyroid hormone",
+      "growth hormone",
+      "insulin",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": ["insulin"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 49,
+    "question": "Which of the following statements about insulin is incorrect",
+    "options": [
+      "insulin helps in uptake of potassium ion",
+      "insulin helps in increasing protein synthesis and increase the storage of triglycerides as fats",
+      "both insulin and C- peptide are released in equimolar concentration",
+      "insulin is a protein hormone",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 50,
+    "question": "The endocrine pancreas consist of",
+    "options": [
+      "insulin",
+      "glucagon",
+      "somatostatin",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": ["all of the above"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 51,
+    "question": "Which of the following statements is incorrect about aldosterone",
+    "options": [
+      "it belongs to the group of steroid hormone",
+      "it regulates K+, Na+and H+ion concentration",
+      "at the collecting ducts/ distal tubule it cause secretion of K+ amd reabsorption of Na+",
+      "causes secretion of H+",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 52,
+    "question": "Hyposecretion of adrenal cortex leads to",
+    "options": [
+      "Addison’s disease",
+      "cushing’s disease",
+      "primary aldosteronism",
+      "cone’s disease",
+      "option C and D"
+    ],
+    "answer": ["Addison’s disease"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 53,
+    "question": "Excessive secretion of aldosterone due to tumor of glomerulosa leads to",
+    "options": [
+      "Addison’s disease",
+      "primary aldosteronism",
+      "cone’s disease",
+      "option B and C"
+    ],
+    "answer": ["option B and C"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 54,
+    "question": "A condition where androgens are not secreted is known as",
+    "options": [
+      "cushings disease",
+      "cushing syndrome",
+      "primary aldosteronism",
+      "adrenogentital syndrome",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 55,
+    "question": "Thyroxine causes increase in the following except",
+    "options": [
+      "BMR",
+      "cardiac output",
+      "HR",
+      "CNS excitability and muscle excitability",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 56,
+    "question": "Hypersecretion of the adrenal cortex leads to",
+    "options": [
+      "Addison’s disease",
+      "cushing’s disease",
+      "primary aldosteronism",
+      "cone’s disease",
+      "option C and D"
+    ],
+    "answer": ["Addison’s disease"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 57,
+    "question": "One of these is not a local hormone",
+    "options": [
+      "acetylcholine",
+      "secretin",
+      "prolactin",
+      "cholecystokinin",
+      "none of the above is correct"
+    ],
+    "answer": ["prolactin"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 58,
+    "question": "Features of mineralocorticoid excess can be describes by",
+    "options": [
+      "weight loss and weakness",
+      "edema,hypernatremia,hypertension and hypokalaemia I",
+      "hyperkalemia, weakness and edema",
+      "hypotension, hypernatraemia and hyperkalemia",
+      "none of the above"
+    ],
+    "answer": ["edema,hypernatremia,hypertension and hypokalaemia I"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 59,
+    "question": "Which of these is a mineralocorticoid",
+    "options": [
+      "prednisolone",
+      "spironolactone",
+      "aldosterone",
+      "all of the above"
+    ],
+    "answer": ["aldosterone"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 60,
+    "question": "Which of these is secreted by the placenta",
+    "options": [
+      "estrogen",
+      "progesteron",
+      "human chorionic gonadotropin",
+      "placenta lactogen",
+      "all of the above"
+    ],
+    "answer": ["all of the above"],
+    "explanation": "",
+    "topic": "Endocrinology"
+  },
+  {
+    "id": 61,
+    "question": "Glucagon secretion is inhibited by",
+    "options": [
+      "hypoglycemia",
+      "amino acids",
+      "sympathetic stimulation",
+      "somatostatin",
+      "parasympathetic stimulation"
+    ],
+    "answer": ["somatostatin"],
+    "explanation": "Glucagon secretion is inhibited by \n 1. Hyperglycemia \n  2. somatostatin \n 3. fatty acid, \n 4. insulin \n 5. ketones",
+    "topic": "Endocrinology"
+  }
+]

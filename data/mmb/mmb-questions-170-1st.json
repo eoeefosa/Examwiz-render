@@ -1,0 +1,1152 @@
+[
+    {
+      "id": 1,
+      "questionType": "objective",
+      "question": "Which of the following is INCORRECT about parasites",
+      "options": [
+        "Protozoans are transmitted by vectors",
+        "Platyhelminthes include the class Cestoda",
+        "Not all arthropods transmit infectious disease agents",
+        "Naegleria is an amoeba pathogenic for humans"
+      ],
+         "answer": ["Protozoans are transmitted by vectors"],
+      "explanation":
+          "Protozoans are divided into sacrodina, flagellate, sporozoa, and ciliates, only sporozoa is transmited by vectors,\nPlatyhelminthes include the class Cestoda and Trematoda \n Not all arthropods transmit infectious disease agents; some are vectors, but others may not play a role in disease transmission.\nNaegleria flowleri is an amoeba pathogenic for humans",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": [
+        "General properties and classification of parasites",
+        "Protozoan parasites and diseases"
+      ],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 2,
+      "questionType": "objective",
+      "question": "Concerning the life of Malaria which statement is INCORRECT",
+      "options": [
+        "Includes Gametogenesis and fusion of gametes",
+        "Events in the vertebrate host are the endogenous phase",
+        "Plasmodium vivax form hypnozoites which can induce relapse",
+        "The clinical symptoms of malaria are based on exflagellation"
+      ],
+         "answer": ["The clinical symptoms of malaria are based on exflagellation"],
+      "explanation":
+          "The clinical symptoms of malaria are not based on exflagellation but are a result of the asexual replication of the parasite within red blood cells.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Parasitology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 3,
+      "questionType": "objective",
+      "question": "Of Trypanosomatids, which statement is INCORRECT",
+      "options": [
+        "Includes Leishmania",
+        "Some are Trypanosoma",
+        "They have a digenetic life cycle",
+        "They are multicellular organisms"
+      ],
+         "answer": ["They are multicellular organisms"],
+      "explanation":
+          "Trypanosomatids are unicellular organisms, and they do not exhibit multicellularity.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Protozoan parasites and diseases"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 4,
+      "questionType": "objective",
+      "question":
+          "In Leishmaniasis Promastigote Process, which characteristics are INCORRECT",
+      "options": [
+        "Spindle-shaped",
+        "Infective for humans during cyclical transmission",
+        "Survives within the macrophage",
+        "Does not grow in culture"
+      ],
+         "answer": ["Survives within the macrophage"],
+      "explanation":
+          "Leishmaniasis promastigotes are capable of growing in culture, and their growth can be sustained in appropriate laboratory conditions.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["LEISHMANIA AND OTHER FLAGELLATES"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 5,
+      "questionType": "objective",
+      "question": "Which of the following is NOT vector-borne:",
+      "options": [
+        "Toxoplasmosis",
+        "Malaria",
+        "Visceral leishmaniasis",
+        "Chagas disease"
+      ],
+         "answer": ["Toxoplasmosis"],
+      "explanation":
+          "Toxoplasmosis is not typically transmitted by vectors; instead, it is often transmitted through ingestion of contaminated food or water containing Toxoplasma gondii oocysts.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": [
+        "LEISHMANIA AND OTHER FLAGELLATES"
+      ],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 6,
+      "questionType": "objective",
+      "question": "Which statement is INCORRECT:",
+      "options": [
+        "Anopheles mosquito is the definite host of Plasmodium",
+        "Glossina is the insect vector of all trypanosomiasis",
+        "In toxoplasmosis, all cells of the body can be infected",
+        "Extrinsic incubation is essential for the transmission of leishmaniasis"
+      ],
+      "answer":
+         [ "Extrinsic incubation is essential for the transmission of leishmaniasis"],
+      "explanation":
+          "Extrinsic incubation is not essential for the transmission of leishmaniasis, which is transmitted through the bite of infected sandflies.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["LEISHMANIA AND OTHER FLAGELLATES"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 7,
+      "questionType": "objective",
+      "question": "The following statements are true EXCEPT:",
+      "options": [
+        "The class Rhizopaxia includes Naegleria organisms",
+        "Piroplasmosis is babesiosis",
+        "In the pathogenesis, there is malabsorption and secretory diarrhea",
+        "Cysts are similar among intestinal protozoans"
+      ],
+         "answer": ["Piroplasmosis is"],
+      "explanation":
+          "Piroplasmosis is caused by Babesia parasites, not included in the class Rhizopaxia.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Parasitology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 8,
+      "questionType": "objective",
+      "question": "The following statements about Amebiasis is true EXCEPT:",
+      "options": [
+        "May be intestinal",
+        "May be extra-intestinal",
+        "Mode of transmission includes ingestion of uncooked beef",
+        "It is a protozoan disease"
+      ],
+         "answer": ["It is a protozoan disease"],
+      "explanation":
+          "Amebiasis is caused by the protozoan parasite Entamoeba histolytica; therefore, it is a protozoan disease.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Parasitology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 9,
+      "questionType": "objective",
+      "question": "The nuclear morphology of Entamoeba histolytica:",
+      "options": [
+        "Spherical nucleus",
+        "Centrally placed karyosome",
+        "Peripheral nuclear chromatin dots which radiate like a cartwheel",
+        "Eccentrically placed karyosome"
+      ],
+         "answer": ["Eccentrically placed karyosome"],
+      "explanation":
+          "The nucleus of Entamoeba histolytica has a centrally placed karyosome, not an eccentrically placed one.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Parasitology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 10,
+      "questionType": "objective",
+      "question":
+          "Which of the following statements is UNTRUE concerning autoinfection:",
+      "options": [
+        "Reinfection of the host",
+        "Source of reinfection is endogenous",
+        "Associated with some intractable diarrhoea diseases",
+        "Responsible for all diarrhoea diseases"
+      ],
+         "answer": ["Responsible for all diarrhoea diseases"],
+      "explanation":
+          "Autoinfection is associated with some intractable diarrhoea diseases, but it is not responsible for all diarrhoea diseases.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Parasitology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 11,
+      "questionType": "objective",
+      "question": "Which is not a type of fungal hypha:",
+      "options": [
+        "Septated",
+        "Coenocytic which is septated",
+        "Coenocytic",
+        "Aseptated"
+      ],
+         "answer": ["Coenocytic which is septated"],
+      "explanation":
+          "Coenocytic hyphae are non-septate, meaning they lack cross-walls, and are not septated.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 12,
+      "questionType": "objective",
+      "question": "Which is not a function of hyphae:",
+      "options": [
+        "Mechanism of Pathogenesis",
+        "Nutrient acquisition",
+        "Involved in pigmentation",
+        "Dissemination"
+      ],
+         "answer": ["Dissemination"],
+      "explanation":
+          "While hyphae are involved in mechanisms of pathogenesis, nutrient acquisition, and pigmentation, dissemination is not a primary function of hyphae.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 13,
+      "questionType": "objective",
+      "question": "Which statement is UNTRUE:",
+      "options": [
+        "True pathogenic fungi exhibit dimorphism",
+        "Fungal mechanism of pathogenicity involves allergic reactions",
+        "Mycosis is transmitted either directly or indirectly only",
+        "All fungi have a filamentous structure except yeast cells"
+      ],
+         "answer": ["Mycosis is transmitted either directly or indirectly only"],
+      "explanation":
+          "Mycosis can be transmitted through various means, including both direct and indirect routes.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 14,
+      "questionType": "objective",
+      "question":
+          "Which of the following does NOT describe the characteristics of fungi:",
+      "options": [
+        "Hyphae form a mesh-like structure called mycelium",
+        "Hyphae together form a mesh-like structure called mycelia",
+        "Fungal nucleus is surrounded by a nuclear membrane",
+        "Yeast is unicellular"
+      ],
+         "answer": ["Hyphae together form a mesh-like structure called mycelia"],
+      "explanation":
+          "The correct term is mycelium, not mycelia. Mycelium is the vegetative part of a fungus, consisting of a network of fine white filaments (hyphae).",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 15,
+      "questionType": "objective",
+      "question":
+          "Which sample is NOT SUITABLE for Lab diagnosis of dermatophytosis:",
+      "options": [
+        "Skin scraping",
+        "Swab from mucosal surface",
+        "Hair stump",
+        "Scraping from finger and nails"
+      ],
+         "answer": ["Swab from mucosal surface"],
+      "explanation":
+          "Dermatophytosis primarily affects the skin, hair, and nails; therefore, a swab from a mucosal surface is not suitable for lab diagnosis.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 16,
+      "questionType": "objective",
+      "question": "Mycosis can be diagnosed based on which of the following:",
+      "options": [
+        "Taxonomy of the fungi",
+        "Method of reproduction",
+        "Ethnicity of the patient",
+        "Gender of the patient"
+      ],
+         "answer": ["Method of reproduction"],
+      "explanation":
+          "The method of reproduction, such as the type of spores produced, can be used in the diagnosis of mycosis.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 17,
+      "questionType": "objective",
+      "question": "The following is NOT tineasis:",
+      "options": ["Pityriasis versicolor", "Kerion", "Ringworm", "Favus"],
+         "answer": ["Pityriasis versicolor"],
+      "explanation":
+          "Pityriasis versicolor is not caused by dermatophytes and is not considered tineasis.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 18,
+      "questionType": "objective",
+      "question":
+          "Which of the following is Not implicated as the cause of Mycotic Sinusitis:",
+      "options": ["Aspergillus", "Candida", "Mucor", "Malassezia furfur"],
+         "answer": ["Malassezia furfur"],
+      "explanation":
+          "Malassezia furfur is associated with skin conditions, but it is not commonly implicated in mycotic sinusitis.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 19,
+      "questionType": "objective",
+      "question": "Concerning Tinea nigra which statement is INCORRECT:",
+      "options": [
+        "Mode of transmission similar to subcutaneous mycosis",
+        "Etiology is a mold",
+        "It is a superficial mycosis",
+        "Could lead to systemic mycosis"
+      ],
+         "answer": ["Could lead to systemic mycosis"],
+      "explanation":
+          "Tinea nigra is a superficial mycosis and does not typically lead to systemic mycosis.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 20,
+      "questionType": "objective",
+      "question":
+          "Which of the following agents of superficial mycosis is NOT a dermatophyte:",
+      "options": [
+        "Microsporum canis",
+        "Cladosporium werneckii",
+        "Trichophyton verrucosum",
+        "Epidermophyton floccosum"
+      ],
+         "answer": ["Cladosporium werneckii"],
+      "explanation":
+          "Cladosporium werneckii is not a dermatophyte; it is a mold commonly found in the environment.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 21,
+      "questionType": "objective",
+      "question":
+          "Enterococcus faecalis endocarditis is best treated with a combination of:",
+      "options": [
+        "Chloramphenicol and rifampicin",
+        "Penicillin G and gentamicin",
+        "Metronidazole and clindamycin",
+        "Azithromycin and trimethoprim-sulphamethoxazole"
+      ],
+         "answer": ["Penicillin G and gentamicin"],
+      "explanation":
+          "Enterococcus faecalis endocarditis is often treated with a combination of penicillin G and gentamicin.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 22,
+      "questionType": "objective",
+      "question":
+          "A sexually active woman presents with signs & symptoms suggestive of U.T.I. Which set of bacteria is most likely to cause the infection:",
+      "options": [
+        "Staphylococcus aureus and Streptococcus pyogenes",
+        "Staphylococcus saprophyticus and Enterococcus faecalis",
+        "Streptococcus agalactiae and Staphylococcus epidermidis",
+        "Streptococcus pyogenes and Streptococcus pneumoniae"
+      ],
+         "answer": ["Staphylococcus saprophyticus and Enterococcus faecalis"],
+      "explanation":
+          "Staphylococcus saprophyticus and Enterococcus faecalis are common causes of urinary tract infections in sexually active women.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 23,
+      "questionType": "objective",
+      "question":
+          "Which one of the following is not due to Superantigen production by Staph. aureus?",
+      "options": [
+        "Cellulitis",
+        "Scalded Skin Syndrome",
+        "Toxic Syndrome",
+        "Enterococcus food poisoning"
+      ],
+         "answer": ["Enterococcus food poisoning"],
+      "explanation":
+          "Enterococcus food poisoning is not typically associated with Staphylococcus aureus superantigen production.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 24,
+      "questionType": "objective",
+      "question":
+          "Which one of the following sets of results suggests that the organism recovered from a blood culture is Staphylococcus epidermidis?",
+      "options": [
+        "Gram-positive diplococci, catalase negative & coagulase positive.",
+        "Gram-positive cocci in chains, catalase positive, & coagulase positive.",
+        "Gram-positive cocci in clusters, catalase positive, & coagulase negative.",
+        "Gram-positive cocci in clusters, catalase negative, & coagulase positive."
+      ],
+      "answer":
+         [ "Gram-positive cocci in clusters, catalase negative, & coagulase positive."],
+      "explanation":
+          "Staphylococcus epidermidis is a coagulase-negative staphylococcus that forms clusters and is catalase negative.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 25,
+      "questionType": "objective",
+      "question":
+          "Which one of the following virulence factors of Staph. aureus prevents its opsonization with C3b & IgG?",
+      "options": ["Coagulase", "Catalase", "Protein A", "Teichoic Acid"],
+         "answer": ["Protein A"],
+      "explanation":
+          "Protein A is a virulence factor of Staphylococcus aureus that binds to IgG antibodies, preventing opsonization with C3b and IgG.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 26,
+      "questionType": "objective",
+      "question": "The immunoglobulins (antibodies):",
+      "options": [
+        "IgG is the first immunoglobulin to appear after exposure to an antigen.",
+        "IgM has high molecular weight hence it is restricted to intravascular.",
+        "IgE can activate complement and agglutinate antigens.",
+        "IgA is found primarily in the blood, immobilizing microbes."
+      ],
+      "answer":
+         [ "IgM has high molecular weight hence it is restricted to intravascular."],
+      "explanation":
+          "IgM has a high molecular weight and is mainly restricted to intravascular spaces due to its size.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 27,
+      "questionType": "objective",
+      "question": "About Hepadnaviridae and its infection:",
+      "options": [
+        "Hepatitis D is a prototype virus of this family.",
+        "Black race has the highest incidence of HBV infection worldwide.",
+        "Only Chronic Hepatitis B Virus (HBV) infection that is treatable with chemotherapeutic agent.",
+        "Complications of HBV infection include hepatoma, liver cirrhosis, hepatic failure."
+      ],
+      "answer":
+         [ "Complications of HBV infection include hepatoma, liver cirrhosis, hepatic failure."],
+      "explanation":
+          "Complications of Hepatitis B Virus (HBV) infection include hepatoma, liver cirrhosis, and hepatic failure.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 28,
+      "questionType": "objective",
+      "question": "About Hepadnaviridae and it infection:",
+      "options": [
+        "HBV is a member of this family.",
+        "Members are single-stranded DNA viruses.",
+        "HBV causes zoonotic infection.",
+        "Amantadine is very effective against HBV infection."
+      ],
+         "answer": ["Members are single-stranded DNA viruses."],
+      "explanation":
+          "Hepatitis B virus, which is a partially double-stranded DNA virus that belongs to the Hepadnaviridae family of viruses,\n members of the Hepadnaviridae family are not single-stranded DNA viruses, but partially double-stranded DNA viruses their genome consists of two strands of DNA, one longer and one shorter, that are not fully complementary to each other. The shorter strand has a gap that is filled by an RNA intermediate during replication\n  HBV does not cause zoonotic infection, \n amantadine an antiviral drug is not very effective against HBV infection.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["ARENAVIRIDAE"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 29,
+      "questionType": "objective",
+      "question": "Immune Response to Infection:",
+      "options": [
+        "The Cytotoxic-T-Lymphocytes and natural killer cells are mostly involved in tackling extracellular infections.",
+        "Possession of M protein capsule does not protect microbes from phagocytosis.",
+        "Microorganisms that exhibit genetic variation, which enables them to change outer covering, can evade the immune system.",
+        "None of the above is correct."
+      ],
+      "answer":
+         [ "Cytotoxic T lymphocytes and natural killer cells are mainly involved in tackling intracellular infections, not extracellular ones, \n  possession of M protein capsule does protect microbes from phagocytosis, \n Microorganisms that exhibit genetic variation, which enables them to change outer covering, can evade the immune system."],
+      "explanation":
+          "Microorganisms with genetic variation can change outer covering, evading the immune system.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["IMMUNOLOGY"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 30,
+      "questionType": "objective",
+      "question": "Immune Response:",
+      "options": [
+        "Measles, Smallpox, and Cytomegalovirus are capable of suppressing the immune responses.",
+        "An enzyme of Plasmodium is capable of producing fibrin clot in which it hides away from the immune system.",
+        "Inflammatory responses are not involved in resistance to infections by flatworms.",
+        "All of the above are correct."
+      ],
+         "answer": ["All of the above are correct."],
+      "explanation":
+          "Measles and cytomegalovirus are known to cause immune suppression, which can increase the risk of secondary infections and impair the immune memory. However, smallpox does not suppress the immune system, but rather stimulates a strong inflammatory response that causes tissue damage and systemic symptoms\n Plasmodium, the parasite that causes malaria, has an enzyme called plasminogen activator (PA) that can activate the host’s plasminogen, a precursor of plasmin. Plasmin is a protease that can degrade fibrin, the main component of blood clots. By producing plasmin, Plasmodium can dissolve the fibrin clots that trap the infected red blood cells and prevent them from being cleared by the spleen. \n Flatworms can trigger both innate and adaptive immune responses, including inflammation, eosinophilia, mast cell activation, antibody production, and granuloma formation therefore  inflammatory responses are involved in resistance to infections by flatworms",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["IMMUNOLOGY"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+
+    {
+      "id": 37,
+      "questionType": "objective",
+      "question":
+          "A 30-year-old woman is hospitalized for burns and developed Pseudomonas infection of the wound. Which of the following antibiotics is most appropriate for treatment?",
+      "options": [
+        "Piperacillin-Azithromycin",
+        "Nitrofurantoin",
+        "Piperacillin-tazobactam",
+        "Amoxicillin-clavulanic acid (Co-amoxiclav)"
+      ],
+         "answer": ["Piperacillin-tazobactam"],
+      "explanation":
+          "Piperacillin-tazobactam would be the most appropriate antibiotic for treating Pseudomonas infection of the wound. It is a combination of an extended-spectrum penicillin antibiotic and a beta-lactamase inhibitor that is effective against Pseudomonas aeruginosa",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["ANTIBACTERIAL CHEMOTHERAPY"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 38,
+      "questionType": "objective",
+      "question":
+          "Which of the following antibiotics is rightly paired with the site of action?",
+      "options": [
+        "Doxycycline - 50S Ribosomal subunit",
+        "Vancomycin - Bacterial cell wall",
+        "Chloramphenicol - 30S Ribosomal subunit",
+        "Gentamicin - 50S Ribosomal subunit"
+      ],
+         "answer": ["Vancomycin - Bacterial cell wall"],
+      "explanation": "Doxycycline inhibits protein synthesis by binding to the 30S ribosomal subunit, not the 50S.\n Vancomycin inhibits cell wall synthesis by binding to the D-Ala-D-Ala terminal of the growing peptide chain during cell wall synthesis.\n Chloramphenicol inhibits protein synthesis by binding to the 50S ribosomal subunit, not the 30S.\n Gentamicin inhibits protein synthesis by binding to the 30S ribosomal subunit, not the 50S",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["ANTIBACTERIAL CHEMOTHERAPY"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 39,
+      "questionType": "objective",
+      "question":
+          "The culture of a neonate with meningitis yielded growth of Gram-negative rods. Which of the following characteristics shows that the infection is caused by a member of the Enterobacterales?",
+      "options": [
+        "Reduction of nitrite to nitrate",
+        "Oxidase Negative",
+        "Strictly anaerobic",
+        "Failure to ferment glucose"
+      ],
+         "answer": ["Oxidase Negative"],
+      "explanation":
+          "Enterobacterales are a large family of Gram-negative rods-shaped bacteria found primarily in the colon of humans and other animals where many reside as part of the normal flora, they are mostly motile with peritrichous flagella. Features common to all members of this heterogenous family are their anatomic location and the following four metabolic properties \n They are all facultative anaerobes \n They all ferment glucose \n They lack cytochrome-oxidase and hence are oxidase negative \n They reduce nitrates to nitrites as part of their energy generating process ",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["ENTEROBACTERALES"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 40,
+      "questionType": "objective",
+      "question":
+          "The culture of a neonate with meningitis yielded growth of Gram-negative rods. The isolate in question is Salmonella typhi. Which of the following is correct?",
+      "options": [
+        "It possesses 'O' and 'H' antigens",
+        "Lacks both 'O' and 'H' antigens.",
+        "It possesses the 'O' antigen but not the H antigen",
+        "It possesses the 'H' antigen but not the 'O' antigen"
+      ],
+         "answer": ["It possesses 'O' and 'H' antigens"],
+      "explanation": "Salmonella typhi possesses both 'O' and 'H' antigens.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["ENTEROBACTERALES"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 41,
+      "questionType": "objective",
+      "question": "Bacillus anthracis is characterized by:",
+      "options": [
+        "Gram-negative bacilli",
+        "Produce neurotoxin",
+        "Associated with malignant pustules",
+        "Diarrheic disease only"
+      ],
+         "answer": ["Associated with malignant pustules"],
+      "explanation": "Bacillus anthracis is associated with malignant pustules.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 42,
+      "questionType": "objective",
+      "question": "Bacterial morphology/antigen:",
+      "options": [
+        "Flagello/O antigen",
+        "Fimbriae/H antigen",
+        "Capsule/K antigen",
+        "None of the above is correct"
+      ],
+         "answer": ["Capsule/K antigen"],
+      "explanation": "Capsule is associated with the K antigen.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 43,
+      "questionType": "objective",
+      "question": "Prominent virulent factor correctly matched except:",
+      "options": [
+        "Enterotoxin - Septicaemia",
+        "Adherence - Urinary Tract Infection",
+        "Endotoxin - Septicaemia",
+        "Invasiveness - Dysentery"
+      ],
+         "answer": ["Enterotoxin - Septicaemia"],
+      "explanation":
+          "Enterotoxin is associated with food poisoning, not septicaemia.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 44,
+      "questionType": "objective",
+      "question": "Which of these corresponds to true bacterial metabolism?",
+      "options": [
+        "One molecule of glucose utilized through fermentation approximately ATP",
+        "Anaerobic utilization of glucose is by Kreb's cycle",
+        "Microaerophilic organisms grow well in the presence of low oxygen tension",
+        "Prototrophs are able to synthesize their growth factors"
+      ],
+         "answer": ["Prototrophs are able to synthesize their growth factors"],
+      "explanation": "Prototrophs can synthesize their growth factors.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 45,
+      "questionType": "objective",
+      "question": "Facultative anaerobic",
+      "options": [
+        "Can only grow in anaerobic environment",
+        "Can only grow in both aerobic and anaerobic environment.",
+        "Can only grow in aerobic environment",
+        "Are fastidious group of organisms highly selective"
+      ],
+         "answer": ["Can only grow in both aerobic and anaerobic environment."],
+      "explanation":
+          "Facultative anaerobes can grow in both aerobic and anaerobic conditions.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 46,
+      "questionType": "objective",
+      "question": "The Lag phase of the bacterial growth curve:",
+      "options": [
+        "Increasing bacterial multiplication/food utilization",
+        "No multiplication of bacteria because they are acclimatizing to their environment",
+        "Bacterial multiplication and death occurring at the same rate due to food utilization and waste accumulation.",
+        "Bacteria recovery after initial rapid multiplication to enable build-up of organelles"
+      ],
+      "answer":
+         [ "No multiplication of bacteria because they are acclimatizing to their environment"],
+      "explanation":
+          "During the Lag phase, bacteria are acclimatizing to their environment, and there is no significant multiplication.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 47,
+      "questionType": "objective",
+      "question": "Major requirements for bacterial growth include except:",
+      "options": [
+        "Optimum environmental condition",
+        "Source of energy",
+        "Water",
+        "Nitrogen"
+      ],
+         "answer": ["Nitrogen"],
+      "explanation":
+          "While nitrogen is essential for bacterial growth, it is not a major requirement for the growth phase.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 48,
+      "questionType": "objective",
+      "question": "Correctly matched:",
+      "options": [
+        "Erythroderma -------- exfoliative dermatitis",
+        "Petechiae ------ dilated skin blood vessels",
+        "Ecthyma gangrenosum -- leaky skin blood vessels",
+        "None of the above"
+      ],
+         "answer": ["None of the above"],
+      "explanation": "None of the provided options is correctly matched.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Dermatology"],
+      "course": "Medicine",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 49,
+      "questionType": "objective",
+      "question":
+          "Listeria monocytogenes exhibit the following characteristics except:",
+      "options": [
+        "Short gram-negative diphtheroids",
+        "Mainly affects extremes of life",
+        "Exhibits tumbling motility",
+        "Pregnant woman and the immunocompromised are susceptible"
+      ],
+         "answer": ["Short gram-negative diphtheroids"],
+      "explanation": "Listeria monocytogenes is a Gram-positive bacillus.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Microbiology"],
+      "course": "PATHOLOGY",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    },
+    {
+      "id": 50,
+      "questionType": "objective",
+      "question":
+          "Lassa fever - haemorrhagic fever demonstrates the following except:",
+      "options": [
+        "Demonstrates multiorgan involvement",
+        "Ribavirin reduces morbidity rate if given at an early stage of the infection",
+        "RT-PCR is employed in diagnosis",
+        "Caused by a member of the family of filoviridae"
+      ],
+         "answer": ["Caused by a member of the family of filoviridae"],
+      "explanation": "Lassa fever is caused by an Arenavirus, not a filovirus.",
+      "searchTags": [],
+      "sources": ["MMB Med170 1st TEST"],
+      "topics": ["Infectious Diseases"],
+      "course": "Medicine",
+      "subcourse": "MEDICAL MICROBIOLOGY",
+      "numberofAttempt": 0,
+      "averageUnderstanding": 0.0,
+      "previous10AttemptQuestionscore": [],
+      "averageUnderstandingRatePer10": [],
+      "iscompleted": false,
+      "averagerating": 0,
+      "variationgiven": 0
+    }
+  ]

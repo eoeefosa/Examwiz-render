@@ -1,0 +1,1198 @@
+{
+    "Questions": [
+        {
+            "id": 14,
+            "question": "True or False",
+            "options": [
+                "Triglycerides are released in hydrolytic rancidity",
+                "Rancid odours are due to the decomposition of peroxides to aldehydes, ketones and volatile products",
+                "Iodine number determines the amount of unsaturation of fatty acids",
+                "The more double bonds in fat the lower the iodine number",
+                "Oxidation of fat is influenced by oxygen"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lipids"
+        },
+        {
+            "id": 15,
+            "question": "Examine the following statements",
+            "options": [
+                "Cells-cell recognition is associated with gangliosides",
+                "Cholesterol is a sterol because of its C3OH group and aliphatic side chain at C17",
+                "Cholesterol is abundant in subcellular organelles",
+                "The pools of CoA are not maintained between the mitochondrial and cytosol",
+                "Fatty acids are dismembered through the B-oxidation"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lipids"
+        },
+        {
+            "id": 16,
+            "question": "True or False",
+            "options": [
+                "Hormones can alter the concentration of substrate",
+                "Hormones may promote the reversible phosphorylation of the flux controlling enzymes",
+                "Hormones may promote the dephosphorlyation of the flux controlling enzymes",
+                "Hormones can affect the concentrations of allosteric effectors",
+                "Hormones can induce or repress genes to change the amount of enzyme present in the cell"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Biochemistry of Hormones"
+        },
+        {
+            "id": 17,
+            "question": "True or False",
+            "options": [
+                "G-protein are intermediaries in signal transduction form 7-TMS receptors",
+                "A resting G-protein consists of α,β and γ subunits",
+                "In resting state, α subunit has GDP bound with β-adrenergic receptor",
+                "Phospodiesterase converts cAMP to AMP",
+                "Caffeine increases the cellular concentration of cAMP by inhibiting phosphodiesterase"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Biochemistry of Hormones"
+        },
+        {
+            "id": 18,
+            "question": "True or False",
+            "options": [
+                "Vibrio cholerae is a gram negative bacterium that causes cholera",
+                "Cholera bacteria is resident in the intestinal epithelial cells",
+                "Cholera toxin uses NAD+ as a substrate to produce ADP-ribosylated Arg-201",
+                "Bordetella pertusis catalyzes the ADP- ribosylaton of Cysteine residue of the Gα  protein",
+                "Lithium inhibits the recycling of inositol 1,3,4 Triphosphate"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 19,
+            "question": "The bilayer forming the cell membrane have unique properties because",
+            "options": [
+                "They are formed in sheet-like structures that contain both a hydrophilic and a hydrophobic moiety",
+                "The membrane is composed of lipids and proteins and sometimes even carbohydrates",
+                "There are two different membranes proteins in the lipid bilayer",
+                "Integral membrane protens traverse the lipid bilayer and are adjacent to both the extracellular fluid and the cytoplasm of the cell",
+                "peripheral membrane proteins only bind to the surface of integral proteins and are only either side of the membrane outer or inner "
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Biomembrane"
+        },
+        {
+            "id": 20,
+            "question": "Concerning how proteins Associate with the Bilayer",
+            "options": [
+                "The ease with which a protein can be dissociated in membrane indicates how intimately it is associated with membrane",
+                "Some membrane proteins can be solubilized by mild means, such as extraction by a solution of high strength",
+                "Other membrande proteins are bound much more ten"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 21,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 22,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 23,
+            "question": "In the starving state",
+            "options": [
+                "Metabolic fuel reserves are used up",
+                "Metabolic fuel reserves are laid down",
+                "Metabolic fuel reserves are mobilized",
+                "Metabolic fuel reserves are demobilzed",
+                "Metabolic fuel reserves are synthesized"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Introduction to intermediary metabolism"
+        },
+        {
+            "id": 24,
+            "question": "In the integration of metabolism of carbohydrate and proteins, they are all in the second stage converted to ",
+            "options": [
+                "Pyruvate",
+                "Waste products",
+                "Acetyl CoA",
+                "NADH",
+                "ATP"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Introduction to intermediary metabolism"
+        },
+        {
+            "id": 25,
+            "question": "DNA",
+            "options": [
+                "Transfers information from the mRNA to the ribosome",
+                "Can leave the nucleus",
+                "Links together amino acids",
+                "Stores genetic information in the form of ",
+                "Found in the gene"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Structure of DNA and RNA"
+        },
+        {
+            "id": 1025,
+            "question": "The etiology of type 1 diabetes includes",
+            "options": [
+                "Autoimmune destruction of β-cells",
+                "Enviromentatl factors",
+                "Genetic factors",
+                "Viral infections",
+                "Psychological factors"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 1026,
+            "question": "",
+            "options": [
+                ""
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 1027,
+            "question": "",
+            "options": [
+                ""
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 1028,
+            "question": "",
+            "options": [
+                ""
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 1029,
+            "question": "",
+            "options": [
+                ""
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 1030,
+            "question": "",
+            "options": [
+                ""
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 1031,
+            "question": "",
+            "options": [
+                ""
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 1032,
+            "question": "",
+            "options": [
+                ""
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 1033,
+            "question": "",
+            "options": [
+                ""
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 1034,
+            "question": "",
+            "options": [
+                ""
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 1035,
+            "question": "",
+            "options": [
+                ""
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 1036,
+            "question": "",
+            "options": [
+                ""
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 1037,
+            "question": "",
+            "options": [
+                ""
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 26,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 27,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 28,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 29,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 30,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 31,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 32,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 33,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 34,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 35,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 36,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 37,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 38,
+            "question": "True or False",
+            "options": [
+                "Like insertions, deletion mutations can alter the reading frame of the gene",
+                "Intersegmental deletions: an intra-chromosomal deletion that removes a segment of DNA from a single chromosome",
+                "Loss of heterozygosity, loss of one allele, either by a deletions or a genetic recombination event in an organism that previously had two different alleles",
+                "Loss of function mutations also called inactivation mutation, result in the gene product having less or no function(being partially or wholly inactivated)",
+                "All of the above are correct"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Genome and Biochemistry of Heredity"
+        },
+        {
+            "id": 39,
+            "question": "True or False",
+            "options": [
+                "When the allele has a complete loss of function(null allele), It is often called an amorph of amorphic mutation in the Muller's morphs schema",
+                "Phenotypes associated with such mutations are most often recessive",
+                "Exceptions are when the organism is haploid, or when the reduced dosage of a normal gene product is not enough for a normal phenotype(this is called haplo-insufficiency)",
+                "Activating mutaions, change the gene product such that its effects gets stronger(enhanced activation) or even is suspended by a different and abnormal function",
+                "All of the above are correct"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Genome and Biochemistry of Heredity"
+        },
+        {
+            "id": 40,
+            "question": "True or False",
+            "options": [
+                "In humans, deletion negative mutations have been implicated in cancer(e.g mutation in gene p53)",
+                "Marfan syndrome is caused by mutation in the FBN1 gene, located on chromosome 15, which encondes fibrillin-1, a glycoprotein components of the extracellular matrix",
+                "Hypomorph, ater Mullarian classification is altered gend product that acts with decreased gene expression compared to wild type allele",
+                "All of the above are correct"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Genome and Biochemistry of Heredity"
+        },
+        {
+            "id": 41,
+            "question": "Membranes have the following characteristics",
+            "options": [
+                "symmetry",
+                "Amphipathic nature",
+                "enzymatic activities",
+                "signal transduction",
+                "Monolayers"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Biomembrane"
+        },
+        {
+            "id": 42,
+            "question": "In the fluid mosaic model of membrane structure",
+            "options": [
+                "Membranes are dynamic structures",
+                "Integral proteins are attached to the outer surface of the cell",
+                "Lipids are dissolved in a sea of proteins",
+                "The lipid matrix acts as a solvent for proteins",
+                "Fluidity of the membrane is due to the presence of single bonds in fatty acyl chain"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Biomembrane"
+        },
+        {
+            "id": 43,
+            "question": "Membrane structure and function",
+            "options": [
+                "Polar molecules easily pass through the lipid bilayers",
+                "Non-polar molecules are transported by proteins across the membranes",
+                "Polar molecules are transported by proteins across the membranes",
+                "Membranes are impermeable to polar molecules",
+                "Non-polar molecules easily pass through the lipid bilayers"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Biomembrane"
+        },
+        {
+            "id": 44,
+            "question": "In membrane lipids",
+            "options": [
+                "The head groups of membrane lipids are oriented outwards",
+                "The tail region of membrane lipids are oriented inwards",
+                "The head region of membrane lipids are oriented inwards",
+                "The tail region of membrane lipids are oriented outwards",
+                "The head groups are hydrophobic"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Biomembrane"
+        },
+        {
+            "id": 45,
+            "question": "Which of the following forces stabilize membrane structure?",
+            "options": [
+                "non-covalent forces",
+                "Hydrogen bonding",
+                "Ionic bonding",
+                "Van der waals forces",
+                "electrostatic forces"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Biomembrane"
+        },
+        {
+            "id": 46,
+            "question": "The following factors can increase membrane fluidity",
+            "options": [
+                "High pressure",
+                "High degree of unsaturation of lipids",
+                "Short chain length of fatty acids",
+                "Low temperature",
+                "High cholesterol content"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Biomembrane"
+        },
+        {
+            "id": 47,
+            "question": "On membrane proteins",
+            "options": [
+                "Integral proteins are easily washed of by detergents",
+                "Integral proteins are primarily located on the outer surface of membranes",
+                "Integral proteins are easily washed of by salts",
+                "Peripheral proteins have hydrophobic portions that are embeded in lipids",
+                "Integral proteins are embedded in the lipid bilayer"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Biomembrane"
+        },
+        {
+            "id": 48,
+            "question": "On membrane transport",
+            "options": [
+                "Uniporters catalyse exchange of molecules between cells",
+                "Active transport requires ATP hydrolysis",
+                "Passive transport is facilited by membrane proteins",
+                "Symporters belong to the family of cotransporter",
+                "Na+/K+ ATPase is a symporter"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Biomembrane"
+        },
+        {
+            "id": 49,
+            "question": "In fluid mosaic model, the following kinds of motions are not permitted",
+            "options": [
+                "Lateral motion of phospholipids",
+                "Lateral motion of proteins",
+                "Flip flop of lipids",
+                "Transverse motion of phospholipids",
+                "Flip flop of proteins"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Biomembrane"
+        },
+        {
+            "id": 50,
+            "question": "Composition of membranes",
+            "options": [
+                "Carbohydrate content is very negligible",
+                "Phospholipid are the most abundant lipid components",
+                "Glycolipids are the most abundant lipid components",
+                "Protein/lipid ratio varies from membrane to membrane",
+                "Protein/lipid ratio is constant in all membranes"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Biomembrane"
+        },
+        {
+            "id": 51,
+            "question": "The function of mitochondria is",
+            "options": [
+                "Intracellular transport of proteins",
+                "Cellular Respiration(ATP synthesis)",
+                "Photosynthesis",
+                "Lipid synthesis",
+                "None of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Cell types and Structure"
+        },
+        {
+            "id": 52,
+            "question": "Which of the following describes membrane phospholipids",
+            "options": [
+                "They have hydrophilic heads that face outward and are exposed to water",
+                "They have hydrophobic tails that face inward and are shielded from water",
+                "Their composition are the same in all membranes",
+                "They make up the lipid bilayer of biological membranes",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Biomembrane"
+        },
+        {
+            "id": 53,
+            "question": "The cholesterol associated with cell membranes",
+            "options": [
+                "Is attachted to membrane proteins and extends into the watery environment surrounding the cell",
+                "Help to stabilize the cell membrane at higher or lower temperature",
+                "Is an abnormality resulting from a diet high in cholesterol",
+                "Makes the cell membrane fluid at room temperature",
+                "None of the choices are correct"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Biomembrane"
+        },
+        {
+            "id": 54,
+            "question": "Biochemistry is",
+            "options": [
+                "The chemistry of Life",
+                "The chemistry of Death",
+                "The chemistry of human culture",
+                "The chemistry of animal culture",
+                "Related to clinical chemistry"
+            ],
+            "answer": [
+                true,
+                false,
+                false,
+                false,
+                true
+            ],
+            "explanation": "",
+            "topic": "Introdution to Medical Biochemisty"
+        },
+        {
+            "id": 55,
+            "question": "Biochemistry is relavant to ",
+            "options": [
+                "Medicine",
+                "Nursing science",
+                "Pharmacy",
+                "Medical Lab science",
+                "Dentistry"
+            ],
+            "answer": [
+                true,
+                true,
+                true,
+                true,
+                true
+            ],
+            "explanation": "",
+            "topic": "Introdution to Medical Biochemisty"
+        },
+        {
+            "id": 56,
+            "question": "Concerning Biochemistry",
+            "options": [
+                "Associated with the chemical basis of life",
+                "Involved with the chemical constituents of living cells",
+                "It's the study of life from a molecular perspective",
+                "Advances the understanding of chemical structures and processes that constitute health and disease",
+                "Focuses on the study of biological matter"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Introdution to Medical Biochemisty"
+        },
+        {
+            "id": 57,
+            "question": "The stages in the metabolism of food nutrients include",
+            "options": [
+                "Stage of hydrolysis to simpler units",
+                "Preparatory stage",
+                "Oxidative stage",
+                "Mineralisation stage",
+                "Liquefaction stage"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Introduction to intermediary metabolism"
+        },
+        {
+            "id": 58,
+            "question": "Proteins can form both carbohydrates and lipids through",
+            "options": [
+                "Glucogenic amino acids",
+                "Ketogenic amino acids",
+                "Reversal of glycolysis",
+                "Reversal of glycogenolysis",
+                "Oxidation of lipids"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Introduction to intermediary metabolism"
+        },
+        {
+            "id": 59,
+            "question": "In the fed state the fuel for most tissues is",
+            "options": [
+                "Fat",
+                "Glucose",
+                "Aceto-acetate",
+                "Acetone",
+                "Amino acids"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Introduction to intermediary metabolism"
+        },
+        {
+            "id": 60,
+            "question": "The products of the 1st stage of metabolism of the major food nutrients are",
+            "options": [
+                "Glucose",
+                "Free Fatty Acids",
+                "Amino Acids",
+                "Glycerol",
+                "Disaccharides"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Introduction to intermediary metabolism"
+        },
+        {
+            "id": 61,
+            "question": "In the 2nd stage of metabolism of the major food nutrients, there is a convergence of the metabolic products in",
+            "options": [
+                "Pyruvate",
+                "Acetyl-CoA",
+                "NADH",
+                "NH3",
+                "CO2"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Introduction to intermediary metabolism"
+        },
+        {
+            "id": 62,
+            "question": "On denaturation of proteins",
+            "options": [
+                "Denaturation involves the destruction of the higher level structural organization of protein with the retention of whe primary structure by denaturing agent",
+                "The denatured protein may retain its biological activity by refolding when the denaturing agent is removed",
+                "A denature protein has a decrease in number of reactive and functional group in the composition of the native protein molecule",
+                "Exhibit Loss of biological activity evoked by the disarragement of the native structural molecular organization",
+                "Albumin and Globulin in the urine could infer kidney imparment and glomerular permeability"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Protein"
+        },
+        {
+            "id": 63,
+            "question": "Answer true or false",
+            "options": [
+                "Hemoglobin is restricted to the intracellular matrix of RBC",
+                "Myoglobin(MB) is found primarily in skeletal and striated muscle which mainly serves as a store of O2 in the cytoplasm",
+                "Adult Hb(HbA) Contains two types of globin four α-chains and four β-chain",
+                "The direct benefit of this structural change in Hb isoform is a more efficient transfer of oxygn form maternal HbA to fetal(HbF)"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Protein"
+        },
+        {
+            "id": 64,
+            "question": "Consider the following statement on the mutation in sickle cells heamoglobin",
+            "options": [
+                "Sickle Cell Hemoglobin(HbS) cannot tolerate high protein concentration when deoxygenated",
+                "The mutation is a surface localized charged amino acids is replaced by a hydrophobic residue",
+                "Creates sticky patches on the outside surface of each α-chain",
+                "The homozygote individuals for sickle cell trait is associated with increased resistance to malaria",
+                "An individual with sickle cell disease present with intermittent episode of haemolytic and painful vaso-occlusive crisis"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Protein"
+        },
+        {
+            "id": 65,
+            "question": "Consider the following statement about proteins",
+            "options": [
+                "Its basic components are sulfur, phosphorus and oxygen",
+                "They are micromolecules form from polymerization of amino acids",
+                "Globular proteins the enzymes found in the body",
+                "Transport proteins include tubulin, ferritin and myoglobin",
+                "Proteins contain between 50 - 200 amino acids"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Protein"
+        },
+        {
+            "id": 66,
+            "question": "Answer true or false",
+            "options": [
+                "DNA ligase joins together Okazaki fragments on the lagging strand during DNA synthesis",
+                "Single strand DNA-binding proteins cling to the single strand DNA exposed by th helicase",
+                "Single strand DNA-binding proteins keep the DNA strands apart to provides access for the DNA ligase",
+                "DNA topoisomerases increases the tension that builds up in front of a replication fork",
+                "Sliding clamp, keeps DNA polymerase firmly attached to the template while it is sythesizing new strands of DNA"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Genome and Biochemistry of Heredity"
+        },
+        {
+            "id": 67,
+            "question": "Answer true or false",
+            "options": [
+                "The damaged DNA is recognized and removed by nucleases",
+                "Noncovalent bonds join the damaged nucleotides to the rest of the DNA strand",
+                "A repair DNA polymerase binds to 3-hydroxyl end of the cut DNA strand",
+                "A DNA mismatch repair system removes replication error that escape proofreading",
+                "DNA mismatch repair corrects 99% of these replication errors"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Genome and Biochemistry of Heredity"
+        },
+        {
+            "id": 68,
+            "question": "Answer true or false",
+            "options": [
+                "A mismatch repair system must be able to recongnize which of the DNA strands contains the error",
+                "Double strand break can lead to the fragmentation of chromosomes and the subsequent loss of genes",
+                "Non homologous end-joining can be a risky strategy for fixing broken chromosomes",
+                "Homologous recombination allows the flawless repair of DNA double strand breaks",
+                "DNA replication and repair processes failure and can give rise to a mutation"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Genome and Biochemistry of Heredity"
+        },
+        {
+            "id": 69,
+            "question": "Concerning human genome",
+            "options": [
+                "Human genomes, inclued both protein coding DNA genes and noncoding DNA",
+                "Genome is the complete set of nucleic and sequence for humans, encoded as RNA within the 23 chromosome pairs",
+                "The total length of the human genome is over 3 billion base pairs",
+                "The number of proteins in human genome is based on the number of initial percursor tRNA transcribe",
+                "The Human Genome projecct produced the first complete sequences of individual human genomes, with the first draft sequences and initial analysis being published on February 12, 2012"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Genome and Biochemistry of Heredity"
+        },
+        {
+            "id": 70,
+            "question": "Based on the characteristics of genetic material, answer true or false",
+            "options": [
+                "It should be present in every cell",
+                "It must contain all the biologically usefus information in a stable form",
+                "It should be able to store information in the coded form for the control of biological functions of the cells, and also to express its information",
+                "It should show diversity corresponding to the variety existing in the organisms",
+                "It should be able to replicate precisely, and then faithfully pass over its true copies to the successive generation"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Genome and Biochemistry of Heredity"
+        },
+        {
+            "id": 71,
+            "question": "Examine the following questions on DNA replication",
+            "options": [
+                "The ability of each strand of a DNA molecule to act as a template for producing a complementary strand enables a cell to copy",
+                "Differences in DNA can produce the variations that underlie the differences between individuals of the same species",
+                "The daughter DNA double helices ends up with one of the original (old) strands plus one strand that is completely new; this style of replication is said to be non-conservative",
+                "Separating a short length of DNA require a large energy input",
+                "At the heart of the replication machine is an enzyme called DNA polymerase"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Genome and Biochemistry of Heredity"
+        },
+        {
+            "id": 72,
+            "question": "Concerning immunodeficiency answer true or false",
+            "options": [
+                "It occurs when the immune system is acting at a much lower level"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 73,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 74,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 75,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 76,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 77,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 78,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 79,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 80,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 81,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 82,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 83,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 84,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 85,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 86,
+            "question": "Compared with resting state a vigorously contracting muscle show:",
+            "options": [
+                "An increase conversion of pyruvate - lactate",
+                "Increase oxidation of pyruvate to CO2",
+                "A decrease concentration of AMP",
+                "Decrease level of Fructose  2,6,bisphophate",
+                "Decrease ratio of NADA/NAD+"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Muscle biochemistry"
+        },
+        {
+            "id": 87,
+            "question": "In TCA Cycle, GTP is produced at one step by substrate level phosphorylation and that is subsequently utilized for Gluconeogenesis. Which of the following enzymes is involved in this process of GTP formation from GDP",
+            "options": [
+                "Succinate Thiokinase",
+                "Succinate dehydrogenase",
+                "Citrate synthase",
+                "Isocitrate dehydrogenase",
+                "Malate dehydrogenase"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Carbohydrate Metabolism"
+        },
+        {
+            "id": 88,
+            "question": "A semiconscious chronic alcoholic patient brought to the medical emergency with a blood glucose of 55mg/dl(hypoglycemia) which of the intermediates of TCA cycle can be directly converted  to phosphoenol pyruvate to trigger gluconeogenesis",
+            "options": [
+                "Succinate",
+                "Malate",
+                "Alpha Ketoglutarate",
+                "Oxaloacetate",
+                "Pyruvate"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Carbohydrate Metabolism"
+        },
+        {
+            "id": 89,
+            "question": "Which of the following enzyme is thiamine dependent",
+            "options": [
+                "Pyruvate dehydrogenase complex",
+                "Acetyl COA carboxylase",
+                "Transaldolase",
+                "Succinyl CoA Thiokinase",
+                "Succinate dehydrogenase"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Carbohydrate Metabolism"
+        },
+        {
+            "id": 90,
+            "question": "A nonsense mutation may result into",
+            "options": [
+                "Abnormal elongation of a polypeptide",
+                "Large deleciton within the reading frame",
+                "Premature termination of synthesis of a polypetide",
+                "Modification of MRNA",
+                "Modification of Genome"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Genome and Biochemistry of Heredity"
+        },
+        {
+            "id": 91,
+            "question": "Which of the following is not a heam protein",
+            "options": [
+                "Tryptophan pyrolase",
+                "Tyrosinase",
+                "Myoglobin",
+                "Cytochrome P450",
+                "Chlorophyll"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Protein"
+        },
+        {
+            "id": 92,
+            "question": "The basic unit of contraction is the",
+            "options": [
+                "Myosin",
+                "Actin",
+                "Z-lines",
+                "Sacromere",
+                "M lines"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Muscle biochemistry"
+        },
+        {
+            "id": 93,
+            "question": "Neurotoxic substances",
+            "options": [
+                "Can be gaseous",
+                "Can only be in the form of liquids",
+                "Usually have similar mechanisms of action",
+                "More destructive to the infant's brain",
+                "Greater consequence in males than in females"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Neurobiochemistry"
+        },
+        {
+            "id": 94,
+            "question": "Schizophrenia is",
+            "options": [
+                "A mental disorder or a large group of mental disorder",
+                "Characterized of mental alertness",
+                "Characterized by loosening of affect",
+                "None of the above",
+                "Disturbed sense of others"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Neurobiochemistry"
+        },
+        {
+            "id": 95,
+            "question": "Parkinson's disease results partly due to .....",
+            "options": [
+                "Stress",
+                "Near perfect health",
+                "Dopamine insufficiency",
+                "Acetyl choline over expression",
+                "Acetyl cholinesterase activity"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Neurobiochemistry"
+        },
+        {
+            "id": 96,
+            "question": "Multiple Sclerosis .....",
+            "options": [
+                "A neurodegenerative disease",
+                "Progressive in course",
+                "Affects young and old equally",
+                "More severe in females than in males",
+                "Hardly affects African"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Neurobiochemistry"
+        },
+        {
+            "id": 97,
+            "question": "Characteristic features of MUscular dystrophies include:",
+            "options": [
+                "Degeneration and loss of myofibres",
+                "Progressive weakness",
+                "Decreased creatine kinase levels",
+                "Elevated creatine kinase level",
+                "Serum creatinine is decreased"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Muscle biochemistry"
+        },
+        {
+            "id": 98,
+            "question": "On Myotonic dystrophy",
+            "options": [
+                "Autosomal dominant muscular dystrophy",
+                "Characterized by weakness and stiffness",
+                "Pronounced more in facial and distal muscles",
+                "Ptosis",
+                "Frontal baldness"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Muscle biochemistry"
+        },
+        {
+            "id": 99,
+            "question": "Congenital Myopathies",
+            "options": [
+                "Genetic muscle disorder",
+                "Structural abnormalities of myofibres",
+                "Normal protein accumulation",
+                "Severe hypotonia and weakness at birth",
+                "Kyphoscoliosis"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Muscle biochemistry"
+        },
+        {
+            "id": 100,
+            "question": "Centro-nuclear myopathy",
+            "options": [
+                "Small fibres with central nuclei are characteristic",
+                "Such fibres have central areas without contractile filaments",
+                "Y-linked myotubular myopathy is a good example",
+                "X-linked myotubular myopathy is a good type",
+                "Presents with hypertonia and weakness at birth"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Muscle biochemistry"
+        }
+    ]
+}

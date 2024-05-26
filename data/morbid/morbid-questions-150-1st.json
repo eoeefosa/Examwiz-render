@@ -1,0 +1,1069 @@
+[
+  {
+    "id": 1,
+    "question": "The following is/are true",
+    "options": [
+      "Leptin is produced in the hypothalamus",
+      "Peptide YY is produced in the pancreas",
+      "Insulin is produced by the alpha cells of the islets of Langerhans",
+      "None of the above"
+    ],
+    "answer": ["None of the above"],
+    "explanation": "None of the statements is correct. Leptin is produced in adipocytes, Peptide YY is produced in the colon, and Insulin is produced by the beta cells of the islets of Langerhans."
+  },
+  {
+    "id": 2,
+    "question": "Increase vascular permeability is as a result of",
+    "options": [
+      "Endothelial contraction",
+      "Transmigration",
+      "Angiogenesis",
+      "Exudation"
+    ],
+    "answer": [
+      "Endothelial contraction",
+      "Transmigration",
+      "Angiogenesis",
+      "Exudation"
+    ],
+    "explanation": "Increase vascular permeability can result from endothelial contraction, transmigration of leukocytes, angiogenesis, and exudation."
+  },
+  {
+    "id": 3,
+    "question": "Shock can be caused by the following",
+    "options": [
+      "Gram-negative bacilli",
+      "Gram-positive cocci",
+      "Gram-positive bacilli",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Shock can be caused by various microorganisms, including Gram-negative bacilli, Gram-positive cocci, and Gram-positive bacilli."
+  },
+  {
+    "id": 4,
+    "question": "White infarct, except",
+    "options": ["Spleen", "Kidney", "Intestine", "Brain"],
+    "answer": ["Brain"],
+    "explanation": "White infarct is not typically found in the brain. It is more commonly associated with solid organs like the spleen, kidney, and intestine."
+  },
+  {
+    "id": 5,
+    "question": "On Down syndrome, false",
+    "options": [
+      "More than 90% mosaic",
+      "Robersonian translocation",
+      "Intestinal stenosis",
+      "Leukemia"
+    ],
+    "answer": ["Leukemia"],
+    "explanation": "Leukemia is not a characteristic feature of Down syndrome. The other options may be associated with Down syndrome."
+  },
+  {
+    "id": 6,
+    "question": "Acute effects of Alcohol",
+    "options": [
+      "Drowsiness at 80mg/dL",
+      "Stupor 250mg/dL",
+      "Gastric ulceration",
+      "Vitamin deficiency"
+    ],
+    "answer": ["Gastric ulceration"],
+    "explanation": "Gastric ulceration is an acute effect of alcohol consumption. Drowsiness and stupor are associated with lower doses, and vitamin deficiency is a long-term effect."
+  },
+  {
+    "id": 7,
+    "question": "The following diseases are autosomal dominant, except",
+    "options": [
+      "Neurofibromatosis",
+      "Polycystic kidney disease",
+      "Achondroplasia",
+      "Glycogen storage disease"
+    ],
+    "answer": ["Glycogen storage disease"],
+    "explanation": "Glycogen storage disease is not autosomal dominant. Neurofibromatosis, Polycystic kidney disease, and Achondroplasia are autosomal dominant disorders."
+  },
+  {
+    "id": 8,
+    "question": "Which is true of the model for adenoma-carcinoma sequence",
+    "options": [
+      "APC mutation is an early event",
+      "p53 mutation is a late event",
+      "Increased total activity is late",
+      "RAS mutations involved"
+    ],
+    "answer": ["APC mutation is an early event"],
+    "explanation": "In the adenoma-carcinoma sequence, APC mutation is an early event. p53 mutation can be a late event, and RAS mutations may also be involved."
+  },
+  {
+    "id": 9,
+    "question": "Leukocytes Transmigration during inflammation involves the following",
+    "options": ["Intergrin", "Selectin", "CD31", "Glycam-1"],
+    "answer": ["CD31"],
+    "explanation": "Leukocyte transmigration during inflammation involves CD31. Integrin, Selectin, and Glycam-1 also play roles in leukocyte trafficking."
+  },
+  {
+    "id": 10,
+    "question": "False on Turner syndrome",
+    "options": [
+      "A complete monosomy",
+      "Leydig cell hypertrophy",
+      "Streak ovaries",
+      "Coarctation of the aorta"
+    ],
+    "answer": ["Leydig cell hypertrophy"],
+    "explanation": "Turner Syndrome: Results from complete or partial monosomy of the x chromosome and is characterized by hypogonadism in females. It is the most common sex chromosome abnormality in females.\nTurner's syndrome is characterized by,\n1. Oedema at infancy on the extremities and the neck due to lymph  stasis,\n2. neck webbing short stature,\n2. hypothyroidism,\n3. broad chest and widely spaced nipple streak  ovaries, \n5. amenorrhoea, \n6. coartation of the aorta with features of congenital heart dx.  \n7. Delayed or lack of develop secondary sexual maturity.\n\n Fetal ovaries develop normally in  embryogenesis but the absence of the second x chromosomes lead to accelerated loss of oocytes  which is complete before 2 to 3 years which means that menopause may occur before menarche  and the ovaries are reduced to streak ovaries (atrophic fibrous strand without oval or follicles)"
+  },
+  {
+    "id": 11,
+    "question": "In H&E stains, clears spaces are produced by what",
+    "options": ["Lipids", "Proteins", "Polysaccharides", "Solute"],
+    "answer": ["Lipids"],
+    "explanation": "In H&E stains, clear spaces are produced by lipids. Lipids appear clear or empty in H&E staining."
+  },
+  {
+    "id": 12,
+    "question": "The following are sex-linked disorders, except",
+    "options": [
+      "Diabetes Insipidus",
+      "Myotonic dystrophy",
+      "Haemophilia A and B",
+      "Duchenne dystrophy"
+    ],
+    "answer": ["Myotonic dystrophy"],
+    "explanation": "Myotonic dystrophy is not a sex-linked disorder. Diabetes Insipidus, Haemophilia A and B, and Duchenne dystrophy are associated with sex-linked inheritance."
+  },
+  {
+    "id": 13,
+    "question": "Marfan syndrome is characterized by the following features except",
+    "options": [
+      "Dolicocephalic",
+      "Mutation of FBN-1 gene",
+      "Mitral Valve Prolapse",
+      "Gaucher cell"
+    ],
+    "answer": ["Gaucher cell"],
+    "explanation": "Gaucher cell is not a characteristic feature of Marfan syndrome. Dolicocephalic, Mutation of FBN-1 gene, and Mitral Valve Prolapse are associated with Marfan syndrome."
+  },
+  {
+    "id": 14,
+    "question": "The following are important in delayed type cell-mediated hypersensitivity reaction (this is type 4)",
+    "options": ["IFN-Y", "1L-2", "TNF-alpha", "All"],
+    "answer": ["All"],
+    "explanation": "IFN-Y, 1L-2, and TNF-alpha are important in delayed-type cell-mediated hypersensitivity reaction (Type 4). All the options contribute to Type 4 hypersensitivity."
+  },
+  {
+    "id": 15,
+    "question": "Apoptotic body",
+    "options": [
+      "Councilman body",
+      "Russel bodies",
+      "Brown atrophy",
+      "Psammoma bodies"
+    ],
+    "answer": ["Councilman body"],
+    "explanation": "Apoptotic bodies are represented by Councilman bodies. Councilman bodies are a histopathological finding associated with apoptosis."
+  },
+  {
+    "id": 16,
+    "question": "Dependent edema, except",
+    "options": [
+      "Congestive heart failure",
+      "Kwashiokor",
+      "Marasmus",
+      "Cirrhosis"
+    ],
+    "answer": ["Marasmus"],
+    "explanation": "Marasmus is not typically associated with dependent edema. Congestive heart failure, Kwashiokor, and Cirrhosis may lead to dependent edema."
+  },
+  {
+    "id": 17,
+    "question": "A 20-year-old female, concerning Familial Hypercholesterolemia",
+    "options": [
+      "Accumulation of Glycolipid",
+      "Accumulation of Glycoprotein",
+      "Accumulation of Sphingomyelin",
+      "Premature atherosclerosis"
+    ],
+    "answer": ["Premature atherosclerosis"],
+    "explanation": "Familial hypercholesterolemia is characterized by \n1. High levels of total cholesterol and LDL cholesterol.\n2. A strong family history of high levels of total and LDL cholesterol and/or early heart attack.\n3. Xanthomas (waxy deposits of cholesterol in the skin or tendons).\n4. Xanthelasmas (cholesterol deposits in the eyelids).\n5. Corneal arcus (cholesterol deposit around the cornea of the eye).\n6. If angina (chest pain) is present, it may be sign that heart disease is present. \n7. It is also characterised by elevated levels of LDL cholesterol, leading to the premature development of atherosclerosis. This can result in cardiovascular complications at an early age.\n\n Individuals who have homozygous familial hypercholesterolemia develop xanthomas beneath the skin over their elbows, knees and buttocks as well as in the tendons at a very early age, sometime in infancy. Heart attacks and death may occur before 30."
+  },
+  {
+    "id": 18,
+    "question": "Dependent edema",
+    "options": [
+      "Congestive heart failure",
+      "Kwashiokor",
+      "Nephritic syndrome",
+      "Cirrhosis"
+    ],
+    "answer": ["Nephritic syndrome"],
+    "explanation": "Nephritic syndrome is associated with dependent edema. Congestive heart failure, Kwashiokor, and Cirrhosis may also lead to dependent edema."
+  },
+  {
+    "id": 19,
+    "question": "A footballer suffered a left ankle injury and underwent pain, redness, swelling, increased heat and loss of function of the left ankle. The following could be said to have occurred",
+    "options": ["Rubor", "Dolor", "Calor", "All"],
+    "answer": ["All"],
+    "explanation": "All the listed signs (Rubor, Dolor, Calor) are classical features of acute inflammation that can occur after an injury."
+  },
+  {
+    "id": 20,
+    "question": "Chronic granulomatous inflammation",
+    "options": [
+      "M. tuberculosis",
+      "M. leprae",
+      "Sarcoidosis",
+      "Onchocerca",
+      "All"
+    ],
+    "answer": ["All"],
+    "explanation": "Chronic granulomatous inflammation can occur in various conditions, including M. tuberculosis, M. leprae, Sarcoidosis, and Onchocerca."
+  },
+  {
+    "id": 21,
+    "question": "False on Melanoma",
+    "options": ["Cytokeratin", "CD45", "EMA", "S100"],
+    "answer": ["CD45"],
+    "explanation": "Melanoma is a malignancy of melanocytes and is not expected to express CD45, a marker for hematopoietic cells."
+  },
+  {
+    "id": 22,
+    "question": "False on Metastasis to an organ",
+    "options": [
+      "Liver to adrenals",
+      "Colorectal to lung",
+      "Neuroblastoma to brain",
+      "All"
+    ],
+    "answer": ["All"],
+    "explanation": "Metastasis to various organs is possible in cancer. All the listed options can represent sites of metastasis."
+  },
+  {
+    "id": 23,
+    "question": "Molecular diagnosis",
+    "options": [
+      "FISH - complex genetic translocation",
+      "FISH - Amplification",
+      "Southern blot - RNA",
+      "Northern blot - DNA"
+    ],
+    "answer": ["FISH - complex genetic translocation"],
+    "explanation": "Molecular diagnosis techniques like FISH (Fluorescence In Situ Hybridization) are used for various applications, including complex genetic translocations."
+  },
+  {
+    "id": 24,
+    "question": "False on metastasis to an organ",
+    "options": [
+      "Lung to adrenals",
+      "Colorectal to lung",
+      "Breast to ovaries",
+      "All"
+    ],
+    "answer": ["All"],
+    "explanation": "Metastasis to various organs is possible in cancer. All the listed options can represent sites of metastasis."
+  },
+  {
+    "id": 25,
+    "question": "Which of the following are correctly matched",
+    "options": ["VCAM1 > VLA4", "ICAM1 > LFA1", "Bradykinin > Pain", "All"],
+    "answer": ["All"],
+    "explanation": "The provided matches are correct. VCAM1 binds to VLA4, ICAM1 binds to LFA1, and Bradykinin is associated with pain."
+  },
+  {
+    "id": 26,
+    "question": "The following are cellular events of inflammation",
+    "options": ["Margination", "Adhesion", "Transmigration", "All"],
+    "answer": ["All"],
+    "explanation": "Cellular events in inflammation include margination, adhesion, and transmigration. These processes enable leukocytes to reach the site of inflammation."
+  },
+  {
+    "id": 27,
+    "question": "False on Neurosyphilis",
+    "options": [
+      "Untreated syphilis",
+      "Antibodies against spirochetes in CSF with the absence of symptoms is not enough for diagnosis",
+      "Absent in 1/3rd of individuals",
+      "Prolonged antibiotic therapy"
+    ],
+    "answer": [
+      "Antibodies against spirochetes in CSF with the absence of symptoms is not enough for diagnosis"
+    ],
+    "explanation": "The presence of antibodies against spirochetes in CSF, even without symptoms, may be considered in the diagnosis of neurosyphilis."
+  },
+  {
+    "id": 28,
+    "question": "Spontaneous remission, except",
+    "options": ["Melanoma", "Wilm's tumour", "Neuroblastoma", "Hepatoma"],
+    "answer": ["Wilm's tumour"],
+    "explanation": "Spontaneous remission refers to the partial or complete disappearance of a tumor without treatment. Wilm's tumor is not typically associated with spontaneous remission."
+  },
+  {
+    "id": 29,
+    "question": "All but one is a benign neoplastic condition",
+    "options": [
+      "Cystadenofibroma",
+      "Harmatoma",
+      "Endometrioma",
+      "Fibromatosis"
+    ],
+    "answer": ["Harmatoma"],
+    "explanation": "Harmatoma is a tumor-like malformation composed of mature tissue elements. It is not a true neoplastic condition."
+  },
+  {
+    "id": 30,
+    "question": "On TB, which is",
+    "options": [
+      "Ghon focus is an area of 1-1.5 cm with Grey-white inflam with consolidation",
+      "Ghon complex is an area of 1-1.5 cm with Grey-white inflam with consolidation",
+      "Ghon complex is an area of fibrosis with calcifications",
+      "Ranke complex includes nodal involvement"
+    ],
+    "answer": [
+      "Ghon complex is an area of 1-1.5 cm with Grey-white inflam with consolidation"
+    ],
+    "explanation": "The Ghon complex in TB is an area of 1-1.5 cm with Grey-white inflammation and consolidation. The Ranke complex may involve nodal involvement."
+  },
+  {
+    "id": 31,
+    "question": "On syphilis",
+    "options": [
+      "Can be grown in culture",
+      "Is a gram-negative bacilli/cocci",
+      "Sexual contact",
+      "Transplacental transmission is rare"
+    ],
+    "answer": ["Sexual contact"],
+    "explanation": "Syphilis is caused by the bacterium Treponema pallidum, and it is primarily transmitted through sexual contact. It cannot be grown in culture."
+  },
+  {
+    "id": 32,
+    "question": "On syphilis",
+    "options": [
+      "Chronic meningovascular disease is seen",
+      "General paresis involves",
+      "It is asymptomatic in one-third of patients",
+      "All"
+    ],
+    "answer": ["All"],
+    "explanation": "Syphilis can present with chronic meningovascular disease, general paresis, and can be asymptomatic in some individuals. All the provided statements are true."
+  },
+  {
+    "id": 33,
+    "question": "Match the following",
+    "options": [
+      "Treponemes - sleeping sickness",
+      "Treponemes - Chagas disease",
+      "Leproma - Lepromatous leprosy",
+      "All"
+    ],
+    "answer": ["Leproma - Lepromatous leprosy"],
+    "explanation": "Lepromatous leprosy is caused by Mycobacterium leprae (leproma). Sleeping sickness is caused by Trypanosoma brucei, and Chagas disease is caused by Trypanosoma cruzi."
+  },
+  {
+    "id": 34,
+    "question": "On TB, choose false",
+    "options": [
+      "Primary TB always involves the lungs",
+      "Primary TB may involve the intestine",
+      "Primary TB may progress in the elderly and immunocompromised as they have lost their immunity",
+      "About 5% of newly infected people develop the disease"
+    ],
+    "answer": ["Primary TB may involve the intestine"],
+    "explanation": "Primary TB typically involves the lungs. While it may progress in the elderly and immunocompromised, the primary infection does not usually involve the intestine."
+  },
+  {
+    "id": 35,
+    "question": "Autosomal recessive Diseases",
+    "options": [
+      "Wilson's disease",
+      "Sickle cell disease",
+      "Alpha thalassemia",
+      "All"
+    ],
+    "answer": ["All"],
+    "explanation": "Wilson's disease, Sickle cell disease, and Alpha thalassemia are examples of autosomal recessive disorders."
+  },
+  {
+    "id": 36,
+    "question": "On tapeworms",
+    "options": [
+      "The cyst lodges in the gut",
+      "The eggs lodge in the gut",
+      "They attain their sexual maturity in pigs which are their intermediate host",
+      "Convulsion, raised ICP are features of CYSTICERCOSIS"
+    ],
+    "answer": ["The cyst lodges in the gut"],
+    "explanation": "Cysticercosis is caused by the larval stage of the tapeworm Taenia solium, and the cysts can lodge in various tissues, including the gut."
+  },
+  {
+    "id": 37,
+    "question": "X-linked disorders",
+    "options": [
+      "Duchenne Muscular Dystrophy",
+      "Haemophilia A&B",
+      "Diabetes Insipidus",
+      "All"
+    ],
+    "answer": ["All"],
+    "explanation": "Duchenne Muscular Dystrophy, Haemophilia A&B, and Diabetes Insipidus are examples of X-linked disorders."
+  },
+  {
+    "id": 38,
+    "question": "Match the following amyloid conditions",
+    "options": [
+      "AL - Multiple myeloma",
+      "Transthyretin - Alzheimer’s disease",
+      "Beta 2 microglobulin - Crohn’s disease",
+      "AA - Dialysis-associated amyloid"
+    ],
+    "answer": ["AL - Multiple myeloma"],
+    "explanation": "AL amyloidosis is associated with multiple myeloma. Transthyretin is associated with familial amyloid polyneuropathy. Beta 2 microglobulin is associated with dialysis-associated amyloidosis, and AA amyloidosis is associated with chronic inflammatory conditions."
+  },
+  {
+    "id": 39,
+    "question": "Benign tumors ending with the suffix “-oma”",
+    "options": ["Lipoma", "Mesothelioma", "Seminoma", "Lymphoma"],
+    "answer": ["Lipoma"],
+    "explanation": "Tumors ending with the suffix “-oma” are often benign. Lipoma is an example of a benign tumor."
+  },
+  {
+    "id": 40,
+    "question": "Which of the following are not a primary site for germ cell tumor",
+    "options": ["Brain", "Mediastinum", "Kidney", "Testes"],
+    "answer": ["Kidney"],
+    "explanation": "Germ cell tumors primarily arise in gonads (e.g., testes, ovaries), and kidney is not a typical site for germ cell tumors."
+  },
+  {
+    "id": 41,
+    "question": "A 5-year-old presented with an orbito-ocular mass. Possible diagnosis include the following except",
+    "options": [
+      "Nephroblastoma",
+      "Metastatic carcinoma",
+      "Retinoblastoma",
+      "Ocular melanoma"
+    ],
+    "answer": ["Nephroblastoma"],
+    "explanation": "Nephroblastoma (Wilms tumor) is a kidney tumor and would not present as an orbito-ocular mass."
+  },
+  {
+    "id": 42,
+    "question": "A woman was diagnosed with a certain malignant cancer which she later discovered could be cured with the use of a vaccine",
+    "options": [
+      "Hepatocellular carcinoma",
+      "Primary CNS lymphoma",
+      "Melanoma",
+      "Kaposi sarcoma"
+    ],
+    "answer": ["Hepatocellular carcinoma"],
+    "explanation": "Hepatocellular carcinoma is associated with a vaccine (HBV vaccine) for prevention."
+  },
+  {
+    "id": 43,
+    "question": "A patient who had been correctly diagnosed as having a malignant tumor rightly observed shrinkage of the tumors with the use of certain antimicrobial agents. Which of the following tumors are responsive to antimicrobial agents",
+    "options": [
+      "Kaposi sarcoma",
+      "Hodgkin's lymphoma",
+      "MALToma",
+      "HCC",
+      "Melanoma"
+    ],
+    "answer": ["MALToma"],
+    "explanation": "MALTomas (Mucosa-Associated Lymphoid Tissue lymphomas) are known to respond to antimicrobial agents, particularly antibiotics."
+  },
+  {
+    "id": 44,
+    "question": "Something on cancers with targeted therapy (not conventional therapy)",
+    "options": [
+      "CGL",
+      "GIST",
+      "Invasive breast carcinoma",
+      "Papillary carcinoma of the thyroid",
+      "Invasive colorectal carcinoma"
+    ],
+    "answer": ["GIST"],
+    "explanation": "GIST (Gastrointestinal Stromal Tumor) is known for targeted therapy with drugs like imatinib (Gleevec)."
+  },
+  {
+    "id": 45,
+    "question": "Which of these carcinogens are naturally occurring carcinogens",
+    "options": ["Aflatoxin", "B-propiolactone", "Benzidine", "Cycasine"],
+    "answer": ["Aflatoxin"],
+    "explanation": "Aflatoxin, produced by certain molds, is a naturally occurring carcinogen found in contaminated food."
+  },
+  {
+    "id": 46,
+    "question": "The following are ways in which tumors evade immunity",
+    "options": [
+      "Lack of costimulator",
+      "Antigen masking",
+      "Selection of antigen-negative variants",
+      "Apoptosis of cytotoxic T cell",
+      "ALL"
+    ],
+    "answer": ["ALL"],
+    "explanation": "Tumors can evade immunity through various mechanisms, including those mentioned. ALL the options are correct."
+  },
+  {
+    "id": 47,
+    "question": "The following are correct about chemical carcinogenesis",
+    "options": [
+      "The application of the initiator alone in high dose may result in a tumor",
+      "The application of the initiator followed by the application of the promoter may result in a tumor",
+      "The application of the promoter followed by the initiator results in a tumor",
+      "The application of the promoter alone in high dose results in a tumor"
+    ],
+    "answer": [
+      "The application of the initiator followed by the application of the promoter may result in a tumor"
+    ],
+    "explanation": "Chemical carcinogenesis involves initiation and promotion. Initiators followed by promoters often lead to tumor formation."
+  },
+  {
+    "id": 48,
+    "question": "Tumor suppressor genes, except",
+    "options": ["Rb", "P53", "Cadherin", "MADR2"],
+    "answer": ["MADR2"],
+    "explanation": "MADR2 is not a tumor suppressor gene. Rb, P53, and Cadherin are associated with tumor suppression."
+  },
+  {
+    "id": 49,
+    "question": "The guardian of the human genome is",
+    "options": [
+      "Located at the long arm of chromosome 17, region 1 band 3 sub-band 1",
+      "Located on chromosome 13q14",
+      "Is an RNA binding nuclear protein",
+      "It is a gatekeeper gene",
+      "It is a caretaker gene"
+    ],
+    "answer": ["It is a gatekeeper gene"],
+    "explanation": "The guardian of the human genome refers to the p53 gene, which acts as a gatekeeper in preventing the formation of cancerous cells."
+  },
+  {
+    "id": 50,
+    "question": "Autosomal dominant inherited cancer syndromes exclude",
+    "options": [
+      "Li Fraumeni",
+      "Neurofibromatosis 1 and 2",
+      "Lynch syndrome",
+      "All"
+    ],
+    "answer": ["All"],
+    "explanation": "Autosomal dominant inherited cancer syndromes include Li Fraumeni, Neurofibromatosis 1 and 2, and Lynch syndrome."
+  },
+  {
+    "id": 51,
+    "question": "Alcohol is associated with the following cancers",
+    "options": ["Mouth", "Pharynx", "Stomach", "All"],
+    "answer": ["All"],
+    "explanation": "Alcohol consumption is associated with an increased risk of cancers, including those of the mouth, pharynx, and stomach."
+  },
+  {
+    "id": 52,
+    "question": "About PEM EXCEPT",
+    "options": [
+      "Malnourished body weight of 80% negates marasmus",
+      "In marasmus, there is an increase in somatic protein catabolism while the visceral is normal",
+      "Increase cortisol level in marasmus",
+      "Increase leptin level in marasmus"
+    ],
+    "answer": ["Increase leptin level in marasmus"],
+    "explanation": "In Protein-Energy Malnutrition (PEM), there is typically a decrease in leptin levels."
+  },
+  {
+    "id": 53,
+    "question": "The following are true concerning the neurohumoral mechanisms",
+    "options": [
+      "Leptin and adiponectin are produced by the arcuate nucleus of the thalamus",
+      "Ghrelin is produced by the stomach",
+      "Polypeptide YY is produced by the pancreas",
+      "All the statements are false"
+    ],
+    "answer": ["Ghrelin is produced by the stomach"],
+    "explanation": "Ghrelin is indeed produced by the stomach and plays a role in appetite regulation."
+  },
+  {
+    "id": 54,
+    "question": "Risk factors for malnutrition include",
+    "options": [
+      "Cigarette smokers",
+      "Total parenteral nutrition",
+      "Insanity",
+      "All"
+    ],
+    "answer": ["All"],
+    "explanation": "Risk factors for malnutrition can include various factors, including those listed."
+  },
+  {
+    "id": 56,
+    "question": "Occurs in necrosis",
+    "options": [
+      "Coagulation of cytoplasmic proteins",
+      "Chromatin condensation",
+      "Presence of acute inflammatory cells",
+      "All"
+    ],
+    "answer": ["All"],
+    "explanation": "All the listed features occur in necrosis."
+  },
+  {
+    "id": 57,
+    "question": "All the following features are reversible ischemic injury EXCEPT",
+    "options": [
+      "Cell swelling",
+      "Lysosomal swelling",
+      "Dissociation of polysome to monosome",
+      "None of the above"
+    ],
+    "answer": ["Lysosomal swelling"],
+    "explanation": "Lysosomal swelling is a feature of irreversible cell injury, not reversible ischemic injury."
+  },
+  {
+    "id": 58,
+    "question": "Which are apoptotic bodies",
+    "options": [
+      "Councilman’s bodies",
+      "Brown atrophic bodies",
+      "Russell bodies",
+      "All"
+    ],
+    "answer": ["Councilman’s bodies"],
+    "explanation": "Councilman’s bodies are apoptotic bodies typically seen in liver cell apoptosis."
+  },
+  {
+    "id": 59,
+    "question": "Free radicals are implicated in",
+    "options": [
+      "Lipid peroxidation",
+      "Protein-protein crosslinkage",
+      "Hydroxylation of amino acids",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Free radicals play a role in lipid peroxidation, protein-protein crosslinkage, and hydroxylation of amino acids."
+  },
+  {
+    "id": 60,
+    "question": "The following may be seen in cellular adaptation except",
+    "options": ["Dysplasia", "Hyperplasia", "Pleomorphism", "Metaplasia"],
+    "answer": ["Pleomorphism"],
+    "explanation": "Pleomorphism is not a type of cellular adaptation. Dysplasia, hyperplasia, and metaplasia are examples."
+  },
+  {
+    "id": 61,
+    "question": "On H&E, which of the following will form clear spaces",
+    "options": ["Water", "Protein", "Polysaccharide", "SILICATE"],
+    "answer": ["Water"],
+    "explanation": "On H&E staining, water-filled spaces would not take up stain, appearing clear."
+  },
+  {
+    "id": 62,
+    "question": "Non-inflammatory causes of edema EXCEPT",
+    "options": [
+      "Increased hydrostatic pressure",
+      "Fall in colloid osmotic pressure",
+      "Pneumonia",
+      "All of the above"
+    ],
+    "answer": ["Pneumonia"],
+    "explanation": "Pneumonia is an inflammatory cause of edema. Non-inflammatory causes include increased hydrostatic pressure and a fall in colloid osmotic pressure."
+  },
+  {
+    "id": 63,
+    "question": "Which of the following is correct",
+    "options": [
+      "Pinpoint hemorrhage occurs on mucosal and visceral surfaces",
+      "Purpura measures greater than 1cm",
+      "Focal hematoma occurs only in adults",
+      "Contusion occurs only in static vessels"
+    ],
+    "answer": ["Pinpoint hemorrhage occurs on mucosal and visceral surfaces"],
+    "explanation": "Pinpoint hemorrhage (petechiae) occurs on mucosal and visceral surfaces and is characterized by small, red or purple spots."
+  },
+
+  {
+    "id": 64,
+    "question": "White infarct is found in the following",
+    "options": ["Spleen", "Lungs", "Intestine", "None of the above"],
+    "answer": ["Spleen"],
+    "explanation": "White infarct refers to an infarcted area where arterial blood supply is re-established. The spleen is prone to white infarction due to dual blood supply."
+  },
+  {
+    "id": 65,
+    "question": "Septic shock can be caused by the following",
+    "options": [
+      "Gram-negative bacilli",
+      "Gram-positive cocci",
+      "Fungal organism",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Septic shock can be caused by various microorganisms, including gram-negative bacilli, gram-positive cocci, and fungi."
+  },
+  {
+    "id": 66,
+    "question": "Sonia fell while climbing the staircase and suffered pain and swelling. Which of the following describes the cardinal signs of the reaction that occurred?",
+    "options": ["Calor", "Tumore", "Rubor", "All of the above"],
+    "answer": ["Rubor"],
+    "explanation": "The cardinal signs of inflammation include Calor (heat), Tumore (swelling), Rubor (redness), and Dolor (pain)."
+  },
+  {
+    "id": 69,
+    "question": "Complementary adhesion molecules",
+    "options": [
+      "Glycam 1 and E-selectin",
+      "CD31 and integrins",
+      "CD31 and LFA1",
+      "LFA1 and CD11b/18",
+      "PECAM and CD31"
+    ],
+    "answer": ["PECAM and CD31"],
+    "explanation": "PECAM (Platelet Endothelial Cell Adhesion Molecule) and CD31 (Platelet Endothelial Cell Adhesion Molecule-1) are complementary adhesion molecules."
+  },
+  {
+    "id": 70,
+    "question": "Chediak Higashi syndrome EXCEPT",
+    "options": [
+      "Defect in phagolysosome",
+      "AR disorder",
+      "Neutropenia",
+      "Neutrophils contain giant phagocytic lysosome",
+      "Defect in leukocyte adhesion"
+    ],
+    "answer": ["Defect in leukocyte adhesion"],
+    "explanation": "Chediak-Higashi syndrome is associated with a defect in phagolysosome formation but not in leukocyte adhesion."
+  },
+  {
+    "id": 71,
+    "question": "Acquired defects in leukocyte function",
+    "options": ["Thermal injury", "Sepsis", "Malignancy", "All of the above"],
+    "answer": ["All of the above"],
+    "explanation": "Various conditions, including thermal injury, sepsis, and malignancy, can lead to acquired defects in leukocyte function."
+  },
+  {
+    "id": 72,
+    "question": "Chronic inflammation which is false",
+    "options": [
+      "It is of prolonged duration",
+      "May be active inflammation",
+      "Tissue destruction",
+      "Healing is only by fibrosis"
+    ],
+    "answer": ["Healing is only by fibrosis"],
+    "explanation": "Chronic inflammation can involve prolonged duration, active inflammation, tissue destruction, and healing by fibrosis or resolution."
+  },
+  {
+    "id": 73,
+    "question": "Granulomas",
+    "options": [
+      "Aggregates of lymphocytes are present",
+      "It is a focus of chronic inflammation",
+      "Microscopic aggregates of activated macrophages",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Granulomas can involve aggregates of lymphocytes, chronic inflammation focus, and microscopic aggregates of activated macrophages."
+  },
+  {
+    "id": 74,
+    "question": "Neutrophilic infiltrate found in the following diseases",
+    "options": [
+      "Abscess in the appendix",
+      "Viral hemorrhagic fever",
+      "Myocardial infarction",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Neutrophilic infiltrate is a common feature in various conditions, including abscess in the appendix, viral hemorrhagic fever, and myocardial infarction."
+  },
+  {
+    "id": 75,
+    "question": "Which of the following are true",
+    "options": [
+      "Integrins mediate rolling",
+      "VCAM1 adheres VLA4",
+      "IL-8, C5a, and leukotriene C4 are chemoattractants",
+      "PECAM 2 binds CD31"
+    ],
+    "answer": ["VCAM1 adheres VLA4"],
+    "explanation": "VCAM1 (Vascular Cell Adhesion Molecule 1) adheres to VLA4 (Very Late Antigen 4) as part of the adhesion process."
+  },
+  {
+    "id": 76,
+    "question": "Taking aspirin/NSAIDS will inhibit the following leukocyte activity",
+    "options": [
+      "Vasodilation",
+      "Phagocytosis",
+      "Chemotaxis",
+      "Emigration of leucocyte"
+    ],
+    "answer": ["Vasodilation"],
+    "explanation": "Aspirin/NSAIDs inhibit prostaglandin synthesis, which, among other effects, leads to reduced vasodilation."
+  },
+  {
+    "id": 77,
+    "question": "Leucocytosis (neutrophil) seen in",
+    "options": [
+      "Appendix",
+      "Lobar pneumonia",
+      "Myocardial infarction",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Leucocytosis, specifically neutrophilic, can occur in various conditions, including appendix inflammation, lobar pneumonia, and myocardial infarction."
+  },
+  {
+    "id": 78,
+    "question": "Natural free radicals is/are EXCEPT",
+    "options": ["CCl4", "Superoxide", "NO", "All of the above"],
+    "answer": ["CCl4"],
+    "explanation": "Natural free radicals include superoxide and nitric oxide (NO), but not carbon tetrachloride (CCl4)."
+  },
+  {
+    "id": 79,
+    "question": "Thromboembolism occurs from",
+    "options": [
+      "Stasis in the blood vessel",
+      "Hypercoagulability state",
+      "Long term immobility of the lower limb",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Thromboembolism can result from stasis, hypercoagulability, and prolonged immobility of the lower limb."
+  },
+  {
+    "id": 80,
+    "question": "Concerning irreversible damage",
+    "options": [
+      "Ischemic injury to the brain for 1hr",
+      "Ischemic injury to the kidney for 3mins",
+      "Ischemic injury to the liver 10min",
+      "Ischemic injury to the heart 1min"
+    ],
+    "answer": ["Ischemic injury to the brain for 1hr"],
+    "explanation": "Irreversible damage is more likely with prolonged ischemia. The brain is particularly sensitive, and irreversible damage may occur after approximately 1 hour of ischemia."
+  },
+  {
+    "id": 81,
+    "question": "Leucocyte-induced injury is implicated in acute inflammation occurring in the following conditions",
+    "options": [
+      "Reperfusion injury",
+      "Vasculitis",
+      "Graves disease",
+      "Atherosclerosis",
+      "Chronic transplant rejection"
+    ],
+    "answer": ["Reperfusion injury"],
+    "explanation": "Leucocyte-induced injury, particularly during reperfusion, can contribute to tissue damage, making reperfusion injury a significant concern."
+  },
+  {
+    "id": 82,
+    "question": "A patient presented with right iliac fossa pain with marked tenderness in the McBurney point. An assessment of acute appendicitis was made. Which of the following is/are correct about the finding in the patient, pick false",
+    "options": [
+      "Neutrophil infiltrate traverses the wall of the appendix",
+      "Neutrophil infiltrate in the muscularis propria",
+      "Peritonitis can occur",
+      "Salpingitis is a differential in females"
+    ],
+    "answer": ["Neutrophil infiltrate traverses the wall of the appendix"],
+    "explanation": "Neutrophil infiltrate typically occurs in the mucosa and submucosa of the appendix in acute appendicitis, not necessarily traversing the wall."
+  },
+  {
+    "id": 83,
+    "question": "A woman presented with fever 37.8°C, pulse rate of 82, two days history of cough with yellow sputum. On examination of the sputum, what are the likely cells seen",
+    "options": ["PMN cells", "Neutrophils", "Macrophages", "All"],
+    "answer": ["All"],
+    "explanation": "Various inflammatory cells, including PMN cells, neutrophils, and macrophages, may be present in the sputum in response to infection."
+  },
+  {
+    "id": 84,
+    "question": "Granuloma found in which of these conditions",
+    "options": ["Leprosy", "Tuberculosis", "Sarcoidosis", "All"],
+    "answer": ["All"],
+    "explanation": "Granulomas can be present in various conditions, including leprosy, tuberculosis, and sarcoidosis, representing a form of chronic inflammation."
+  },
+  {
+    "id": 85,
+    "question": "A boy fell while playing football and developed a swelling on his leg. Which of these is not correct",
+    "options": [
+      "Transformation",
+      "Vasodilation",
+      "Contraction of endothelial cells",
+      "Chemotaxis",
+      "Direct injury to the vascular walls"
+    ],
+    "answer": ["Transformation"],
+    "explanation": "Transformation is not typically associated with the acute inflammatory response. Vasodilation, endothelial cell contraction, chemotaxis, and direct injury are common features."
+  },
+  {
+    "id": 86,
+    "question": "Tombstone necrosis is found in",
+    "options": [
+      "Coagulative necrosis",
+      "Liquefactive necrosis",
+      "Gaseous necrosis",
+      "Fibrinoid necrosis",
+      "Gangrenous necrosis"
+    ],
+    "answer": ["Coagulative necrosis"],
+    "explanation": "Tombstone necrosis, also known as coagulative necrosis, is characterized by the preservation of the basic tissue architecture, often seen in ischemic injuries."
+  },
+  {
+    "id": 87,
+    "question": "Pathogenesis of P. falciparum except",
+    "options": [
+      "High-level parasitemia",
+      "Anemia",
+      "Mild to no symptoms",
+      "Renal failure",
+      "Death"
+    ],
+    "answer": ["Mild to no symptoms"],
+    "explanation": "P. falciparum is known for causing severe malaria with symptoms ranging from severe anemia to multi-organ failure, and death. Mild to no symptoms would be atypical for P. falciparum infection."
+  },
+  {
+    "id": 88,
+    "question": "On P. vivax and P. ovale",
+    "options": [
+      "Low parasitemia",
+      "Splenic rupture",
+      "Nephrotic syndrome",
+      "None"
+    ],
+    "answer": ["Low parasitemia"],
+    "explanation": "P. vivax and P. ovale infections are associated with lower parasitemia compared to P. falciparum, making 'Low parasitemia' a correct match."
+  },
+  {
+    "id": 89,
+    "question": "The following are true about protozoan except",
+    "options": [
+      "Protozoan infections are always extracellular",
+      "Leishmaniasis",
+      "Malaria",
+      "May be intracellular"
+    ],
+    "answer": ["Protozoan infections are always extracellular"],
+    "explanation": "Protozoan infections can be extracellular or intracellular, and not all protozoan infections are strictly extracellular."
+  },
+  {
+    "id": 90,
+    "question": "Which of the following is correctly matched except",
+    "options": [
+      "Wuchereria bancrofti - Mosquito",
+      "Diphyllobothrium latum - Dogs",
+      "Plasmodium falciparum - Mosquito",
+      "Leishmania species - Sandfly"
+    ],
+    "answer": ["Diphyllobothrium latum - Dogs"],
+    "explanation": "Diphyllobothrium latum, a tapeworm causing diphyllobothriasis, has humans as the primary host and fish as an intermediate host, not dogs."
+  },
+  {
+    "id": 91,
+    "question": "Concerning prions",
+    "options": [
+      "500-550kD in size",
+      "A polypeptide",
+      "Intracellular and extracellular",
+      "Cause of Creutzfeld-Jacob disease"
+    ],
+    "answer": ["Cause of Creutzfeld-Jacob disease"],
+    "explanation": "Prions, infectious agents composed of misfolded proteins, are associated with diseases like Creutzfeld-Jacob disease."
+  },
+  {
+    "id": 92,
+    "question": "Familial hypercholesterolemia is characterized by the following, except",
+    "options": [
+      "Glycogen accumulation",
+      "Cholesterol accumulation",
+      "Premature atherosclerosis",
+      "Xanthomas"
+    ],
+    "answer": ["Glycogen accumulation"],
+    "explanation": "Familial hypercholesterolemia is characterized by elevated cholesterol levels, premature atherosclerosis, and xanthomas, but not glycogen accumulation."
+  },
+  {
+    "id": 93,
+    "question": "The following are autosomal dominant traits",
+    "options": [
+      "Neurofibromatosis",
+      "Polycystic kidney disease",
+      "Cystic fibrosis",
+      "Glycogen storage disease"
+    ],
+    "answer": ["Neurofibromatosis"],
+    "explanation": "Neurofibromatosis is an autosomal dominant genetic disorder characterized by the development of tumors of the nervous system."
+  },
+  {
+    "id": 94,
+    "question": "Klinefelter’s syndrome is associated with the following disorders EXCEPT",
+    "options": [
+      "Gynecomastia may be present",
+      "Atrophic testicular tubules",
+      "Streak ovaries",
+      "All of the above"
+    ],
+    "answer": ["Streak ovaries"],
+    "explanation": "Klinefelter's syndrome is characterized by an extra X chromosome (XXY), leading to male hypogonadism, but it does not involve streak ovaries."
+  },
+  {
+    "id": 95,
+    "question": "Turner’s syndrome is characterized by",
+    "options": [
+      "Streak ovaries",
+      "Amenorrhea",
+      "Coarctation of the aorta",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Turner Syndrome: Results from complete or partial monosomy of the x chromosome and is characterized by hypogonadism in females. It is the most common sex chromosome abnormality in females.\nTurner's syndrome is characterized by,\n1. Oedema at infancy on the extremities and the neck due to lymph  stasis,\n2. neck webbing short stature,\n2. hypothyroidism,\n3. broad chest and widely spaced nipple streak  ovaries, \n5. amenorrhoea, \n6. coartation of the aorta with features of congenital heart dx.  \n7. Delayed or lack of develop secondary sexual maturity.\n\n Fetal ovaries develop normally in  embryogenesis but the absence of the second x chromosomes lead to accelerated loss of oocytes  which is complete before 2 to 3 years which means that menopause may occur before menarche  and the ovaries are reduced to streak ovaries (atrophic fibrous strand without oval or follicles)"
+  },
+  {
+    "id": 96,
+    "question": "Marfan syndrome is characterized by the following",
+    "options": [
+      "Dolicocephalic",
+      "Mutation of FBN1",
+      "Mitral valve prolapsed",
+      "All"
+    ],
+    "answer": ["All"],
+    "explanation": "Marfan syndrome is a genetic disorder affecting the connective tissue, and it is characterized by various features including dolicocephalic (long-headed), FBN1 mutation, and mitral valve prolapse."
+  },
+  {
+    "id": 97,
+    "question": "Which of the following disease(s) is/are examples of type 2 hypersensitivity",
+    "options": ["Tuberculosis", "Asthma", "Graves disease", "MG", "Urticaria"],
+    "answer": ["Graves disease", "MG"],
+    "explanation": "Graves disease (autoimmune thyroid disease) and Myasthenia Gravis (MG) are examples of type 2 hypersensitivity reactions."
+  },
+  {
+    "id": 98,
+    "question": "Features of SLE EXCEPT",
+    "options": [
+      "Libman-Sach’s endocarditis",
+      "Acute pyelonephritis",
+      "Mesangial lupus glomerulonephritis",
+      "All of the above"
+    ],
+    "answer": ["Acute pyelonephritis"],
+    "explanation": "Acute pyelonephritis is not a typical feature of systemic lupus erythematosus (SLE). Libman-Sach’s endocarditis and mesangial lupus glomerulonephritis are associated with SLE."
+  },
+  {
+    "id": 99,
+    "question": "The following are involved in delayed-type hypersensitivity",
+    "options": ["IFN gamma", "IL-2", "TNF alpha", "CD4+ T cells", "All"],
+    "answer": ["All"],
+    "explanation": "Delayed-type hypersensitivity involves various immune components, including IFN gamma, IL-2, TNF alpha, and CD4+ T cells."
+  },
+  {
+    "id": 100,
+    "question": "A 39-year-old bank manager gave birth to a 4.2kg baby at term. What are the possible implicating factors",
+    "options": [
+      "Maternal DM",
+      "Cigarette smoking",
+      "Chronic HTN",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Maternal diabetes (DM), cigarette smoking, and chronic hypertension (HTN) are all potential factors associated with the birth of a larger-than-average baby."
+  }
+]

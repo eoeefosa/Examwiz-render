@@ -1,0 +1,917 @@
+[
+  {
+    "id": 1,
+    "question": "Benign tumors ending with the suffix “-oma”",
+    "options": ["lipoma", "fibroma", "chondroma", "pineoblastoma", "germinoma"],
+    "answer": ["lipoma", "fibroma", "chondroma"],
+    "explanation": "Benign tumors ending with the suffix “-oma” include lipoma, fibroma, and chondroma. Pineoblastoma and germinoma are not benign tumors."
+  },
+  {
+    "id": 2,
+    "question": "Likely primary sites for germ cell tumor",
+    "options": ["Brain", "Mediastinum", "Kidney", "Liver", "Pancreas"],
+    "answer": ["Brain", "Mediastinum"],
+    "explanation": "Germ cell tumors are likely to occur in primary sites like the brain and mediastinum. Kidney, liver, and pancreas are not typical primary sites for germ cell tumors."
+  },
+  {
+    "id": 3,
+    "question": "Possible diagnosis for a 5-year-old with an orbito-ocular mass",
+    "options": [
+      "Nephroblastoma",
+      "Embryonal rhabdomyosarcoma",
+      "Metastatic carcinoma",
+      "Retinoblastoma",
+      "Ocular melanoma"
+    ],
+    "answer": ["Retinoblastoma"],
+    "explanation": "A 5-year-old with an orbito-ocular mass may have retinoblastoma. Nephroblastoma, embryonal rhabdomyosarcoma, metastatic carcinoma, and ocular melanoma are other possibilities."
+  },
+  {
+    "id": 4,
+    "question": "Malignant cancer curable with a vaccine",
+    "options": [
+      "MALToma",
+      "Hepatocellular carcinoma",
+      "Primary CNS lymphoma",
+      "Melanoma",
+      "Kaposi sarcoma"
+    ],
+    "answer": ["Melanoma"],
+    "explanation": "Melanoma is a malignant cancer that can be cured with the use of a vaccine. MALToma, hepatocellular carcinoma, primary CNS lymphoma, and Kaposi sarcoma are not typically vaccine-responsive."
+  },
+  {
+    "id": 5,
+    "question": "Malignant tumors responsive to antimicrobial agents",
+    "options": [
+      "Kaposi sarcoma",
+      "Hodgkin's lymphoma",
+      "MALToma",
+      "HCC",
+      "Melanoma"
+    ],
+    "answer": ["Kaposi sarcoma"],
+    "explanation": "Kaposi sarcoma is a malignant tumor that may respond to antimicrobial agents. Hodgkin's lymphoma, MALToma, HCC, and melanoma typically do not respond to antimicrobial agents."
+  },
+  {
+    "id": 6,
+    "question": "Cancers with targeted therapy (not conventional therapy)",
+    "options": [
+      "CGL",
+      "GIST",
+      "Invasive breast carcinoma",
+      "Papillary carcinoma of the thyroid",
+      "Invasive colorectal carcinoma"
+    ],
+    "answer": ["CGL", "GIST"],
+    "explanation": "Cancers with targeted therapy include chronic myeloid leukemia (CGL) and gastrointestinal stromal tumor (GIST). Invasive breast carcinoma, papillary carcinoma of the thyroid, and invasive colorectal carcinoma may be treated with conventional therapy."
+  },
+  {
+    "id": 7,
+    "question": "Naturally occurring carcinogens",
+    "options": [
+      "Griseofulvin",
+      "B-propiolactone",
+      "Cyclophosphamide",
+      "Benzidine",
+      "Cycasine"
+    ],
+    "answer": ["Benzidine", "Cycasine"],
+    "explanation": "Benzidine and Cycasine are naturally occurring carcinogens. Griseofulvin, B-propiolactone, and Cyclophosphamide are not naturally occurring."
+  },
+  {
+    "id": 8,
+    "question": "Ways in which tumors evade immunity",
+    "options": [
+      "Lack of costimulator",
+      "Antigen masking",
+      "Selection of antigen-negative variants",
+      "Apoptosis of cytotoxic T cell",
+      "???"
+    ],
+    "answer": [
+      "Lack of costimulator",
+      "Antigen masking",
+      "Selection of antigen-negative variants"
+    ],
+    "explanation": "Tumors may evade immunity through the lack of a costimulator, antigen masking, and the selection of antigen-negative variants. Apoptosis of cytotoxic T cells is not a mechanism of immune evasion."
+  },
+  {
+    "id": 9,
+    "question": "Incorrect statements about chemical carcinogenesis",
+    "options": [
+      "Application of the initiator alone in high dose may result in a tumor",
+      "Application of the initiator followed by the application of the promoter may result in a tumor",
+      "Application of the promoter followed by the initiator results in a tumor",
+      "Application of the promoter alone in high dose results in a tumor",
+      "Initiated cells may not become neoplastic if infrequent subsequent promoter exposure to the cell is infrequent"
+    ],
+    "answer": [
+      "Application of the promoter followed by the initiator results in a tumor",
+      "Application of the promoter alone in high dose results in a tumor"
+    ],
+    "explanation": "The correct statements about chemical carcinogenesis are that the application of the promoter followed by the initiator results in a tumor, and the application of the promoter alone in high dose results in a tumor. The other statements are incorrect."
+  },
+  {
+    "id": 10,
+    "question": "Tumor suppressor genes related to well-defined clinical conditions",
+    "options": ["Vhl", "PTEN", "Neurofibromatosis 1", "Cadherin", "NF2"],
+    "answer": ["Vhl", "PTEN", "Neurofibromatosis 1", "NF2"],
+    "explanation": "Tumor suppressor genes related to well-defined clinical conditions include Vhl, PTEN, Neurofibromatosis 1, and NF2. Cadherin is not typically associated with a tumor suppressor gene."
+  },
+  {
+    "id": 11,
+    "question": "The guardian of the human genome is",
+    "options": [
+      "Located at the long arm of chromosome 17, region 1 band 3 sub-band 1",
+      "Located on chromosome 13q14",
+      "An RNA-binding nuclear protein",
+      "A gatekeeper gene",
+      "A caretaker gene"
+    ],
+    "answer": ["An RNA-binding nuclear protein"],
+    "explanation": "The guardian of the human genome is an RNA-binding nuclear protein. The other options are not accurate descriptions of the guardian of the human genome."
+  },
+  {
+    "id": 12,
+    "question": "Autosomal dominant inherited cancer syndromes exclude",
+    "options": [
+      "Li Fraumeni",
+      "Neurofibromatosis 1 and 2",
+      "Lynch syndrome",
+      "Men 1 and 2",
+      "???"
+    ],
+    "answer": ["Men 1 and 2"],
+    "explanation": "Autosomal dominant inherited cancer syndromes exclude Men 1 and 2. Li Fraumeni, neurofibromatosis 1 and 2, and Lynch syndrome are associated with autosomal dominant inheritance."
+  },
+  {
+    "id": 13,
+    "question": "Cancers associated with alcohol consumption",
+    "options": ["Mouth", "Larynx", "Pharynx", "Stomach", "???"],
+    "answer": ["Mouth", "Larynx", "Pharynx", "Stomach"],
+    "explanation": "Alcohol is associated with cancers of the mouth, larynx, pharynx, and stomach. The fourth option is left blank as it's unclear in the provided information."
+  },
+  {
+    "id": 14,
+    "question": "About PEM",
+    "options": [
+      "Malnourished body weight of 80% negates marasmus",
+      "In marasmus, there is an increase in somatic protein catabolism while the visceral is normal",
+      "Increase cortisol level in marasmus",
+      "Increase leptin level in marasmus",
+      "In kwashiorkor, there is a decrease in visceral protein but normal somatic protein"
+    ],
+    "answer": [
+      "In marasmus, there is an increase in somatic protein catabolism while the visceral is normal"
+    ],
+    "explanation": "In marasmus, there is an increase in somatic protein catabolism while the visceral is normal. The other options are incorrect statements about Protein-Energy Malnutrition (PEM)."
+  },
+  {
+    "id": 15,
+    "question": "True statements concerning neurohumoral mechanisms",
+    "options": [
+      "Leptin and adiponectin are produced by the arcuate nucleus of the thalamus",
+      "Ghrelin is produced by fat cells",
+      "Polypeptide YY is produced by the pancreas",
+      "Neuropeptide Y is produced by the ileum and colon",
+      "All the statements are false"
+    ],
+    "answer": ["Ghrelin is produced by fat cells"],
+    "explanation": "Ghrelin is produced by fat cells. The other options are incorrect statements concerning neurohumoral mechanisms."
+  },
+  {
+    "id": 16,
+    "question": "Risk factors for malnutrition",
+    "options": [
+      "Affluence/high socioeconomic status",
+      "Cigarette smokers",
+      "Total parenteral nutrition",
+      "Insanity",
+      "Certain drug therapies"
+    ],
+    "answer": [
+      "Cigarette smokers",
+      "Total parenteral nutrition",
+      "Certain drug therapies"
+    ],
+    "explanation": "Risk factors for malnutrition include cigarette smokers, total parenteral nutrition, and certain drug therapies. Affluence/high socioeconomic status and insanity are not typically associated with malnutrition."
+  },
+  {
+    "id": 17,
+    "question": "Correct statements about mechanisms regulating energy balance",
+    "options": [
+      "The arcuate nucleus of the hypothalamus contains 2 sets of first-order neurons",
+      "POMC/CART enhance energy expenditure and fat loss",
+      "NPY/AGRP are orexigenic",
+      "POMC/CART neurons are first-order neurons while NPY/AGRP are second-order neurons",
+      "Leptin and adiponectin and gut hormones are part of the efferent system"
+    ],
+    "answer": [
+      "The arcuate nucleus of the hypothalamus contains 2 sets of first-order neurons",
+      "POMC/CART neurons are first-order neurons while NPY/AGRP are second-order neurons"
+    ],
+    "explanation": "Correct statements about mechanisms regulating energy balance include the arcuate nucleus of the hypothalamus containing 2 sets of first-order neurons, and POMC/CART neurons being first-order neurons while NPY/AGRP are second-order neurons. The other statements are incorrect."
+  },
+  {
+    "id": 18,
+    "question": "Occurs in necrosis",
+    "options": [
+      "Coagulation of cytoplasmic protein",
+      "Cell rupture",
+      "Chromatin condensation",
+      "Presence of acute inflammatory cells",
+      "???"
+    ],
+    "answer": ["Coagulation of cytoplasmic protein", "Cell rupture"],
+    "explanation": "Occurrences in necrosis include coagulation of cytoplasmic protein and cell rupture. Chromatin condensation is more associated with apoptosis, and the presence of acute inflammatory cells is not a characteristic of necrosis."
+  },
+  {
+    "id": 19,
+    "question": "Reversible ischemic injury features",
+    "options": [
+      "Blebs at cell surface",
+      "Cell swelling",
+      "Lysosomal swelling",
+      "Dissociation of polysome to monosome",
+      "Mitochondrial vacuolization"
+    ],
+    "answer": ["Blebs at cell surface", "Cell swelling", "Lysosomal swelling"],
+    "explanation": "Features of reversible ischemic injury include blebs at the cell surface, cell swelling, and lysosomal swelling. Dissociation of polysome to monosome and mitochondrial vacuolization are not typical features of reversible ischemic injury."
+  },
+  {
+    "id": 20,
+    "question": "Apoptotic bodies",
+    "options": [
+      "Councilman’s bodies",
+      "Brown atrophy",
+      "Russell bodies",
+      "Psammoma bodies",
+      "Hemozoin"
+    ],
+    "answer": ["Councilman’s bodies"],
+    "explanation": "Apoptotic bodies include Councilman’s bodies. Brown atrophy, Russell bodies, Psammoma bodies, and Hemozoin are not typically associated with apoptotic bodies."
+  },
+  {
+    "id": 21,
+    "question": "Implications of free radicals",
+    "options": [
+      "Lipid peroxidation",
+      "Protein-protein crosslinkage",
+      "Hydroxylation of amino acids",
+      "Protein strand scission",
+      "Double-strand breaks in DNA"
+    ],
+    "answer": [
+      "Lipid peroxidation",
+      "Protein strand scission",
+      "Double-strand breaks in DNA"
+    ],
+    "explanation": "Free radicals are implicated in lipid peroxidation, protein strand scission, and double-strand breaks in DNA. Protein-protein crosslinkage and hydroxylation of amino acids are not typical implications of free radicals."
+  },
+  {
+    "id": 22,
+    "question": "Cellular adaptation",
+    "options": [
+      "Dysplasia",
+      "Hyperplasia",
+      "Pleomorphism",
+      "Metaplasia",
+      "Hypertrophy"
+    ],
+    "answer": ["Hyperplasia", "Metaplasia", "Hypertrophy"],
+    "explanation": "Cellular adaptation may include hyperplasia, metaplasia, and hypertrophy. Dysplasia and pleomorphism are not typically considered adaptive changes."
+  },
+  {
+    "id": 23,
+    "question": "Clear spaces on H&E",
+    "options": ["Water", "Protein", "Polysaccharide", "Glycogen", "Silicate"],
+    "answer": ["Water", "Glycogen"],
+    "explanation": "Clear spaces on H&E staining are formed by water and glycogen. Protein, polysaccharide, and silicate do not typically form clear spaces."
+  },
+  {
+    "id": 24,
+    "question": "Non-inflammatory causes of edema",
+    "options": [
+      "Increased hydrostatic pressure",
+      "Fall in colloid osmotic pressure",
+      "Pneumonia",
+      "???",
+      "All of the above"
+    ],
+    "answer": [
+      "Increased hydrostatic pressure",
+      "Fall in colloid osmotic pressure"
+    ],
+    "explanation": "Non-inflammatory causes of edema include increased hydrostatic pressure and a fall in colloid osmotic pressure. Pneumonia and the option 'All of the above' are not non-inflammatory causes."
+  },
+  {
+    "id": 25,
+    "question": "Correct statement",
+    "options": [
+      "Pinpoint hemorrhage occurs on mucosal and visceral surfaces",
+      "Purpura measures greater than 1cm",
+      "???",
+      "Focal hematoma",
+      "Contusion"
+    ],
+    "answer": ["Pinpoint hemorrhage occurs on mucosal and visceral surfaces"],
+    "explanation": "Correct statement: Pinpoint hemorrhage occurs on mucosal and visceral surfaces. Purpura measures greater than 1cm is incorrect as it is indicative of ecchymosis or bruising."
+  },
+  {
+    "id": 26,
+    "question": "White infarct location",
+    "options": ["Spleen", "Lungs", "Kidney", "Intestine", "Brain"],
+    "answer": ["Kidney", "Brain"],
+    "explanation": "White infarct is found in the kidney and brain. Spleen, lungs, and intestine are more associated with red infarcts."
+  },
+  {
+    "id": 27,
+    "question": "Causes of septic shock",
+    "options": [
+      "Gram-negative bacilli",
+      "Gram-positive cocci",
+      "Gram-positive bacilli",
+      "Fungal organism",
+      "All of the above"
+    ],
+    "answer": [
+      "Gram-negative bacilli",
+      "Gram-positive cocci",
+      "Fungal organism"
+    ],
+    "explanation": "Septic shock can be caused by Gram-negative bacilli, Gram-positive cocci, and fungal organisms. Gram-positive bacilli is not commonly associated with septic shock."
+  },
+  {
+    "id": 28,
+    "question": "Cardinal signs of the reaction occurred in Sonia's injury",
+    "options": [
+      "Calor",
+      "Tumor",
+      "Rubor",
+      "Dolor",
+      "Reaction of vascularized tissue to injury"
+    ],
+    "answer": ["Calor", "Tumor", "Rubor", "Dolor"],
+    "explanation": "The cardinal signs of the reaction that occurred in Sonia's injury include Calor (heat), Tumor (swelling), Rubor (redness), and Dolor (pain)."
+  },
+  {
+    "id": 29,
+    "question": "Regarding the cardinal signs",
+    "options": [
+      "Unprotective response",
+      "Tolerates and coexists with infecting agent",
+      "Deliver prion protein to injury site",
+      "Progress to chronic form",
+      "Occurs in altered physiological state"
+    ],
+    "answer": ["Tolerates and coexists with infecting agent"],
+    "explanation": "Regarding the cardinal signs of the reaction, it is a response that tolerates and coexists with the infecting agent. The other options are not accurate descriptions of the cardinal signs."
+  },
+  {
+    "id": 30,
+    "question": "Cellular events sequential order",
+    "options": [
+      "Margination and transmigration",
+      "Adhesion and chemotaxis",
+      "Transmigration and phagocytosis",
+      "Chemotaxis and activation",
+      "Rolling and activation"
+    ],
+    "answer": [
+      "Rolling and activation",
+      "Adhesion and chemotaxis",
+      "Transmigration and phagocytosis"
+    ],
+    "explanation": "The sequential order of cellular events in the reaction of a vascularized tissue to an injurious stimulus includes rolling and activation, adhesion and chemotaxis, and transmigration and phagocytosis. Chemotaxis and activation are not sequential."
+  },
+  {
+    "id": 31,
+    "question": "Complementary adhesion molecules",
+    "options": [
+      "Glycam 1 and E-selectin",
+      "ICAM-1 and integrins",
+      "ICAM-1 and LFA1",
+      "ICAM-1 and CD11b/18",
+      "PECAM and CD31"
+    ],
+    "answer": ["ICAM-1 and integrins"],
+    "explanation": "Complementary adhesion molecules include ICAM-1 and integrins. Glycam 1, E-selectin, LFA1, CD11b/18, and PECAM with CD31 are not complementary pairs."
+  },
+  {
+    "id": 32,
+    "question": "Chediak Higashi syndrome",
+    "options": [
+      "Defect in phagolysosome",
+      "AR disorder",
+      "Neutropenia",
+      "Neutrophils contain giant phagocytic lysosome",
+      "Defect in leukocyte adhesion"
+    ],
+    "answer": ["AR disorder", "Neutrophils contain giant phagocytic lysosome"],
+    "explanation": "Chediak-Higashi syndrome is an autosomal recessive (AR) disorder characterized by neutrophils containing giant phagocytic lysosomes. The other options are not characteristics of Chediak-Higashi syndrome."
+  },
+  {
+    "id": 33,
+    "question": "Acquired defects in leukocyte function",
+    "options": ["Thermal injury", "Sepsis", "Malignancy", "DM", "Hemodialysis"],
+    "answer": ["Sepsis", "Malignancy", "DM", "Hemodialysis"],
+    "explanation": "Acquired defects in leukocyte function can be caused by sepsis, malignancy, diabetes mellitus (DM), and hemodialysis. Thermal injury is not typically associated with acquired defects in leukocyte function."
+  },
+  {
+    "id": 34,
+    "question": "Chronic inflammation",
+    "options": [
+      "It is of prolonged duration",
+      "May be active inflammation",
+      "Tissue destruction",
+      "Attempt at healing is not possible",
+      "Healing is only by fibrosis"
+    ],
+    "answer": [
+      "It is of prolonged duration",
+      "May be active inflammation",
+      "Tissue destruction"
+    ],
+    "explanation": "Chronic inflammation is characterized by its prolonged duration, the potential for active inflammation, and tissue destruction. Attempt at healing is possible, and healing may occur by fibrosis."
+  },
+  {
+    "id": 35,
+    "question": "Granulomas",
+    "options": [
+      "Aggregates of lymphocytes are present",
+      "Peripheral rim of macrophages present",
+      "Giant cells are present in granulomatous inflammation not granulomas",
+      "It is a focus of chronic inflammation",
+      "Microscopic aggregates of activated macrophages"
+    ],
+    "answer": [
+      "Peripheral rim of macrophages present",
+      "Giant cells are present in granulomatous inflammation not granulomas"
+    ],
+    "explanation": "Granulomas are characterized by the peripheral rim of macrophages and giant cells. Aggregates of lymphocytes are not typically a feature of granulomas, and microscopic aggregates of activated macrophages are not specific to granulomas."
+  },
+  {
+    "id": 36,
+    "question": "Neutrophilic infiltrate found in the following diseases",
+    "options": [
+      "Kaposi sarcoma",
+      "Abscess in the appendix",
+      "Viral hemorrhagic fever",
+      "Myocardial infarction",
+      "Typhoid/paratyphoid"
+    ],
+    "answer": [
+      "Abscess in the appendix",
+      "Viral hemorrhagic fever",
+      "Myocardial infarction",
+      "Typhoid/paratyphoid"
+    ],
+    "explanation": "Neutrophilic infiltrate is found in diseases such as abscess in the appendix, viral hemorrhagic fever, myocardial infarction, and typhoid/paratyphoid. Kaposi sarcoma is not typically associated with a neutrophilic infiltrate."
+  },
+  {
+    "id": 37,
+    "question": "True statements",
+    "options": [
+      "Integrins mediate rolling",
+      "VCAM1 adheres VLA4",
+      "IL-8, C5a, and leukotriene C4 are chemoattractants",
+      "PECAM 1 binds CD31",
+      "IL-12 and inactivation of T Helper cells in chronic inflammation"
+    ],
+    "answer": [
+      "VCAM1 adheres VLA4",
+      "IL-8, C5a, and leukotriene C4 are chemoattractants"
+    ],
+    "explanation": "True statements include VCAM1 adheres VLA4, and IL-8, C5a, and leukotriene C4 are chemoattractants. Integrins do not mediate rolling, PECAM 1 binds CD31 is incorrect, and IL-12 does not lead to the inactivation of T Helper cells in chronic inflammation."
+  },
+  {
+    "id": 38,
+    "question": "Leukocyte activity inhibited by aspirin/NSAIDS",
+    "options": [
+      "Vasodilation",
+      "Phagocytosis",
+      "Chemotaxis",
+      "Emigration of leucocyte",
+      "Release of leucocyte from bone marrow"
+    ],
+    "answer": ["Chemotaxis", "Emigration of leucocyte"],
+    "explanation": "Leukocyte activity inhibited by aspirin/NSAIDS includes chemotaxis and emigration of leucocytes. Vasodilation, phagocytosis, and release of leucocytes from the bone marrow are not typically inhibited by aspirin/NSAIDS."
+  },
+  {
+    "id": 39,
+    "question": "Leucocytosis (neutrophil) seen in",
+    "options": [
+      "Appendix",
+      "Lobar pneumonia",
+      "Myocardial infarction",
+      "Viral hemorrhagic fever",
+      "Typhoid/paratyphoid"
+    ],
+    "answer": [
+      "Appendix",
+      "Lobar pneumonia",
+      "Myocardial infarction",
+      "Typhoid/paratyphoid"
+    ],
+    "explanation": "Leucocytosis (neutrophil) can be seen in the appendix, lobar pneumonia, myocardial infarction, and typhoid/paratyphoid. Viral hemorrhagic fever is not typically associated with leucocytosis."
+  },
+  {
+    "id": 47,
+    "question": "A boy fell while playing football and developed a swelling on his leg. Which of these is/are correct",
+    "options": [
+      "Transformation",
+      "Vasodilation",
+      "Contraction of endothelial cells",
+      "Chemotaxis",
+      "Direct injury to the vascular walls"
+    ],
+    "answer": [
+      "Vasodilation",
+      "Contraction of endothelial cells",
+      "Direct injury to the vascular walls"
+    ],
+    "explanation": "In the scenario described, vasodilation, contraction of endothelial cells, and direct injury to the vascular walls are correct responses to the trauma. Transformation and chemotaxis may not be directly related to the described injury."
+  },
+  {
+    "id": 48,
+    "question": "Tombstone necrosis is found in",
+    "options": [
+      "Coagulative necrosis",
+      "Liquefactive necrosis",
+      "Gaseous necrosis",
+      "Fibrinoid necrosis",
+      "Gangrenous necrosis"
+    ],
+    "answer": ["Fibrinoid necrosis"],
+    "explanation": "Tombstone necrosis is found in fibrinoid necrosis. The other types of necrosis listed do not exhibit tombstone necrosis."
+  },
+  {
+    "id": 49,
+    "question": "Pathogenesis of P. falciparum",
+    "options": [
+      "High-level parasitemia",
+      "Severe anemia",
+      "Cerebral symptoms",
+      "Renal failure",
+      "Death"
+    ],
+    "answer": [
+      "High-level parasitemia",
+      "Cerebral symptoms",
+      "Renal failure",
+      "Death"
+    ],
+    "explanation": "The pathogenesis of P. falciparum includes high-level parasitemia, cerebral symptoms, renal failure, and death. Severe anemia is more associated with other types of malaria."
+  },
+  {
+    "id": 50,
+    "question": "On P. vivax and P. ovale",
+    "options": [
+      "Low parasitemia",
+      "Splenic rupture",
+      "Nephrotic syndrome",
+      "Mild anemia",
+      "Malaria relapse"
+    ],
+    "answer": ["Mild anemia", "Malaria relapse"],
+    "explanation": "On P. vivax and P. ovale, features include mild anemia and the potential for malaria relapse. Low parasitemia, splenic rupture, and nephrotic syndrome are not typically associated with these Plasmodium species."
+  },
+  {
+    "id": 51,
+    "question": "The following are true about protozoa",
+    "options": [
+      "Protozoan infections are always extracellular",
+      "Filariasis",
+      "Leishmaniasis",
+      "Malaria",
+      "May be intracellular"
+    ],
+    "answer": ["Leishmaniasis", "Malaria", "May be intracellular"],
+    "explanation": "True statements about protozoa include that they may be intracellular. Protozoan infections are not always extracellular. Filariasis is caused by helminths, not protozoa."
+  },
+  {
+    "id": 52,
+    "question": "Which of the following is correctly matched",
+    "options": [
+      "Wuchereria bancrofti - Mosquito",
+      "Diphyllobothrium latum - Dogs",
+      "Plasmodium falciparum - Mosquito",
+      "Leishmania species - Sandfly",
+      "Taenia solium - Pig"
+    ],
+    "answer": ["Leishmania species - Sandfly"],
+    "explanation": "The correct match is Leishmania species and sandfly. The other matches are incorrect."
+  },
+  {
+    "id": 53,
+    "question": "Concerning prions",
+    "options": [
+      "30-50kD in size",
+      "A protein",
+      "Intracellular",
+      "Cause of Gertsman-Straussler syndrome",
+      "Cause of Creutzfeld-Jacob disease"
+    ],
+    "answer": [
+      "A protein",
+      "Cause of Gertsman-Straussler syndrome",
+      "Cause of Creutzfeld-Jacob disease"
+    ],
+    "explanation": "Prions are proteins, and they are implicated in diseases such as Gertsman-Straussler syndrome and Creutzfeld-Jacob disease. The size is not specified, and prions are not necessarily intracellular."
+  },
+  {
+    "id": 54,
+    "question": "Familial hypercholesterolemia is characterized by",
+    "options": [
+      "Glycogen accumulation",
+      "Sphingomyelin accumulation",
+      "Glycolipid accumulation",
+      "Premature atherosclerosis",
+      "Xanthomas"
+    ],
+    "answer": ["Premature atherosclerosis", "Xanthomas"],
+    "explanation": "Familial hypercholesterolemia is characterized by \n1. High levels of total cholesterol and LDL cholesterol.\n2. A strong family history of high levels of total and LDL cholesterol and/or early heart attack.\n3. Xanthomas (waxy deposits of cholesterol in the skin or tendons).\n4. Xanthelasmas (cholesterol deposits in the eyelids).\n5. Corneal arcus (cholesterol deposit around the cornea of the eye).\n6. If angina (chest pain) is present, it may be sign that heart disease is present. \n7. It is also characterised by elevated levels of LDL cholesterol, leading to the premature development of atherosclerosis. This can result in cardiovascular complications at an early age.\n\n Individuals who have homozygous familial hypercholesterolemia develop xanthomas beneath the skin over their elbows, knees and buttocks as well as in the tendons at a very early age, sometime in infancy. Heart attacks and death may occur before 30."
+  },
+  {
+    "id": 55,
+    "question": "The following are autosomal dominant traits except",
+    "options": [
+      "Neurofibromatosis",
+      "Polycystic kidney disease",
+      "Cystic fibrosis",
+      "Glycogen storage disease",
+      "Duchenne muscle dystrophy"
+    ],
+    "answer": ["Cystic fibrosis", "Duchenne muscle dystrophy"],
+    "explanation": "Autosomal dominant traits include neurofibromatosis, polycystic kidney disease, glycogen storage disease. Cystic fibrosis and Duchenne muscle dystrophy are autosomal recessive."
+  },
+  {
+    "id": 56,
+    "question": "Klinefelter’s syndrome is associated with the following disorders",
+    "options": [
+      "45,X/47,XXX karyotypes",
+      "Gynecomastia may be present",
+      "Atrophic testicular tubules",
+      "Streak ovaries",
+      "Atrophic Leydig cells"
+    ],
+    "answer": [
+      "45,X/47,XXX karyotypes",
+      "Gynecomastia may be present",
+      "Atrophic testicular tubules"
+    ],
+    "explanation": "Klinefelter’s syndrome is associated with 45,X/47,XXX karyotypes, gynecomastia, and atrophic testicular tubules. Streak ovaries and atrophic Leydig cells are not typically associated."
+  },
+  {
+    "id": 57,
+    "question": "Turner’s syndrome is characterized by",
+    "options": [
+      "Prominent Leydig cell",
+      "Streak ovaries",
+      "Menorrhagia",
+      "Coarctation of the aorta",
+      "Eunuchoid body"
+    ],
+    "answer": ["Streak ovaries", "Coarctation of the aorta"],
+    "explanation": "Turner Syndrome: Results from complete or partial monosomy of the x chromosome and is characterized by hypogonadism in females. It is the most common sex chromosome abnormality in females.\nTurner's syndrome is characterized by,\n1. Oedema at infancy on the extremities and the neck due to lymph  stasis,\n2. neck webbing short stature,\n2. hypothyroidism,\n3. broad chest and widely spaced nipple streak  ovaries, \n5. amenorrhoea, \n6. coartation of the aorta with features of congenital heart dx.  \n7. Delayed or lack of develop secondary sexual maturity.\n\n Fetal ovaries develop normally in  embryogenesis but the absence of the second x chromosomes lead to accelerated loss of oocytes  which is complete before 2 to 3 years which means that menopause may occur before menarche  and the ovaries are reduced to streak ovaries (atrophic fibrous strand without oval or follicles)"
+  },
+  {
+    "id": 58,
+    "question": "The following are molecular diagnosis and application of genetic studies",
+    "options": [
+      "FISH - Complex genetic translocation",
+      "FISH - Gene amplification",
+      "Southern blotting - RNA analysis",
+      "Microarray - Population studies of genetic disorders",
+      "Northern blotting - DNA studies"
+    ],
+    "answer": [
+      "FISH - Gene amplification",
+      "Microarray - Population studies of genetic disorders"
+    ],
+    "explanation": "Molecular diagnosis and application of genetic studies include FISH for gene amplification and microarray for population studies of genetic disorders. The other options are incorrectly matched."
+  },
+  {
+    "id": 59,
+    "question": "Marfan syndrome is characterized by the following",
+    "options": [
+      "Cherry red spot",
+      "Dolicocephalic",
+      "Mutation of FBN1",
+      "Mitral valve prolapsed",
+      "Gaucher's cells"
+    ],
+    "answer": ["Dolicocephalic", "Mutation of FBN1", "Mitral valve prolapsed"],
+    "explanation": "Marfan syndrome is characterized by dolicocephalic (long-headed), mutation of FBN1, and mitral valve prolapse. Cherry red spot and Gaucher's cells are not associated with Marfan syndrome."
+  },
+  {
+    "id": 60,
+    "question": "Hermaphroditism is characterized by the following",
+    "options": [
+      "True hermaphroditism may have ovotestes",
+      "Male pseudohermaphroditism may be associated with testicular feminization",
+      "In female pseudohermaphroditism, external genitalia are ambiguous",
+      "In male pseudohermaphroditism, the genetic sex is XX-chromosome",
+      "In female pseudohermaphroditism, the genetic sex is XX, and the ovaries are normal"
+    ],
+    "answer": [
+      "True hermaphroditism may have ovotestes",
+      "Male pseudohermaphroditism may be associated with testicular feminization",
+      "In female pseudohermaphroditism, external genitalia are ambiguous"
+    ],
+    "explanation": "Hermaphroditism is characterized by true hermaphroditism with ovotestes, male pseudohermaphroditism may be associated with testicular feminization, and in female pseudohermaphroditism, external genitalia are ambiguous. The other options are not characteristics of hermaphroditism."
+  },
+  {
+    "id": 61,
+    "question": "Which of the following disease(s) is/are examples of type 2 hypersensitivity",
+    "options": [
+      "Tuberculosis",
+      "Asthma",
+      "Graves disease",
+      "Myasthenia gravis",
+      "Urticaria"
+    ],
+    "answer": ["Graves disease", "Myasthenia gravis"],
+    "explanation": "Graves disease and myasthenia gravis are examples of type 2 hypersensitivity. Tuberculosis, asthma, and urticaria are not typically classified as type 2 hypersensitivity."
+  },
+  {
+    "id": 62,
+    "question": "Features of SLE",
+    "options": [
+      "Libman-Sach's endocarditis",
+      "Infectious endocarditis",
+      "Atherosclerosis",
+      "Acute pyelonephritis",
+      "Mesangial lupus glomerulonephritis"
+    ],
+    "answer": [
+      "Libman-Sach's endocarditis",
+      "Mesangial lupus glomerulonephritis"
+    ],
+    "explanation": "Features of SLE include Libman-Sach's endocarditis and mesangial lupus glomerulonephritis. Infectious endocarditis, atherosclerosis, and acute pyelonephritis are not typically associated with systemic lupus erythematosus."
+  },
+  {
+    "id": 63,
+    "question": "The following are involved in delayed type hypersensitivity",
+    "options": [
+      "IFN gamma",
+      "IL-2",
+      "TNF alpha",
+      "CD4+ T cells",
+      "CD8+ T cells"
+    ],
+    "answer": ["IFN gamma", "IL-2", "TNF alpha", "CD4+ T cells"],
+    "explanation": "The components involved in delayed type hypersensitivity include IFN gamma, IL-2, TNF alpha, and CD4+ T cells. CD8+ T cells are not directly involved in delayed type hypersensitivity."
+  },
+  {
+    "id": 64,
+    "question": "On the immune system",
+    "options": [
+      "B-lymphocyte constitutes 60%",
+      "T-lymphocyte constitutes 30%",
+      "TH1 cell is important for delayed type hypersensitivity",
+      "IL-2 necessary for T-cell differentiation"
+    ],
+    "answer": [
+      "TH1 cell is important for delayed type hypersensitivity",
+      "IL-2 necessary for T-cell differentiation"
+    ],
+    "explanation": "In the immune system, TH1 cells are important for delayed type hypersensitivity, and IL-2 is necessary for T-cell differentiation. The percentages mentioned for B-lymphocytes and T-lymphocytes are not accurate."
+  },
+  {
+    "id": 65,
+    "question": "Which of these will increase the progression of HIV to the final crisis",
+    "options": ["TNF alpha and ???", "IL-10", "EBV", "TB"],
+    "answer": ["TNF alpha and ???", "IL-10", "EBV", "TB"],
+    "explanation": "Factors that may increase the progression of HIV to the final crisis include TNF alpha and other unidentified factors, IL-10, EBV, and TB."
+  },
+  {
+    "id": 66,
+    "question": "A 39-year-old bank manager gave birth to a 4.2kg baby at term. What are the possible implicating factors",
+    "options": [
+      "Maternal DM",
+      "Cigarette smoking",
+      "Chronic HTN",
+      "Overnutrition",
+      "Edward’s syndrome"
+    ],
+    "answer": [
+      "Maternal DM",
+      "Cigarette smoking",
+      "Chronic HTN",
+      "Overnutrition"
+    ],
+    "explanation": "Possible implicating factors for a 4.2kg baby at term in a 39-year-old include maternal DM, cigarette smoking, chronic HTN, and overnutrition. Edward’s syndrome is not typically associated with increased birth weight."
+  },
+  {
+    "id": 67,
+    "question": "On neonatal RDS",
+    "options": [
+      "Characteristic X-ray finding is that of patchy opacities",
+      "Systemic hypertension is a risk factor",
+      "More females are affected than males",
+      "There is a deficiency of surfactant",
+      "Normal labor decreases risk"
+    ],
+    "answer": ["There is a deficiency of surfactant"],
+    "explanation": "On neonatal RDS (Respiratory Distress Syndrome), there is a deficiency of surfactant. The other options are not characteristic features of neonatal RDS."
+  },
+  {
+    "id": 68,
+    "question": "The following are tumors that undergo spontaneous remission",
+    "options": [
+      "Melanoma",
+      "Wilms tumor",
+      "Neuroblastoma",
+      "Hepatoblastoma",
+      "Choriocarcinoma"
+    ],
+    "answer": ["Neuroblastoma"],
+    "explanation": "Among the listed tumors, neuroblastoma is known to undergo spontaneous remission. The other tumors listed are less likely to undergo spontaneous remission."
+  },
+  {
+    "id": 69,
+    "question": "A 33-year-old girl presented to the pediatrician with a 3-month history of abdominal mass and ascites. Ascitic fluid cytology revealed a malignant smear. What are the possible diagnoses",
+    "options": [
+      "Rhabdomyoma",
+      "Neuroblastoma",
+      "Nephroblastoma",
+      "Medulloblastoma",
+      "?:??"
+    ],
+    "answer": ["Nephroblastoma"],
+    "explanation": "In a 33-year-old girl with abdominal mass and ascites, a possible diagnosis is nephroblastoma (Wilms tumor), which can occur in adults. The other options are less likely based on the given information."
+  },
+  {
+    "id": 70,
+    "question": "The following targeted cancer therapies are correctly matched",
+    "options": [
+      "Gleevec and CGL",
+      "Trastuzumab and prostate cancer",
+      "Rituximab and metastatic colorectal carcinoma",
+      "Breast and ???",
+      "Thalidomide and multiple myeloma"
+    ],
+    "answer": ["Gleevec and CGL"],
+    "explanation": "The correctly matched targeted cancer therapy is Gleevec and CGL (Chronic Myeloid Leukemia). The other options are incorrectly matched."
+  },
+  {
+    "id": 71,
+    "question": "A child who died of fetal hydrops will likely have the following morphological features",
+    "options": [
+      "Presence of dysmorphic features",
+      "The cause is always of immune origin",
+      "Central cyanosis",
+      "Hepatosplenomegaly",
+      "There is always generalized edema"
+    ],
+    "answer": ["Hepatosplenomegaly"],
+    "explanation": "A child who died of fetal hydrops will likely have hepatosplenomegaly. The other options are not consistently associated with fetal hydrops."
+  },
+  {
+    "id": 72,
+    "question": "A 60-year-old man presents with a 3-year history of left chest wall mass. FNAC findings were in keeping with a malignant smear. What are the possible diagnoses",
+    "options": [
+      "Gynecomastia",
+      "Lipoma",
+      "Invasive ductal carcinoma",
+      "Fibroma",
+      "Pleomorphic sarcoma"
+    ],
+    "answer": ["Invasive ductal carcinoma"],
+    "explanation": "In a 60-year-old man with a chest wall mass and FNAC findings suggestive of a malignant smear, a possible diagnosis is invasive ductal carcinoma. The other options are less likely based on the given information."
+  },
+  {
+    "id": 73,
+    "question": "Which of the following is mutated in the corresponding neoplasm",
+    "options": [
+      "Her2/neu - Breast cancer",
+      "c-Kit - Colorectal cancer",
+      "SCF - Leukemia",
+      "CMyC - Hodgkin’s lymphoma",
+      "BCL2 – GIST"
+    ],
+    "answer": ["Her2/neu - Breast cancer"],
+    "explanation": "In the corresponding neoplasm, Her2/neu is mutated in breast cancer. The other options do not represent accurate mutations in the specified neoplasms."
+  },
+  {
+    "id": 74,
+    "question": "A 60-year-old man presented with a mass diagnosed to be melanoma. Which immunostain would be diagnostic",
+    "options": ["Cd45", "S100", "EMA", "A103", "Cytokeratin"],
+    "answer": ["S100"],
+    "explanation": "In a case of melanoma, the immunostain that would be diagnostic is S100. Cd45, EMA, A103, and Cytokeratin are not specific markers for melanoma."
+  },
+  {
+    "id": 75,
+    "question": "Paraneoplastic syndrome",
+    "options": [
+      "Hypoglycemia",
+      "Cushing's",
+      "Carcinoid",
+      "SIADH",
+      "Hypercalcemia"
+    ],
+    "answer": ["Hypercalcemia"],
+    "explanation": "Paraneoplastic syndrome associated with malignancies can lead to hypercalcemia. Hypoglycemia, Cushing's, Carcinoid, and SIADH are also paraneoplastic syndromes, but hypercalcemia is specifically mentioned in the context of malignancies."
+  }
+]

@@ -1,0 +1,305 @@
+[
+  {
+    "id": 1,
+    "question": "How do nucleoside reverse transcriptase inhibitors (NRTIs) exert their effect?",
+    "options": [
+      "By directly inhibiting HIV protease",
+      "By activating CD4+ cells",
+      "By mimicking nucleoside triphosphates and terminating DNA chain elongation",
+      "By inhibiting integrase"
+    ],
+    "answer": [
+      "By mimicking nucleoside triphosphates and terminating DNA chain elongation"
+    ],
+    "explanation": "NRTIs mimic nucleoside triphosphates, the natural substrates of polymerases, and terminate DNA chain elongation."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT a member of the NRTI class?",
+    "options": [
+      "Zidovudine (AZT)",
+      "Lamivudine (3-TC)",
+      "Efavirenz",
+      "Stavudine (d4T)"
+    ],
+    "answer": ["Efavirenz"],
+    "explanation": "Efavirenz is a non-nucleoside reverse transcriptase inhibitor (NNRTI), not an NRTI."
+  },
+  {
+    "id": 3,
+    "question": "What is the mechanism of action of all NRTIs?",
+    "options": [
+      "Non-competitive enzyme inhibition",
+      "Competitive inhibition at the active site of HIV reverse transcriptase",
+      "Direct inhibition of integrase",
+      "Activation of CD4+ cells"
+    ],
+    "answer": [
+      "Competitive inhibition at the active site of HIV reverse transcriptase"
+    ],
+    "explanation": "NRTIs competitively inhibit HIV reverse transcriptase at the active site."
+  },
+  {
+    "id": 4,
+    "question": "Which NRTI has enhanced CNS penetration and is important in HIV-associated neurocognitive disease (HAND)?",
+    "options": ["Stavudine", "Didanosine", "Zidovudine", "Lamivudine"],
+    "answer": ["Zidovudine"],
+    "explanation": "Zidovudine has enhanced CNS penetration and is important in HAND."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following NRTIs is a purine nucleoside analogue?",
+    "options": ["Stavudine", "Didanosine", "Lamivudine", "Abacavir"],
+    "answer": ["Didanosine"],
+    "explanation": "Didanosine is a purine nucleoside analogue. One of its adverse effect is peripheral neuropathy but it does not cause myelosuppression"
+  },
+  {
+    "id": 6,
+    "question": "How do non-nucleoside reverse transcriptase inhibitors (NNRTIs) differ from NRTIs in their mechanism of action?",
+    "options": [
+      "They inhibit HIV protease directly",
+      "They do not require phosphorylation to be activated",
+      "They competitively inhibit reverse transcriptase at the active site",
+      "They are pro-drugs that need to be activated by phosphorylation"
+    ],
+    "answer": ["They do not require phosphorylation to be activated"],
+    "explanation": "NNRTIs do not require phosphorylation for activation, unlike NRTIs."
+  },
+  {
+    "id": 7,
+    "question": "What is a common limitation of NNRTIs?",
+    "options": [
+      "They are ineffective against HIV-2",
+      "They are associated with lactic acidosis",
+      "They rapidly develop resistance if used alone",
+      "They have a high incidence of bone marrow suppression"
+    ],
+    "answer": ["They rapidly develop resistance if used alone"],
+    "explanation": "NNRTIs rapidly develop resistance if used alone, so they are typically used in combination therapy."
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is a drug-drug interaction involving rifampicin and antiretroviral therapy?",
+    "options": [
+      "Rifampicin increases the metabolism of Zidovudine",
+      "Rifampicin decreases the metabolism of Efavirenz",
+      "Rifampicin competitively inhibits the phosphorylation of Stavudine",
+      "Rifampicin increases the bioavailability of Nevirapine"
+    ],
+    "answer": ["Rifampicin increases the metabolism of Zidovudine"],
+    "explanation": "Rifampicin increases the metabolism of Zidovudine, which can reduce its effectiveness."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is NOT true regarding protease inhibitors (PIs)?",
+    "options": [
+      "They inhibit the assembly of proteins and nucleic acids into infectious virions",
+      "They generally have a higher barrier to resistance than other agents",
+      "They are metabolized by phase 2 glucuronidation",
+      "They are not used in first-line regimen combinations"
+    ],
+    "answer": ["They are metabolized by phase 2 glucuronidation"],
+    "explanation": "PIs are metabolized by CYP3A4, not by phase 2 glucuronidation."
+  },
+  {
+    "id": 10,
+    "question": "What is the main role of Cobicistat in HIV treatment?",
+    "options": [
+      "It directly inhibits HIV protease",
+      "It enhances the metabolism of antiretroviral drugs",
+      "It increases the bioavailability of PIs and Integrase inhibitors",
+      "It is an active antiretroviral drug against HIV-2"
+    ],
+    "answer": [
+      "It increases the bioavailability of PIs and Integrase inhibitors"
+    ],
+    "explanation": "Cobicistat is a pharmacokinetic enhancer that increases the bioavailability of PIs and Integrase inhibitors by inhibiting CYP3A4."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is NOT a nucleoside reverse transcriptase inhibitor (NRTI)?",
+    "options": ["Emtricitabine", "Abacavir", "Delavirdine", "Didanosine"],
+    "answer": ["Delavirdine"],
+    "explanation": "Delavirdine is a non-nucleoside reverse transcriptase inhibitor (NNRTI)"
+  },
+  {
+    "id": 12,
+    "question": "Which of the following reverse transcriptase inhibitors, frequently associated with neuropsychiatric adverse effects, inhibits CYP3A4, CYP2C9, and CYP2C19, while also serving as an enzyme inducer?",
+    "options": [
+      "Emtricitabine",
+      "Abacavir",
+      "Delavirdine",
+      "Efavirenz",
+      "Stavudine (d4T)"
+    ],
+    "answer": ["Efavirenz"],
+    "explanation": "Efavirenz is the 1st anti-HIV drug to be taken once a day. It is frequently associated with neuropsychiatric adverse effects and inhibits CYP3A4, CYP2C9 and CYP2C19 also servers as an enzyme inducer. It unders auto-induction"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following NRTIs is associated with a high incidence of hypersensitivity reactions?",
+    "options": ["Abacavir", "Lamivudine", "Stavudine", "Didanosine"],
+    "answer": ["Abacavir"],
+    "explanation": "Abacavir is notorious for hypersensitivity reactions."
+  },
+  {
+    "id": 14,
+    "question": "What is the mechanism of action of NNRTIs?",
+    "options": [
+      "Competitive inhibition of HIV protease",
+      "Direct inhibition of integrase",
+      "Non-competitive inhibition of reverse transcriptase",
+      "Induction of CD4+ cells"
+    ],
+    "answer": ["Non-competitive inhibition of reverse transcriptase"],
+    "explanation": "NNRTIs bind to an allosteric site on reverse transcriptase, causing non-competitive inhibition."
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is NOT true about integrase inhibitors?",
+    "options": [
+      "They prevent the integration of pro-viral DNA into the host genome",
+      "They are metabolized by phase 2 glucuronidation",
+      "Raltegravir was the first in this class",
+      "Dolutegravir has a higher barrier to resistance than raltegravir"
+    ],
+    "answer": ["They are metabolized by phase 2 glucuronidation"],
+    "explanation": "Integrase inhibitors are metabolized by glucuronidation, not phase 2 glucuronidation."
+  },
+  {
+    "id": 16,
+    "question": "What is the main limitation of NNRTIs?",
+    "options": [
+      "They are ineffective against HIV-2",
+      "They rapidly develop resistance if used alone",
+      "They have a high incidence of bone marrow suppression",
+      "They are associated with lactic acidosis"
+    ],
+    "answer": ["They rapidly develop resistance if used alone"],
+    "explanation": "NNRTIs rapidly develop resistance if used alone, so they are typically used in combination therapy."
+  },
+  {
+    "id": 17,
+    "question": "How do NRTIs differ from NNRTIs in their mechanism of action?",
+    "options": [
+      "NRTIs inhibit HIV protease, while NNRTIs inhibit reverse transcriptase",
+      "NRTIs require phosphorylation to be activated, while NNRTIs do not",
+      "NRTIs are pro-drugs that need to be activated by phosphorylation, while NNRTIs are not",
+      "NRTIs competitively inhibit reverse transcriptase, while NNRTIs non-competitively inhibit reverse transcriptase"
+    ],
+    "answer": [
+      "NRTIs require phosphorylation to be activated, while NNRTIs do not"
+    ],
+    "explanation": "NRTIs need to be phosphorylated to their active form, while NNRTIs do not require phosphorylation."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is NOT a common adverse effect of NRTIs?",
+    "options": [
+      "Peripheral neuropathy",
+      "Lactic acidosis",
+      "Lipohypertrophy",
+      "Hepatotoxicity"
+    ],
+    "answer": ["Hepatotoxicity"],
+    "explanation": "Hepatotoxicity is not a common adverse effect of NRTIs."
+  },
+  {
+    "id": 19,
+    "question": "What is the role of ritonavir in HIV treatment?",
+    "options": [
+      "It directly inhibits HIV protease",
+      "It enhances the metabolism of antiretroviral drugs",
+      "It increases the bioavailability of protease inhibitors",
+      "It is an active antiretroviral drug against HIV-2"
+    ],
+    "answer": ["It increases the bioavailability of protease inhibitors"],
+    "explanation": "Ritonavir is used as a pharmacokinetic enhancer to increase the bioavailability of protease inhibitors."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is a nucleotide reverse transcriptase inhibitor?",
+    "options": ["Zidovudine", "Lamivudine", "Tenofovir", "Abacavir"],
+    "answer": ["Tenofovir"],
+    "explanation": "Tenofovir is a nucleotide reverse transcriptase inhibitor."
+  },
+  {
+    "id": 21,
+    "question": "How do protease inhibitors exert their antiviral effect?",
+    "options": [
+      "By inhibiting viral RNA synthesis",
+      "By preventing viral DNA integration",
+      "By inhibiting viral protein maturation",
+      "By inducing apoptosis of infected cells"
+    ],
+    "answer": ["By inhibiting viral protein maturation"],
+    "explanation": "Protease inhibitors inhibit the cleavage of polyproteins, preventing viral protein maturation."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following is NOT a protease inhibitor?",
+    "options": ["Saquinavir", "Ritonavir", "Efavirenz", "Indinavir"],
+    "answer": ["Efavirenz"],
+    "explanation": "Efavirenz is an NNRTI, not a protease inhibitor."
+  },
+  {
+    "id": 23,
+    "question": "What is the main limitation of NNRTIs?",
+    "options": [
+      "They are ineffective against HIV-2",
+      "They rapidly develop resistance if used alone",
+      "They have a high incidence of bone marrow suppression",
+      "They are associated with lactic acidosis"
+    ],
+    "answer": ["They rapidly develop resistance if used alone"],
+    "explanation": "NNRTIs rapidly develop resistance if used alone, so they are typically used in combination therapy."
+  },
+  {
+    "id": 24,
+    "question": "How do integrase inhibitors differ from other antiretroviral drugs in their mechanism of action?",
+    "options": [
+      "They inhibit viral RNA synthesis",
+      "They prevent the integration of viral DNA into the host genome",
+      "They inhibit the maturation of viral proteins",
+      "They induce apoptosis of infected cells"
+    ],
+    "answer": [
+      "They prevent the integration of viral DNA into the host genome"
+    ],
+    "explanation": "Integrase inhibitors prevent the integration of pro-viral DNA into the host genome."
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is a common side effect of protease inhibitors?",
+    "options": [
+      "Peripheral neuropathy",
+      "Lactic acidosis",
+      "Lipohypertrophy",
+      "Nephrolithiasis"
+    ],
+    "answer": ["Lipohypertrophy"],
+    "explanation": "Lipohypertrophy is a common side effect of protease inhibitors."
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is a pharmacokinetic enhancer used in HIV treatment?",
+    "options": ["Efavirenz", "Cobicistat", "Tenofovir", "Abacavir"],
+    "answer": ["Cobicistat"],
+    "explanation": "Cobicistat is a pharmacokinetic enhancer used to increase the bioavailability of other antiretroviral drugs."
+  },
+  {
+    "id": 27,
+    "question": "A 35-year-old man with HIV infection has been on a stable antiretroviral regimen for the past 5 years. He recently developed virologic failure,  meaning his HIV viral load has risen. He is currently taking emtricitabine and tenofovir disoproxil fumarate (TDF) for his HIV. Which of the following statements is MOST LIKELY the reason for his virologic failure?",
+    "options": [
+      "Lamivudine and emtricitabine have a different mechanism of action than other nucleoside reverse transcriptase inhibitors (NRTIs) and are unlikely to be causing the resistance",
+      "Tenofovir disoproxil fumarate (TDF) is a prodrug that is converted to tenofovir diphosphate (TFV-DP) which inhibits integrase, a different enzyme than reverse transcriptase",
+      "The patient's adherence to his medication regimen has likely improved significantly",
+      "Zidovudine (AZT) is no longer recommended as a first-line therapy due to its high toxicity profile",
+      "Switching the patient to a different NRTI will likely be ineffective because of cross-resistance with lamivudine and emtricitabine"
+    ],
+    "answer": [
+      "Lamivudine and emtricitabine have a different mechanism of action than other nucleoside reverse transcriptase inhibitors (NRTIs) and are unlikely to be causing the resistance"
+    ],
+    "explanation": "Most anti-HIV nucleoside analogs, like AZT, share a similar mechanism of action (MOA) and resistance profile. They act as competitive inhibitors of the HIV reverse transcriptase enzyme, but after prolonged use, mutations in the reverse transcriptase can develop, leading to resistance. However, lamivudine and emtricitabine have a different mechanism of action compared to other NRTIs. They target a different binding site on the reverse transcriptase enzyme, making them less susceptible to the mutations that cause resistance to other NRTIs.\n\n    Why the other options are incorrect:\n\n   While TDF is a prodrug for TFV-DP, TFV-DP inhibits HIV reverse transcriptase, not integrase.\n\n Virologic failure suggests decreased adherence, not improvement.\n\n While AZT is not a first-line therapy anymore, it's not directly relevant to the current scenario.\n\n Lamivudine and emtricitabine's different MOA make them less prone to cross-resistance with other NRTIs.\n\n   Therefore, considering the patient's history and current medications, lamivudine and emtricitabine's unique MOA make them the least likely cause of virologic failure."
+  }
+]

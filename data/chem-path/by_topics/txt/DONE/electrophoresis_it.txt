@@ -1,0 +1,179 @@
+Electrophoresis is primarily used for the separation of which of the following in biological fluids?
+a) DNA
+b) RNA
+c) Proteins
+d) Lipoproteins
+
+Who developed the first electrophoresis method for proteins in 1937?
+a) Watson and Crick
+b) Tiselius
+c) Mendel
+d) Franklin
+
+Which component of the electrophoretic setup controls the amount of electricity?
+a) Buffer
+b) Tank
+c) Power pack
+d) Support medium
+
+Which of the following is commonly used as a support medium in electrophoresis?
+a) Ethanol
+b) Cellulose acetate
+c) Sodium chloride
+d) Hydrochloric acid
+
+What is the purpose of staining the cellulose acetate paper after electrophoresis?
+a) To visualize the proteins
+b) To remove excess buffer
+c) To increase the conductivity
+d) To reduce the pH
+
+Which of the following dyes can be used for staining in electrophoresis?
+a) Ponceau S
+b) Acetic acid
+c) Coomassie Brilliant Blue
+d) All of the above
+
+Which factor does not affect the migration and separation of solutes in electrophoresis?
+a) Particle size and shape
+b) Net charge on the particles
+c) PH and ionic strength of the buffer
+d) Temperature of the buffer
+
+What is the isoelectric point (PI) of a molecule?
+a) The point at which the molecule has a net zero charge
+b) The point at which the molecule has a net positive charge
+c) The point at which the molecule has a net negative charge
+d) The point at which the molecule stops migrating in an electric field
+
+At what pH is protein electrophoresis commonly performed?
+a) pH 4.0
+b) pH 6.0
+c) pH 8.6
+d) pH 10.0
+
+How does the ionic strength of the buffer affect electrophoresis?
+a) It decreases resolution
+b) It increases heat production
+c) It increases resolution
+d) It decreases migration velocity
+
+What is the purpose of the power pack in electrophoresis?
+a) To control the amount of electricity
+b) To control the temperature
+c) To regulate the pH
+d) To monitor the progress of electrophoresis
+
+Which type of molecules have a net negative or positive charge at a given pH due to their amino acid composition?
+a) Proteins
+b) Lipids
+c) Carbohydrates
+d) Nucleic acids
+
+How many distinct groups are proteins separated into in an electrophoretogram?
+a) 2
+b) 3
+c) 4
+d) 5
+
+What is the principle behind the migration and separation of solutes in electrophoresis?
+a) Particle size only
+b) Net charge on the particles only
+c) PH and ionic strength of the buffer only
+d) All of the above
+
+Which factor does not affect the migration and separation of solutes in electrophoresis?
+a) Temperature
+b) Net charge on the particles
+c) Type of support medium
+d) PH of the buffer
+
+What is the role of the buffer in electrophoresis?
+a) To increase the conductivity of the medium
+b) To provide a medium for the migration of charged particles
+c) To regulate the pH of the medium
+d) All of the above
+
+How does the support medium contribute to the separation of solutes in electrophoresis?
+a) It provides a medium for the migration of charged particles
+b) It affects the migration velocity of the particles
+c) It determines the PH of the buffer
+d) It does not play a role in separation
+
+Which component of the electrophoretic setup is responsible for producing sharper bands but also increases heat production?
+a) Buffer
+b) Tank
+c) Power pack
+d) Support medium
+
+Which type of staining is commonly used to visualize proteins after electrophoresis?
+a) Ponceau S stain
+b) Coomassie Brilliant Blue stain
+c) Sudan Black stain
+d) All of the above
+
+Which factor does not affect the migration and separation of solutes in electrophoresis?
+a) Type of support medium
+b) PH of the buffer
+c) Net charge on the particles
+d) Humidity levels
+
+Which of the following is NOT a type of electrophoresis?
+a) Isoelectric focusing
+b) Capillary
+c) Southern blotting
+d) Western blotting
+
+Which type of electrophoresis allows migration of solutes for a fixed time followed by visualization of the pattern of zones of the separated substances?
+a) Isoelectric focusing
+b) Capillary
+c) 2-dimensional
+d) Zone electrophoresis
+
+Which of the following is a common clinical lab electrophoresis method?
+a) Capillary electrophoresis
+b) Southern blotting
+c) Western blotting
+d) Zone electrophoresis
+
+What is the primary use of zone electrophoresis in clinical labs?
+a) Separation of lipoproteins
+b) Identification of abnormal haemoglobin variants
+c) Quantification of glycated haemoglobin fractions
+d) Separation of proteins into albumin, alpha 1 and 2, beta and gamma globulins
+
+Which of the following is NOT a use of electrophoresis in clinical labs?
+a) Identification of abnormal haemoglobin variants
+b) Separation of DNA fragments
+c) Isoenzyme pattern analysis
+d) Separation of proteins into albumin, alpha 1 and 2, beta and gamma globulins
+
+Which condition is characterized by decreased albumin, alpha 1 and gamma globulin bands with increased alpha 2 and beta globulin bands due to increased alpha 2 macroglobulin?
+a) Nephrotic syndrome
+b) Liver cirrhosis
+c) Chronic liver disease
+d) Hemochromatosis
+
+What might be visible at the point of application in nephrotic syndrome, mimicking a monoclonal band?
+a) Alpha 1 globulin band
+b) Beta globulin band
+c) Gamma globulin band
+d) A band
+
+In liver cirrhosis, what is the appearance of the albumin band in electrophoresis?
+a) High
+b) Low
+c) Bridging
+d) None of the above
+
+Which of the following is NOT an abnormal haemoglobin variant that can be identified using electrophoresis?
+a) A
+b) S
+c) C
+d) T
+
+What is the primary purpose of isoenzyme pattern analysis using electrophoresis?
+a) To identify DNA fragments
+b) To separate lipoproteins
+c) To quantify glycated hemoglobin fractions
+d) To analyze enzyme patterns such as LDH, ALP, CK

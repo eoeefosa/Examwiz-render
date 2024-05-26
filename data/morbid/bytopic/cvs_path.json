@@ -1,0 +1,1270 @@
+[
+  {
+    "id": 1,
+    "question": "The normal weight of the adult female heart is approximately:",
+    "options": ["150-200g", "250-300g", "300-350g", "400-450g"],
+    "answer": ["250-300g"],
+    "explanation": "The normal heart weighs between 250 – 300g in the adult female and in the adult male between 300 – 350g"
+  },
+  {
+    "id": 2,
+    "question": "Cardiomegaly is characterized by:",
+    "options": [
+      "Increase in heart rate",
+      "Increase in heart weight",
+      "Decrease in heart rate",
+      "Decrease in heart weight"
+    ],
+    "answer": ["Increase in heart weight"],
+    "explanation": "In diseases such as hypertension (HT) and cardiomyopathies, there is an increase in weight, a phenomenon known as CARDIOMEGALY"
+  },
+  {
+    "id": 3,
+    "question": "The left ventricular wall measures approximately:",
+    "options": ["0.3 - 0.5cm", "0.5 - 0.8cm", "1.3 - 1.5cm", "1.5 - 1.8cm"],
+    "answer": ["1.3 - 1.5cm"],
+    "explanation": "Normal left ventricular wall measures between 1.3 – 1.5cm while the thickness of the right ventricular wall is between 0.3 – 0.5cm."
+  },
+  {
+    "id": 4,
+    "question": "The right coronary artery supplies the:",
+    "options": [
+      "Left ventricle",
+      "Right ventricle",
+      "Both ventricles",
+      "Atria"
+    ],
+    "answer": ["Right ventricle"]
+  },
+  {
+    "id": 5,
+    "question": "The left anterior descending coronary artery supplies the:",
+    "options": [
+      "Anterior wall of the right ventricle",
+      "Anterior wall of the left ventricle",
+      "Posterior wall of the left ventricle",
+      "Posterior wall of the right ventricle"
+    ],
+    "answer": ["Anterior wall of the left ventricle"]
+  },
+  {
+    "id": 6,
+    "question": "The myocardium is composed predominantly of:",
+    "options": [
+      "Cardiac muscle cells",
+      "Smooth muscle cells",
+      "Skeletal muscle cells",
+      "Adipose tissue"
+    ],
+    "answer": ["Cardiac muscle cells"]
+  },
+  {
+    "id": 7,
+    "question": "The functional unit of the myocardium is the:",
+    "options": ["Sarcomere", "Myofibril", "Myocyte", "Cardiomyocyte"],
+    "answer": ["Sarcomere"]
+  },
+  {
+    "id": 8,
+    "question": "Atrial natriuretic peptide (ANP) is produced by the myocytes of the:",
+    "options": ["Atrium", "Ventricle", "Septum", "Valve"],
+    "answer": ["Atrium"]
+  },
+  {
+    "id": 9,
+    "question": "The SA node is located at the junction of the:",
+    "options": [
+      "Superior vena cava and right atrial appendage",
+      "Inferior vena cava and left atrial appendage",
+      "Superior vena cava and left atrial appendage",
+      "Inferior vena cava and right atrial appendage"
+    ],
+    "answer": ["Superior vena cava and right atrial appendage"]
+  },
+  {
+    "id": 10,
+    "question": "Heart failure is defined as:",
+    "options": [
+      "Inability to maintain an adequate circulation",
+      "Inability to maintain a normal heart rate",
+      "Inability to maintain normal blood pressure",
+      "Inability to maintain normal cardiac output"
+    ],
+    "answer": ["Inability to maintain an adequate circulation"],
+    "explanation": "Heart failure is defined as the pathophysiologic state in which impaired cardiac function is unable to maintain an adequate circulation for the metabolic needs of the tissues of the body."
+  },
+  {
+    "id": 11,
+    "question": "The most common cause of heart failure is:",
+    "options": [
+      "Weakening of the ventricular muscle due to disease",
+      "Increased myocardial demand resulting in myocardial failure",
+      "Impaired filling of cardiac chambers",
+      "Valvular insufficiency",
+      "Systemic and pulmonary arterial hypertension"
+    ],
+    "answer": ["Weakening of the ventricular muscle due to disease"],
+    "explanation": "The most common and most important cause of heart failure is weakening of the ventricular muscle due to disease so that the heart fails to act as an efficient pump."
+  },
+  {
+    "id": 12,
+    "question": "Increased pressure load on the heart may occur in the following except",
+    "options": [
+      "Systemic and pulmonary arterial hypertension",
+      "Valvular diseases",
+      "Thyrotoxicosis",
+      "Chronic lung diseases",
+      "Mitral stenosis"
+    ],
+    "answer": ["Thyrotoxicosis"],
+    "explanation": " Increased pressure load may occur in the following states: \n a) Systemic and pulmonary arterial hypertension.\n b) Valvular disease e.g. mitral stenosis, aortic stenosis, pulmonary stenosis.\n c) Chronic lung diseases."
+  },
+  {
+    "id": 13,
+    "question": "Increased volume load on the heart occurs in the following except",
+    "options": [
+      "Valvular insufficiency",
+      "Severe anaemia",
+      "Thyrotoxicosis",
+      "Hypoxia due to lung diseases",
+      "Systemic and pulmonary arterial hypertension"
+    ],
+    "answer": ["Systemic and pulmonary arterial hypertension"],
+    "explanation": " Increased volume load occurs when a ventricle is required to eject more than normal volume of the blood resulting in cardiac failure as in\n a) Valvular insufficiency \nb) Severe anaemia\n c) Thyrotoxicosis \n d) Arteriovenous shunts\n e) Hypoxia due to lung diseases."
+  },
+  {
+    "id": 14,
+    "question": "Impaired filling of cardiac chambers may result from the following except",
+    "options": [
+      "Cardiac tamponade",
+      "Constrictive pericarditis",
+      "Severe anaemia",
+      "Haemopericardium",
+      "Hydropericardium"
+    ],
+    "answer": ["Severe anaemia"],
+    "explanation": " IMPAIRED FILLING OF CARDIAC CHAMBERS. may result from extra-cardiac causes or defect in filling of the heart: \n a) Cardiac tamponade e.g. haemopericardium, hydropericardium \n b) Constrictive pericarditis."
+  },
+  {
+    "id": 15,
+    "question": "Acute heart failure is characterized by:",
+    "options": [
+      "Sudden reduction in cardiac output",
+      "Gradual reduction in cardiac output",
+      "Sudden increase in cardiac output",
+      "Gradual increase in cardiac output"
+    ],
+    "answer": ["Sudden reduction in cardiac output"],
+    "explanation": "In acute heart failure, there is sudden reduction in cardiac output resulting in systemic hypotension. A state of cardiogenic shock and cerebral hypoxia develops. Sudden and rapid development of heart failure occurs in the following conditions:\n i) Larger myocardial infarction \n ii) Valve rupture\n iii) Cardiac tamponade\n iv) Massive pulmonary embolism \n v) Acute viral myocarditis \n vi) Acute bacterial toxaemia"
+  },
+  {
+    "id": 16,
+    "question": "About Chronic heart failure",
+    "options": [
+      "It develops Suddenly",
+      "It is less common",
+      "In chronic heart failure, compensatory mechanisms like bradycardia, cardiac constriction and cardiac hyperplasia try to make adjustments so as to maintain adequate cardiac output",
+      "Causes include Chronic lung disease and Multi valvular heart disease",
+      "heart failure develops slowly rapidly"
+    ],
+    "answer": [
+      "Causes include Chronic lung disease and Multi valvular heart disease"
+    ],
+    "explanation": "About CHRONIC HEART FAILURE\n 1. It is More common. \n2.  Heart failure develops slowly.\n3. In chronic heart failure, compensatory mechanisms like tachycardia, cardiac dilatation and cardiac hypertrophy try to make adjustments so as to maintain adequate cardiac output.\n Causes \n i) Myocardial ischaemia from atherosclerotic coronary artery disease \n ii) Multi valvular heart disease \n iii) Systemic arterial hypertension \n iv) Chronic lung diseases resulting in hypoxia and pulmonary arterial hypertension \n v) Progression of acute into chronic failure"
+  },
+  {
+    "id": 17,
+    "question": "Left-sided heart failure is initiated by stress to the Left heart. The major causes are all of the following except",
+    "options": [
+      "Systemic hypertension",
+      "Mitral or aortic valve disease (stenosis)",
+      "Myocardial diseases e.g. cardiomyopathies, myocarditis",
+      "Pulmonary hypertension secondary to pulmonary thromboembolism",
+      "Restrictive pericarditis"
+    ],
+    "answer": ["Pulmonary hypertension secondary to pulmonary thromboembolism"],
+    "explanation": "Left-sided heart failure is initiated by stress to the left heart. The major causes are:\n i) Systemic hypertension \n ii) Mitral or aortic valve disease (stenosis) \n iii) Ischaemic heart disease\n iv) Myocardial diseases e.g. cardiomyopathies, myocarditis. \n v) Restrictive pericarditis"
+  },
+  {
+    "id": 18,
+    "question": "Right-sided heart failure is least likely to occur as a consequence of",
+    "options": [
+      "Left ventricular failure",
+      "Cor pulmonale",
+      "left-sided heart failure",
+      "Pulmonary or tricuspid valvular disease",
+      "Systemic hypertension"
+    ],
+    "answer": ["Systemic hypertension"],
+    "explanation": "Right-sided heart failure occurs more often as a consequence of left-sided heart failure. However, some conditions affect the right ventricle primarily, producing right-sided heart failure.  \n i) As a consequence of left ventricular failure. All causes of LHF\n ii) Cor pulmonale in which right heart failure occurs due to intrinsic lung dsease All causes of pulmonary HT\n iii) Pulmonary or tricuspid valvular disease. \n iv) Pulmonary hypertension secondary to pulmonary thromboembolism. \n v) Myocardial disease affecting  right side. \n vi) Congenital heart disease with left-to-right shunt. \n vii)Causes of severe hypoxia e.g sleep apnoea, altitude sickness"
+  },
+  {
+    "id": 19,
+    "question": "The compensatory mechanisms in heart failure include the following except",
+    "options": [
+      "Tachycardia",
+      "Activation of neurohumoral system",
+      "Cardiac hypertrophy",
+      "Aortic stenosis",
+      "Ventricular remodeling"
+    ],
+    "answer": ["Aortic stenosis"],
+    "explanation": "COMPENSATORY MECHANISMS to heart failure\n\n1. Tachycardia \nActivation of neuro humoral system \ni Adrenergic cardiac nerves release nor epinephrine which increases heart rate, augment cardiac contractility and vascular resistance \nii Activation of renin angiotensin system\niii Release of atral natriuretic peptic\n\nA balance between these 2 help in adjusting blood volume and pressure.\n\n 2. Cardiac Hypertrophy and Dilatation\n\nIn the early phase, the increased workload in the heart is necessary in order to meet the needs of the body. It imposes an additional stress on the myocardium. \nThis results in myocyte hyper-trophy with a decrease in capillary density and increased inter-capillary distance with increase in fibrous tissue. (Referred to as Ventricular remodeling).\nThere is an altered gene expression with production of proteins which are abnormal or dysfunctional thus there is pathologic hyper trophy. \nThere is an increase in size or mass which on HT is seen as concentric hypertrophy. There is induction of the early and intermediate genes resulting in increased proteins synthesis with production of abnormal proteins.\nThere is dilation with increase in the length of the sarcomere and resultant increase in force of contraction and increase on stroke volume (SV). There is also Na retention which results in expansion of the blood volume. This result from activation of renin angiotensin system.\nThe effect of the 10 cardiac disease, the decrease in the blood and O2 supply to the myocytes, the increase in blood volume all impose an additional load on the heart resulting in decompensation. \nWhen decompensation sets in, SV decreases with a resultant decrease in CO resulting in hypoxia and congestive charges in the organs and tissues. There may be associated arrhythmias (manage with antiarrhythmic drugs)."
+  },
+  {
+    "id": 20,
+    "question": "Left ventricular hypertrophy may be caused by:",
+    "options": [
+      "Systemic hypertension",
+      "Aortic stenosis",
+      "Pulmonary stenosis",
+      "Mitral insufficiency",
+      "Thyrotoxicosis"
+    ],
+    "answer": ["Pulmonary stenosis"],
+    "explanation": "The common causes of left ventricular hypertrophy are: \n i) Systemic hypertension \n ii) Aortic stenosis and insufficiency \n iii) Mitral insufficiency \n iv) Coarctation of the aorta\n v) Occlusive coronary artery disease \n vi) Congenital anomalies like septal defects and patent ductus arteriosus \n vii) Conditions with increased cardiac output e.g. thyrotoxicosis, anaemia, arteriovenous fistulae"
+  },
+  {
+    "id": 21,
+
+    "question": "Right ventricular hypertrophy is most commonly due to:",
+    "options": [
+      "Pulmonary stenosis",
+      "Tricuspid insufficiency",
+      "Chronic lung diseases",
+      "Left ventricular failure"
+    ],
+    "answer": ["Pulmonary stenosis"]
+  },
+  {
+    "id": 22,
+    "question": "Failure of the heart results from:",
+    "options": [
+      "Myocyte apoptosis",
+      "Cytoskeletal alteration",
+      "Ischaemic injury",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 23,
+    "question": "The lungs in congestive heart failure may show:",
+    "options": [
+      "Interstitial pulmonary oedema",
+      "Focal tiny hemorrhages",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 24,
+    "question": "Hypoxic encephalopathy in heart failure is characterized by:",
+    "options": [
+      "Red neurone",
+      "Watershed hemorrhages",
+      "Laminal necrosis",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+
+  {
+    "id": 25,
+    "question": "Chronic liver congestion in right-sided heart failure may lead to:",
+    "options": [
+      "Atrophy of hepatocytes",
+      "Central hemorrhagic necrosis",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 26,
+    "question": "Nutmeg liver appearance is associated with:",
+    "options": [
+      "Right-sided heart failure",
+      "Left-sided heart failure",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": ["Right-sided heart failure"]
+  },
+  {
+    "id": 27,
+    "question": "Systemic venous congestion in right-sided heart failure may result in:",
+    "options": [
+      "Subcutaneous oedema",
+      "Passive congestion of the liver",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 28,
+    "question": "Reduced cardiac output in right-sided heart failure may lead to:",
+    "options": [
+      "Anoxia",
+      "Cyanosis",
+      "Coldness of extremities",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 29,
+    "question": "The SA node is located at the junction of the:",
+    "options": [
+      "Superior vena cava and right atrium",
+      "Inferior vena cava and left atrium",
+      "Superior vena cava and left atrium",
+      "Inferior vena cava and right atrium"
+    ],
+    "answer": ["Superior vena cava and right atrium"]
+  },
+  {
+    "id": 30,
+    "question": "The functional unit of the myocardium is the:",
+    "options": ["Sarcomere", "Myofibril", "Myocyte", "Cardiomyocyte"],
+    "answer": ["Sarcomere"]
+  },
+  {
+    "id": 31,
+    "question": "Atrial natriuretic peptide (ANP) is produced by the myocytes of the:",
+    "options": ["Atrium", "Ventricle", "Septum", "Valve"],
+    "answer": ["Atrium"]
+  },
+  {
+    "id": 41,
+    "question": "What is the definition of hypertension (HTN)?",
+    "options": [
+      "Temporary rise in blood pressure",
+      "Persistent raised blood pressure",
+      "Low blood pressure",
+      "None of the above"
+    ],
+    "answer": ["Persistent raised blood pressure"],
+    "explanation": "Hypertension (HTN) is defined as a persistent raised blood pressure with evidence of such a rise seen as concentric hyper-atrophy of the left ventricle."
+  },
+  {
+    "id": 42,
+    "question": "How is the rise in blood pressure seen in HTN classified?",
+    "options": [
+      "By the presence of headaches",
+      "By the presence of concentric hyper-atrophy of the left ventricle",
+      "By the level of blood pressure",
+      "By the presence of heart murmurs"
+    ],
+    "answer": ["By the level of blood pressure"]
+  },
+  {
+    "id": 43,
+    "question": "Which stage of hypertension is characterized by a blood pressure between 160-179mmHg?",
+    "options": ["Stage 1", "Stage 2", "Stage 3", "Stage 4"],
+    "answer": ["Stage 2"],
+    "explanation": "Classification:\nHTN is classified into 4 stages viz\nSTAGE 1: BP is between 130 – 159mmHg ~ mild HTN 90 – 99\nSTAGE 2: BP is between 160 – 179mmHg ~ moderate HTN 100 - 109 \nSTAGE 3: BP is between 180 – 209mmHg ~ severe HTN 110 – 120\nSTAGE 4: BP is between 210 and above mmHg ~ malignant/very severe HTN 120 and above"
+  },
+  {
+    "id": 44,
+    "question": "What percentage of Nigerians are affected by hypertension?",
+    "options": ["10%", "15%", "20%", "25%"],
+    "answer": ["25%"],
+    "explanation": "HTN is a very common disease occurring in about 25% of Nigerians. It is more common in blacks than in whites with the blacks significantly having worse complications from HTN than whites. 5% of patients present with hypertension. HTN is a rapidly developing BP leading to death between 1 – 2years without treatment."
+  },
+  {
+    "id": 45,
+    "question": "Which type of hypertension has no real cause and accounts for 90-95% of cases?",
+    "options": [
+      "Essential HTN",
+      "Secondary HTN",
+      "Malignant HTN",
+      "Idiopathic HTN"
+    ],
+    "answer": ["Essential HTN"],
+    "explanation": "There are 2 basis types/groups of HTN viz;\n Essential HTN: Idiopathic – no real cause with 90 – 95% of patients presenting with this condition.\n Secondary HTN: occurs in 5 – 10% of patients and is 2 to other causes"
+  },
+  {
+    "id": 46,
+    "question": "What are the two main groups of causes for secondary hypertension?",
+    "options": [
+      "Renal and cardiovascular",
+      "Endocrine and neurologic",
+      "Cardiovascular and endocrine",
+      "Renal and endocrine"
+    ],
+    "answer": ["Renal and endocrine"],
+    "explanation": "SECONDARY CAUSES OF HYPETENSION \n\n1. Renal causes\na. Acute glomerulonephritis\nb. Chronic renal disease eg chronic glomerulonephritis and chronic pyelonephritis\nc. Renal artery stenosis (renovascular HTN)\nd. Polycystic kidney diseases\ne. Renin-producing tumours\n\n2. Cardiovascular causes\na. Polyarthritis nodusa\nb. Coarctation of the aorta\nc. Any factor that would cause an increase in CO\n\n3. Endocrine causes \na. Phaeochromocytoma\nb. Adrenocortical hyper function eg. Cushing disease, primary hyper-aldosteronison and congenital adrenal hyperplasia (CAH), \nc. Hyperthyroidism and hypothyroidism\nd. Acromegaly\ne. Pregnancy\nf. Use of exogenous hormones such as glucocorticoids, estrogen as in oral contraceptives\ng. Mono amine oxidase inhibitors\nh. Sympathomimetic\n\n4. Neurologic causes\na. Individuals with raised intracranial pressure\nb. Sleep apnea\nc. Acute stress of surgery"
+  },
+  {
+    "id": 47,
+    "question": "Which of the following is NOT a renal cause of secondary hypertension?",
+    "options": [
+      "Acute glomerulonephritis",
+      "Chronic renal disease",
+      "Renin-producing tumours",
+      "Acromegaly"
+    ],
+    "answer": ["Acromegaly"]
+  },
+  {
+    "id": 48,
+    "question": "Which of the following is an endocrine cause of hypertension?",
+    "options": [
+      "Chronic lung diseases",
+      "Polycystic kidney diseases",
+      "Adrenocortical hyperfunction",
+      "Coarctation of the aorta"
+    ],
+    "answer": ["Adrenocortical hyperfunction"]
+  },
+  {
+    "id": 49,
+    "question": "What factors affect cardiac output and peripheral resistance, thus altering blood pressure?",
+    "options": [
+      "Hormones",
+      "Humoral factors",
+      "Neurological factors",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 50,
+    "question": "What factors affect peripheral resistance?",
+    "options": [
+      "Vasoconstrictors",
+      "Vasodilators",
+      "Humoral factors",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 51,
+    "question": "How does the kidney regulate blood pressure?",
+    "options": [
+      "By regulating peripheral resistance",
+      "By regulating blood volume and cardiac output",
+      "By producing renin",
+      "By secreting atriopeptin"
+    ],
+    "answer": ["By regulating blood volume and cardiac output"]
+  },
+  {
+    "id": 52,
+    "question": "What effect does aldosterone have on the kidneys?",
+    "options": [
+      "Stimulates absorption of Na+ and H2O",
+      "Inhibits absorption of Na+ and H2O",
+      "Increases excretion of Na+ and H2O",
+      "None of the above"
+    ],
+    "answer": ["Stimulates absorption of Na+ and H2O"]
+  },
+  {
+    "id": 53,
+    "question": "What naturally counteracts the vasoconstrictive effect of ANG-2?",
+    "options": ["Prostaglandins", "Renin", "Aldosterone", "ANP"],
+    "answer": ["ANP"]
+  },
+  {
+    "id": 54,
+    "question": "What environmental factors are important in the development of hypertension?",
+    "options": ["Stress", "Obesity", "Smoking", "All of the above"],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 55,
+    "question": "What is the term for the narrowing of arterioles with associated onion-skin thickening of the arteriolar wall and fibrinoid necrosis of the vessel wall in malignant HTN?",
+    "options": [
+      "Hyaline arteriolosclerosis",
+      "Hyperplastic arteriolosclerosis",
+      "Benign nephrosclerosis",
+      "None of the above"
+    ],
+    "answer": ["Hyperplastic arteriolosclerosis"]
+  },
+  {
+    "id": 56,
+    "question": "Which type of arteriolosclerosis is characteristic of benign nephrosclerosis?",
+    "options": [
+      "Hyaline arteriolosclerosis",
+      "Hyperplastic arteriolosclerosis",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": ["Hyaline arteriolosclerosis"]
+  },
+  {
+    "id": 57,
+    "question": "What is the histological appearance of blood vessels in hypertensive individuals characterized by hyaline thickening of the arteriolar wall?",
+    "options": [
+      "Hyperplastic arteriolosclerosis",
+      "Hyaline arteriolosclerosis",
+      "Necrotizing arteritis",
+      "Atherosclerosis"
+    ],
+    "answer": ["Hyaline arteriolosclerosis"]
+  },
+  {
+    "id": 58,
+    "question": "What is the term for the rapid development of blood pressure leading to death within 1-2 years without treatment?",
+    "options": [
+      "Malignant HTN",
+      "Essential HTN",
+      "Idiopathic HTN",
+      "Secondary HTN"
+    ],
+    "answer": ["Malignant HTN"]
+  },
+  {
+    "id": 59,
+    "question": "Which stage of hypertension is considered moderate HTN?",
+    "options": ["Stage 1", "Stage 2", "Stage 3", "Stage 4"],
+    "answer": ["Stage 2"]
+  },
+  {
+    "id": 60,
+    "question": "What percentage of patients with hypertension present with no real cause (idiopathic)?",
+    "options": ["90-95%", "80-85%", "70-75%", "60-65%"],
+    "answer": ["90-95%"]
+  },
+
+  {
+    "id": 61,
+    "question": "Which of the following is NOT a renal cause of secondary hypertension?",
+    "options": [
+      "Renal artery stenosis",
+      "Chronic glomerulonephritis",
+      "Hyperthyroidism",
+      "Polycystic kidney disease"
+    ],
+    "answer": ["Hyperthyroidism"]
+  },
+  {
+    "id": 62,
+    "question": "Which of the following is an endocrine cause of hypertension?",
+    "options": [
+      "Acute glomerulonephritis",
+      "Cushing's disease",
+      "Coarctation of the aorta",
+      "Polyarteritis nodosa"
+    ],
+    "answer": ["Cushing's disease"]
+  },
+  {
+    "id": 63,
+    "question": "What factors affect cardiac output and peripheral resistance, thus altering blood pressure?",
+    "options": [
+      "Hormones",
+      "Humoral factors",
+      "Neurological factors",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 64,
+    "question": "What factors affect peripheral resistance?",
+    "options": [
+      "Vasoconstrictors",
+      "Vasodilators",
+      "Humoral factors",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 65,
+    "question": "How does the kidney regulate blood pressure?",
+    "options": [
+      "By regulating peripheral resistance",
+      "By regulating blood volume and cardiac output",
+      "By producing renin",
+      "By secreting atriopeptin"
+    ],
+    "answer": ["By regulating blood volume and cardiac output"]
+  },
+  {
+    "id": 66,
+    "question": "What effect does aldosterone have on the kidneys?",
+    "options": [
+      "Stimulates absorption of Na+ and H2O",
+      "Inhibits absorption of Na+ and H2O",
+      "Increases excretion of Na+ and H2O",
+      "None of the above"
+    ],
+    "answer": ["Stimulates absorption of Na+ and H2O"]
+  },
+  {
+    "id": 67,
+    "question": "What naturally counteracts the vasoconstrictive effect of ANG-2?",
+    "options": ["Prostaglandins", "Renin", "Aldosterone", "ANP"],
+    "answer": ["ANP"]
+  },
+  {
+    "id": 68,
+    "question": "What environmental factors are important in the development of hypertension?",
+    "options": ["Stress", "Obesity", "Smoking", "All of the above"],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 69,
+    "question": "What is the term for the narrowing of arterioles with associated onion-skin thickening of the arteriolar wall and fibrinoid necrosis of the vessel wall in malignant HTN?",
+    "options": [
+      "Hyaline arteriolosclerosis",
+      "Hyperplastic arteriolosclerosis",
+      "Benign nephrosclerosis",
+      "None of the above"
+    ],
+    "answer": ["Hyperplastic arteriolosclerosis"]
+  },
+  {
+    "id": 70,
+    "question": "Which type of arteriolosclerosis is characteristic of benign nephrosclerosis?",
+    "options": [
+      "Hyaline arteriolosclerosis",
+      "Hyperplastic arteriolosclerosis",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": ["Hyaline arteriolosclerosis"]
+  },
+  {
+    "id": 71,
+    "question": "What is the histological appearance of blood vessels in hypertensive individuals characterized by hyaline thickening of the arteriolar wall?",
+    "options": [
+      "Hyperplastic arteriolosclerosis",
+      "Hyaline arteriolosclerosis",
+      "Necrotizing arteritis",
+      "Atherosclerosis"
+    ],
+    "answer": ["Hyaline arteriolosclerosis"]
+  },
+  {
+    "id": 72,
+    "question": "What is the term for the rapid development of blood pressure leading to death within 1-2 years without treatment?",
+    "options": [
+      "Malignant HTN",
+      "Essential HTN",
+      "Idiopathic HTN",
+      "Secondary HTN"
+    ],
+    "answer": ["Malignant HTN"]
+  },
+
+  {
+    "id": 74,
+    "question": "What percentage of patients with hypertension present with no real cause (idiopathic)?",
+    "options": ["90-95%", "80-85%", "70-75%", "60-65%"],
+    "answer": ["90-95%"]
+  },
+  {
+    "id": 75,
+    "question": "Which of the following is NOT a renal cause of secondary hypertension?",
+    "options": [
+      "Renal artery stenosis",
+      "Chronic glomerulonephritis",
+      "Hyperthyroidism",
+      "Polycystic kidney disease"
+    ],
+    "answer": ["Hyperthyroidism"]
+  },
+  {
+    "id": 76,
+    "question": "Which of the following is an endocrine cause of hypertension?",
+    "options": [
+      "Acute glomerulonephritis",
+      "Cushing's disease",
+      "Coarctation of the aorta",
+      "Polyarteritis nodosa"
+    ],
+    "answer": ["Cushing's disease"]
+  },
+  {
+    "id": 77,
+    "question": "What factors affect cardiac output and peripheral resistance, thus altering blood pressure?",
+    "options": [
+      "Hormones",
+      "Humoral factors",
+      "Neurological factors",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 78,
+    "question": "What factors affect peripheral resistance?",
+    "options": [
+      "Vasoconstrictors",
+      "Vasodilators",
+      "Humoral factors",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 79,
+    "question": "How does the kidney regulate blood pressure?",
+    "options": [
+      "By regulating peripheral resistance",
+      "By regulating blood volume and cardiac output",
+      "By producing renin",
+      "By secreting atriopeptin"
+    ],
+    "answer": ["By regulating blood volume and cardiac output"]
+  },
+  {
+    "id": 80,
+    "question": "What effect does aldosterone have on the kidneys?",
+    "options": [
+      "Stimulates absorption of Na+ and H2O",
+      "Inhibits absorption of Na+ and H2O",
+      "Increases excretion of Na+ and H2O",
+      "None of the above"
+    ],
+    "answer": ["Stimulates absorption of Na+ and H2O"]
+  },
+  {
+    "id": 81,
+    "question": "What naturally counteracts the vasoconstrictive effect of ANG-2?",
+    "options": ["Prostaglandins", "Renin", "Aldosterone", "ANP"],
+    "answer": ["ANP"]
+  },
+  {
+    "id": 82,
+    "question": "What environmental factors are important in the development of hypertension?",
+    "options": ["Stress", "Obesity", "Smoking", "All of the above"],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 83,
+    "question": "What is the term for the narrowing of arterioles with associated onion-skin thickening of the arteriolar wall and fibrinoid necrosis of the vessel wall in malignant HTN?",
+    "options": [
+      "Hyaline arteriolosclerosis",
+      "Hyperplastic arteriolosclerosis",
+      "Benign nephrosclerosis",
+      "None of the above"
+    ],
+    "answer": ["Hyperplastic arteriolosclerosis"]
+  },
+  {
+    "id": 84,
+    "question": "Which type of arteriolosclerosis is characteristic of benign nephrosclerosis?",
+    "options": [
+      "Hyaline arteriolosclerosis",
+      "Hyperplastic arteriolosclerosis",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": ["Hyaline arteriolosclerosis"]
+  },
+  {
+    "id": 85,
+    "question": "What is the histological appearance of blood vessels in hypertensive individuals characterized by hyaline thickening of the arteriolar wall?",
+    "options": [
+      "Hyperplastic arteriolosclerosis",
+      "Hyaline arteriolosclerosis",
+      "Necrotizing arteritis",
+      "Atherosclerosis"
+    ],
+    "answer": ["Hyaline arteriolosclerosis"]
+  },
+  {
+    "id": 86,
+    "question": "What is the term for the rapid development of blood pressure leading to death within 1-2 years without treatment?",
+    "options": [
+      "Malignant HTN",
+      "Essential HTN",
+      "Idiopathic HTN",
+      "Secondary HTN"
+    ],
+    "answer": ["Malignant HTN"]
+  },
+
+  {
+    "id": 89,
+    "question": "Which of the following is NOT a renal cause of secondary hypertension?",
+    "options": [
+      "Renal artery stenosis",
+      "Chronic glomerulonephritis",
+      "Hyperthyroidism",
+      "Polycystic kidney disease"
+    ],
+    "answer": ["Hyperthyroidism"]
+  },
+  {
+    "id": 90,
+    "question": "Which of the following is an endocrine cause of hypertension?",
+    "options": [
+      "Acute glomerulonephritis",
+      "Cushing's disease",
+      "Coarctation of the aorta",
+      "Polyarteritis nodosa"
+    ],
+    "answer": ["Cushing's disease"]
+  },
+  {
+    "id": 91,
+    "question": "What factors affect cardiac output and peripheral resistance, thus altering blood pressure?",
+    "options": [
+      "Hormones",
+      "Humoral factors",
+      "Neurological factors",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 92,
+    "question": "What factors affect peripheral resistance?",
+    "options": [
+      "Vasoconstrictors",
+      "Vasodilators",
+      "Humoral factors",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 93,
+    "question": "How does the kidney regulate blood pressure?",
+    "options": [
+      "By regulating peripheral resistance",
+      "By regulating blood volume and cardiac output",
+      "By producing renin",
+      "By secreting atriopeptin"
+    ],
+    "answer": ["By regulating blood volume and cardiac output"]
+  },
+  {
+    "id": 94,
+    "question": "What effect does aldosterone have on the kidneys?",
+    "options": [
+      "Stimulates absorption of Na+ and H2O",
+      "Inhibits absorption of Na+ and H2O",
+      "Increases excretion of Na+ and H2O",
+      "None of the above"
+    ],
+    "answer": ["Stimulates absorption of Na+ and H2O"]
+  },
+  {
+    "id": 95,
+    "question": "What naturally counteracts the vasoconstrictive effect of ANG-2?",
+    "options": ["Prostaglandins", "Renin", "Aldosterone", "ANP"],
+    "answer": ["ANP"]
+  },
+  {
+    "id": 96,
+    "question": "What environmental factors are important in the development of hypertension?",
+    "options": ["Stress", "Obesity", "Smoking", "All of the above"],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 97,
+    "question": "What is the term for the narrowing of arterioles with associated onion-skin thickening of the arteriolar wall and fibrinoid necrosis of the vessel wall in malignant HTN?",
+    "options": [
+      "Hyaline arteriolosclerosis",
+      "Hyperplastic arteriolosclerosis",
+      "Benign nephrosclerosis",
+      "None of the above"
+    ],
+    "answer": ["Hyperplastic arteriolosclerosis"]
+  },
+  {
+    "id": 98,
+    "question": "Which type of arteriolosclerosis is characteristic of benign nephrosclerosis?",
+    "options": [
+      "Hyaline arteriolosclerosis",
+      "Hyperplastic arteriolosclerosis",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": ["Hyaline arteriolosclerosis"]
+  },
+  {
+    "id": 99,
+    "question": "What is the histological appearance of blood vessels in hypertensive individuals characterized by hyaline thickening of the arteriolar wall?",
+    "options": [
+      "Hyperplastic arteriolosclerosis",
+      "Hyaline arteriolosclerosis",
+      "Necrotizing arteritis",
+      "Atherosclerosis"
+    ],
+    "answer": ["Hyaline arteriolosclerosis"]
+  },
+
+  {
+    "id": 102,
+    "question": "What percentage of patients with hypertension present with no real cause (idiopathic)?",
+    "options": ["90-95%", "80-85%", "70-75%", "60-65%"],
+    "answer": ["90-95%"]
+  },
+  {
+    "id": 103,
+    "question": "What is the characteristic feature of concentric left ventricular hypertrophy?",
+    "options": [
+      "Decreased thickness of the left ventricular wall",
+      "Decreased weight of the heart",
+      "Increased cavity of the left ventricle",
+      "Increased thickness of the left ventricular wall"
+    ],
+    "answer": ["Increased thickness of the left ventricular wall"]
+  },
+  {
+    "id": 104,
+    "question": "What is observed in the kidneys of patients with benign hypertension?",
+    "options": [
+      "Benign nephrosclerosis",
+      "Malignant nephrosclerosis",
+      "Renal cysts",
+      "None of the above"
+    ],
+    "answer": ["Benign nephrosclerosis"]
+  },
+  {
+    "id": 105,
+    "question": "What is the result of hyaline arteriolosclerosis in the kidneys?",
+    "options": [
+      "Enlargement of the kidney",
+      "Shrinkage of the kidney with fine granularity on the cortical surface",
+      "Increased blood flow to the kidneys",
+      "None of the above"
+    ],
+    "answer": [
+      "Shrinkage of the kidney with fine granularity on the cortical surface"
+    ]
+  },
+  {
+    "id": 106,
+    "question": "Which type of arteriolosclerosis is seen in malignant hypertension?",
+    "options": [
+      "Hyaline arteriolosclerosis",
+      "Hyperplastic arteriolosclerosis",
+      "Atherosclerosis",
+      "None of the above"
+    ],
+    "answer": ["Hyperplastic arteriolosclerosis"]
+  },
+  {
+    "id": 107,
+    "question": "What is the commonest cause of cerebral hemorrhage?",
+    "options": [
+      "Atherosclerosis",
+      "Hypertension",
+      "Diabetes",
+      "None of the above"
+    ],
+    "answer": ["Hypertension"]
+  },
+  {
+    "id": 108,
+    "question": "What leads to the development of microaneurysms in chronic hypertension?",
+    "options": [
+      "Dilation of blood vessels",
+      "Constriction of blood vessels",
+      "Increased blood pressure",
+      "None of the above"
+    ],
+    "answer": ["Increased blood pressure"]
+  },
+  {
+    "id": 109,
+    "question": "What is the term for the development of infarcts in the deep penetrating arteries and arterioles supplying the basal ganglia and white matter of the brain?",
+    "options": [
+      "Cerebral hemorrhage",
+      "Lacunar infarcts",
+      "Cerebrovascular accident",
+      "None of the above"
+    ],
+    "answer": ["Lacunar infarcts"]
+  },
+  {
+    "id": 110,
+    "question": "What characterizes acute hypertensive encephalopathy?",
+    "options": [
+      "Raised intracranial pressure",
+      "Cerebral edema",
+      "Petechial hemorrhages within the brain",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 111,
+    "question": "What is Binswanger's disease characterized by?",
+    "options": [
+      "Infarcts located preferentially in the subcortical white matter",
+      "Infarcts located preferentially in the cerebral cortex",
+      "Infarcts located preferentially in the basal ganglia",
+      "None of the above"
+    ],
+    "answer": [
+      "Infarcts located preferentially in the subcortical white matter"
+    ]
+  },
+  {
+    "id": 112,
+    "question": "What is a major component of rheumatic fever?",
+    "options": [
+      "Joint pain",
+      "Heart damage",
+      "Muscle inflammation",
+      "None of the above"
+    ],
+    "answer": ["Heart damage"]
+  },
+  {
+    "id": 113,
+    "question": "What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": ["Carditis", "Polyarthritis", "Chorea", "All of the above"],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 114,
+    "question": "Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": [
+      "Fever",
+      "Arthralgia",
+      "Raised ESR",
+      "Presence of inactive rheumatic heart disease"
+    ],
+    "answer": ["Presence of inactive rheumatic heart disease"]
+  },
+  {
+    "id": 115,
+    "question": "What is the primary site of lesion in rheumatic fever?",
+    "options": ["Joints", "Heart", "Lungs", "Liver"],
+    "answer": ["Heart"]
+  },
+  {
+    "id": 116,
+    "question": "What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": ["Carditis", "Polyarthritis", "Chorea", "All of the above"],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 117,
+    "question": "Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": [
+      "Fever",
+      "Arthralgia",
+      "Raised ESR",
+      "Presence of inactive rheumatic heart disease"
+    ],
+    "answer": ["Presence of inactive rheumatic heart disease"]
+  },
+  {
+    "id": 118,
+    "question": "What is the primary site of lesion in rheumatic fever?",
+    "options": ["Joints", "Heart", "Lungs", "Liver"],
+    "answer": ["Heart"]
+  },
+  {
+    "id": 119,
+    "question": "What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": ["Carditis", "Polyarthritis", "Chorea", "All of the above"],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 120,
+    "question": "Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": [
+      "Fever",
+      "Arthralgia",
+      "Raised ESR",
+      "Presence of inactive rheumatic heart disease"
+    ],
+    "answer": ["Presence of inactive rheumatic heart disease"]
+  },
+  {
+    "id": 121,
+    "question": "What is the primary site of lesion in rheumatic fever?",
+    "options": ["Joints", "Heart", "Lungs", "Liver"],
+    "answer": ["Heart"]
+  },
+  {
+    "id": 122,
+    "question": "What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": ["Carditis", "Polyarthritis", "Chorea", "All of the above"],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 123,
+    "question": "Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": [
+      "Fever",
+      "Arthralgia",
+      "Raised ESR",
+      "Presence of inactive rheumatic heart disease"
+    ],
+    "answer": ["Presence of inactive rheumatic heart disease"]
+  },
+  {
+    "id": 124,
+    "question": "What is the primary site of lesion in rheumatic fever?",
+    "options": ["Joints", "Heart", "Lungs", "Liver"],
+    "answer": ["Heart"]
+  },
+  {
+    "id": 125,
+    "question": "What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": ["Carditis", "Polyarthritis", "Chorea", "All of the above"],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 126,
+    "question": "Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": [
+      "Fever",
+      "Arthralgia",
+      "Raised ESR",
+      "Presence of inactive rheumatic heart disease"
+    ],
+    "answer": ["Presence of inactive rheumatic heart disease"]
+  },
+  {
+    "id": 127,
+    "question": "What is the primary site of lesion in rheumatic fever?",
+    "options": ["Joints", "Heart", "Lungs", "Liver"],
+    "answer": ["Heart"]
+  },
+  {
+    "id": 128,
+    "question": "What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": ["Carditis", "Polyarthritis", "Chorea", "All of the above"],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 129,
+    "question": "Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": [
+      "Fever",
+      "Arthralgia",
+      "Raised ESR",
+      "Presence of inactive rheumatic heart disease"
+    ],
+    "answer": ["Presence of inactive rheumatic heart disease"]
+  },
+  {
+    "id": 130,
+    "question": "What is the primary site of lesion in rheumatic fever?",
+    "options": ["Joints", "Heart", "Lungs", "Liver"],
+    "answer": ["Heart"]
+  },
+  {
+    "id": 131,
+    "question": "What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": ["Carditis", "Polyarthritis", "Chorea", "All of the above"],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 132,
+    "question": "Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": [
+      "Fever",
+      "Arthralgia",
+      "Raised ESR",
+      "Presence of inactive rheumatic heart disease"
+    ],
+    "answer": ["Presence of inactive rheumatic heart disease"]
+  },
+  {
+    "id": 133,
+    "question": "What is the primary site of lesion in rheumatic fever?",
+    "options": ["Joints", "Heart", "Lungs", "Liver"],
+    "answer": ["Heart"]
+  },
+  {
+    "id": 134,
+    "question": "What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": ["Carditis", "Polyarthritis", "Chorea", "All of the above"],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 135,
+    "question": "Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": [
+      "Fever",
+      "Arthralgia",
+      "Raised ESR",
+      "Presence of inactive rheumatic heart disease"
+    ],
+    "answer": ["Presence of inactive rheumatic heart disease"]
+  },
+
+  {
+    "id": 137,
+    "question": "What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": ["Carditis", "Polyarthritis", "Chorea", "All of the above"],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 138,
+    "question": "Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": [
+      "Fever",
+      "Arthralgia",
+      "Raised ESR",
+      "Presence of inactive rheumatic heart disease"
+    ],
+    "answer": ["Presence of inactive rheumatic heart disease"]
+  },
+  {
+    "id": 139,
+    "question": "What is the primary site of lesion in rheumatic fever?",
+    "options": ["Joints", "Heart", "Lungs", "Liver"],
+    "answer": ["Heart"]
+  },
+  {
+    "id": 140,
+    "question": "What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": ["Carditis", "Polyarthritis", "Chorea", "All of the above"],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 141,
+    "question": "Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": [
+      "Fever",
+      "Arthralgia",
+      "Raised ESR",
+      "Presence of inactive rheumatic heart disease"
+    ],
+    "answer": ["Presence of inactive rheumatic heart disease"]
+  },
+
+  {
+    "id": 142,
+    "question": "The following are renal courses of secondary hypertension except",
+    "options": [
+      "Acute pyelonephritis",
+      "chronic glomerulonephritis",
+      "Acute glomerulonephritis ",
+      "Renin-producding tumours",
+      "chronic glomerulonephritis"
+    ],
+    "answer": ["Acute pyelonephritis"]
+  },
+
+  {
+    "id": 143,
+    "question": "What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": ["Carditis", "Polyarthritis", "Chorea", "All of the above"],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 144,
+    "question": "Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?",
+    "options": [
+      "Fever",
+      "Arthralgia",
+      "Raised ESR",
+      "Presence of inactive rheumatic heart disease"
+    ],
+    "answer": ["Presence of inactive rheumatic heart disease"]
+  }
+]

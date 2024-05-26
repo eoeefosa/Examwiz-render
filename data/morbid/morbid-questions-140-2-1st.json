@@ -1,0 +1,665 @@
+[
+  {
+    "id": 16,
+    "question": "A 49-year-old woman diagnosed with early-stage breast cancer undergoes surgery for a lumpectomy. The pathology report mentions significant desmoplasia in the surrounding tissue. What does desmoplasia refer to?",
+    "options": [
+      "An irregular accumulation of blood vessels",
+      "Maturation and spatial arrangement of cells",
+      "Metastatic involvement of surrounding tissue",
+      "Normal tissue misplaced within another organ",
+      "Proliferation of non-neoplastic fibrous connective tissue"
+    ],
+    "answer": ["Proliferation of non-neoplastic fibrous connective tissue"],
+    "explanation": "Desmoplasia refers to the proliferation of non-neoplastic fibrous connective tissue within a tumor. It is common in cases of breast cancer."
+  },
+  {
+    "id": 17,
+    "question": "A 35-year-old man presents with a painful skin mass on his forearm. The pathology report reveals an irregular accumulation of blood vessels. What term best describes the histological findings?",
+    "options": [
+      "Hemangioma",
+      "Choristoma",
+      "Desmoplasia",
+      "Metaplasia",
+      "Dysplasia"
+    ],
+    "answer": ["Hemangioma"],
+    "explanation": "The histological findings consistent with an irregular accumulation of blood vessels suggest a hemangioma as the correct term."
+  },
+  {
+    "id": 18,
+    "question": "A 30-year-old woman with heavy and painful menstrual periods has a uterine mass presumed to be a leiomyoma. What is this mass?",
+    "options": [
+      "Benign tumor of mesenchymal tissue",
+      "Benign tumor of surface epithelium",
+      "Malignant tumor of epithelial tissue",
+      "Malignant tumor of glandular epithelium",
+      "Malignant tumor of mesenchymal tissue"
+    ],
+    "answer": ["Benign tumor of mesenchymal tissue"],
+    "explanation": "A leiomyoma (fibroid) is a benign tumor of the smooth muscle of the uterus, representing a benign tumor of mesenchymal origin."
+  },
+  {
+    "id": 19,
+    "question": "A 38-year-old woman has a uterine neoplasm with malignant transformation of glandular epithelium. What term best describes this neoplasm?",
+    "options": [
+      "Adenocarcinoma",
+      "Leiomyoma",
+      "Choriocarcinoma",
+      "Teratoma",
+      "Fibroadenoma"
+    ],
+    "answer": ["Adenocarcinoma"],
+    "explanation": "The malignant transformation of glandular epithelium in the uterine neoplasm is indicative of adenocarcinoma, a category of malignant tumors."
+  },
+  {
+    "id": 20,
+    "question": "A 45-year-old woman presents with a painless, well-defined skin mass with a smooth surface. Histological examination reveals a localized overgrowth of surface epithelial cells forming finger-like structures. What term describes this cutaneous neoplasm?",
+    "options": [
+      "Squamous cell carcinoma",
+      "Melanoma",
+      "Sebaceous adenoma",
+      "Papilloma",
+      "Basal cell carcinoma"
+    ],
+    "answer": ["Papilloma"],
+    "explanation": "The presentation and histological findings, including papillary structures, indicate a papilloma, a benign tumor of surface epithelium."
+  },
+
+  {
+    "id": 21,
+    "question": "A newborn presents with cyanosis and positional abnormalities of the hands and feet. Further evaluation reveals flattened facies and bronchopulmonary hypoplasia. Which of the following terms best describes this pattern of anomalies?",
+    "options": [
+      "Deformation",
+      "Agenesis",
+      "Sequence",
+      "Syndrome",
+      "Hyperplasia"
+    ],
+    "answer": ["Sequence"],
+    "explanation": "The presented pattern of anomalies is best described as a sequence, where a single primary anomaly leads to a cascade of secondary anomalies."
+  },
+  {
+    "id": 22,
+    "question": "A pregnant woman is diagnosed with rubella infection during the first 8 weeks of pregnancy. What congenital anomalies may result from this infection?",
+    "options": [
+      "Neural tube defects",
+      "Cleft lip and palate",
+      "Cardiac defects",
+      "Limb anomalies",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Rubella infection during early pregnancy can lead to a variety of congenital anomalies, including neural tube defects, cleft lip and palate, cardiac defects, and limb anomalies."
+  },
+  {
+    "id": 23,
+    "question": "A premature infant born at 30 weeks of gestation is at risk for respiratory distress syndrome (RDS) due to:",
+    "options": [
+      "Immature development of the liver",
+      "Lack of surfactant production",
+      "Overdevelopment of the kidneys",
+      "Agenesis of the lungs",
+      "Hyperplasia of the heart"
+    ],
+    "answer": ["Lack of surfactant production"],
+    "explanation": "Respiratory distress syndrome (RDS) in premature infants is primarily due to the lack of surfactant production in the immature lungs."
+  },
+  {
+    "id": 24,
+    "question": "A child presents with a large unilateral abdominal mass. Biopsy reveals a combination of blastemal, stromal, and epithelial cell types. What is the most likely diagnosis?",
+    "options": [
+      "Neuroblastoma",
+      "Wilms tumor",
+      "Retinoblastoma",
+      "Leukemia",
+      "Osteosarcoma"
+    ],
+    "answer": ["Wilms tumor"],
+    "explanation": "The described combination of blastemal, stromal, and epithelial cell types is characteristic of Wilms tumor, a renal malignancy commonly seen in children."
+  },
+  {
+    "id": 25,
+    "question": "What is the major cause of fetal hydrops related to blood group incompatibility between the mother and child?",
+    "options": [
+      "ABO incompatibility",
+      "Rhesus incompatibility",
+      "Turner syndrome",
+      "Down syndrome",
+      "Neuroblastoma"
+    ],
+    "answer": ["Rhesus incompatibility"],
+    "explanation": "Fetal hydrops related to blood group incompatibility is commonly caused by Rhesus (Rh) incompatibility between the mother and child."
+  },
+  {
+    "id": 26,
+    "question": "A 2-month-old infant is found dead in the crib during sleep, and autopsy findings show multiple petechiae and lungs with a ground-glass appearance. What is the most likely diagnosis?",
+    "options": [
+      "Wilms tumor",
+      "Sudden Infant Death Syndrome (SIDS)",
+      "Neuroblastoma",
+      "Respiratory Distress Syndrome (RDS)",
+      "Cystic hygroma"
+    ],
+    "answer": ["Sudden Infant Death Syndrome (SIDS)"],
+    "explanation": "The presented scenario, with sudden death during sleep, petechiae, and ground-glass lungs, is consistent with Sudden Infant Death Syndrome (SIDS)."
+  },
+  {
+    "id": 27,
+    "question": "Which of the following is a multifactorial cause of congenital anomalies?",
+    "options": [
+      "Chromosomal aberrations",
+      "Single gene mutations",
+      "Maternal/placental infections",
+      "Environmental teratogens",
+      "Agenesis of organs"
+    ],
+    "answer": ["Environmental teratogens"],
+    "explanation": "Congenital anomalies caused by a combination of genetic and environmental factors are considered multifactorial. Environmental teratogens play a role in this multifactorial etiology."
+  },
+  {
+    "id": 28,
+    "question": "What is the leading cause of death in infants worldwide after congenital anomalies and diseases of prematurity?",
+    "options": [
+      "Neuroblastoma",
+      "Respiratory Distress Syndrome (RDS)",
+      "Sudden Infant Death Syndrome (SIDS)",
+      "Wilms tumor",
+      "Leukemia"
+    ],
+    "answer": ["Sudden Infant Death Syndrome (SIDS)"],
+    "explanation": "After congenital anomalies and diseases of prematurity, Sudden Infant Death Syndrome (SIDS) is the leading cause of death in infants worldwide."
+  },
+  {
+    "id": 29,
+    "question": "Irreversible hypoxic myocardial cell injury occurs after:",
+    "options": ["3-5 min", "10-20 min", "30-40 min", "1-2 hours", "3-4 hours"],
+    "answer": ["3-5 min"],
+    "explanation": "Irreversible hypoxic myocardial cell injury typically occurs after approximately 3-5 minutes of oxygen deprivation."
+  },
+  {
+    "id": 30,
+    "question": "Reperfusion of irreversibly ischemic tissue can lead to:",
+    "options": [
+      "Increase oxygen free radicals influx into the cell",
+      "Activation of intracellular acid hydrolase",
+      "Further ATP depletion",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Reperfusion of irreversibly ischemic tissue can lead to increased oxygen free radicals, activation of intracellular acid hydrolase, and further ATP depletion, collectively causing additional damage."
+  },
+  {
+    "id": 31,
+    "question": "Which of the following is NOT the morphological feature of reversible hypoxic cell injury?",
+    "options": [
+      "Blebs",
+      "Endoplasmic reticulum swelling",
+      "Dispersion of ribosomes",
+      "Cell membrane defects",
+      "Myelin figures"
+    ],
+    "answer": ["Myelin figures"],
+    "explanation": "Myelin figures are not a morphological feature of reversible hypoxic cell injury. The other listed features are associated with reversible hypoxic injury."
+  },
+  {
+    "id": 32,
+    "question": "Free radicals can be initiated within cells by:",
+    "options": [
+      "Absorption of ionizing radiation",
+      "Endogenous oxidative reactions",
+      "Metabolism of exogenous chemical such as CCl4",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Free radicals can be initiated within cells by absorption of ionizing radiation, endogenous oxidative reactions, and metabolism of exogenous chemicals, making all the options correct."
+  },
+  {
+    "id": 33,
+    "question": "Free radical damages cells by the following method EXCEPT:",
+    "options": [
+      "Lipid peroxidation of cell & organelle membrane",
+      "Activation of intracellular lysozyme",
+      "Oxidative modification of protein",
+      "Breakage of nuclear & mitochondrial DNA",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Free radicals damage cells through lipid peroxidation, oxidative modification of proteins, and breakage of nuclear & mitochondrial DNA. However, activation of intracellular lysozyme is not a method of damage."
+  },
+  {
+    "id": 34,
+    "question": "Which of the following enzyme is NOT responsible for the termination of free radical reaction?",
+    "options": [
+      "Oxidase",
+      "Superoxide dismutase",
+      "Catalase",
+      "Glutathione peroxidase",
+      "All of the above"
+    ],
+    "answer": ["Oxidase"],
+    "explanation": "Oxidase is not directly involved in the termination of free radical reactions. Superoxide dismutase, catalase, and glutathione peroxidase are enzymes that play roles in neutralizing free radicals."
+  },
+  {
+    "id": 35,
+    "question": "Which of the following statements regarding chemical injury to cells is TRUE?",
+    "options": [
+      "Water-soluble chemicals act directly by combining to critical molecule components or cellular organelle.",
+      "Water-soluble chemicals do most damage to cells that metabolize them.",
+      "Lipid-soluble chemicals are converted to reactive toxic metabolites which bind to membrane protein or lipids by covalent bond or form free radicals.",
+      "P450 mixed function oxidase in the liver & other organs metabolize most exogenous & endogenous toxins.",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "All the provided statements regarding chemical injury to cells are true. Different chemicals may have distinct mechanisms of damage, including direct interaction, metabolism, and generation of reactive toxic metabolites."
+  },
+  {
+    "id": 36,
+    "question": "Which of the following statements regarding cell necrosis is TRUE?",
+    "options": [
+      "Autolytic digestion of dead cells tends to result in liquefactive necrosis.",
+      "Heterolytic digestion of dead cells tends to result in coagulative necrosis.",
+      "Karyolysis of the nucleus means increased basophilia & shrinkage of the nucleus.",
+      "Karyorrhexis means fragmentation of shrunken nucleus.",
+      "None of the above"
+    ],
+    "answer": [
+      "Heterolytic digestion of dead cells tends to result in coagulative necrosis."
+    ],
+    "explanation": "Heterolytic digestion of dead cells tends to result in coagulative necrosis, where the tissue architecture is preserved for a certain period."
+  },
+  {
+    "id": 37,
+    "question": "Which of the following statements regarding apoptosis is FALSE?",
+    "options": [
+      "Apoptosis may occur in viral hepatitis.",
+      "Graft versus host disease (GVHD) is an example of apoptosis induced by cytotoxic T cells.",
+      "Apoptotic cells are shrunken & have chromatic condensation.",
+      "Apoptotic cells are phagocytosed by leukocytes.",
+      "Apoptotic bodies are nuclear fragments & organelles tightly packed together by the cytoplasmic membrane."
+    ],
+    "answer": [
+      "Apoptotic bodies are nuclear fragments & organelles tightly packed together by the cytoplasmic membrane."
+    ],
+    "explanation": "Apoptotic bodies are typically characterized by nuclear fragmentation and are phagocytosed by leukocytes. However, they are not tightly packed together by the cytoplasmic membrane."
+  },
+  {
+    "id": 38,
+    "question": "Which of the following statements regarding subcellular alterations in cell injuries is FALSE?",
+    "options": [
+      "Autophagy is pronounced in cells undergoing atrophy.",
+      "Smooth endoplasmic reticulum hypertrophy occurs as an adaptive response to allow for better drug detoxification in chronic barbiturate use.",
+      "Mitochondrial number remains constant during cell hypertrophy.",
+      "Megamitochondria are found in alcoholic liver disease.",
+      "None of the above."
+    ],
+    "answer": [
+      "Mitochondrial number remains constant during cell hypertrophy."
+    ],
+    "explanation": "Mitochondrial number can increase in response to increased energy demand during cell hypertrophy. The statement 'Mitochondrial number remains constant during cell hypertrophy' is false."
+  },
+  {
+    "id": 39,
+    "question": "Causes of steatosis include:",
+    "options": [
+      "Diabetes mellitus",
+      "Alcohol abuse",
+      "Protein malnutrition",
+      "Hypoxia",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Steatosis, or the accumulation of fat in cells, can be caused by various factors, including diabetes mellitus, alcohol abuse, protein malnutrition, and hypoxia."
+  },
+  {
+    "id": 40,
+    "question": "Foamy macrophages can be found in:",
+    "options": [
+      "Atherosclerotic plaque.",
+      "Sites of inflammation & necrosis",
+      "Xanthomas",
+      "Cholesterolosis",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Foamy macrophages, characterized by the presence of lipid-filled vacuoles, can be found in atherosclerotic plaque, sites of inflammation & necrosis, xanthomas, and cholesterolosis."
+  },
+  {
+    "id": 41,
+    "question": "In diabetes mellitus, glycogen vacuoles can be seen in:",
+    "options": [
+      "Hepatocytes",
+      "Pancreatic islet cells",
+      "Myocardial cells",
+      "Proximal convoluted tubular epithelial cells",
+      "All of the above"
+    ],
+    "answer": ["Proximal convoluted tubular epithelial cells"],
+    "explanation": "In diabetes mellitus, glycogen vacuoles can be seen in proximal convoluted tubular epithelial cells of the kidneys, not in hepatocytes, pancreatic islet cells, or myocardial cells."
+  },
+  {
+    "id": 42,
+    "question": "Which of the following statements is FALSE?",
+    "options": [
+      "Carbon & coal dust accumulates in the alveolar macrophages, resulting in anthracosis.",
+      "Lipofuscin is a telltale sign of free radical injury to cells.",
+      "Hemochromatosis represents systemic iron overload without liver or pancreatic damage.",
+      "Large accumulation of bilirubin occurs in the liver in obstructive jaundice, forming bile lakes.",
+      "None of the above"
+    ],
+    "answer": [
+      "Large accumulation of bilirubin occurs in the liver in obstructive jaundice, forming bile lakes."
+    ],
+    "explanation": "In obstructive jaundice, bilirubin accumulates in the liver but does not form bile lakes. The statement 'Large accumulation of bilirubin occurs in the liver in obstructive jaundice, forming bile lakes' is false."
+  },
+  {
+    "id": 43,
+    "question": "Causes of metastatic calcification include:",
+    "options": [
+      "Hyperparathyroidism",
+      "Hyperthyroidism",
+      "Addison's disease",
+      "Leukemia",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Metastatic calcification can occur in various organs due to elevated serum calcium levels. Causes include hyperparathyroidism, hyperthyroidism, Addison's disease, leukemia, and others."
+  },
+  {
+    "id": 44,
+    "question": "Malignant neoplasms",
+    "options": [
+      "are independent of hormonal influence",
+      "are always composed of homogeneous cell lines",
+      "arise from differentiated cells by a process of anaplasia",
+      "display abnormal nuclei with pale nucleoli",
+      "typically are more rapidly growing than benign neoplasms"
+    ],
+    "answer": ["typically are more rapidly growing than benign neoplasms"],
+    "explanation": "Malignant neoplasms are characterized by uncontrolled growth and are typically more rapidly growing than benign neoplasms."
+  },
+  {
+    "id": 45,
+    "question": "Regarding metastasis",
+    "options": [
+      "All carcinomas have the ability to metastasize",
+      "Highly invasive carcinomas rarely metastasize",
+      "Carcinomas typically spread via lymphatics compared with hematogenous spread",
+      "Tumor cells develop increased cohesiveness of their cell surface in the formation of cancer cell emboli",
+      "Cells involved in lymphatic dissemination release degradative enzymes"
+    ],
+    "answer": [
+      "Cells involved in lymphatic dissemination release degradative enzymes"
+    ],
+    "explanation": "Cells involved in lymphatic dissemination release degradative enzymes that aid in breaking down surrounding tissues, facilitating metastasis through the lymphatic system."
+  },
+  {
+    "id": 46,
+    "question": "Which of the following tumors is benign",
+    "options": [
+      "Chondrosarcoma",
+      "Osteochondroma",
+      "Chondroblastoma",
+      "Ewing's tumor",
+      "None of the above"
+    ],
+    "answer": ["Osteochondroma"],
+    "explanation": "Osteochondroma is a benign tumor. The other listed options are malignant or have the potential for malignancy."
+  },
+  {
+    "id": 47,
+    "question": "A 50yo woman presents with back pain, X-rays suggest a malignant deposit in TIO. The least likely primary would be",
+    "options": ["Breast", "Ovary", "Thyroid", "Kidney", "Colon"],
+    "answer": ["Kidney"],
+    "explanation": "Malignant deposits in TIO (Tumor-Induced Osteomalacia) are often associated with mesenchymal tumors, and kidney is the least likely primary source among the listed options."
+  },
+  {
+    "id": 48,
+    "question": "Which of the following is malignant",
+    "options": [
+      "Squamous cell papilloma",
+      "Hydatidiform mole",
+      "Chondroma",
+      "Mature teratoma",
+      "Bronchial carcinoid"
+    ],
+    "answer": ["Bronchial carcinoid"],
+    "explanation": "A bronchial carcinoid is a type of lung tumor that is considered malignant. The other options are benign or have different classifications."
+  },
+  {
+    "id": 49,
+    "question": "All of the following are precancerous except",
+    "options": [
+      "Chronic gastritis of pernicious anemia",
+      "Solar keratosis",
+      "Crohn's disease",
+      "Leukoplakia",
+      "Chronic UC"
+    ],
+    "answer": ["Crohn's disease"],
+    "explanation": "Crohn's disease is not typically considered a precancerous condition. The other listed options are associated with an increased risk of cancer."
+  },
+  {
+    "id": 50,
+    "question": "With regard to tumors",
+    "options": [
+      "Dysplasia always progresses to cancer",
+      "Cystic teratomas are malignant",
+      "Squamous papillomas are benign",
+      "The presence of mitoses indicates neoplasia",
+      "Hypochromasia is characteristic of anaplasia"
+    ],
+    "answer": ["Squamous papillomas are benign"],
+    "explanation": "Squamous papillomas are benign tumors. The other statements are either incorrect or not universally true."
+  },
+  {
+    "id": 51,
+    "question": "Metastasis",
+    "options": [
+      "Unequivocally proves malignancy",
+      "Is proven by LN enlargement adjacent to a tumor",
+      "Of breast cancer is usually to supraclavicular LN",
+      "Is the commonest presentation of melanoma",
+      "All of the above"
+    ],
+    "answer": ["Unequivocally proves malignancy"],
+    "explanation": "Metastasis is a characteristic of malignant tumors and unequivocally indicates malignancy. The other statements are either not universally true or specific to certain scenarios."
+  },
+  {
+    "id": 52,
+    "question": "The most common cause of cancer death in women is",
+    "options": [
+      "Colorectal cancer",
+      "Lung cancer",
+      "Pancreatic cancer",
+      "Breast cancer",
+      "Lymphoproliferative tumors"
+    ],
+    "answer": ["Lung cancer"],
+    "explanation": "Lung cancer is the most common cause of cancer death in women. The other options are associated with different types of cancer or are less common causes of cancer death in women."
+  },
+  {
+    "id": 53,
+    "question": "The following viruses are considered to be oncogenic",
+    "options": ["Hepatitis B", "Hepatitis C", "EBV", "HTV", "All of the above"],
+    "answer": ["All of the above"],
+    "explanation": "Hepatitis B, Hepatitis C, EBV (Epstein-Barr virus), and HTV (Human T-cell lymphotropic virus) are all considered oncogenic viruses, capable of causing cancer."
+  },
+  {
+    "id": 54,
+    "question": "Features that help differentiate benign from malignant tumors include all except",
+    "options": [
+      "The degree of both morphological and functional differentiation of the cells",
+      "The number of mitoses",
+      "The presence or absence of a capsule",
+      "The number of cells per unit area",
+      "The formation of multinucleate giant cells"
+    ],
+    "answer": ["The formation of multinucleate giant cells"],
+    "explanation": "The formation of multinucleate giant cells is not typically used as a feature to differentiate between benign and malignant tumors. The other options are commonly considered in the evaluation."
+  },
+  {
+    "id": 55,
+    "question": "Concerning carcinogenesis",
+    "options": [
+      "Most benign neoplasms, given enough time, will undergo malignant transformation",
+      "Anti-oncogenes are growth-suppressed proto-oncogenes",
+      "Non-lethal genetic damage has little to do with carcinogenesis",
+      "Proto-oncogenes may become oncogenes by retroviral transduction (v-ones) or by influences that alter their behavior in situ, thereby converting them into cellular oncogenes (c-oncs)",
+      "Chromosomal translocation usually results in underexpression of proto-oncogenes"
+    ],
+    "answer": [
+      "Proto-oncogenes may become oncogenes by retroviral transduction (v-ones) or by influences that alter their behavior in situ, thereby converting them into cellular oncogenes (c-oncs)"
+    ],
+    "explanation": "Proto-oncogenes may undergo changes that convert them into oncogenes, and this can happen through retroviral transduction or alterations in situ, resulting in cellular oncogenes."
+  },
+  {
+    "id": 56,
+    "question": "Which is correct",
+    "options": [
+      "Spontaneous mutation is the most common process leading to tumor formation",
+      "Genes that regulate apoptosis are not involved in tumor formation",
+      "Some organs liberate chemoattractants that tend to recruit tumor cells to the site",
+      "Substances that are highly mutagenic are labeled tumor promoters",
+      "All cell types are equally susceptible to radiation-induced cancer formation"
+    ],
+    "answer": [
+      "Some organs liberate chemoattractants that tend to recruit tumor cells to the site"
+    ],
+    "explanation": "Some organs release chemoattractants that recruit tumor cells to the site, facilitating the development of tumors. The other options are either incorrect or not universally true."
+  },
+  {
+    "id": 57,
+    "question": "Malignant lymphoma includes all of the following except",
+    "options": [
+      "Hodgkin's lymphoma",
+      "Reed-Sternberg giant cell lymphoma",
+      "Mycosis fungoides",
+      "NHL (Non-Hodgkin's lymphoma)",
+      "Burkitt's lymphoma"
+    ],
+    "answer": ["Reed-Sternberg giant cell lymphoma"],
+    "explanation": "Reed-Sternberg giant cell lymphoma is associated with Hodgkin's lymphoma, not non-Hodgkin's lymphoma. The other options are types of malignant lymphomas."
+  },
+  {
+    "id": 58,
+    "question": "Regarding oncogenes",
+    "options": [
+      "Their products are associated with metaplasia",
+      "Proto-oncogenes are involved with normal cell growth and differentiation",
+      "Proto-oncogenes are activated by one of 4 different mechanisms",
+      "40% of all human tumors carry mutated H-ras or K-ras oncogenes",
+      "Fibroblast growth factors play a role in SCC of the lung"
+    ],
+    "answer": [
+      "Proto-oncogenes are involved with normal cell growth and differentiation"
+    ],
+    "explanation": "Proto-oncogenes play a role in normal cell growth and differentiation. The other options describe various aspects of oncogenes but may not be universally true."
+  },
+  {
+    "id": 59,
+    "question": "Regarding malignant neoplasms",
+    "options": [
+      "Breast cancer is the commonest cause of death in females 55-74yo",
+      "There is no familial clustering of ovarian cancer",
+      "There is reasonable evidence available linking benzene with lung cancer",
+      "Rates of lung cancer have doubled in the last 40 years",
+      "Brain tumors are the most common cancerous cause of death in the under 15yo"
+    ],
+    "answer": ["Rates of lung cancer have doubled in the last 40 years"],
+    "explanation": "Rates of lung cancer have indeed increased over the last 40 years, making it a significant concern. The other options are either incorrect or not universally true."
+  },
+  {
+    "id": 60,
+    "question": "Invasion by metastases includes",
+    "options": [
+      "Separation of tumor cells from each other",
+      "Attachment to matrix components",
+      "Type I collagenases degrading extracellular matrix.",
+      "Absorption of proteolytic enzymes",
+      "Separation of tumor cells from laminin and fibronectin"
+    ],
+    "answer": ["Type I collagenases degrading extracellular matrix."],
+    "explanation": "Invasion by metastases involves processes such as the degradation of extracellular matrix by enzymes like type I collagenases. The other options are also associated with metastatic invasion."
+  },
+  {
+    "id": 61,
+    "question": "All of the following characterize familial tumors except",
+    "options": [
+      "Earlier age at onset",
+      "Close relatives with the same tumors",
+      "Multiple or bilateral tumors",
+      "Specific marker phenotypes",
+      "Increased relative risk in siblings"
+    ],
+    "answer": ["Specific marker phenotypes"],
+    "explanation": "Specific marker phenotypes are not necessarily a characteristic of familial tumors. The other options are features associated with familial tumors."
+  },
+  {
+    "id": 62,
+    "question": "Malignant tumors",
+    "options": [
+      "When arising from epithelial cells are called sarcomas",
+      "Are well-differentiated",
+      "When arising from glandular cells are called adenocarcinoma",
+      "Rarely metastasize",
+      "Always possess tumor giant cells"
+    ],
+    "answer": ["When arising from glandular cells are called adenocarcinoma"],
+    "explanation": "Malignant tumors arising from glandular cells are called adenocarcinomas. The other options are incorrect or not universally true for malignant tumors."
+  },
+  {
+    "id": 63,
+    "question": "Development of metastatic potential in melanoma is heralded by",
+    "options": [
+      "Change in color",
+      "Change in size",
+      "Nodule development",
+      "Change in the degree of pigmentation",
+      "Development of localized itching"
+    ],
+    "answer": ["Change in size"],
+    "explanation": "A change in size is often a sign of the development of metastatic potential in melanoma. The other options may be associated with various characteristics of melanoma but are not specific to metastatic potential."
+  },
+  {
+    "id": 64,
+    "question": "Malignant neoplasms",
+    "options": [
+      "Are undifferentiated",
+      "Almost always exhibit rapid growth",
+      "Are proven by the discovery of metastases",
+      "Do not commonly exhibit mitotic figures",
+      "Are not locally invasive"
+    ],
+    "answer": ["Do not commonly exhibit mitotic figures"],
+    "explanation": "Mitotic figures are commonly seen in rapidly dividing cells. Malignant neoplasms often exhibit mitotic figures. The other options are incorrect or not universally true."
+  },
+  {
+    "id": 65,
+    "question": "To which 2 organs do tumors most commonly spread hematogenously",
+    "options": ["Lung & brain", "Liver & lungs"],
+    "answer": ["Liver & lungs"],
+    "explanation": "Tumors most commonly spread hematogenously to the liver and lungs. These organs are common sites for metastatic deposits."
+  },
+  {
+    "id": 66,
+    "question": "The commonest cause of thyroid carcinoma is",
+    "options": [
+      "Medullary",
+      "Follicular",
+      "Papillary",
+      "Anaplastic",
+      "Squamous"
+    ],
+    "answer": ["Papillary"],
+    "explanation": "The commonest cause of thyroid carcinoma is papillary carcinoma. It is the most prevalent type among the listed options."
+  },
+  {
+    "id": 67,
+    "question": "Internal carcinoma is associated with which of the following skin disorders",
+    "options": ["Acanthosis nigricans"],
+    "answer": ["Acanthosis nigricans"],
+    "explanation": "Internal carcinoma is associated with acanthosis nigricans, a skin disorder characterized by velvety hyperpigmentation. It can be a paraneoplastic manifestation."
+  }
+]

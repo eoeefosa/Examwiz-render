@@ -1,0 +1,498 @@
+[
+  {
+   "id": 1,
+   "question":"Visual acuity is affected by all of these factors except",
+   "options": [
+     "size of the pupil",
+     "luminance",
+     "contrast",
+     "error of refraction",
+     "source of visual stimuli"
+    ],
+   "answer": ["source of visual stimuli"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 2,
+   "question":"Humans can detect sound in the frequency range of",
+   "options": [
+     "100 Hz - 20,000 Hz",
+     "50 Hz - 10,000 Hz",
+     "20 Hz - 20,000 Hz",
+     "50Hz - 20,000 Hz",
+     "40 Hz - 10,000 Hz"
+    ],
+   "answer": ["20 Hz - 20,000 Hz"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 3,
+   "question":"Which of these is not related to the optic nerve ?",
+   "options": [
+     "it is made up of ganglion cell axons",
+     "it exit the eye through the optic disc",
+     "each optic nerve has about 1.2 million nerve fibres",
+     "it consists of nasal and temporal retina fibres",
+     "each of the nerve result in bitemporal hemianopia"
+    ],
+   "answer": ["each of the nerve result in bitemporal hemianopia"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 4,
+   "question":"Photopic vision is primarily associated with",
+   "options": [
+     "rod cells",
+     "cone cells",
+     "ganglion cells",
+     "bipolar cells",
+     "ciliary bodies"
+    ],
+   "answer": ["cone cells"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 5,
+   "question":"In the mechanism of hearing, which of these activities is incorrect?",
+   "options": [
+     "external ear collects and funnels sound to tympanic membrane",
+     "ossicles vibrate, amplify sound and vibrate against the round window",
+     "the scala vestibule and scala tympani contain perilymph",
+     "the scala media contains the endolymph which vibrates the basilar membrane",
+     "the hair cells of the organ corti generate endocochlea potential"
+    ],
+   "answer": ["ossicles vibrate, amplify sound and vibrate against the round window"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 6,
+   "question":"Which of these statements best describe the iris?",
+   "options": [
+     "pigmented structure in front of the lens",
+     "controls the amount of light entering the eye",
+     "consist of circular and radial smooth muscles",
+     "it comes in several fashionable colours"
+    ],
+   "answer": ["pigmented structure in front of the lens"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 7,
+   "question":"The shape of the lens is controlled by",
+   "options": [
+     "oculomotor nerve",
+     "ciliary muscle",
+     "object distance from the eye",
+     "size of the pupil",
+     "suspensory ligaments"
+    ],
+   "answer": ["ciliary muscle"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 8,
+   "question":"In optics of the eye, light enters the eye through",
+   "options": ["ciliary muscle","sclera","pupil","iris","lens"],
+   "answer": ["pupil"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 9,
+   "question":"Visual pathway begin at the",
+   "options": [
+     "lens",
+     "retina",
+     "optic chiasm",
+     "lateral geniculate matter",
+     "optic radiation"
+    ],
+   "answer": ["retina"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 10,
+   "question":"what type of fluid is found within scala vestibule",
+   "options": [
+     "Perilymph",
+     "Endolymph",
+     "Intracellular fluid",
+     "Extracellular fluid"
+    ],
+   "answer": ["Perilymph"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 11,
+   "question":"what type of fluid is found within Cochlear duct",
+   "options": [
+     "Perilymph",
+     "Endolymph",
+     "Intracellular fluid",
+     "Extracellular fluid"
+    ],
+   "answer": ["Endolymph"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 12,
+   "question":"what type of fluid is found within semicircular duct",
+   "options": [
+     "Perilymph",
+     "Endolymph",
+     "Intracellular fluid",
+     "Extracellular fluid"
+    ],
+   "answer": ["Endolymph"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 13,
+   "question":"what type of fluid is found within Utricle",
+   "options": [
+     "Perilymph",
+     "Endolymph",
+     "Intracellular fluid",
+     "Extracellular fluid"
+    ],
+   "answer": ["Endolymph"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 14,
+   "question":"what type of fluid is found within scala typmpani",
+   "options": [
+     "Perilymph",
+     "Endolymph",
+     "Intracellular fluid",
+     "Extracellular fluid"
+    ],
+   "answer": ["Perilymph"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 15,
+   "question":"what type of fluid is found within vestibule",
+   "options": [
+     "Perilymph",
+     "Endolymph",
+     "Intracellular fluid",
+     "Extracellular fluid"
+    ],
+   "answer": ["Endolymph"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 16,
+   "question":"what type of fluid is found within semicircular canal",
+   "options": [
+     "Perilymph",
+     "Endolymph",
+     "Intracellular fluid",
+     "Extracellular fluid"
+    ],
+   "answer": ["Perilymph"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 17,
+   "question":"what type of fluid is found within saccule",
+   "options": [
+     "Perilymph",
+     "Endolymph",
+     "Intracellular fluid",
+     "Extracellular fluid"
+    ],
+   "answer": ["Endolymph"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 18,
+   "question":"Light rays entering the eye are focused mainly by _________ and __________ on the retina",
+   "options": [
+     "Cornea and lens",
+     "aqueous humour and vitreous humour",
+     "conjunctiva and lens",
+     "sclera and lens",
+     "ciliary muscles and lens"
+    ],
+   "answer": ["Cornea and lens"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 19,
+   "question":" Which of the following is not associated with the layers of the eye?",
+   "options": [
+     "protective and maintenance of the shape of eyeball",
+     "provides attachment sites for extrinsic muscles of the eyes",
+     "pigmentation and nourishment of the eye",
+     "interpretation of impulses into visual images",
+     "transduction of light energy into nerve impulses"
+    ],
+   "answer": ["interpretation of impulses into visual images"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 20,
+   "question":"The special senses perform all these duties except ?",
+   "options": [
+     "being essential for life",
+     "survival in our environment",
+     "give us the capacity to see, hear, smell and taste the wonder of the world around us",
+     "anticipation for food, write and decision making",
+     "seek and participation in social symphony of life"
+    ],
+   "answer": ["being essential for life"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 21,
+   "question":"Sweet taste is located in which part of the tongue?",
+   "options": [
+     "back of the tongue",
+     "tip of the tongue",
+     "posterior side of the tongue",
+     "anterior side of the tongue",
+     "center of the tongue"
+    ],
+   "answer": ["tip of the tongue"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 22,
+   "question":"The difference in composition of endolymph from other lymph in the body is;",
+   "options": [
+     "in high concentration of K+ ion",
+     "high concentration of Na +",
+     "low (Cl-) ion",
+     "low concentration of Ca2+",
+     "low concentration of Na+ ion"
+    ],
+   "answer": ["in high concentration of K+ ion"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 23,
+   "question":"Which of these bones vibrates against oval window of the inner ear?",
+   "options": [
+     "malleus",
+     "tympanic membrane",
+     "tympanic antrum",
+     "stapes",
+     "incus"
+    ],
+   "answer": ["stapes"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 24,
+   "question":"Image is laterally inverted in the retina due to",
+   "options": [
+     "lens refraction of light",
+     "focal length of the object",
+     "focal length of the image",
+     "focal point of the object",
+     "focal point of the imag"
+    ],
+   "answer": ["lens refraction of light"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 25,
+   "question":"The two major types of photoreceptor cells are:",
+   "options": [
+     "bipolar and ganglion cells",
+     "amacrine and bipolar cells",
+     "cone and rod cells",
+     "erythrolabe and cones",
+     "cyanolabe and rods"
+    ],
+   "answer": ["cone and rod cells"],
+   "explanation":"",
+   "topic":""
+  },
+  {
+   "id": 26,
+   "question":"The inner segment of the photoreceptor cells harbours the machinery for _________ and ________",
+   "options": [
+     "light absorption and impulse generation",
+     "protein synthesis and energy production",
+     "transduction and visual interpretation",
+     "Impulse generation and contrast",
+     "visual memories and information"
+    ],
+   "answer": ["transduction and visual interpretation"],
+   "explanation":"",
+   "topic":""
+  },
+  {
+   "id": 27,
+   "question":"Which of these constitute the 3rd order neurons in the visual pathway",
+   "options": [
+     "ganglion cells",
+     "bipolar cells",
+     "optic radiation",
+     "optic nerve",
+     "optic chiasma"
+    ],
+   "answer": ["optic radiation"],
+   "explanation":"",
+   "topic":""
+  },
+  {
+   "id": 28,
+   "question":"The optic tract consists of",
+   "options": [
+     "nasal fibres and temporal fibres of the retina",
+     "decussated nasal fibres and ipsilateral temporal fibres",
+     "decussated temporal fibres and nasal fibres of the same side",
+     "Optic radiation and optic nerve",
+     "lateral geniculatr fibres and optic radiation"
+    ],
+   "answer": ["decussated nasal fibres and ipsilateral temporal fibres"],
+   "explanation":"",
+   "topic":""
+  },
+  {
+   "id": 29,
+   "question":"The motions of the body is detected by",
+   "options": [
+     "organ of corti",
+     "ossicles",
+     "semi circular canals",
+     "membranous endolymph",
+     "utricle and saccule"
+    ],
+   "answer": ["semi circular canals"],
+   "explanation":"",
+   "topic":""
+  },
+  {
+   "id": 30,
+   "question":"Obstruction of the scleral venous sinus (canal of schlemm ) interferes with the",
+   "options": [
+     "drainage of vitreous humour",
+     "drainage of the tarsal glands",
+     "drainage of aqueous humour",
+     "drainage of tears into the lacrimal sac",
+     "flow of blood through the ciliary blood capillaries"
+    ],
+   "answer": ["drainage of aqueous humour"],
+   "explanation":"",
+   "topic":""
+  },
+  {
+   "id": 31,
+   "question":"Which of the special senses receptor cells are replenished throughout life",
+   "options": [
+     "olfactory",
+     "gustatory",
+     "organ of corti",
+     "the rods",
+     "the cones"
+    ],
+   "answer": ["olfactory"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 32,
+   "question":"All of these functions are traceable to the cone except ?",
+   "options": [
+     "cone are used to determine colour vision, depth and intensity",
+     "cone provide photopic , high acuity and daytime vision",
+     "cones require rhodopsin, low light energy and three different cell type",
+     "cones are centrally located in the retina layer",
+     "cone are fewer in number than rods and less sensitive to motion than rods"
+    ],
+   "answer": ["cones require rhodopsin, low light energy and three different cell type"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 33,
+   "question":"All but one of these processes begins at the retina",
+   "options": [
+     "Contrast",
+     "brightness",
+     "motion",
+     "stereopsis",
+     "all of the above"
+    ],
+   "answer": ["motion"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 34,
+   "question":"Which of the statements incorrect of myopia",
+   "options": [
+     "lens refracture is too strong",
+     "eyeball is too long",
+     "corrected by a convex lens",
+     "genetically inherited"
+    ],
+   "answer": ["corrected by a convex lens"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 35,
+   "question":"Light enters the eye through the",
+   "options": ["conjunctiva","sclera","pupil","lens"],
+   "answer": ["pupil"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 36,
+   "question":"In the visual field the temporal hemifield of each eyes project to",
+   "options": [
+     "optic chiasm",
+     "nasal retinal fibres",
+     "lateral geniculate nuclei",
+     "temporal retinal retinal fibres",
+     "fovea centralis"
+    ],
+   "answer": ["nasal retinal fibres"],
+   "explanation":"",
+   "topic":"Special senses"
+  },
+  {
+   "id": 37,
+   "question":"Which of these is not associated with the eye layer",
+   "options": [
+     "protective and maturation",
+     "provides attachment sites of extrinsic muscle of the eye",
+     "pigmentation and nourishment of the eye",
+     "on of impulses to the visual image",
+     "interpretation of transduction of light energy into nerve impulses."
+    ],
+   "answer": ["interpretation of transduction of light energy into nerve impulses."],
+   "explanation":"",
+   "topic":"Special senses"
+  }
+]

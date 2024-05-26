@@ -1,0 +1,677 @@
+[
+  {
+    "id": 1,
+    "question": "One of the following drugs metabolism is affected by genetic polymorphism enzyme",
+    "options": [
+      "Isoniazid",
+      "Digoxin",
+      "Codeine",
+      "Suxamethonium",
+      "Fluconazole"
+    ],
+    "answer": ["Isoniazid"],
+    "explanation": "Genetic polymorphism of the enzyme N-acetyltransferase 2 (NAT2) affects the metabolism of isoniazid, leading to variability in its pharmacokinetics."
+  },
+  {
+    "id": 2,
+    "question": "The bioavailability of this drug is increased when given by the sublingual route",
+    "options": [
+      "Diazepam extended release",
+      "Simvastatin",
+      "Methyl Prednisolone",
+      "Diltiazem preparations",
+      "Glyceryl trinitrate"
+    ],
+    "answer": ["Glyceryl trinitrate"],
+    "explanation": "Glyceryl trinitrate has high lipophilicity, allowing it to be readily absorbed through the mucous membranes under the tongue, leading to increased bioavailability."
+  },
+  {
+    "id": 3,
+    "question": "A newly diagnosed hypertensive patient was given an extended release of a dosed once every 24 hours. The half-life of the drug is 48 hours. However, © drug, blood pressure is not controlled. What should be the next step?",
+    "options": [
+      "Double the dose of the antihypertensive drug",
+      "Observe the patient’s blood pressure after an additional week.",
+      "Measure blood levels of the antihypertensive agent",
+      "Add a second antihypertensive agent",
+      "Change the antihypertensive agent to a new class"
+    ],
+    "answer": ["Add a second antihypertensive agent"],
+    "explanation": "When blood pressure is not controlled with a single antihypertensive agent, adding a second agent with a different mechanism of action is often recommended to achieve better control."
+  },
+  {
+    "id": 4,
+    "question": "One of the following statements is consistent with drug therapy in e\\derly",
+    "options": [
+      "Elderly patients have an increased volume of distribution due to",
+      "Elderly patients are 2-3x more predisposed 1o having an advers",
+      "Fat soluble drugs have a shorter half-life in elderly patients",
+      "Hypoalbuminemia in the elderly can lead to decreased toxicy",
+      "Hepatic clearance of lipid soluble drugs reduces with age."
+    ],
+    "answer": [
+      "Elderly patients are 2-3x more predisposed 1o having an advers"
+    ],
+    "explanation": "Elderly patients are more predisposed to adverse drug reactions due to age-related changes in pharmacokinetics and pharmacodynamics, such as decreased renal function and increased sensitivity to drugs."
+  },
+  {
+    "id": 5,
+    "question": "A 50 year old known hypertensive patient who just celebrated her birthday and drank lots of grape juice was brought to emergency on account of severe myalgia. Which of the following drugs could have been responsible for her presentation?",
+    "options": [
+      "Amoxicillin",
+      "Aspirin",
+      "Atorvastatin",
+      "Lisinopril",
+      "Sildenafil"
+    ],
+    "answer": ["Atorvastatin"],
+    "explanation": "Grapefruit juice inhibits the enzyme CYP3A4, which metabolizes atorvastatin. Drinking grapefruit juice with atorvastatin can increase the drug's levels in the body, leading to myalgia and other adverse effects."
+  },
+  {
+    "id": 6,
+    "question": "Which of the following reasons is BEST considered for giving a 72 year old man in cardiac failure on parenteral frusemide therapy",
+    "options": [
+      "Reduced gastrointestinal blood flow and mucosal edema",
+      "Decreased tissue perfusion and altered partition kinetics",
+      "Decreased volume of distribution of frusemide",
+      "Reduced elimination of frusemide",
+      "Reduced hepatic clearance and high hepatic perfusion"
+    ],
+    "answer": ["Reduced gastrointestinal blood flow and mucosal edema"],
+    "explanation": "In cardiac failure, there is often reduced gastrointestinal blood flow and mucosal edema, which can affect the absorption and efficacy of oral medications. Parenteral administration of frusemide bypasses these issues, ensuring more predictable absorption and effectiveness."
+  },
+  {
+    "id": 7,
+    "question": "Which ONE of the following features suggests amphetamine overdose rather than drug withdrawal.",
+    "options": [
+      "Hallucinations",
+      "Hot, dry, flushed skin",
+      "Marked urinary retention",
+      "Hypertension",
+      "Nystagmus"
+    ],
+    "answer": [],
+    "explanation": "The feature that suggests amphetamine overdose rather than drug withdrawal is marked urinary retention, as amphetamine overdose can lead to urinary retention due to its effects on the sympathetic nervous system."
+  },
+  {
+    "id": 8,
+    "question": "In the estimation of plasma/serum drug concentrations are most useful in optimizing the therapeutic dose required of:",
+    "options": [
+      "Warfarin",
+      "Omeprazole",
+      "Salbutamol",
+      "Olanzapine",
+      "Lithium"
+    ],
+    "answer": ["Lithium"],
+    "explanation": "Plasma/serum drug concentrations are most useful in optimizing the therapeutic dose required of lithium, as lithium has a narrow therapeutic index and its concentration in the blood needs to be closely monitored to avoid toxicity."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following drugs would require a loading dose to ensure a rapid onset of action as part of a rational and advised therapeutic practice?",
+    "options": [
+      "Clozapine",
+      "Sumatriptan",
+      "Amiodarone",
+      "Levodopa",
+      "Doxazosin"
+    ],
+    "answer": ["Amiodarone"],
+    "explanation": "Amiodarone, a Class III antiarrhythmic drug, has a long half-life and requires a loading dose to achieve therapeutic levels quickly, especially in emergency situations."
+  },
+  {
+    "id": 10,
+    "question": "A 66 year old man was diagnosed with transient ischaemic attack secondary to severe hypertension and was placed on several medications. He was found unconscious 3 weeks later with petechiae hemorrhages on his body and a platelet count of 45,000 cells/μl. Which of the following medications could have been responsible for his condition?",
+    "options": [
+      "Clopidogrel",
+      "Simvastatin",
+      "Losartan",
+      "Atenolol",
+      "Tiotropium"
+    ],
+    "answer": ["Clopidogrel"],
+    "explanation": "Clopidogrel, an antiplatelet agent, can cause thrombocytopenia (low platelet count) and petechial hemorrhages as rare side effects, which could explain the patient's presentation."
+  },
+  {
+    "id": 11,
+    "question": "45 year old teacher with dysfunctional uterine bleeding was started on oral contraceptives, she late presented with swelling and pain of the right calf, a diagnosis of deep venous thrombosis was made which of the following mechanisms of action of a drug would be best for her treatment at this time?",
+    "options": [
+      "A drug that acts by irreversibly inhibiting cyclooxygenase in platelets",
+      "A drug that inhibits adenosine uptake and cyclic nucleotide phosphodiesterase",
+      "A drug that inhibits purinergic receptor and requires activation in the liver",
+      "A drug that inactivates clotting factors by binding to thrombin and antithrombin",
+      "A drug that binds to the fibrinogen recognition site of thrombin"
+    ],
+    "answer": [
+      "A drug that inactivates clotting factors by binding to thrombin and antithrombin"
+    ],
+    "explanation": "A drug that inactivates clotting factors by binding to thrombin and antithrombin, such as a low molecular weight heparin or fondaparinux, would be best for treating deep venous thrombosis in this patient."
+  },
+  {
+    "id": 12,
+    "question": "All the following match the anticoagulant with its correct mechanism of action EXCEPT",
+    "options": [
+      "abciximab—GpIIb/IIIa receptor inhibition",
+      "clopidogrel—inhibition of thromboxane A2 release",
+      "fondaparinux—inhibition of factor Xa",
+      "argatroban—thrombin inhibition",
+      "warfarin- vitamin K—dependent carboxylation of coagulation factors"
+    ],
+    "answer": ["clopidogrel—inhibition of thromboxane A2 release"],
+    "explanation": "Clopidogrel inhibits platelet aggregation by irreversibly blocking the P2Y12 adenosine diphosphate (ADP) receptor, not by inhibiting thromboxane A2 release."
+  },
+  {
+    "id": 13,
+    "question": "One of the following antihypertensive medications is contraindicated in pregnancy?",
+    "options": [
+      "Amlodipine",
+      "Hydralazine",
+      "Labetalol",
+      "Valsartan",
+      "Methyldopa"
+    ],
+    "answer": ["Valsartan"],
+    "explanation": "Valsartan, an angiotensin II receptor blocker (ARB), is contraindicated in pregnancy due to the risk of fetal harm, including injury and death to the developing fetus."
+  },
+  {
+    "id": 14,
+    "question": "In the management of a patient with hypertension, ONE of the following combinations is NOT rational when the patient is not controlled on a single agent.",
+    "options": [
+      "Amlodipine and valsartan in a diabetic patient",
+      "Atenolol and amlodipine in an asthmatic",
+      "Carvedilol and ramipril in a patient with gout",
+      "Ramipril and doxazosin in a patient with prostatism",
+      "Methyldopa and nifedipine in a pregnant woman"
+    ],
+    "answer": ["Carvedilol and ramipril in a patient with gout"],
+    "explanation": "Carvedilol, a beta-blocker, and ramipril, an ACE inhibitor, are not typically used together in patients with gout due to their potential to raise uric acid levels, which can worsen gout symptoms."
+  },
+  {
+    "id": 15,
+    "question": "Which of the following drugs is useful in the acute treatment of an angina attack in a 65-year-old man with ischemic chest pain following exertion?",
+    "options": [
+      "Clopidogrel",
+      "Warfarin",
+      "Sodium nitroprusside",
+      "Glyceryl trinitrate",
+      "Isosorbide dinitrate"
+    ],
+    "answer": ["Glyceryl trinitrate"],
+    "explanation": "Glyceryl trinitrate, a nitrate vasodilator, is used for acute relief of angina attacks by dilating coronary arteries, improving blood flow to the heart muscle, and reducing myocardial oxygen demand."
+  },
+  {
+    "id": 16,
+    "question": "In the management of anaphylactic disorders, which of the following medications would be best at reducing the itching caused by flare and intradermal injection of histamine",
+    "options": [
+      "Cimetidine",
+      "Omeprazole",
+      "Diphenhydramine",
+      "Prednisolone",
+      "Methylhistamine"
+    ],
+    "answer": ["Diphenhydramine"],
+    "explanation": "Diphenhydramine, a first-generation antihistamine, is commonly used in the management of anaphylactic reactions to reduce itching caused by histamine release."
+  },
+  {
+    "id": 17,
+    "question": "A 25 year old student was brought to the triage department of the hospital with complaints of poor sleep, flattened affect, and reluctance in performing daily tasks and reduced speech. He had also stopped eating in the last 72 hours. Which of the following medications would be BEST prescribed for this patient?",
+    "options": [
+      "Chlorpromazine",
+      "Olanzepine",
+      "Haloperidol",
+      "Fluphenazine",
+      "Loxapine"
+    ],
+    "answer": ["Olanzepine"],
+    "explanation": "Olanzapine is an atypical antipsychotic commonly used to treat symptoms of schizophrenia and bipolar disorder, including poor sleep, flattened affect, and reduced speech. It is also used to treat eating disorders, such as anorexia nervosa, which may explain its effectiveness in this case."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is least likely to have an adverse drug interaction with phenelzine (a monoamine oxidase (MAO) inhibitor)?",
+    "options": [
+      "Levodopa",
+      "Ropinirole",
+      "Tolcapone",
+      "Propofol",
+      "Pseudoephedrine"
+    ],
+    "answer": [],
+    "explanation": "The answer to this question depends on the specific pharmacological properties and interactions of each drug listed. It is important to consult a comprehensive drug interaction database or healthcare professional for specific advice on drug interactions with phenelzine."
+  },
+  {
+    "id": 19,
+    "question": "Calcium channel blockers exert their effects in the following ways except",
+    "options": [
+      "Decrease in the activation of calmodulin dependent myosin light chain kinase",
+      "Reduction in the action of smooth muscle cell contraction",
+      "Increased vasodilation of the resistance venules",
+      "Increased dilation of the coronary arteries",
+      "Augmentation of myocardial oxygen supply"
+    ],
+    "answer": ["Increased vasodilation of the resistance venules"],
+    "explanation": "Calcium channel blockers primarily work by inhibiting the influx of calcium ions into smooth muscle cells, leading to relaxation of vascular smooth muscle and vasodilation. However, they do not directly affect the dilation of resistance venules."
+  },
+  {
+    "id": 20,
+    "question": "A newly diagnosed hypertensive complained of headaches, flushing and peripheral edema. Which of the following drugs could have caused these reactions?",
+    "options": [
+      "Valsartan",
+      "Esmolol",
+      "Lisinopril",
+      "Eplerenone",
+      "Nifedipine"
+    ],
+    "answer": ["Nifedipine"],
+    "explanation": "Nifedipine, a calcium channel blocker, is known to cause headaches, flushing, and peripheral edema as side effects. These reactions are commonly observed in patients taking nifedipine for hypertension."
+  },
+  {
+    "id": 21,
+    "question": "A 52 year old hair dresser was rushed to the emergency with difficulty in breathing and leg swelling. A diagnosis of cardiogenic shock and acute heart failure was made. Which of the following medicines would be best prescribed for this patient?",
+    "options": [
+      "Carvedilol",
+      "Losartan",
+      "Dopamine",
+      "Frusemide",
+      "Spironolactone"
+    ],
+    "answer": ["Dopamine"],
+    "explanation": "Dopamine is a medication often used in the management of cardiogenic shock and acute heart failure. It works by increasing cardiac output and improving blood flow to vital organs, which can help stabilize the patient in this critical condition."
+  },
+  {
+    "id": 22,
+    "question": "A 60 year old newly retired public servant with hypertension complained of erectile dysfunction, which pharmacokinetic property of the sildenafil citrate is MOST likely to cause hypotension in him?",
+    "options": [
+      "Its high plasma protein binding",
+      "The metabolism by CYP3A4 inhibitors",
+      "The onset time of 1 hour",
+      "The reduced renal clearance",
+      "The presence of an active metabolite"
+    ],
+    "answer": ["The reduced renal clearance"],
+    "explanation": "In elderly patients, especially those with renal impairment, the reduced renal clearance of sildenafil can lead to higher drug levels in the body, increasing the risk of hypotension. It is important to adjust the dose of sildenafil in patients with renal impairment to avoid this complication."
+  },
+  {
+    "id": 23,
+    "question": "The following drug used in erectile dysfunction is administered as an intraurethral mini-suppository or intracarvenosally.",
+    "options": [
+      "Sildenafil",
+      "Papaverine",
+      "Yohimbine",
+      "Phentolamine",
+      "Alprostadil"
+    ],
+    "answer": ["Alprostadil"],
+    "explanation": "Alprostadil is a medication used in the treatment of erectile dysfunction (ED). It can be administered as an intraurethral mini-suppository or intracavernosally to help achieve an erection."
+  },
+  {
+    "id": 24,
+    "question": "A 69-year-old man develops renal failure. Which of the following drugs requires a major adjustment in dosage?",
+    "options": [
+      "Levofloxacin",
+      "Ceftriaxone",
+      "Amphotericin",
+      "Clarithromycin",
+      "Ampicillin"
+    ],
+    "answer": ["Levofloxacin"],
+    "explanation": "Levofloxacin, a fluoroquinolone antibiotic, is primarily eliminated by the kidneys. In patients with renal failure, the dosage of levofloxacin needs to be significantly adjusted to avoid accumulation and potential toxicity."
+  },
+  {
+    "id": 25,
+    "question": "A 19-year-old college student smokes cannabis on a regular basis. Which of the following clinical findings is most likely to be seen an hour after inhalation?",
+    "options": [
+      "A decrease in heart rate",
+      "An increase in intraocular pressure",
+      "Prolonged reaction time",
+      "Peripheral vasoconstriction",
+      "An increase in intelligence quotient (IQ)"
+    ],
+    "answer": ["Prolonged reaction time"],
+    "explanation": "Cannabis use is associated with impairments in cognitive and psychomotor function, including prolonged reaction times. This effect is most likely to be observed within an hour after inhalation of cannabis smoke."
+  },
+  {
+    "id": 26,
+    "question": "The following statements are true in drug pharmacokinetics.",
+    "options": [
+      "The plasma clearance of a drug really decreases with an increase in the dose prescribed",
+      "The presence of an erasable group is essential for the mechanism of action of most drugs",
+      "Drugs are always taken with meals in order to reduce unwanted effects",
+      "Benzylpenicillin has a prolonged half-life because the renal excretion of penicillin is reduced",
+      "Chronic treatment with phenobarbital can increase the systemic clearance and oral bioavailability of co-administered drugs"
+    ],
+    "answer": [
+      "The presence of an erasable group is essential for the mechanism of action of most drugs"
+    ],
+    "explanation": "Many drugs exert their pharmacological effects by binding to specific receptors or targets in the body. The presence of a recognizable group or structure in the drug molecule is often essential for its interaction with these targets and subsequent pharmacological actions."
+  },
+  {
+    "id": 27,
+    "question": "The following undergoes extensive first-pass metabolism except:",
+    "options": [
+      "Verapamil",
+      "Doxycycline",
+      "Propranolol",
+      "Morphine",
+      "Amoxicillin"
+    ],
+    "answer": ["Amoxicillin"],
+    "explanation": "Amoxicillin is a broad-spectrum antibiotic that is well absorbed orally and does not undergo extensive first-pass metabolism in the liver. It is primarily excreted unchanged in the urine."
+  },
+  {
+    "id": 28,
+    "question": "In discrete multiple dosing of an administered medication, maintenance dose of is a function of which of the following?",
+    "options": [
+      "Apparent volume of distribution (Vd)",
+      "Half-life (t1/2)",
+      "Clearance (CL)",
+      "Plasma concentration of the drug (Cp)",
+      "First-pass effect"
+    ],
+    "answer": ["Clearance (CL)"],
+    "explanation": "The maintenance dose of a drug in discrete multiple dosing is determined by the clearance (CL) of the drug, which is the volume of plasma cleared of the drug per unit time. Clearance is a crucial parameter in determining the dosing regimen needed to maintain therapeutic drug levels in the body."
+  },
+  {
+    "id": 29,
+    "question": "A patient was being maintained on a β-adrenergic receptor antagonist to control hypertension. The continuous exposure of receptors to this antagonist can:",
+    "options": [
+      "Result in supersensitivity",
+      "Produce tachyphylaxis",
+      "Produce irritation",
+      "Result in replacement",
+      "Produce desensitization"
+    ],
+    "answer": ["Result in supersensitivity"],
+    "explanation": "Continuous exposure of receptors to a β-adrenergic receptor antagonist (beta-blocker) can lead to upregulation of receptors, increasing their sensitivity to catecholamines. This phenomenon is known as supersensitivity and can result in exaggerated responses to catecholamines when the antagonist is discontinued."
+  },
+  {
+    "id": 30,
+    "question": "An in vitro experiment was performed that involved adding two different drugs to a solution bathing a strip of intestinal smooth muscle. Both drugs cause relaxation of the muscle but had very different EC50 values. Based on this single piece of information, which of the following statements is most correct?",
+    "options": [
+      "The two drugs have similar chemical structures",
+      "The two drugs have different potencies in causing relaxation",
+      "Both drugs activate the same receptor in the muscle",
+      "Both drugs are directly acting agonists",
+      "The maximum relaxation caused by the two different drugs will be similar"
+    ],
+    "answer": ["The two drugs have different potencies in causing relaxation"],
+    "explanation": "The EC50 value represents the concentration of a drug that produces half of the maximum response. If two drugs cause relaxation but have different EC50 values, it indicates that they have different potencies in causing relaxation. The drug with the lower EC50 value is more potent and requires a lower concentration to produce the same effect."
+  },
+  {
+    "id": 31,
+    "question": "Target validation in drug discovery and development refers to",
+    "options": [
+      "The identification of a therapeutically relevant drug target in modulating a disease condition",
+      "Finding a genetic linkage to a pathological disorder",
+      "The finding that modulating the target with a drug produces the desired therapeutic effect",
+      "The idea that the targets are safe and modulating it will be non-toxic",
+      "Finding a target most useful in the development of treatment for the disease"
+    ],
+    "answer": [
+      "Finding a target most useful in the development of treatment for the disease"
+    ],
+    "explanation": "Target validation in drug discovery and development refers to the process of determining whether a particular target molecule is relevant and useful in the development of a treatment for a specific disease. It involves confirming that modulating the target with a drug can lead to the desired therapeutic effect."
+  },
+  {
+    "id": 32,
+    "question": "The following drug combinations help to enhance their effectiveness except?",
+    "options": [
+      "Clavulanic acid plus Amoxicillin",
+      "Imipenem plus Cilastin",
+      "Gentamicin plus amoxicillin",
+      "Isoniazide plus Pyridoxine",
+      "Sulphadouine plus pyrimethamine"
+    ],
+    "answer": ["Isoniazide plus Pyridoxine"],
+    "explanation": "Isoniazide (INH) and pyridoxine (vitamin B6) are often given together to prevent or treat INH-induced peripheral neuropathy in patients taking INH for tuberculosis. This combination is aimed at reducing the risk of vitamin B6 deficiency caused by INH, and it does not enhance the effectiveness of either drug."
+  },
+  {
+    "id": 33,
+    "question": "Which of the following statement is true concerning the autonomic NS?",
+    "options": [
+      "Ganglion blocking drugs also block the neuromuscular junction",
+      "Dopamine is a transmitter in the peripheral autonomic nervous system",
+      "Botulinum toxin enhances acetylcholine release from cholinergic neurons",
+      "The Beta S-adrenoceptor is the most widespread of the Beta receptors",
+      "Acetylcholinesterase is the only enzyme in the body that breaks down acetylcholine"
+    ],
+    "answer": ["Ganglion blocking drugs also block the neuromuscular junction"],
+    "explanation": "Ganglion blocking drugs, such as trimetaphan, block nicotinic acetylcholine receptors in autonomic ganglia, leading to autonomic blockade. While these drugs primarily affect autonomic ganglia, they can also block neuromuscular transmission to some extent."
+  },
+  {
+    "id": 34,
+    "question": "An elderly woman with elevated intraocular pressure is diagnosed with open-angle glaucoma. Her physician prescribes instillation of pilocarpine ophthalmic solution into the eye every 6 hours. The anticipated effect of pilocarpine eye drops would be to:",
+    "options": [
+      "Relax the ciliary muscles",
+      "Contract the radial muscle",
+      "Contract the sphincter muscle",
+      "Inhibit the production of aqueous humor",
+      "Decrease the production of aqueous humor"
+    ],
+    "answer": ["Contract the sphincter muscle"],
+    "explanation": "Pilocarpine, a cholinergic agonist, is used to treat open-angle glaucoma by stimulating the contraction of the sphincter muscle of the iris (miosis). This action increases the outflow of aqueous humor from the eye, lowering intraocular pressure."
+  },
+  {
+    "id": 35,
+    "question": "An agricultural worker is brought from his farm to the local emergency department with complaints of chest tightness, difficulty with vision and was observed to have pinpoint pupils and to be profusely salivating. What is the most appropriate medication for treating his condition?",
+    "options": [
+      "Naloxone",
+      "Atropine",
+      "Pralidoxime",
+      "Pilocarpine",
+      "Edrophonium"
+    ],
+    "answer": ["Atropine"],
+    "explanation": "The symptoms described suggest organophosphate poisoning, which is treated with atropine. Atropine is an antidote that blocks the action of acetylcholine at muscarinic receptors, counteracting the effects of excessive acetylcholine stimulation caused by organophosphates."
+  },
+  {
+    "id": 36,
+    "question": "What is the most severe and potentially life-threatening manifestation an insect sting?",
+    "options": [
+      "Hypovolemic shock",
+      "Cardiac failure",
+      "Respiratory failure",
+      "Hypothermia",
+      "Hyperthermia"
+    ],
+    "answer": ["Respiratory failure"],
+    "explanation": "Respiratory failure can occur in severe cases of anaphylaxis, a systemic allergic reaction that can result from an insect sting. Anaphylaxis can cause airway constriction and swelling, leading to difficulty breathing and potentially respiratory failure if not promptly treated."
+  },
+  {
+    "id": 37,
+    "question": "Parkinson's disease",
+    "options": [
+      "Symptoms only become apparent when approximately 25% of dopaminergic neurons have been lost",
+      "Abnormally increased dopaminergic transmission",
+      "L-DOPA is contraindicated for individuals taking MAO inhibitors",
+      "Unlike tolcapone, entacapone crosses the BBB",
+      "25% of the administered dose of levodopa reaches the CNS unchanged"
+    ],
+    "answer": [
+      "L-DOPA is contraindicated for individuals taking MAO inhibitors"
+    ],
+    "explanation": "L-DOPA is contraindicated for individuals taking MAO inhibitors because MAO inhibitors can inhibit the breakdown of dopamine, leading to an increased risk of side effects such as hypertension, hallucinations, and serotonin syndrome."
+  },
+  {
+    "id": 38,
+    "question": "A number of drugs are used for the treatment of Parkinson's disease. Which one of the following is a true statement about the properties of these drugs?",
+    "options": [
+      "Levodopa does not slow the progress of Parkinson's disease",
+      "Selegiline is a selective MAO-A inhibitor used for Parkinson's disease",
+      "More than 90% of orally administered levodopa enters the brain unaltered",
+      "Currently used drugs for Parkinson’s disease only stimulate D1-type dopamine receptors",
+      "Carbidopa is an effective dopamine decarboxylase inhibitor in the CNS"
+    ],
+    "answer": ["Levodopa does not slow the progress of Parkinson's disease"],
+    "explanation": "Levodopa can help manage the symptoms of Parkinson's disease, such as tremors and stiffness, but it does not slow the progression of the disease itself. Parkinson's disease is a progressive neurodegenerative disorder, and while levodopa can improve quality of life, it does not alter the underlying disease process."
+  },
+  {
+    "id": 39,
+    "question": "Phenytoin",
+    "options": [
+      "Prevents seizure initiation",
+      "Salicylates and sodium valproate reduce the effectiveness of phenytoin",
+      "Plasma concentrations vary in a linear manner with the dose administered over the whole therapeutic dose range",
+      "First-line antiepileptic agent in status epilepticus",
+      "Precipitates as salt in alkaline solutions"
+    ],
+    "answer": [],
+    "explanation": ""
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is not used in preventing a migraine attack?",
+    "options": [
+      "Propranolol",
+      "Paracetamol",
+      "Amitriptyline",
+      "Sodium valproate",
+      "Candesartan"
+    ],
+    "answer": ["Paracetamol"],
+    "explanation": "Paracetamol (acetaminophen) is not typically used for preventing migraine attacks. It is more commonly used for relieving mild to moderate pain and fever."
+  },
+  {
+    "id": 41,
+    "question": "Regarding NSAIDs",
+    "options": [
+      "Paracetamol is a potent analgesic and anti-inflammatory agent",
+      "Small daily doses of aspirin (75 mg) can compromise renal function",
+      "Ibuprofen is preferred to indomethacin or diclofenac as an effective first-choice NSAID in severe rheumatoid arthritis",
+      "Celecoxib is an antipyretic",
+      "Aspirin is a good choice of analgesic therapy for people with asthma"
+    ],
+    "answer": ["Celecoxib is an antipyretic"],
+    "explanation": "Celecoxib is a selective COX-2 inhibitor that is primarily used as an anti-inflammatory and analgesic agent. While it can reduce fever (antipyretic effect), it is not typically used for this purpose."
+  },
+  {
+    "id": 42,
+    "question": "Which of the drug is most appropriate for an elderly man with a long history of hypertension, congestive heart failure with edema, and chronic gastritis has chronic mild knee pain due to osteoarthritic changes which is interrupting his sleep?",
+    "options": [
+      "Aspirin",
+      "Celecoxib",
+      "Diclofenac plus misoprostol",
+      "Paracetamol",
+      "Indomethacin"
+    ],
+    "answer": ["Diclofenac plus misoprostol"],
+    "explanation": "Diclofenac is a nonsteroidal anti-inflammatory drug (NSAID) that can help relieve pain and inflammation associated with osteoarthritis. Misoprostol is often added to diclofenac to help reduce the risk of NSAID-induced gastric ulcers."
+  },
+  {
+    "id": 43,
+    "question": "Which analgesic is most appropriate for a 32-year-old severely asthmatic woman with a diagnosis of rheumatoid arthritis and recurrent dyspepsia and no history of heart disease?",
+    "options": [
+      "Aspirin",
+      "Celecoxib",
+      "Diclofenac plus misoprostol",
+      "Paracetamol",
+      "Indomethacin"
+    ],
+    "answer": ["Celecoxib"],
+    "explanation": "Celecoxib is a selective COX-2 inhibitor that can help relieve pain and inflammation in patients with rheumatoid arthritis. It is less likely to cause gastrointestinal side effects compared to traditional NSAIDs."
+  },
+  {
+    "id": 44,
+    "question": "Regarding Rheumatoid disease",
+    "options": [
+      "NSAIDs reduce the symptoms of rheumatoid disease and retard the progress of the disease",
+      "If penicillamine does not lead to clinical benefit within 6 months, it should be stopped",
+      "During methotrexate therapy, folic acid is contraindicated",
+      "Methotrexate has more unwanted effects compared with most other DMARDs for Rheumatoid arthritis",
+      "Prolonged treatment with high doses of corticosteroids is advised"
+    ],
+    "answer": [
+      "If penicillamine does not lead to clinical benefit within 6 months, it should be stopped"
+    ],
+    "explanation": "Penicillamine is a disease-modifying antirheumatic drug (DMARD) used in the treatment of rheumatoid arthritis. If penicillamine does not lead to clinical benefit within 6 months, it is generally considered ineffective and should be discontinued."
+  },
+  {
+    "id": 45,
+    "question": "A 64-year-old man had mild asthma that was well controlled taking salbutamol two to three times a week and inhaled beclometasone twice daily. He complained of soreness of the mouth and hoarseness and was advised about oral hygiene. What is most appropriate for this patient?",
+    "options": [
+      "A spacer",
+      "Modified-release theophylline",
+      "Intravenous magnesium sulfate",
+      "Only prednisolone",
+      "Ipratropium bromide"
+    ],
+    "answer": ["A spacer"],
+    "explanation": "A spacer is a device that can be used with an inhaler to improve the delivery of medication to the lungs and reduce the risk of side effects such as soreness of the mouth and hoarseness."
+  },
+  {
+    "id": 46,
+    "question": "Which one of the following is the most appropriate description of an unwanted effect of high-dose salbutamol?",
+    "options": [
+      "Bradycardia",
+      "Hypokalaemia",
+      "Hypoglycemia",
+      "Mydriasis",
+      "Constipation"
+    ],
+    "answer": ["Hypokalaemia"],
+    "explanation": "High doses of salbutamol, a beta-2 adrenergic agonist used to treat asthma, can lead to hypokalaemia (low potassium levels) due to stimulation of beta-2 receptors in skeletal muscle, leading to potassium uptake."
+  },
+  {
+    "id": 47,
+    "question": "Methicillin-resistant Staphylococcus aureus (MRSA) is a common nosocomial pathogen that is increasing in frequency in community settings. Which of the following statements best describes the worst common mechanism of resistance by S. aureus?",
+    "options": [
+      "Acquisition of the novel protein PBP",
+      "Increased cell wall repair",
+      "Increased efflux of beta-lactams",
+      "Increased synthesis of metabolic factors",
+      "Reduced permeability to beta-lactams"
+    ],
+    "answer": ["Acquisition of the novel protein PBP"],
+    "explanation": "MRSA commonly acquires resistance by acquiring a novel penicillin-binding protein (PBP2a) that has low affinity for beta-lactam antibiotics, allowing the bacteria to survive and replicate in the presence of these antibiotics."
+  },
+  {
+    "id": 48,
+    "question": "When using combination antibiotic therapy, it is important to administer drugs that work synergistically as possible. Which one of the following represents a combination with known synergism?",
+    "options": [
+      "Beta-Lactam + Aminoglycosides",
+      "Penicillin + Cephalosporin",
+      "Combination of two drugs in which the first displaces the second from plasma binding sites",
+      "Two drugs eliminated by different routes",
+      "Two drugs that work on the same step in a metabolic pathway"
+    ],
+    "answer": ["Beta-Lactam + Aminoglycosides"],
+    "explanation": "The combination of a beta-lactam antibiotic (e.g., penicillin) and an aminoglycoside (e.g., gentamicin) is known to have synergistic effects against certain bacteria, such as Enterococcus faecalis, by disrupting cell wall synthesis and protein synthesis, respectively."
+  },
+  {
+    "id": 49,
+    "question": "Bacteria develop resistance to tetracyclines by which of the following mechanisms?",
+    "options": [
+      "Altered ribosomal targets",
+      "Bypass pathway in folic acid metabolism",
+      "Enzymatic inactivation",
+      "Increased drug efflux",
+      "Mutation of DNA gyrase gene"
+    ],
+    "answer": ["Enzymatic inactivation"],
+    "explanation": "Resistance to tetracyclines can occur through enzymatic inactivation, where bacteria produce enzymes that modify the tetracycline molecule, rendering it inactive and unable to bind to the bacterial ribosome."
+  },
+  {
+    "id": 50,
+    "question": "A patient is administered an intravenous antibiotic for the treatment of bacterial meningitis but experiences seizures a short time later. Which of the following drugs was most likely administered?",
+    "options": [
+      "Ampicillin",
+      "Ceftriaxone",
+      "Imipenem",
+      "Nafcillin",
+      "Vancomycin"
+    ],
+    "answer": ["Imipenem"],
+    "explanation": "Imipenem, a broad-spectrum carbapenem antibiotic, can penetrate the blood-brain barrier and is often used to treat bacterial meningitis. However, it can cause seizures as a side effect, especially at high doses or in patients with predisposing factors."
+  },
+  {
+    "id": 51,
+    "question": "A 45-year-old man with a history of severe penicillin allergy is undergoing treatment for bacterial meningitis. Several days into therapy, he reports a severe headache, general malaise, and visual disturbances. Blood tests reveal that he is severely anemic. Which of the following drugs is most likely responsible for the adverse effects?",
+    "options": [
+      "Azithromycin",
+      "Erythromycin",
+      "Penicillin",
+      "Ticarcillin",
+      "Chloramphenicol"
+    ],
+    "answer": ["Chloramphenicol"],
+    "explanation": "Chloramphenicol, a broad-spectrum antibiotic, can cause a rare but serious side effect known as aplastic anemia, which is characterized by severe anemia due to bone marrow suppression. This adverse effect is more common in patients with a genetic predisposition or certain risk factors."
+  }
+]

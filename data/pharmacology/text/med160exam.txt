@@ -1,0 +1,734 @@
+1. Which of the folowing drugs is likely to increase the plasma warfarin concentration if co-prescribed to a patient on chronic warfarin therapy?
+a. St John's wort
+b. Phenobarbitone
+c. Phenytoin
+d. Omeprazole
+e. Rifampicin
+
+2. Therapeutic index of Drugs A, B, C. D, and E  are 2, 5, 15, 20, und 50, respectively, Based on this, which drug has the lowest potential to have adverse or toxic effects?
+a. A
+b. B
+c. C
+d. D
+e. E
+
+3. Achieving sicady statc is dependent on which of the following?
+a. Bioavailability
+b. Loading dose
+c. Half-Life
+d. Clearance
+e. Volume of distribution
+
+4. Maintenance of steady stase is dependent on which of the following?
+a. Bioavailability
+b. Loading dose
+c. Half-life
+e Volume of distribution
+
+5. Which of the following is the highest determinant of clearance of a dnig?
+a. Half-Life
+b. Dose adminstered
+c. Volume of distribution
+d. Blood flow to the eliminating organ
+e. Bioavailability
+
+6. Digoxin has a half-life of approximately 40 hours of renal function is normal. How long will  it take to reach 90 per cent of the steady state plasma concentration?
+a. 2 days
+b. 7 days
+c. 10 days
+d. 14 days
+e. 18 days
+
+7. One of the following statements best describes the final presentation in which the drug is
+given to the patient
+a. It comprises side, adjuncts, excipents that are all non-medicinal agents
+b. It determines the action of the effective compound in the patient
+c. It determines how appealing the drug would be to the patient
+d. It increases the dosage strength of the medication
+e. It can determine the adverse effects profile of the medication
+
+
+8. In determining the bioavailability of an oral medicine, the following pharmaceutical factors are important EXCEPT
+a. Particle form
+b. Dehydration
+c.  Lipid solubility
+d. Ionic form
+e. Dissolution rate
+
+9. The most appropriate formulation that should be prescribed for a medicinal product that is
+inactivated at low pH or causes gastric irritation is ?
+a. Effervescent tablets
+b. Enteric coated tablets
+c. Chewable tablets
+d. Film coated tablets
+e. Sugar coated tablets
+
+10. One of the Following drugs requires an alcoholic vehicle for action
+a. Solutions
+b. Suspension
+c. Creams
+d. Lotions
+e. Tintures
+
+11. The Following statements describes the properties of "Generics" EXCEPT
+a. This is the common or general name assigned to the drug
+b. This is the name describes the molecular structure
+c. It may be the mame wscd by the pharmacedtical company
+d. Different compaiies can sell the same generic product
+e. The same generic product may not possess same excipient
+
+answer : This is the common or general name assigned to the drug
+
+12 Regarding pharmacokinetic gene phenotyes, the following statements are correct EXCEPT
+a. Present with  SNP in the VKORC1 gene have reduced warfarin sensitivity
+b. Fast acetylators metabolize isoniazed rapidly and thus have low blood drug levels
+c. Slow acetylators are prone to having procainamide hydralazine induced lupus like syndrome
+d. Poor metabolizer of the CYP2D6 gene do 0ot have effective analgesia 
+e.  TPMT*3A homozygoies on azathioprine have profound myelosuppression 
+
+answer: Present with  SNP in the VKORC1 gene have reduced warfarin sensitivity
+
+13 The following factors are importane when considering drug disposition in the pedistrie age group
+a. Oral bicavailability is incressed foe scid labile products compared with adults
+b. Rate of absorption is slower in young infants due to reduced gastric emptying
+c.The skin permeability is increased in children and neonate due to increased ration of Body surace area
+d. The rectal absorption in very efficient in children and neonates due to translocation across the rectal mucosa
+e. There is reduced bioavailability of drug administcrod via the intramuscular row in neonate due to decreased muscular blood flow
+
+14. A quantal (all-or-none) dose-response curve.......
+a. Is useful to cotimate a drug dose that produces 50% of a biological system's maximal response
+b. defines the maximal response a biological system can produce
+c. Relate the dose of a drug that produces a pre-deined response in a number of individual 
+d.  can be converted to graded responses 
+e the efficacy of 3 given drug
+
+15. One of these is not a charcteristics of the sympathetic nervous system:
+a. Cell bodies for preganglionic neurons orignates in the brain
+b The neurotransmitter for preganglionic neurons is acetylcholie
+c Long postganlionic neurons 
+d Postganglionic nerve teminals with an active uptake process for noradrenalinie known as uplakel
+e Nicotinic cholinergic tecepton are present ot the paravericbral ganglia
+
+
+16 These drugs alter the autonomic nervous system in the following ways except
+a Mocamylamine blocks autonomic ganglia and interferes with the transmission of nerve impulses from preganglionic to Postganglionic neurons
+b Guanethidine displaces noradrenaline from storage sites
+c Cocaine blocks uptake 1 pump thus increasing synaptic concentrations of noradrenaline
+d Pyogallol Inhibits catechol-o-methyl transferases(COMT)
+e. Propranolol is a selective blocker of the Beta 1 adrenergic receptor
+
+17. Which of the following statements is correct
+a. Dihydoxyphenyl alanine (DOPA) decarboxylase is located in the synaptic vesicles
+b. Rate-limiting step in synthesis of noradrenaline is the conversion of DOPA to dopamine
+c. Dopamine Beta hydroxylase(DBH) is located in the cytoplasm of the cell
+d. The final step in the synthesis of noradrenaline is the vesicle
+e. None of the above
+
+18. The postganglionic sympathetic nerves at the following organs release noradrenaline as the neurotransmitter except:
+a. Sweat glands
+b. Adrenal medulla
+c. Piloerector muscles
+d. skin
+e. kidney
+
+19. Which one of the following is a characteristic of the parasympathetic nervous system?
+a. Norepinephrine is the neurotransmitter at parasympathetic ganglia
+b. Smooth muscle of blood vessels lack parasympathetic innervation
+c. Postganglionic neurons are long and myelinated
+d. Cell bodies for preganglionic neurons orignates in the lumbar throcic region of the spinal cord
+e. parasympathetic neurons innervating the respiratory system mediate bronchodilation
+
+answer: Smooth muscle of blood vessels lack parasympathetic innervation
+
+20 Which one of the following sutsnomic receptoes are |igand-gated jon channels? a
+a Nicotinic
+b Muscarinic
+c alpha l-Adrenergic receptor
+d alpha 2-Adrenergic receptor
+e beta l-Adrenengic receptor
+
+21. Activation of the parasympathetic nervous system results in which of the following responses?
+a. An increased in heart rate
+b. vasoconstriction
+c. bronchoconstriction
+d. Renin secretion
+e. Relaxation of the GI tract
+
+
+22. The sympathetic nervious sysiem is charactérizcd by which une of the folkswing?
+a. Ganghia are located close to the organ innervated
+b. The neurotransmitter at all Postganglionic neurons sympathetic neuroeffector junctlons is Norepinephrine
+c. Postganglionic sympathetic neurons are thoracolumber
+d. Cell bodies for preganglionic neurons are thoracolumber
+e. No postganglionic sympathetic fibers to the sweat gland
+
+23. Chrnic toaicity tesing measures which of the fllawing.
+a. ED50
+b. LD50
+e. NOARL 1
+d. LOAEL
+e. Duration of exposure
+
+answer: NOARL 1
+
+24. Histamine receptor 1 (H1) antagonists are best used in the management of
+a. Gastric ulcers; where it prevents the release of gasiric acid
+b. Tinnitus; where binds to vestibular III receptors to prevent motion sickness
+c. allergic reaction; where it competes with the effector cells of the target organ
+d. Colon cancers, where it binds to the IgE mediated H1 receptors to cause its effects
+e. Schizophrenia, where it mitigates the positive symptoms
+
+25 Which of the following is true conceming nitrie axide?
+a. It is synthesized and sored In nitrergic neurones
+b. Causes vasoconstricton
+c. It is release in response to inflammation
+d. It is a classical neurotransmitter
+e. Its actions are receptor mediated
+
+
+26. Nitric oxide
+a Causes positive inotropy
+b Increases arterial pressure
+e Activates cyclo-oxygenase  dec
+< At -y d e et of g
+(15, Synthasc activetion s calcium depeen) 
+
+
+27 Central nervous systest (CNS) depressants.
+a. Reduce neuronal actions of central and peripheral neurones
+b. Enhance GABAergic neurotransmission
+c. Include hypnotics and antidepressants
+d. Produce tolerance and dependence
+e. Are specific in their pharmacologlcal activity
+
+28. Barbituraies
+a. Have relatively Large therapeutic indices
+b. Enhance binding of GABA to GABA-A and GABA-B receptors
+10 stimali = "
+e Long-acting barbinates inclu and phenh
+answer: d
+
+429 Benzud ' B
+e Arc usefil throughou ansesthetic 3
+. Are metabolied by the liver W inactiv ]
+©  Are preferable clincally 10 the bactwtniics F
+o o s
+t 1
+3 . 3
+g
+= i i
+
+30. Melatonin
+a. Is an antioxidant secreted mostly during the day
+b. Interacts with Melatonin 1,2 & 3 receptors 
+c. Prolongs onset of sleep
+d. Receptors agonist include ramelteon and N-acetyltryptophan 
+e. Is efficacious in transient and chronic insonmia
+
+answer: Receptors agonist include ramelteon and N-acetyltryptophan 
+
+31 Ethanol
+a. Weakly crosses the blood brain barrier
+b. Potentiates GABA and glycine neurotransmission
+« Does not affect dopaminergic brain reward sysem
+a Activates NMDA recepton causing cognitive impainent
+e Produces reversible fostal alcobol syndrome
+
+32 Agonuta of serotomin are usciil in the management of 4
+. Depression
+a Prptic ucer discase
+e Inflammation
+K32 Seronin
+a Tssynthesiced on demand and stored 1) serotonefgic aruunes
+b Precunor for its synthesis of noradrenaline is the vesicle
+
+33. Serotonin
+a. Is synthesized on demand and stored in serotonergic neurones
+e Causes vasocosatricton is conjunction with nitric oxide
+. Bensodiazepines .
+n L‘M%mﬂﬁnmm
+©  Devreass onset amd duration of sleep
+o Include dianepam and baclofien
+© Shont acting benrodiasepines used for insommin are more prone o producing ikl
+symploms T
+
+35 one of the following antidepressants Inhibits e membrane punp in s responsible |
+a. Amitriptyline
+b. Selegelline
+c. Muoclobemide
+d. Trazodone
+e. Lithium 
+
+
+1\ "
+) L r
+il v L
+h e L.
+(a camscanner
+36, A patient who hat boen on selegilline presented willl hypértension, selzuros, ta c
+I8 the most likely cawse of this presentation?
+b Patient had increassd the dose of his drnigs without prescription
+e. Patient had just mopped drinking alcohol especially red wines
+A Patient had just hem dagnosad with hyperiensive ewephalopathy
+e Patient is an exiensive metabolizer who ook an extra dose of the drug
+
+37. One of the following statments is consistent with the use of Lithiun EXCEPT
+a. Diuretic use can reduce the clearance and precipitate toxicity
+b. It is widely distributed in the CNS but it is dialyzable
+c. Frank touicity o soen when the blood level is grester than 2mmol/L
+d. It produces euphoria ot therapeatic concontrations
+e. Its use can be associated with poos esolition of manie episodes
+answer:  It produces euphoria ot therapeatic concontrations
+
+38 A elderly man with Farkinson disease s beimg treated with LDOPAS carbidopa. The
+beneficial effect of carbadopa may he aftriwted to which of the following actiom?
+a lis conversion s 1 -DOTA
+b lta converson o .kﬁul‘
+o (nhibition of COMT
+e Inhibition of MAGH
+39 An K2 year-old wornss with Park imon s has boen taling LDOPA/varbidops for 7
+years Slhe hay rcently metiied that wme shaonmal choresform-like moverments hive
+developed in het s end legs These novements are 8 Dpical sxample of which of the:
+following "
+a L-DOPA.induced psychosis 1
+e (s On-oll” effects s-l AMOPA
+d (i Toxleity of [ -DOFA.
+© (r) Wearing-of™ cffects of L-DOPA
+
+40 A 68year ol womn with shanced Pakinsd discass siting a8 the bus stop 18 msbie o
+1 i from the bench. Her young ..wpmmmhn-l-mm-zhm_ w4 divg
+ot wtiataronis [y hat ersbils the waman o ged i Wisieh of the Fllowing is i most likely 1
+g e in this paticnr”
+3 Aot
+[ Tr—
+4 Ropinieis.
+£ Scirgilime.
+41 Drugs of choice 1 the abostive mansgement Nf migraine
+a Parscctamol
+i* o
+c [m—
+' b NSAIDS
+| ﬂ‘ {
+. Engotalkaloids :
+42 Prophylactic therapy in migraine involve the fullowing except
+2 Propranolol
+b. Na valproate I
+© Amitripiyline )
+o st
+¥ 43 The following drugs arc effective in partial selaires with or without secondary penera
+tonic clonic seizures except
+a, Carbamazepine
+b Valproate -
+c Topiramate
+d Llanml\n:
+#43. The fallowing are recognizod adverse offects apsociated with phenytoin 4
+therapy except -
+A Auxia
+b Dysanhria -
+< Acec .
+B Myperkalaemia -
+e Macrocytic anaemia iy
+Has ot et we soocstol Wi bamsepis heapy cxept
+b Sedation 9 ]
+e Dizzitess
+4 Diplopia
+e Hyponatraemis -
+46 Which miiconvulsant has the hughest rish of conjenial mal formion
+l:;i-m N S
+e Lamotrigune ﬂ- ’
+47, The following staterents hee descripti .-u,. 1 sction of beta b
+T o s ot -
+b They decremse sympathetic oute whene | !
+L T MY
+R - 4 T
+i e
+i 1 ‘
+» e
+cs [om—
+W )
+d Hmmmwm#w .
+48 One of The following medications have been demorstrated to have a direct pees
+only rather than combined effect 10 also Induce resistance 10 hypertension Dageiid
+reduce efficacy of other medications
+a Aleohol
+b Licerice -
+e Nasal decongestants
+a Nonsteroidal anti-inflamatory drogs :
+e Corticosteruids b
+49 1n the management of hyperiensive erseryencien, one of the following drugs mts by causing ’
+peripheral arieriolar dilation and rstunicsls ‘I
+a Esmolol
+b, Fenoldopem
+e Sodium nitroprusside
+d Hydralazine
+e Labetalol
+0. The following adverse effect have been associsted with HMG-CoA reductape inhibitors
+exiept i
+Hepatotonicity
+.\ l.-al-si::-lnu .=
+4 Myopathy =y
+© Rabdomyolysis .
+kg ﬁ.fmumhmu_hmﬁmmam ame
+b. Niscin q
+a Omoga 1 sl
+4, P werol i
+e Eatimibe
+
+52 Cn of these dniegs should NOT be prescribed 10 puients with severe hypertriglyveride
+: Simvastatin -4-
+c temimbe’  Reead U .
+4 Cotestipol ‘ ¥ e
+«  Niacin » =
+- A 1
+<
+
+53. This drug should be avoided in patient who have had a myo
+= SR T —
+F. This drug should be avoided in paticats who fave had 3 myocardial infarction
+._m \J Y, ub = -, X
+4 Quinidine
+e Lidocuine 1.
+
+1 -
+4. The following are associated with bronchoconstriction except )
+a Norepinephrine.
+
+b. Acetylcholine
+© Sobstance I
+d Neurokinin A
+a Neuropeptide Y i
+53, In the step-wise escalation of diug eatssient in Bronchial asthma, wep | involves ~.4
+o Short-acting inhaled [ agonist
+b, Inhaled conicostercids
+© Long-acting P-agonist =
+4 Leukotnene pathway modifiers
+a Ol predaisolone a5
+4. The following sloul be mimanistered to an otherwise healthy 27-year old male "
+severe mthima except =
+a Omygen
+B Nebulisod raltnsmol v
+e Nedulised \praTopn bromude .y
+o4 Mﬁﬁ c
+.
+7. nbaled sindisa cromoglicate
+L b effeetive in allevisting mn scute epinnke of allergic sstbma -
+b Has b benefit in peeventing exercise-induced hyonchospasm
+a
+S L S '
+e Causes candinic dywhythaiss by prokinging the QTc
+SR AN these medicines have ytoprosective PropeTties excop i
+a Collaklal bismuh i .
+a Onseprarole - I
+© Cardenczolone
+o ﬁmﬁn j jr
+B R o o b P o
+A
+3 -
+[ p X .
+[cs|o—
+B r
+e
+59 Vutcat e n e 1 e olloing e
+" MEM -
+e Wood tamiusws
+| 4. Somatostau: 3
+A Propranolol =!
+60 Proton pump iokibitors § PPIs) set by - l
+. lahibiting Na™/K'/ATPase enryme | |
+c Inhibiting H'K'/ATPase entyme =
+e DNA pyrase esryme
+4 Beta-lactamane ensyme
+®  Cyclo-axypmase enayme
+61 Which of the following adverse effest is associated with | o
+A Uasroiststoal i »
+b, Gynaccomasta 1 ‘
+e Law spemi count #
+a Galawrmive i women |
+* Plood dyscrasas '
+62 The fallowing e be wcd in dirors roatiment exvept 3
+o Diphesoxylate b : < Ll
+b Loperamide b
+e Oral pelyydrasion sals i
+a Ocirotide I L
+63, A major skde effret of methowesiar wesmont 9ol eSS I S el AR
+a Leflunomide s a
+b Predniswne a
+a Slfasalasine o
+4 I
+[ d ’ B
+4 Which ot Wi 2 i boe R et of gouty un
+a Predaisolone
+X Dilafensc Na -
+© Hydroxychlomquine o
+B 4 ’ ’
+S |
+SR -] | e g
+- 4
+[cs|o—
+d Methotrexste e
+e Allopurinel - -
+L 4
+65 The following statement ks true of the oMds ia the i s
+conditions encept bt @',_“' eyt
+7 uibits the synthesis of lipocoriin |
+b Broad anti-inflammatory effect
+e Supprens disenses progression -
+o, Given priot 10 DMARD therapy .-
+e Onsetof action is besa than 24 houny 1!
+6 Which of the following statcment i true of Disease Modifying Anti-Rheumatic dngs
+DMARD) T
+u They are analgosics
+b Have 8 quick onset of action -
+a Used only as monctherapies
+d Mukummwﬁ'liir,["mm
+07, On Caet vaccines ol
+5 Only at experimentsl plse -~
+7 Can be experimental, prophylactic and iherapeticn |
+© Only prophylass #
+4 Notyet avallabie - N
+e Allof the above "
+#8 (i anti-cancer tesponse of propiylacis vacsine -
+a The T-cells are de-activated a
+B rul-pdmnmﬁ-m _
+a There is lower level of sntibodies P
+a Nooe of the above b
+wm%-nﬂﬁ b
+b Lant sbout $0% of the otal fime - 4
+e. Chasges takes place outsbde the cell =
+4 Also known aa mitosis phase i
+c None of the shove
+70, On alkylating ageos for cancer. T
+y
+| .
+[c|o—
+a Conslst of ealy Nitrogen mustands and alkyl sulfonate i
+b A does sot affect RNA und protein
+d. All of the above
+e. None of the above
+1. On oieation of alkylating agents
+2 Very safe
+b. Causes i) sterility
+d. Only Alopecin
+e All of the above
+72 On antimetablites for cancer
+b, Non Purine analogies
+e Nan folic acid anslogecs
+d. Non Pyrimidines analogucs
+e All of the above
+73, On snti-microtubule agents 1
+3 F.umilu are Purine and Cyclophosphamides |
+c  They act on G, phase B
+d. They are no longer used 1
+e All of the above
+v 'd
+74, On Topolomerase inhibitors for cancer (reatmont
+They act mainly on RNA synihicsis without affecting DNA ]
+c They cannot cause myelosuppression P,
+4 None of the above
+© Al of the above 3
+75 This drug has the ability 10 conmalize insuili like growth factor =1 levely in 97%
+Srlllllrﬁit‘ E!rﬂlln b
+b. Octreotide - 4
+a Bromocriptine Y
+d. Dopamipe
+{
+r o
+S . .[
+CamScanner
+4 76 Reganding use of Anithy1oxd s ~which would b bestsited for se i
+2 Carbimazole i
+b Radioactive iodine
+a e '
+c Levothyroxine . -
+77. Gonadorelin is a endogenous ligand secreted by the hypothalamus that also “;;' 1
+the following "
+a Astagonizes renin actinvity
+b Acts as an adrenal steroid
+< Itis an analogue of CRH 1
+. inhibits the lactotrophs E
+# Cootrols FSH and LH secretion
+78 Onz of the following glucoricocoid ts useful when there is 3 requirement for promsis
+glucorticoid effects and mild mineraloconticoid activity N ol
+A Dexamethasone
+b Fludrocortione
+©  Hydrocortisone r
+a Methylprednisolon
+e Predaisolane
+79, Which of the following sathelminthic dru is correctly paired with its clinic ‘ plica
+a Niclosamide/Trichuriasis
+b, Ivermectin/Schistosomiasis
+c PraziquantelOnchocerciasts
+4 Gastogrifin/Echinococcosts 4
+A Dicthylcarbamarine Filariasis |
+L)
+*m The following features can be observed with the use of basal insulin
+a Can be admimistered via the SC, [V or IM route
+b. It is inactivated in the kidney and excreted in feces.
+l‘ Insalin glargine does not have a peak, last for 20-24 hous
+e. Canbe used with alongside soluble insulin
+81 One of the following statement regarding Incretiiyanalogues is coreet
+b They enhance insulin secretion with or withodt rise In glucose |
+e They cause increased in heart rate
+b. vasoconstriction
+c. bronchoconstriction
+d. Renin secretion
+e. Relaxation of the GI tract deposition of pligues in blood ve
+a
+i
+—
+) >
+[csJm—
+I
+
+o Thiey e s empt Pt
+
+a They are functional snalogues of alpha ;
+
+. 1
+
+ﬁ..m 1 Antiicrobial therapy B < i
+
+: ‘. Selection of sn satimicrobial is based on microscopy/eultur
+b, Utilizes Nasrow-spectium antibiotics RS |
+e. Utilizes exteoded-spectrum aniibiotics
+i Utlizes brosdspectrum anibiois. - e
+e. Not an initial therapeutic approuch
+
+A3 Which are truc of macrolides except ) i
+o Bind reversibly 1o the bacterial 505 ribosomal subunit
+b, Have Bacteriostatic activity Y
+c Have Bacteriocidal activity
+W Cause prolongation of the QT iaterval !
+
+B4, Which of the following i associated with * Red man syndrome™ :
+A Daptomycin "
+b Pﬂlﬁim‘nll
+o Cycloserine ] |:
+< Bacimein 58
+
+85, The foltowiag are frue of meropenem except 8
+A Has setlvity against gram positive and negative bacteria
+b Penetrates the blood-brain barrier .8
+© Renintant 1o beia-lactamases c
+A Inactivated by renal dihydropeptidases :
+
+e Has activity agalnst anaerobes '
+
+6, Monobactums are 3 L
+2 Suseptible to f-lactamases 1 |
+b Active against Gram-positive bacteria .
+£ Active sgainst Gram-negative rods I .
+
+d Have a broad spectrim activity )
+e Active against anacrobes o 4
+i _ ] .
+R et A
+b Hind imeversibly to the 305 1 subuit
+c b 4
+CamScanner
+e Agomwof choice in Rickertsalinfectioms
+2 produces flaceid paralysis of the parasite
+b is ot oally active .
+a s well excreted in the urine
+d s adrug of choice for treating ascariasis
+e produces the Mazzotti-type eaction as s side effiect -
+. imhibits oxidative phosphorylation in sme specics of helminibes
+b increases cell membrase permesbility for calcium, resulting in paralysis, dislodges
+and death of helminthes
+< bnbibits microtubule synthesls ia helminthes and kmeversibly fmpairs gliose up
+a blocks ACh transmission af the impulses from preganglionic to Postganglionic neurons myoncural junction and causes paralysts of be
+« Inhibits glutamate gated I channel found only in invertebrates
+
+90. Concerning amoebiasis:
+a. It is an infestation caused by the pathogenic protozoan parasite, Entamoeba dispae
+b. Mode of transamissbon from person to person i5 by sexual contact only
+c. The clinical features include constipation, dysentery and blooly stools
+d. Drug of choice for treatment is debrydroemetine
+e. None of the above is correct
+
+91. Which drug should be avoided in a 25-year-old man with HIV infection and a glomerular filtration rate of only 20 mL/min?
+a Tenofovir
+b Abacavir
+c Ritonavir
+d Efavirens
+e Raltrgravir
+
+92 Which of the following Protease Inhibitor does not need to be administered with a boosting agent?
+a. Saquinavir
+b. Ritonavir
+c. Lopinavir
+d. Indinavir
+e. Nelfinavir
+
+
+93, Which one of the following antiretrovirals is associated with lipoatrophy and peripheral neuropathy
+
+a. Stabudine
+b. Lamivudine
+c. Tenofovir
+d. Emiricitabine 
+e. Didanosine
+
+
+94. Which of the following drugs is indicated for the treatment of cither HIV or hepatitis B7
+o Zidovudine =
+b Abacavic
+e. Dolutigravir |
+e Tenofovir |
+e Nevirapine
+93 Which one of the following is 50t a component of first lme HAART
+2 Tesofovir
+b, Zadovudine
+o Indinavie
+4 Nevirpine o
+e Lamividine
+
+94. Which of the following drugs is indicated for the treatment of either HIV or hepatitis B?
+a. Zidovudine
+b. Abacavir 
+c. Dolutigravir 
+d. Tenofovir
+e. Nevirapine
+
+95. Which one of the following is not a component of first line HAART 
+a. Tenofovir
+b. Zidovudine
+c. Indinavir 
+d. Nevirapine
+e. Lamivudine
+
+96. Sofosbuvir useful in Hepatitis C viral infection by
+a. lnhibiting NSSB RNA dependent RNA polymerase
+b. inhibit the viral NSEA phosphoprotein necded for HEV RNA replication =
+c. It inhibit the NS5A/A5 protease needed for viral replication
+d. it prevents viral maturations.
+e. It prevents fusion of the vinis to the cufls -
+
+97. Antifungal agents useful for systemic infection
+a. Griseofulvin
+b. Clotrimazole
+c. Naftifine
+d. Fluconazole
+e. Amphotericin D
+
+98. Amphotericin B 
+a. has a narrow spectrum of activity
+b. is synergistic in combination with kesoconazole: .
+c. interacts with the chalesternl of fungf cell walls esusing leaking in cell constitents 
+d. crosses the blood brain barrier
+e. Is associated with renal impairment
+
+99. A drug has a desirable concentration range of 150-250ug/l. I mean volume of distribution is 072L/Kg. What bolus intravenous dose should be adminstered to a patient weighing 6Skg? (answer in units of mg) :
+a. 7.4 mg
+b. 8.4 mg
+c. 9.4 mg
+d. 10.4 mg 
+e. 1l.4 mg 
+
+100 An initial conc of 12.5 ng/ml arises following the bolus intravenous administration of 200
+ug of a drug. Calculate the Vd of this drug in this patient in units of Liter.
+a. 14 L 
+b. 15 L 
+c. 16 L
+d. 17 L 
+e. 18 L

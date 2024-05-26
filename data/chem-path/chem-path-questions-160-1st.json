@@ -1,0 +1,915 @@
+[
+  {
+    "id": 1,
+    "questionType": "objective",
+    "question": "The Anticoagulant in Lithium Heparin Sample bottle is",
+    "options": ["Iodoacetate", "Oxalate", "Citrate", "Heparin", "Lithium"],
+    "answer": ["Heparin"],
+    "explanation": "The anticoagulant in a Lithium Heparin Sample bottle is Heparin. Heparin prevents blood clotting by inhibiting the activity of thrombin and other clotting factors. It is commonly used in blood collection tubes to preserve the integrity of the blood sample for various laboratory tests. including \n Electrolytes, urea , Creatinine estimation \n Liver function tests \n Uric acid estimation \n Calcium phosphate Assay \n Blood gases",
+    "searchTags": [],
+    "topics": ["Anticoagulant in chemical pathology"]
+  },
+  {
+    "id": 2,
+    "questionType": "objective",
+    "question": "The Anticoagulant in Fluoride Oxalate Bottle is",
+    "options": [
+      "Fluoride",
+      "Ethylene Diamine Tetraacetate",
+      "Acid Citrate",
+      "Oxalate",
+      "Ammonium Chloride"
+    ],
+    "answer": ["Oxalate"],
+    "explanation": "The anticoagulant in a Fluoride Oxalate bottle is Oxalate. The addition of fluoride to oxalate helps preserve glucose levels in the blood by inhibiting glycolysis, making it suitable for glucose analysis. It is particularly used in tests such as glucose tolerance tests.",
+    "searchTags": [],
+    "topics": ["Anticoagulant in chemical pathology"]
+  },
+  {
+    "id": 3,
+    "questionType": "objective",
+    "question": "The following information is important in Request form completion.",
+    "options": [
+      "Name of Patient",
+      "Patient's Dietary Preference",
+      "Educational Background Of Patient",
+      "Type of attire patient is wearing",
+      "Presence of Tribal mark on Patient's face"
+    ],
+    "answer": ["Name of Patient"],
+    "explanation": "As a chemical pathologist, obtaining the correct information in the request form is crucial. The name of the patient is a fundamental detail for accurate sample identification and processing.",
+    "searchTags": [
+      "Request Form",
+      "Patient Information",
+      "Sample Identification"
+    ],
+    "topics": ["Request form and information completion"]
+  },
+  {
+    "id": 4,
+    "questionType": "objective",
+    "question": "Vitamin B12 is maximally absorbed in",
+    "options": [
+      "The duodenum",
+      "Stomach",
+      "Sigmoid colon",
+      "Colorectal junction",
+      "Terminal ileum"
+    ],
+    "answer": ["Terminal ileum"],
+    "explanation img url": "https://cdn.lecturio.com/assets/Absorption-transport-and-metabolism-of-vitamin-B12.png",
+    "explanation": "The absorbtion of vitamin B12 occurs in the terminal ileum bound to Intrincic factor which then disociates as it enters the mucosal epithelial cells. The released B12 then binds to transcobalamin II, transported across the cell membrane and is released into the plasma of the mucosal capillaries",
+    "searchTags": [
+      "Vitamin B12 Absorption",
+      "Terminal Ileum",
+      "Nutritional Assessment"
+    ],
+    "topics": ["IRON, VIT B12, FOLATE METABOLISM"]
+  },
+  {
+    "id": 5,
+    "questionType": "objective",
+    "question": "Vitamin B12 is transported in the Plasma bound to",
+    "options": [
+      "Transferrin.",
+      "Thyroxine Binding Globulin.",
+      "Transcobalamin",
+      "Transfyrin.",
+      "Ferritin."
+    ],
+    "answer": ["Transcobalamin"],
+    "explanation": "Vitamin B12 is transported in the plasma bound to Transcobalamin and absorbed bound to Intrincic factor",
+    "searchTags": ["Vitamin B12", "Transport", "Transcobalamin"],
+    "topics": ["IRON, VIT B12, FOLATE METABOLISM"]
+  },
+  {
+    "id": 6,
+    "questionType": "objective",
+    "question": "The following Enhance iron Absorption.",
+    "options": [
+      "Phosphates.",
+      "Phytates.",
+      "Acidic PH.",
+      "Alkaline PH.",
+      "Iron overload."
+    ],
+    "answer": ["Acidic PH."],
+    "explanation": "Factors Enhanching iron absorption include \n1. Acidic PH \n2. Vitamin C \n3. Glucose, Fructose \n4. Iron deficiency state",
+    "searchTags": ["Iron Absorption", "Vitamin C", "Nutritional Assessment"],
+    "topics": ["IRON, VIT B12, FOLATE METABOLISM"]
+  },
+  {
+    "id": 7,
+    "questionType": "objective",
+    "question": "Iron is maximally absorbed in the",
+    "options": ["Caecum", "Ileum", "Stomach", "Duodenum", "Sigmoid colon"],
+    "answer": ["Duodenum"],
+    "explanation": "Iron is maximally absorbed in the duodenum and upper jejunum",
+    "searchTags": ["Iron Absorption", "Duodenum", "Iron Disorders"],
+    "topics": ["IRON, VIT B12, FOLATE METABOLISM"]
+  },
+  {
+    "id": 8,
+    "questionType": "objective",
+    "question": "The Following is a test of renal glomerular function.",
+    "options": [
+      "Urine specific Gravity.",
+      "Urine Osmolality.",
+      "Creatinine Clearance.",
+      "Xylose Absorption Test.",
+      "Ammonium Chloride test."
+    ],
+    "answer": ["Creatinine Clearance."],
+    "explanation": "Renal glumeruli function test include Creatine clearance, inulin clearance, cystatin c estimation",
+    "searchTags": [
+      "Renal Glomerular Function",
+      "Creatinine Clearance",
+      "Kidney Function Tests"
+    ],
+    "topics": ["Renal Chemical Pathology I"]
+  },
+  {
+    "id": 9,
+    "questionType": "objective",
+    "question": "The following is a test of renal tubular function.",
+    "options": [
+      "Cystatin C estimation.",
+      "Inulin clearance.",
+      "Urine Osmolality.",
+      "Suppression test.",
+      "Glucagon test."
+    ],
+    "answer": ["Urine Osmolality."],
+    "explanation": "Renal Tubular function test include Urine specific gravity test, urine osmolality test, Ammonium chloride test ,Water deprivation test",
+    "searchTags": [
+      "Renal Tubular Function",
+      "Urine Osmolality",
+      "Kidney Function Tests"
+    ],
+    "topics": ["Renal Chemical Pathology I"]
+  },
+  {
+    "id": 10,
+    "questionType": "objective",
+    "question": "Urea reduction ratio is useful in",
+    "options": [
+      "Determining of Renal dialysis done in a patient.",
+      "Estimating Glomerular rate.",
+      "Estimation of Creatinine Clearance.",
+      "Determination of Albumin Creatinine ratio.",
+      "Estimation of Fractional excretion of sodium."
+    ],
+    "answer": ["Determining of Renal dialysis done in a patient."],
+    "explanation": "From a chemical pathology standpoint, the Urea Reduction Ratio is useful in determining the effectiveness of renal dialysis in a patient. It assesses the reduction in urea levels during dialysis sessions.",
+    "searchTags": [
+      "Urea Reduction Ratio",
+      "Renal Dialysis",
+      "Kidney Function Tests"
+    ],
+    "topics": ["Renal Chemical Pathology I"]
+  },
+  {
+    "id": 11,
+    "questionType": "objective",
+    "question": "The Rate Limiting Step in Haem Synthesis",
+    "options": [
+      "Condensation of Glycine and Succinate to form Aminolaevolunic acid.",
+      "Formation of Copropohyrinogen.",
+      "Formation of Uroporphyrinogen III.",
+      "Formation of Protoporphyrin.",
+      "Formation of Haem."
+    ],
+    "answer": [
+      "Condensation of Glycine and Succinate to form Aminolaevolunic acid."
+    ],
+    "explanation": " the rate-limiting step in Haem Synthesis involves the condensation of glycine and succinate to form Aminolaevulinic acid. This step is a crucial regulatory point in the synthesis of heme.",
+    "searchTags": [
+      "Haem Synthesis",
+      "Rate-Limiting Step",
+      "Chemical Pathology"
+    ],
+    "topics": ["Heam Biosynthesis and Porphyrias"]
+  },
+  {
+    "id": 12,
+    "questionType": "objective",
+    "question": "Folic acid is present in Humans as",
+    "options": [
+      "Methyl and Formyl tetrahydropteroyl glutamate",
+      "Cyano cobalamin",
+      "Hydoxycobalamin",
+      "Transfertin",
+      "Transcobalamin"
+    ],
+    "answer": ["Methyl and Formyl tetrahydropteroyl glutamate"],
+    "explanation": "The principal folate in food is methyltetrahydrofolate and formyltetrahydrofolate. Folic acid is usually absorbed in the reduced form. Dietary folate are absorbed as 5-methyltetrahydrofolate and as formyltetrahydrofolate. The reduced formyl and methyltetrahydrofolate enter circulation as 5-methyltetrahydrofolate. Zinc deficiency and chronic alcohol ingestion can decrease folate absorption",
+    "searchTags": [
+      "Folic Acid",
+      "Tetrahydropteroyl Glutamate",
+      "Chemical Pathology"
+    ],
+    "topics": ["IRON, VIT B12, FOLATE METABOLISM"]
+  },
+  {
+    "id": 13,
+    "questionType": "objective",
+    "question": "Which of the following is not one of the acute hepatic porphyrias.",
+    "options": [
+      "Porphyria cutanea tarda.",
+      "Acute intermittent Porphyria.",
+      "Hereditary Coproporphyria.",
+      "Variegate porphyria.",
+      "Protoporphyria."
+    ],
+    "answer": ["Protoporphyria."],
+    "explanation": "Acute hepatic porphyrias are also known as neuro-psychotic porphyria. They include 1. Acute intermitent porphyria 2. Hereditary Coproporphyria 3. Variegate porphyria.  Note None acuute protopohyria include 1. Cutaneous hepatic porphyria, 2. Erythropotic protoporphyria 3. Congential porphyria ",
+    "searchTags": [
+      "Hepatic Porphyrias",
+      "Acute Porphyrias",
+      "Chemical Pathology"
+    ],
+    "topics": ["Heam Biosynthesis and Porphyrias"]
+  },
+  {
+    "id": 14,
+    "questionType": "objective",
+    "question": "Iron is Stored in the Body as",
+    "options": [
+      "Ferritin",
+      "Transferrin",
+      "Calcitriol",
+      "Transthyretin",
+      "Prealbumin"
+    ],
+    "answer": ["Ferritin"],
+    "explanation": "Iron is stored in the body as Ferritin and Haemosiderin",
+    "searchTags": ["Iron Storage", "Ferritin", "Iron Metabolism"],
+    "topics": ["IRON, VIT B12, FOLATE METABOLISM"]
+  },
+  {
+    "id": 15,
+    "questionType": "objective",
+    "question": "Sample for electrolyte and urea assay is collected in the following sample bottle.",
+    "options": [
+      "Sodium Fluoride Oxalate",
+      "Universal bottle",
+      "EDTA.",
+      "Lithium Heparin",
+      "Acid Citrate."
+    ],
+    "answer": ["Lithium Heparin"],
+    "explanation": "The anticoagulant in a Lithium Heparin Sample bottle is Heparin. Heparin prevents blood clotting by inhibiting the activity of thrombin and other clotting factors. It is commonly used in blood collection tubes to preserve the integrity of the blood sample for various laboratory tests. including \n Electrolytes, urea , Creatinine estimation \n Liver function tests \n Uric acid estimation \n Calcium phosphate Assay \n Blood gases",
+    "searchTags": [
+      "Sample Collection",
+      "Electrolyte Assay",
+      "Chemical Pathology"
+    ],
+    "topics": [
+      "Specimen collection method in Chemical Pathology",
+      "Anticoagulant in chemical pathology"
+    ]
+  },
+  {
+    "id": 16,
+    "questionType": "objective",
+    "question": "Which two factors are important in regulating both osmolality and blood volume.",
+    "options": [
+      "ADH and aldosterone.",
+      "Thirst and ADH.",
+      "Renin and aldosterone.",
+      "Angiotensin and ADH.",
+      "Angiotensin and aldosterone."
+    ],
+    "answer": ["Thirst and ADH."],
+    "explanation": " both thirst and ADH (Antidiuretic Hormone) are important factors in regulating both osmolality and blood volume. ",
+    "searchTags": [
+      "Osmolality Regulation",
+      "Blood Volume Regulation",
+      "Chemical Pathology"
+    ],
+    "topics": ["WATER BALANCE AND DIFFERENT WATER COMPARTMENTS"]
+  },
+  {
+    "id": 17,
+    "questionType": "objective",
+    "question": "Function of potassium.",
+    "options": [
+      "ADH secretion.",
+      "Regulation of glomerular filtration rate.",
+      "Myocardial contraction and rhythm.",
+      "Renin secretion.",
+      "Transport protein."
+    ],
+    "answer": ["Myocardial contraction and rhythm."],
+    "explanation": "Function of Potassium in the body include \n Regulation of neuromuscular excitablity, \n Contraction of heart, nerves and muscles \n Maintenance of ICF volume and H+ homeostasis. K exit the cell with Cl- when cells swell \n Essenctial for protein synthesis, growth and metabolism processes \n  Acid/base regulation through exchange with H+",
+    "searchTags": [
+      "Potassium Functions",
+      "Myocardial Contraction",
+      "Chemical Pathology"
+    ],
+    "topics": ["POTASSIUM HOMEOSTASIS AND DISORDERS"]
+  },
+  {
+    "id": 18,
+    "questionType": "objective",
+    "question": "Preferred condition for collection and transport of blood for potassium estimation.",
+    "options": [
+      "No anticoagulant, transport at room temperature.",
+      "EDTA anticoagulant, transport at room temperature.",
+      "Heparin anticoagulant, transport on ice.",
+      "Heparin anticoagulant, transport at room temperature.",
+      "Plain bottle, transport in ice."
+    ],
+    "answer": ["Heparin anticoagulant, transport at room temperature."],
+    "explanation": " the preferred condition for the collection and transport of blood for potassium estimation is using Heparin as an anticoagulant and transporting at room temperature. These conditions ensure accurate potassium levels.",
+    "searchTags": [
+      "Potassium Estimation",
+      "Sample Collection",
+      "Chemical Pathology"
+    ],
+    "topics": [
+      "POTASSIUM HOMEOSTASIS AND DISORDERS",
+      "Specimen collection method in Chemical Pathology"
+    ]
+  },
+  {
+    "id": 19,
+    "questionType": "objective",
+    "question": "The most abundant adrenal androgens.",
+    "options": [
+      "Testosterone and dihydrotestosterone.",
+      "DHEA and DHEAS.",
+      "Androstenedione and pregnenolone.",
+      "Oestradiol and 17-0H-progesterone.",
+      "Progesterone and 17-0H-progesterone."
+    ],
+    "answer": ["DHEA and DHEAS."],
+    "explanation": " The most abundant adrenal androgens are DHEA (Dehydroepiandrosterone) and DHEAS (Dehydroepiandrosterone sulfate). ",
+    "searchTags": ["Adrenal Androgens", "DHEA", "Chemical Pathology"],
+    "topics": ["Adrenocortical Hormones and Disorders"]
+  },
+  {
+    "id": 20,
+    "questionType": "objective",
+    "question": "The branched-chain amino acid in maple syrup urine disease.",
+    "options": ["Tyrosine.", "Glycine.", "Leucine.", "Lysine.", "Tryptophan."],
+    "answer": ["Leucine."],
+    "explanation": " The branched-chain amino acid involved in maple syrup urine disease is Leucine. ",
+    "searchTags": [
+      "Maple Syrup Urine Disease",
+      "Branched-Chain Amino Acids",
+      "Chemical Pathology"
+    ],
+    "topics": ["INBORN ERRORS OF METABOLISM"]
+  },
+  {
+    "id": 21,
+    "questionType": "objective",
+    "question": "Post renal causes of renal failure",
+    "options": [
+      "Renal hypoperfusion",
+      "Renal artery stenosis",
+      "Schistosoma infestation",
+      "Posterior urethral valve obstruction",
+      "Massive intravascular coagulation"
+    ],
+    "answer": ["Posterior urethral valve obstruction"],
+    "explanation": " post-renal causes of renal failure include posterior urethral valve obstruction. ",
+    "searchTags": ["Renal Failure", "Post-Renal Causes", "Chemical Pathology"],
+    "topics": ["Renal Failure in Chemical Pathology"]
+  },
+  {
+    "id": 22,
+    "questionType": "objective",
+    "question": "Exocrine function of the kidney",
+    "options": [
+      "Renin production",
+      "Erythropoietin production",
+      "Synthesis of vitamin B 12",
+      "Electrolyte balance",
+      "Ferritin production"
+    ],
+    "answer": ["Electrolyte balance"],
+    "explanation": "",
+    "searchTags": ["Kidney Exocrine Function", "Chemical Pathology"],
+    "topics": ["Kidney Function in Chemical Pathology"]
+  },
+  {
+    "id": 23,
+    "questionType": "objective",
+    "question": "The following are raised in nephrotic syndrome except",
+    "options": [
+      "Total cholesterol",
+      "Urine albumin",
+      "Serum triglyceride",
+      "Serum HDL cholesterol",
+      "Plasma sodium"
+    ],
+    "answer": ["Serum HDL cholesterol"],
+    "explanation": "Clinically Nephrotic syndrome is characterised by 1. Massive proteinuria >3.5g/24hr 2. Edema 3. Hyperlipidemia +/- Lipiduria : reduced HDL, increased TG, increased total cholesterol, increased  LDL, 4. GFR is slighlty depressed or might be normal 5. Hypoalbuminaemia ",
+    "searchTags": [
+      "Nephrotic Syndrome",
+      "Biochemical Changes",
+      "Chemical Pathology"
+    ],
+    "topics": ["Nephrotic Syndrome in Chemical Pathology"]
+  },
+  {
+    "id": 24,
+    "questionType": "objective",
+    "question": "The following are present in acute nephritic syndrome except.",
+    "options": [
+      "Proteinuria",
+      "Hypertension",
+      "Hematuria",
+      "Ascites",
+      "Hyperkalemia"
+    ],
+    "answer": ["Ascites"],
+    "explanation": " Acute nephritic syndrome or Acute Glomerulonephrities is characterized by Hematuria, Proteinuria, Hypertension in the presence of reduced GFR, hyperkalaemia, dilutional hyponatriemia, urea level and creatinine level are elevated due to reduced GFR",
+    "searchTags": [
+      "Acute Nephritic Syndrome",
+      "Clinical Manifestations",
+      "Chemical Pathology"
+    ],
+    "topics": ["Nephritic Syndrome in Chemical Pathology"]
+  },
+  {
+    "id": 25,
+    "questionType": "objective",
+    "question": "Regarding nephrotic syndrome",
+    "options": [
+      "Oedema is explained by hypoglobulinemia",
+      "Oedema is explained by decreased intravascular colloid osmotic pressure",
+      "Hypoalbuminemia is caused by reduced synthesis",
+      "Hypoalbuminemia is caused by reduced protein excretion",
+      "It is a tubular problem"
+    ],
+    "answer": [
+      "Oedema is explained by decreased intravascular colloid osmotic pressure"
+    ],
+    "explanation": " oedema in nephrotic syndrome is explained by decreased intravascular colloid osmotic pressure. ",
+    "searchTags": [
+      "Nephrotic Syndrome",
+      "Pathophysiology",
+      "Chemical Pathology"
+    ],
+    "topics": ["Nephrotic Syndrome in Chemical Pathology"]
+  },
+  {
+    "id": 26,
+    "questionType": "objective",
+    "question": "Acute tubular necrosis is associated with",
+    "options": [
+      "Acidosis and hypophosphatemia",
+      "Acidosis and hypocalcemia",
+      "Acidosis and hypokalemia",
+      "Acidosis and hyperkalemia",
+      "Acidosis and hyperphosphatemia"
+    ],
+    "answer": ["Acidosis and hyperkalemia"],
+    "explanation": "Acute tubular necrosis is associated with acidosis and hyperkalemia",
+    "searchTags": [
+      "Acute Tubular Necrosis",
+      "Electrolyte Imbalances",
+      "Chemical Pathology"
+    ],
+    "topics": ["Tubular Disorders in Chemical Pathology"]
+  },
+  {
+    "id": 27,
+    "questionType": "objective",
+    "question": "Baroreceptors",
+    "options": [
+      "Sense volume changes",
+      "Originate from the hypothalamus",
+      "Originate from anterior pituitary",
+      "Stimulate osmoreceptors",
+      "Sense changes in plasma osmolality"
+    ],
+    "answer": ["Sense volume changes"],
+    "explanation": " baroreceptors sense changes in plasma osmolality. ",
+    "searchTags": ["Baroreceptors", "Plasma Osmolality", "Chemical Pathology"],
+    "topics": ["Neuroendocrine Regulation in Chemical Pathology"]
+  },
+  {
+    "id": 28,
+    "questionType": "objective",
+    "question": "The following are causes of hypernatremia except.",
+    "options": [
+      "Sodium-containing drugs",
+      "Diabetes insipidus",
+      "Severe burns",
+      "Hyperaldosteronism",
+      "Nephrotic syndrome"
+    ],
+    "answer": ["Diabetes insipidus"],
+    "explanation": "Nephrotic syndrome causes Hyponatriemia Causes of hypernatremia   EXCESS WATER LOSS\tDiabetes insipidus, renal tubular disorders, prolonged diarrhea, profuse sweating, severe burns\tDECREASED WATER INTAKE\tOlder persons, infants, mental impairment\tINCREASED INTAKE OR RETENTION\tHyperaldosteronism, sodium bicarbonate excess, dialysis fluid excess, high sodium artificial milk ingestion in infants, drugs containing sodium eg carbenicillin, hypertonic saline administration",
+    "searchTags": ["Hypernatremia", "Causes", "Chemical Pathology"],
+    "topics": ["Sodium Balance in Chemical Pathology"]
+  },
+  {
+    "id": 29,
+    "questionType": "objective",
+    "question": "In a healthy individual, body water is lost through",
+    "options": [
+      "Vomiting",
+      "Diarrhea",
+      "Renal tubular defect",
+      "Fistulae",
+      "Sweat"
+    ],
+    "answer": ["Sweat"],
+    "explanation": " in a healthy individual, body water is lost through sweat.",
+    "searchTags": ["Water Loss", "Hydration Status", "Chemical Pathology"],
+    "topics": ["Fluid Balance in Chemical Pathology"]
+  },
+  {
+    "id": 30,
+    "questionType": "objective",
+    "question": "Hyponatremia with hypovolemia may occur in the following except",
+    "options": [
+      "Congestive heart failure",
+      "Liver cirrhosis",
+      "Nephrotic syndrome",
+      "Chronic renal failure",
+      "Adrenal insufficiency"
+    ],
+    "answer": ["Nephrotic syndrome"],
+    "explanation": "Hyponatremia with hypovolemia is commonly associated with conditions causing increased sodium loss or water imbalance. Congestive heart failure, liver cirrhosis, and nephrotic syndrome typically lead to increased water retention rather than hypovolemia. Chronic renal failure may present with both increased water retention and potential hypovolemia. Adrenal insufficiency, such as hypoaldosteronism, can cause hyponatremia due to increased sodium loss and potential hypovolemia. Therefore, among the given options, 'Nephrotic syndrome' is less likely to cause hyponatremia with hypovolemia.",
+    "searchTags": ["Hyponatremia", "Hypovolemia", "Chemical Pathology"],
+    "topics": ["Sodium Balance in Chemical Pathology"]
+  },
+  {
+    "id": 31,
+    "questionType": "objective",
+    "question": "Hypokalemia due to redistribution between ECF and ICF occurs in the following except.",
+    "options": [
+      "Insulin therapy",
+      "Salbutamol therapy",
+      "Paralytic Ileus",
+      "Familial periodic paralysis",
+      "and D only"
+    ],
+    "answer": ["Paralytic Ileus"],
+    "explanation": " hypokalemia due to redistribution between ECF and ICF occurs in conditions like insulin therapy, salbutamol therapy, and paralytic ileus. Familial periodic paralysis is not typically associated with this type of hypokalemia.",
+    "searchTags": ["Hypokalemia", "Redistribution", "Chemical Pathology"],
+    "topics": ["Potassium Balance in Chemical Pathology"]
+  },
+  {
+    "id": 32,
+    "questionType": "objective",
+    "question": "The following are seen in metabolic acidosis except",
+    "options": [
+      "PH <7.35",
+      "Compensatory decrease in PCO2",
+      "Retention of bicarbonate",
+      "Could be due to profuse diarrhoea",
+      "Hypoventilation"
+    ],
+    "answer": ["Hypoventilation"],
+    "explanation": " metabolic acidosis is associated with a compensatory decrease in PCO2. Recognizing the acid-base disturbances is crucial for diagnosing and managing metabolic acidosis.",
+    "searchTags": [
+      "Metabolic Acidosis",
+      "Acid-Base Balance",
+      "Chemical Pathology"
+    ],
+    "topics": ["Acid-Base Physiology in Chemical Pathology"]
+  },
+  {
+    "id": 33,
+    "questionType": "objective",
+    "question": "Which of these hormones is not involved in protein synthesis?",
+    "options": [
+      "Thyroxine",
+      "Growth hormone",
+      "Insulin",
+      "Progesterone",
+      "Testosterone"
+    ],
+    "answer": ["Progesterone"],
+    "explanation": "Hormones involved in protein synthesis include Thyroxine, Growth hormone, Insulin, Testosterone",
+    "searchTags": ["Hormones", "Protein Synthesis", "Chemical Pathology"],
+    "topics": ["Endocrine Function in Chemical Pathology"]
+  },
+  {
+    "id": 34,
+    "questionType": "objective",
+    "question": "Negative nitrogen balance can occur",
+    "options": [
+      "Pregnancy",
+      "Recovery from a major illness",
+      "Active growth in adolescents",
+      "Exercise",
+      "Continual fever"
+    ],
+    "answer": ["Continual fever"],
+    "explanation": " Negative nitrogen balance can occur in conditions that causes excessive tissue destruction like continual fever, Burns, Wasting disease, Starvation ",
+    "searchTags": ["Nitrogen Balance", "Metabolism", "Chemical Pathology"],
+    "topics": ["Nitrogen Metabolism in Chemical Pathology"]
+  },
+  {
+    "id": 35,
+    "questionType": "objective",
+    "question": "Which of the following statements is not true concerning lipoproteins?",
+    "options": [
+      "They are complexes Of proteins and lipids.",
+      "They are not important in the etiology of cardiovascular diseases.",
+      "They transport cholesterol and triglyceride in the blood.",
+      "They are differentiated by their apoprotein content.",
+      "They transport phospholipids in the blood."
+    ],
+    "answer": [
+      "They are not important in the etiology of cardiovascular diseases."
+    ],
+    "explanation": " lipoproteins play a crucial role in the etiology of cardiovascular diseases. ",
+    "searchTags": [
+      "Lipoproteins",
+      "Cardiovascular Diseases",
+      "Chemical Pathology"
+    ],
+    "topics": ["Lipid Metabolism in Chemical Pathology"]
+  },
+  {
+    "id": 36,
+    "questionType": "objective",
+    "question": "Indications for Renal Replacement Therapy include all the following except:",
+    "options": [
+      "Prolonged oliguria.",
+      "Polyuria and polydipsia",
+      "Reduction in GFR.",
+      "Progressive increase in serum creatinine.",
+      "Progressive increase in urea."
+    ],
+    "answer": ["Polyuria and polydipsia"],
+    "explanation": " indications for renal replacement therapy do not typically include polyuria.",
+    "searchTags": [
+      "Renal Replacement Therapy",
+      "Renal Failure",
+      "Chemical Pathology"
+    ],
+    "topics": ["Renal Function in Chemical Pathology"]
+  },
+  {
+    "id": 37,
+    "questionType": "objective",
+    "question": "Reasons for exclusion during pre-operative assessment of renal transplant patients include:",
+    "options": [
+      "Body mass index < 40kg/m2",
+      "Upper respiratory tract infection.",
+      "Diabetes mellitus.",
+      "Compatible Human Leucocyte antigen tissue typing.",
+      "Chronic infection."
+    ],
+    "answer": ["Chronic infection."],
+    "explanation": " diabetes mellitus is a reason for exclusion during pre-operative assessment of renal transplant patients.",
+    "searchTags": [
+      "Renal Transplantation",
+      "Pre-operative Assessment",
+      "Chemical Pathology"
+    ],
+    "topics": ["Renal Transplantation in Chemical Pathology"]
+  },
+  {
+    "id": 38,
+    "questionType": "objective",
+    "question": "Which of these analytes is not affected by age?",
+    "options": [
+      "Alkaline phosphatase",
+      "Insulin",
+      "Lipid profile",
+      "Uric acid",
+      "Creatinine."
+    ],
+    "answer": ["Insulin"],
+    "explanation": "Insulin levels is not affected by age",
+    "searchTags": [
+      "Age-related Changes",
+      "Laboratory Analyses",
+      "Chemical Pathology"
+    ],
+    "topics": ["Age-related Changes in Chemical Pathology"]
+  },
+  {
+    "id": 39,
+    "questionType": "objective",
+    "question": "The functional unit of the liver is:",
+    "options": [
+      "The hepatic artery.",
+      "The portal vein.",
+      "The bile ducts",
+      "The acinus",
+      "Central hepatic vein."
+    ],
+    "answer": ["The acinus"],
+    "explanation": " The functional unit of the liver is the acinus. ",
+    "searchTags": ["Liver Function", "Anatomy", "Chemical Pathology"],
+    "topics": ["CHEMICAL PATHOLOGY OF THE LIVER"]
+  },
+  {
+    "id": 40,
+    "questionType": "objective",
+    "question": "Which of the following organelles in the hepatocyte is matched with its function?",
+    "options": [
+      "Mitochondria -- Kupffer cells",
+      "Rough endoplasmic reticulum -- Lipid synthesis.",
+      "Smooth endoplasmic reticulum -- Protein synthesis.",
+      "Peroxisomes oxidation -- of fatty acids.",
+      "Golgi apparatus --β-thanol metabolism."
+    ],
+    "answer": ["Peroxisomes oxidation -- of fatty acids."],
+    "explanation": " the smooth endoplasmic reticulum in the hepatocyte is associated with protein synthesis.",
+    "searchTags": [
+      "Hepatocyte Organelles",
+      "Cellular Function",
+      "Chemical Pathology"
+    ],
+    "topics": ["CHEMICAL PATHOLOGY OF THE LIVER"]
+  },
+  {
+    "id": 41,
+    "questionType": "objective",
+    "question": "Which of the following is not a function of the liver?",
+    "options": [
+      "Deamination of amino acids.",
+      "Synthesis of cholesterol.",
+      "Elimination of urea from the body",
+      "Gluconeogenesis.",
+      "Glycogenolysis."
+    ],
+    "answer": ["Elimination of urea from the body"],
+    "explanation": " the liver does not synthesize cholesterol. ",
+    "searchTags": [
+      "Liver Functions",
+      "Cholesterol Synthesis",
+      "Chemical Pathology"
+    ],
+    "topics": ["Liver Function in Chemical Pathology"]
+  },
+  {
+    "id": 42,
+    "questionType": "objective",
+    "question": "Concerning Jaundice;",
+    "options": [
+      "It is apparent when plasma bilirubin is > 2mg/dl.",
+      "Hemolytic anemia is a cause of hepatic jaundice.",
+      "Physiological jaundice is usually due to hemolytic disease of the newborn.",
+      "Consumption of breast milk is a cause of pathological jaundice.",
+      "Immature hepatic handling of bilirubin can lead to pathological jaundice."
+    ],
+    "answer": ["It is apparent when plasma bilirubin is > 2mg/dl."],
+    "explanation": " immature hepatic handling of bilirubin can lead to pathological jaundice. ",
+    "searchTags": ["Jaundice", "Bilirubin Handling", "Chemical Pathology"],
+    "topics": ["Jaundice Types in Chemical Pathology"]
+  },
+  {
+    "id": 43,
+    "questionType": "objective",
+    "question": "Factors that exacerbate the severity of jaundice in neonates include:",
+    "options": [
+      "Hypoalbuminemia.",
+      "Metabolic alkalosis.",
+      "Paracetamol injection.",
+      "Drugs that prevent hemolysis.",
+      "Paraproteinemias."
+    ],
+    "answer": ["Paracetamol injection."],
+    "explanation": " factors like paracetamol injection can exacerbate jaundice severity in neonates. Recognizing contributing factors is essential for managing neonatal jaundice.",
+    "searchTags": [
+      "Neonatal Jaundice",
+      "Jaundice Severity",
+      "Chemical Pathology"
+    ],
+    "topics": ["Jaundice in Neonates"]
+  },
+  {
+    "id": 44,
+    "questionType": "objective",
+    "question": "Biochemical features of hepato-renal syndrome include:",
+    "options": [
+      "Hyperkalemia.",
+      "Metabolic acidosis.",
+      "Metabolic alkalosis.",
+      "Increase in urine Osmolality.",
+      "Decrease in urine Osmolality."
+    ],
+    "answer": ["Metabolic acidosis."],
+    "explanation": " hepato-renal syndrome is associated with metabolic acidosis. Recognizing biochemical features is crucial for diagnosing and managing this syndrome.",
+    "searchTags": [
+      "Hepato-Renal Syndrome",
+      "Biochemical Features",
+      "Chemical Pathology"
+    ],
+    "topics": ["Hepato-Renal Interaction in Chemical Pathology"]
+  },
+  {
+    "id": 45,
+    "questionType": "objective",
+    "question": "Factors that increase enzyme activity in plasma are:",
+    "options": [
+      "Low cell turnover.",
+      "Reduction in enzyme synthesis.",
+      "Decreased clearance from plasma.",
+      "Congenital deficiencies.",
+      "Presence of inherited variants."
+    ],
+    "answer": ["Low cell turnover."],
+    "explanation": " decreased clearance from plasma can increase enzyme activity. ",
+    "searchTags": ["Enzyme Activity", "Plasma Clearance", "Chemical Pathology"],
+    "topics": ["Enzyme Kinetics in Chemical Pathology"]
+  },
+  {
+    "id": 46,
+    "questionType": "objective",
+    "question": "Enzymes increase reaction rates by one of the following mechanisms:",
+    "options": [
+      "Inducing deactivation of the substrate.",
+      "Neutralizing favorable charged species of the activated state.",
+      "Providing a chemical group to break bonds.",
+      "Destabilizing the transition state structure.",
+      "Increasing the reaction temperature above WC."
+    ],
+    "answer": ["Providing a chemical group to break bonds."],
+    "explanation": " enzymes increase reaction rates by destabilizing the transition state structure. ",
+    "searchTags": [
+      "Enzyme Mechanisms",
+      "Biochemical Reactions",
+      "Chemical Pathology"
+    ],
+    "topics": ["Enzyme Catalysis in Chemical Pathology"]
+  },
+  {
+    "id": 47,
+    "questionType": "objective",
+    "question": "Enzymes increased in circulation in acute liver disease include:",
+    "options": [
+      "Alkaline phosphatase.",
+      "Alanine aminotransferase.",
+      "Gamma glutamyl transferase.",
+      "Glutamate dehydrogenase.",
+      "5' Nucleotidase."
+    ],
+    "answer": ["Alkaline phosphatase."],
+    "explanation": " gamma glutamyl transferase is increased in circulation in acute liver disease. Recognizing enzyme patterns is essential for diagnosing liver disorders.",
+    "searchTags": [
+      "Liver Enzymes",
+      "Acute Liver Disease",
+      "Chemical Pathology"
+    ],
+    "topics": ["Enzyme Markers in Liver Diseases"]
+  },
+  {
+    "id": 48,
+    "questionType": "objective",
+    "question": "Controllable non-preanalytical variables include all but one of the following:",
+    "options": [
+      "Travel.",
+      "Diet.",
+      "Smoking.",
+      "Alcohol intake.",
+      "Pregnancy."
+    ],
+    "answer": ["Pregnancy."],
+    "explanation": " pregnancy is not a controllable non-preanalytical variable. ",
+    "searchTags": [
+      "Preanalytical Variables",
+      "Laboratory Testing",
+      "Chemical Pathology"
+    ],
+    "topics": ["Quality Assurance in Laboratory Testing"]
+  },
+  {
+    "id": 49,
+    "questionType": "objective",
+    "question": "World Health Organization criteria for the diagnosis of metabolic syndrome include:",
+    "options": [
+      "Body mass index 30kg/m2.",
+      "Blood pressure of 130/80mmHg.",
+      "Microalbuminuria.",
+      "Normal plasma insulin.",
+      "Fasting plasma glucose of 90mg/dl."
+    ],
+    "answer": ["Microalbuminuria."],
+    "explanation": " the World Health Organization includes microalbuminuria in the criteria for the diagnosis of metabolic syndrome. ",
+    "searchTags": [
+      "Metabolic Syndrome",
+      "Diagnostic Criteria",
+      "Chemical Pathology"
+    ],
+    "topics": ["Diagnosis of Metabolic Syndrome"]
+  },
+  {
+    "id": 50,
+    "questionType": "objective",
+    "question": "Which of the following body fluids is commonly used for drugs of abuse testing?",
+    "options": ["Urine.", "Saliva.", "Plasma.", "Capillary blood.", "Stool."],
+    "answer": ["Urine."],
+    "explanation": " urine is commonly used for drugs of abuse testing. ",
+    "searchTags": [
+      "Drugs of Abuse Testing",
+      "Toxicology Screening",
+      "Chemical Pathology"
+    ],
+    "topics": ["Drug Testing in Chemical Pathology"]
+  }
+]

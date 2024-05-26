@@ -1,0 +1,864 @@
+{
+    "Questions": [
+        {
+            "id": 1,
+            "question": "The following is/are true about endothelial cells",
+            "options": [
+                "They linked by gap junctions",
+                "They produce factors that control coagulation of blood",
+                "They become less permeable under the influence of histamine",
+                "They block passage of neutrophils in acute inflammations",
+                "They secrete vasoconstrictory substances"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "Elastic arteries do not include the following except",
+            "options": [
+                "Aorta",
+                "Common carotid artery",
+                "Subclavian artery",
+                "Axillary artery",
+                "Common iliac artery"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 3,
+            "question": "The following is/are incorrect about atheroma except",
+            "options": [
+                "The intima is infiltrated with fat and collagen",
+                "It leads to widening of arterial lumen",
+                "Leads to excessive blood flow",
+                "Can induce coagulation of blood",
+                "Leads to death of the involved tissue"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 4,
+            "question": "The following is/are incorrect about terminal arterioles",
+            "options": [
+                "They are less than 50μm in diameter",
+                "They have a thin layer of muscle in their walls",
+                "They give off collateral branches",
+                "Adventitia is formed by elastic fibres",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 5,
+            "question": "Valves is/are present in",
+            "options": [
+                "Small veins",
+                "Veins within vertebral canal",
+                "Venae cavae",
+                "veins within the cranial cavity",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 6,
+            "question": "Which of the following is/are incorrect about venules?",
+            "options": [
+                "They are 20 to 30μm in diameter",
+                "Pericytes may be present outside basal lamina",
+                "Their walls are permeable ",
+                "Exchanges between blood surrounding tissues can take place",
+                "Lymphocytes pass through them"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 7,
+            "question": "The following is/are true about capillaries",
+            "options": [
+                "Muscular capillaries have a thick muscular wall",
+                "Endothelial cells of continuous capillaries contain numerous pinocytotic vesicles in the cytoplasm",
+                "Endothelial cells of continous capillaries contain numerous caveolae on the surface",
+                "Muscular capillaries are seen in the pancreas",
+                "Fenestrated capillaries are seen in the lungs"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 8,
+            "question": "Sinusoids are found in the following exerpt",
+            "options": [
+                "Liver",
+                "Adrenal cortex",
+                "Hypopysis cerebri",
+                "Spleen",
+                "Carotid body"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 9,
+            "question": "Control of blood suppy to smaller areas of tissues is/are effected by",
+            "options": [
+                "Contraction/relaxation of smooth muscles in arterial walls",
+                "Arteriovenous anastomosis",
+                "Precapillary sphincter",
+                "Thoroughfare channels",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 10,
+            "question": "Lymph capillaries are present in ",
+            "options": [
+                "Cornea",
+                "Splenic pulp",
+                "Bone marrow",
+                "Nails",
+                "Hair"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 11,
+            "question": "About lymph nodes",
+            "options": [
+                "Lymphatic nodules are composed of T-lymphocytes",
+                "Several efferent lymph vessels are present",
+                "Inner zone is densely packed",
+                "Outer zone is arranged in form of branching and anatomosing cords",
+                "They are divided into several septa by lobules"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 12,
+            "question": "About lymphocytes",
+            "options": [
+                "T lymphocytes mature into plasma cells",
+                "B lymphocytes are present in the paracortex",
+                "T lymphocytes give rise to memory cells",
+                "T lymphocytes are derived in the thymus",
+                "T lymphocytes produce antibodies"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 13,
+            "question": "About T lymphocytes",
+            "options": [
+                "Helper T cells stimulate production of antibodies",
+                "Cytotoxic T cells synthesize and releas lympokines",
+                "Delayed type hypersensitivity related T cells attck and release other cells",
+                "Suppressor T cells promotes the activites of B lymphocytes",
+                "Natural killer cells stimulate macrophages to destroy antigens"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 14,
+            "question": "About cytokines",
+            "options": [
+                "M-CSF are produced by endothelium",
+                "G-CSF are produced by fibroblast",
+                "IL-6 are produced by monocytes",
+                "IL-3 are produced by T-lymphocytes",
+                "IL-1 are produced by T-lymphocytes"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 15,
+            "question": "which of the following is/are correct about lymphokines?",
+            "options": [
+                "IL-2 are monocytes activators",
+                "IL-3 are megakaryocytes precursors",
+                "IL-5 are basophil precursors",
+                "IL-6 are eosinophil precursors",
+                "IL-8 are monocyte precursors"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 16,
+            "question": "About the epithelial lining of the gastrointestinal tract",
+            "options": [
+                "Villi are made up of core of lamina propria",
+                "Microvilli are made up of core of lamina propria",
+                "Crypts are deepnings into the lamina propria",
+                "They are generally lined by simple cuboidal epithelium",
+                "All are correct"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 17,
+            "question": "About the innervation of the gastrointestinal tract",
+            "options": [
+                "Auerbachs plexus lies in the submucosa",
+                "Pulsivian plexus lies in the lamina propria",
+                "Decrusia plexus lies in the serosa",
+                "Meissner plexus lies in the muscular layer",
+                "Gausian plexus lies in the muscularis mucosa"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 18,
+            "question": "The following is/are not incorrect about the main gastric glands except",
+            "options": [
+                "They are present in the pyloric region",
+                "They are simple or branched tubular",
+                "They lie perpendicular to the mucosal surface",
+                "oxyntic cells secrete pepsin",
+                "chief cells secrete hydrochloric acid"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 19,
+            "question": "The following is/are not incorrect about the secretions of the exocrine pancreas except",
+            "options": [
+                "Watery secretion is stimulated by secretin",
+                "Watery secretion contains lipase",
+                "Thick secretion is stimulated by pancreozymin",
+                "Thick secretion contain bicarbonate",
+                "None of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 20,
+            "question": "The following is/are not incorrect about the islets of langerhans except",
+            "options": [
+                "Numerous at the head of pancreas",
+                "Alpha cells from about 70%",
+                "Beta cell form about 20%",
+                "Delta cells stain with aldehyde fuchsin",
+                "Beta cells are argyrophils"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 21,
+            "question": "About the gall bladder",
+            "options": [
+                "It contains numerous goblet cells",
+                "It is lined by simple cuboidal epithelium",
+                "It produces bile",
+                "Inflammation is called cholelithiasis",
+                "Formation of gall stones is called cholecystitis"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 22,
+            "question": "About the liver",
+            "options": [
+                "The central vein is at the center of the portal lobule",
+                "Branch of portal vein is at the center of hepatic lobules",
+                "Portal acinus consist of area supplied by one hepatic arteriole",
+                "Covered by Glisson's capsule",
+                "Adrenal cortex",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 23,
+            "question": "About the thymus",
+            "options": [
+                "It is primary lymphoid organ",
+                "Epitheliocytes are derived from third pharyngeal pouch",
+                "Thymulin stimulates production of cytotoxic T cells",
+                "Thymopoietin enhances the function of T cells",
+                "Thymosin beta 4 stimulates lymphocyte production"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 24,
+            "question": "Gut associated lymphoid tissues do not include the following except",
+            "options": [
+                "palatine tonsils",
+                "Pharyngeal tonsils",
+                "Lingual tonsils",
+                "Tubal tonsila",
+                "Peyer's patches"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 25,
+            "question": "About the spleen",
+            "options": [
+                "Most lymphocytes in the white pulp are B-lymphocytes",
+                "Lymphatic nodules of white pulp contain T-lymphocytes",
+                "It is the center of Hematopoiesis in adults",
+                "Circulation in the red pulp is 'closed circulation'",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 26,
+            "question": "About the heart",
+            "options": [
+                "The endocardium secretes natriuretic hormones",
+                "The valves are made up of core of dense fibrous tissues",
+                "Nodal myocytes are multinucleated",
+                "conduction is faster in nodal myocytes compared to cardiac myocytes",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 27,
+            "question": "Cluter designation molecules associated with human immunodeficiency virus do not include the following except",
+            "options": [
+                "CD-1",
+                "CD-2",
+                "CD-3",
+                "CD-4",
+                "CD-5"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 28,
+            "question": "which of the following is incorrect about muscle?",
+            "options": [
+                "It is derived from the ectoderm",
+                "It is derived from the endoderm",
+                "It is derived from the mesoderm",
+                "It is both ectodermal and mesodermal in origin",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 29,
+            "question": "Choose as appropriate",
+            "options": [
+                "muscle are made up of multicellular contractile cells",
+                "actin is not a contractile proteins",
+                "myosin is an example of contractile proteins",
+                "contraction occurs following interaction between the contractile proteins",
+                "Tropinin is the most important protein during contraction"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 30,
+            "question": "Histologically, muscle is classified as?",
+            "options": [
+                "Skeletal muscle",
+                "Cardia muscle",
+                "Smooth muscle",
+                "heart muscle",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 31,
+            "question": "which of the following is not true?",
+            "options": [
+                "The viscera muscle is supplied by somatic division of the nervous system",
+                "The straited mucle is supplied by somatic division of the nervous system",
+                "the stiated muscle is supplied by autonomic division of the nervous system",
+                "skeletal muscles are voluntary in action",
+                "All of the above"
+            ],
+            "answer": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 32,
+            "question": "The following are correct except",
+            "options": [
+                "each muscle fascicula is surrounded by perimysium",
+                "The size of a fascicule determines the funtion of the musle",
+                "Large blood vessels divide in th perimysium to supply the endomysium and epimysium",
+                "the connective tissue framework of the muscle contains collagen fibres",
+                "the connective tissue framework of the muscle contains elastic fibres"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 33,
+            "question": "which of the following is true?",
+            "options": [
+                "myoblast is the skeletal muscle percursor cell",
+                "myoblasts proliferates by meiosis",
+                "regeneration of damaged muscle cells occurs via the stem cells",
+                "regeneration of damaged muscle cells occurs via the  satellite cells",
+                "a typical mucle cell has its nucleus at the periphery",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 34,
+            "question": "which of the following is true concerning the sarcomere?",
+            "options": [
+                "it is the functional unit of the muscle",
+                "it consists of the thick filament",
+                "it consist of the thin filament",
+                "it consists of the myosin filaments",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 35,
+            "question": "which of the following is correct?",
+            "options": [
+                "the lumen of the T system is continous with the extracellular space",
+                "calcium ions are concertrated within the lumen of sarcoplasmic reticulum",
+                "calcium activates the sliding filament mechanism of muscle contractions",
+                "depolarization of sacrolemma is propagated through the sacroplasm by the T tubues system",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 36,
+            "question": "Example of disease conditions that may affect the muscle include",
+            "options": [
+                "Leiomyoma",
+                "myasthenia gravis",
+                "myocardial infarction",
+                "Duchenne muscular dystropy",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 37,
+            "question": "which of the following is perculiar to the heart muscle",
+            "options": [
+                "continuous but slow calcium ions leakage into the sarcoplasm",
+                "the presence of intercalated disc",
+                "functional syncytium",
+                "the presence of purkinje system",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 38,
+            "question": "The following are true about smooth muscle except",
+            "options": [
+                "It is adapted for generation of relatively low force",
+                "the arragement of fibers in fascicules varies from one organ to another",
+                "The organized system of contractile proteins is similar to that of striated muscles",
+                "It is only found in viseral structures",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 39,
+            "question": "The functions of bones include the following",
+            "options": [
+                "hemopoietic",
+                "weight bearing",
+                "mechanical support",
+                "maintance of iron homeostasis",
+                "protection of vital organs"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 40,
+            "question": "Choose as appropriate",
+            "options": [
+                "The osteon consist of concentric lamellae arranged about the Haversian canal",
+                "The expanded end of a bone is called the diaphysis",
+                "The metaphysis lies between the diaphysis and the epiphyseal line",
+                "marrow cavities contain the red marrow only",
+                "None of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 41,
+            "question": "The types of bone include the following except",
+            "options": [
+                "trabecular",
+                "cancellous",
+                "spongy",
+                "compact bone",
+                "None of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 42,
+            "question": "Bone cells include the following",
+            "options": [
+                "osteoblast",
+                "osteoclast",
+                "bone marrow",
+                "osteocytes",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 43,
+            "question": "Bone matrix are secreted by",
+            "options": [
+                "osteoblast",
+                "osteoclast",
+                "osteocytes",
+                "bone marrow",
+                "all of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 44,
+            "question": "which of the following is not correct about the osteoclast?",
+            "options": [
+                "They secrete lysosomes",
+                "They are immature bone cells",
+                "They are derived from the osteoprogenital cells",
+                "They are bone-resorbing multi-nucleated macrophage-like cells",
+                "None of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 45,
+            "question": "The inorganic component of the bone matrix includes",
+            "options": [
+                "hydoxyaphatite crystals",
+                "calcium",
+                "Phosphorus, bicarbonate",
+                "nitrate",
+                "potassium"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 46,
+            "question": "characteristics of the Harvesialn canal inclued the following",
+            "options": [
+                "It is the central canal of an osteon",
+                "It allows blood vessels, lymph vessels",
+                "It allows nerves to travel through it",
+                "It is a microscopic tube",
+                "all of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 47,
+            "question": "characteristics of the Volkmann's canals are",
+            "options": [
+                "It is a perforating channel in bones",
+                "It is a transverse branch of haversian canal",
+                "They are tiny canals that interconnect Haversian canals with each other",
+                "they connect Haversian canals with the periosteum and transmit blood vessels from the periosteum to the bone",
+                "all of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 48,
+            "question": "which of the following is true about muscle contractions?",
+            "options": [
+                "the length of A band remains constant",
+                "the I band becomes smaller in length",
+                "the Z lines move towards each other",
+                "the thin and thick filaments overlap",
+                "all of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 49,
+            "question": "which of the following activities occur during contractions?",
+            "options": [
+                "the active site on actin is exposed as calcium binds to troponin",
+                "the myosin head is attracted to actin, forming the  cross-bride",
+                "during the power stroke, the phosphate generated in the previous contraction cycle is released",
+                "when new molecule of ATP attaches to the myosin head it causes the cross-bridge to detach",
+                "The myosin head hydrolyzes ATP to ADP and phosphate, which returns the myosin to the cocked position"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 50,
+            "question": "The following are incorrect except",
+            "options": [
+                "the number of skeletal muscle fibers in a given muscle is genetically determined",
+                "Muscle strength is not directly related to the amount of myofibrils and saecomeres within each fiber",
+                "Hypertrophy implies increased mass and bulk in a skeletal muscle",
+                "in muscular atrophy there is reduction in the number of muscle fibers",
+                "all of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 51,
+            "question": "The epidermis and its specialized appendages are derivatives of ",
+            "options": [
+                "mesoderm",
+                "Endoderm",
+                "Ectoderm",
+                "Corium"
+            ],
+            "answer": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "explanation": "The epidermis and its specialized appendages are derivatives of the ectoderm",
+            "topic": ""
+        },
+        {
+            "id": 52,
+            "question": "which of the following statements is false",
+            "options": [
+                "The ectoderm at first consist of a single stratum of cuboidal cells",
+                "forms a double layer by the 6th week",
+                "The periderm is a permenent covering",
+                "The periderm  becomes keratinized"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 53,
+            "question": "The vernix caseosa consist of all but ",
+            "options": [
+                "The superficial cornified cells",
+                "Sebaceous secretions",
+                "Remains of the periderm",
+                "Remain of Stratum germinativum"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 54,
+            "question": "The dermis is ",
+            "options": [
+                "An Epidermal derivative",
+                "An Ectodermal derivative",
+                "An Endodermal derivative",
+                "A Mesodermal derivative"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 55,
+            "question": "Hairs appear in the ",
+            "options": [
+                "1st month",
+                "2nd month",
+                "3rd month",
+                "4th month"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 56,
+            "question": "The following are specialized appendages of the epidermis except",
+            "options": [
+                "Hairs",
+                "Nails",
+                "Seminiferous glands",
+                "Neural crest cells"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 57,
+            "question": "Myo-epithelial cells are associated with ",
+            "options": [
+                "Nails",
+                "Sebaceous glands",
+                "Hairs",
+                "semi"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 58,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 59,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 60,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 61,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 62,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 63,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 64,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        }
+    ]
+}

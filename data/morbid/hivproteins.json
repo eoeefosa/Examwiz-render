@@ -1,0 +1,49 @@
+{
+  "LTR(Long terminal repeat)": [
+    "The DNA sequence flanking the genome of integrated provirus",
+    "Contains important regulatory regions especially those that binds to host transcription factors (NF-KB, NFAT, SP1, TBP)",
+    "Required for the initiation of transcription",
+    "Contain RNA trans-acting response element (TAR)"
+  ],
+  "Gag(Pr55gag)  Polyprotein processed by viral protease into": [
+    "Matrix protein (p17)",
+    "Capsid protein (p24)",
+    "Nucleocapsid protein (p7)",
+    "P6"
+  ],
+  "Matrix protein (p17)": "Undergoes myristylation that helps target Gag polyprotein to lipid rafts, promoting virus assembly at cell surface",
+  "Capsid protein (p24)": "Binds cyclophilin A",
+  "Nucleocapsid protein (p7)": "RNA binding protein",
+  "P6": "Interacts with VPR; core protein, participates in terminal steps of virion building",
+
+  "Pol(Polymerase)": [
+    "Encodes a variety of viral enzymes, including protease (p10), reverse transcriptase and RNAse H (p66/51), and integrase (p32), all processed by protease"
+  ],
+  "Env": [
+    "gp160 Envelope Protein cleaved in endoplasmic reticulum to gp120 (SU) and gp41 (TM)",
+    "gp120 mediates CD4 and chemokine receptor binding, while gp41 mediates fusion"
+  ],
+  "Tat(transcription activator)": [
+    "Enhances RNA polymerase II mediated elongation of integrated viral DNA",
+    "Causes a 1000-fold increase in the transcription of viral genes and is therefore critical for virus replication"
+  ],
+  "Rev(Regulator of Viral Gene Expression {p19})": [
+    "Promotes nuclear export of incompletely spliced viral RNAs"
+  ],
+  "Vpr(Viral Protein R {p15})": [
+    "Increases viral replication",
+    "Facilitates HIV infection of macrophages"
+  ],
+  "Vif(Viral Infectivity Factor {p23})": [
+    "Overcomes inhibitory effect of host factor ie APOBEC3G (plays an important role in innate anti-viral immunity), promoting viral replication"
+  ],
+  "Nef(Negative Effector (p24))": [
+    "Promotes downregulation of surface CD4 and MHC I expression",
+    "Promotes viral persistence",
+    "Progression to disease slowed significantly in absence of Nef",
+    "Virus with defective nef have been detected in some HIV-1 infected long term survivor"
+  ],
+  "Vpu(Viral Protein U)": [
+    "Promotes CD4 degradation and increases virion release"
+  ]
+}

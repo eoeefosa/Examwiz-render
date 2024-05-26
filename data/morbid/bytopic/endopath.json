@@ -1,0 +1,910 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following disorders associated with thyrotoxicosis is not associated with hyperthyroidism?",
+    "options": [
+      "Neonatal thyrotoxicosis ass. With maternal graves disease",
+      "Painful thyroiditis",
+      "Toxic adenoma",
+      "Excessive iodine levels"
+    ],
+    "answer": ["Excessive iodine levels"],
+    "explanation": "Excessive iodine levels can lead to thyrotoxicosis, but it is not considered a form of hyperthyroidism."
+  },
+  {
+    "id": 2,
+    "question": "The most common cause of hypothyroidism in iodine sufficient areas of the world is:",
+    "options": [
+      "Autoimmune hypothyroidism",
+      "Secondary hypothyroidism",
+      "Congenital hypothyroidism",
+      "Acquired hypothyroidism"
+    ],
+    "answer": ["Autoimmune hypothyroidism"],
+    "explanation": "Autoimmune hypothyroidism, also known as Hashimoto's thyroiditis, is the most common cause of hypothyroidism in areas with sufficient iodine."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following statements is incorrect about thyroid nodules?",
+    "options": [
+      "Solitary nodules are more likely to be neoplastic than multiple nodules",
+      "Nodules in females are more likely to be neoplastic than nodules in males",
+      "Nodules in younger patients are more likely to be neoplastic than nodules in older patients",
+      "Hot nodules are significantly less likely to be malignant"
+    ],
+    "answer": [
+      "Nodules in younger patients are more likely to be neoplastic than nodules in older patients"
+    ],
+    "explanation": "In fact, nodules in older patients are more likely to be neoplastic than nodules in younger patients."
+  },
+  {
+    "id": 4,
+    "question": "One of the following statements is incorrect about pituitary adenomas:",
+    "options": [
+      "The overwhelming majority arises sporadically",
+      "An underwhelming minority arises from genetic predisposition",
+      "An overwhelming majority arises from genetic predisposition",
+      "The best characterized genetic abnormality involves G protein"
+    ],
+    "answer": ["An overwhelming majority arises from genetic predisposition"],
+    "explanation": "Pituitary adenomas overwhelmingly arise sporadically, with only a small minority having a genetic predisposition."
+  },
+  {
+    "id": 5,
+    "question": "One of the following is least likely to be diabetogenic:",
+    "options": [
+      "Thyroid hormone",
+      "Nicotinic acid",
+      "Phenytoin",
+      "Reverse transcriptase inhibitors"
+    ],
+    "answer": ["Thyroid hormone"],
+    "explanation": "Thyroid hormone is not known to be diabetogenic, unlike the other options listed."
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is correct about morphological findings in the pancreas in DM?",
+    "options": [
+      "Reduction in size but not number of islet cells",
+      "An increase in the number and sizes of the islet cells in both the diabetic mother and her new born",
+      "Amyloid deposition in Type II DM",
+      "Lymphocytic infiltrates around the islets especially beta-lymphocytes"
+    ],
+    "answer": [
+      "Lymphocytic infiltrates around the islets especially beta-lymphocytes"
+    ],
+    "explanation": "Lymphocytic infiltrates around the islets, especially beta-lymphocytes, are characteristic of Type I diabetes mellitus."
+  },
+  {
+    "id": 7,
+    "question": "The following pituitary adenomas have mutation in the GNAS-1 gene:",
+    "options": [
+      "Corticotroph adenoma",
+      "Somatotroph adenoma",
+      "Thyrotroph adenoma",
+      "Lactotroph adenoma",
+      "Gonadotroph adenoma"
+    ],
+    "answer": ["Somatotroph adenoma"],
+    "explanation": "Somatotroph adenomas have been associated with mutations in the GNAS-1 gene."
+  },
+  {
+    "id": 8,
+    "question": "Causes of hypopituitarism include:",
+    "options": [
+      "Sheehan’s syndrome",
+      "Rathke cleft cyst",
+      "Pituitary apoplexy",
+      "Functional pituitary adenoma",
+      "Empty sella syndrome"
+    ],
+    "answer": [
+      "Sheehan’s syndrome",
+      "Rathke cleft cyst",
+      "Pituitary apoplexy",
+      "Functional pituitary adenoma",
+      "Empty sella syndrome"
+    ],
+    "explanation": "These conditions can all lead to hypopituitarism by affecting the function of the pituitary gland."
+  },
+  {
+    "id": 9,
+    "question": "The following thyroid lesion have follicular architecture:",
+    "options": [
+      "Hyperplastic nodule",
+      "Follicular adenoma",
+      "Follicular carcinoma",
+      "Medullary carcinoma",
+      "Anaplastic carcinoma"
+    ],
+    "answer": ["Follicular adenoma", "Follicular carcinoma"],
+    "explanation": "Both follicular adenoma and follicular carcinoma exhibit follicular architecture."
+  },
+  {
+    "id": 10,
+    "question": "A 40-year-old woman presented with a 3-month history of anterior neck mass. FNAC were those of a benign smear. What are the possible diagnoses?",
+    "options": [
+      "Simple goitre",
+      "Papillary carcinoma",
+      "Small cell carcinoma",
+      "Follicular adenoma",
+      "Multinodular goitre"
+    ],
+    "answer": ["Simple goitre", "Multinodular goitre"],
+    "explanation": "A benign smear on FNAC suggests a benign lesion, which could be a simple goitre or a multinodular goitre."
+  },
+
+  {
+    "id": 11,
+    "question": "About Grave’s disease:",
+    "options": [
+      "HLA-B8 and HLA-DR3 have been associated",
+      "It is more common in males than females",
+      "Hyperthyroidism is the only clinical feature",
+      "There is CTLA-4 polymorphism",
+      "Antibodies produced bind to TSH receptors"
+    ],
+    "answer": [
+      "HLA-B8 and HLA-DR3 have been associated",
+      "Antibodies produced bind to TSH receptors"
+    ],
+    "explanation": "HLA-B8 and HLA-DR3 have been associated with Grave’s disease, and antibodies produced in Grave’s disease bind to TSH receptors, leading to the characteristic symptoms."
+  },
+  {
+    "id": 12,
+    "question": "About thyroid carcinomas:",
+    "options": [
+      "Orphan-annie eye nuclei are found in follicular carcinomas",
+      "Psammoma bodies are found in papillary carcinoma",
+      "Commonest type is medullary carcinoma",
+      "Amyloid deposits are found in anaplastic carcinoma",
+      "Medullary carcinoma arises from the parafollicular cells"
+    ],
+    "answer": ["Psammoma bodies are found in papillary carcinoma"],
+    "explanation": "Psammoma bodies are a characteristic finding in papillary carcinoma of the thyroid."
+  },
+  {
+    "id": 13,
+    "question": "The following are causes of secondary hyperparathyroidism:",
+    "options": [
+      "Parathyroid adenoma",
+      "Hyperplasia of the parathyroid gland",
+      "Parathyroid carcinoma",
+      "Chronic renal failure",
+      "Vit. D deficiency"
+    ],
+    "answer": ["Chronic renal failure", "Vit. D deficiency"],
+    "explanation": "Chronic renal failure and vitamin D deficiency are known causes of secondary hyperparathyroidism."
+  },
+  {
+    "id": 14,
+    "question": "The following are recognized complications of DM:",
+    "options": [
+      "Kimmelstiel-Wilson lesions in the kidneys",
+      "Retinopathy",
+      "Pre-eclamptic toxaemia",
+      "Accelerated atheroma",
+      "Peripheral neuropathy"
+    ],
+    "answer": [
+      "Kimmelstiel-Wilson lesions in the kidneys",
+      "Retinopathy",
+      "Accelerated atheroma",
+      "Peripheral neuropathy"
+    ],
+    "explanation": "These are all recognized complications of diabetes mellitus."
+  },
+  {
+    "id": 15,
+    "question": "Hashimoto disease of the thyroid:",
+    "options": [
+      "Show a massive lymphoid infiltrate when examined microscopically",
+      "Is considered to be an autoimmune disease",
+      "Is not associated with autoimmune adrenalitis (addison’s disease)",
+      "May show Askanazy cells (Hurthle cells, oxyphil cells) when examined microscopically"
+    ],
+    "answer": [
+      "Is considered to be an autoimmune disease",
+      "May show Askanazy cells (Hurthle cells, oxyphil cells) when examined microscopically"
+    ],
+    "explanation": "Hashimoto disease of the thyroid is considered to be an autoimmune disease and may show characteristic Askanazy cells when examined microscopically."
+  },
+  {
+    "id": 16,
+    "question": "The following match is correct:",
+    "options": [
+      "DM HLA DR3",
+      "DM HLA DR4",
+      "DM HLA DQ",
+      "Graves disease HLA B8",
+      "Graves disease HLA DR3"
+    ],
+    "answer": ["Graves disease HLA DR3"],
+    "explanation": "Graves disease has been associated with HLA DR3."
+  },
+  {
+    "id": 17,
+    "question": "Hypersecretion of pituitary hormones occurs in the following:",
+    "options": [
+      "Pituitary adenoma",
+      "Pituitary hyperplasia",
+      "Oat cell carcinoma of the lungs",
+      "Radiation injury",
+      "Sarcoidosis",
+      "Pituitary carcinoma"
+    ],
+    "answer": [
+      "Pituitary adenoma",
+      "Pituitary hyperplasia",
+      "Oat cell carcinoma of the lungs",
+      "Radiation injury",
+      "Sarcoidosis",
+      "Pituitary carcinoma"
+    ],
+    "explanation": "Hypersecretion of pituitary hormones can occur in various conditions, including pituitary adenoma, pituitary hyperplasia, and pituitary carcinoma, among others."
+  },
+  {
+    "id": 18,
+    "question": "The following are not features of anterior pituitary anomaly:",
+    "options": [
+      "Syndrome of inappropriate ADH secretion",
+      "Neurogenic diabetes insipidus",
+      "Raised intracranial pressure",
+      "Bitemporal hemianopia"
+    ],
+    "answer": [
+      "Syndrome of inappropriate ADH secretion",
+      "Neurogenic diabetes insipidus",
+      "Raised intracranial pressure",
+      "Bitemporal hemianopia"
+    ],
+    "explanation": "These are not typically associated with anterior pituitary anomalies."
+  },
+  {
+    "id": 19,
+    "question": "Pituitary adenomas:",
+    "options": [
+      "Commonest cause of hyperpituitarism",
+      "Accounts for 10% of intracranial neoplasm",
+      "Ass. With MEN type II in 3% of cases",
+      "Ass. with MEN type I in 3% of cases",
+      "Microadenoma is greater than 1cm"
+    ],
+    "answer": [
+      "Commonest cause of hyperpituitarism",
+      "Ass. With MEN type II in 3% of cases",
+      "Ass. with MEN type I in 3% of cases"
+    ],
+    "explanation": "Pituitary adenomas are the most common cause of hyperpituitarism and are associated with MEN type I and II in a small percentage of cases."
+  },
+  {
+    "id": 20,
+    "question": "Mutation in G protein gene GNAS-1:",
+    "options": [
+      "Located on chromosome 20q13",
+      "Seen in thyroid adenoma",
+      "Seen in parathyroid adenoma",
+      "Pituitary adenoma",
+      "Somatotroph and Corticotroph adenomas are not involved"
+    ],
+    "answer": ["Located on chromosome 20q13", "Seen in thyroid adenoma"],
+    "explanation": "The GNAS-1 gene is located on chromosome 20q13 and mutations in this gene are seen in thyroid adenomas."
+  },
+
+  {
+    "id": 21,
+    "question": "Type I DM:",
+    "options": [
+      "Tends to occur at an older age than type II diabetes",
+      "Is ass. With increased production of glucagon",
+      "Is usually treated with oral hypoglycaemic agent",
+      "May be complicated by retinopathy",
+      "Is caused by destruction of alpha cells in the pancreatic islets"
+    ],
+    "answer": ["May be complicated by retinopathy"],
+    "explanation": "Type I diabetes mellitus can be complicated by retinopathy."
+  },
+  {
+    "id": 22,
+    "question": "Addison’s Disease:",
+    "options": [
+      "May result in hypovolaemia and hypotension",
+      "Tuberculosis is a cause",
+      "If primary, is associated with reduced levels of adrenocorticotrophic hormone",
+      "Results in hypernitremia",
+      "Ass. With hypopigmentation of the skin"
+    ],
+    "answer": [
+      "May result in hypovolaemia and hypotension",
+      "Tuberculosis is a cause",
+      "Ass. With hypopigmentation of the skin"
+    ],
+    "explanation": "These are all features or associations of Addison's disease."
+  },
+  {
+    "id": 23,
+    "question": "Recognized complications of DM:",
+    "options": [
+      "Amyloid depositions",
+      "Glomerulosclerosis",
+      "Peripheral vascular disease",
+      "Pyelonephritis",
+      "Blindness"
+    ],
+    "answer": [
+      "Amyloid depositions",
+      "Glomerulosclerosis",
+      "Peripheral vascular disease",
+      "Blindness"
+    ],
+    "explanation": "These are all recognized complications of diabetes mellitus."
+  },
+  {
+    "id": 24,
+    "question": "Causes of addison’s disease includes:",
+    "options": [
+      "Autoimmune adrenalitis",
+      "Tuberculosis",
+      "AIDS",
+      "Amyloidosis",
+      "Hemochromatosis"
+    ],
+    "answer": ["Autoimmune adrenalitis", "Tuberculosis"],
+    "explanation": "Autoimmune adrenalitis and tuberculosis are known causes of Addison's disease."
+  },
+  {
+    "id": 25,
+    "question": "A 28yr old female has a thyroid lesion. Laboratory findings revealed elevated TSH and decreased T3 and T4. Diagnosis?",
+    "options": [
+      "Graves’s disease",
+      "Hashimoto’s thyroiditis",
+      "Thyroid follicular adenoma",
+      "Granulomatous thyroiditis",
+      "Simple goitre"
+    ],
+    "answer": ["Hashimoto’s thyroiditis"],
+    "explanation": "Hashimoto’s thyroiditis is characterized by elevated TSH and decreased T3 and T4 levels."
+  },
+  {
+    "id": 26,
+    "question": "A 25 year old female patient presented with an anterior neck swelling. FNAC revealed a benign smear. What are the possible diagnosis?",
+    "options": [
+      "Folicular adenoma",
+      "Papillary carcinoma",
+      "Carcinosarcoma",
+      "Thyroglossal cyst"
+    ],
+    "answer": ["Folicular adenoma"],
+    "explanation": "A benign smear on FNAC suggests a benign lesion, such as a follicular adenoma."
+  },
+  {
+    "id": 27,
+    "question": "Hashimoto disease of the thyroid",
+    "options": [
+      "Show a massive lymphoid infiltrate when examined microscopically.",
+      "Is considered to be an autoimmune disease",
+      "Is not associated with autoimmune gastritis",
+      "Is associated with autoimmune adrenalitis (addison's disease)",
+      "May show Askanazy cells (Hurthle cell, Oxyphil cell) when examined microscopically"
+    ],
+    "answer": [
+      "Is considered to be an autoimmune disease",
+      "May show Askanazy cells (Hurthle cell, Oxyphil cell) when examined microscopically"
+    ],
+    "explanation": "Hashimoto disease of the thyroid is considered to be an autoimmune disease and may show characteristic Askanazy cells when examined microscopically."
+  },
+  {
+    "id": 28,
+    "question": "Causes of hyperthyroidism includes:",
+    "options": [
+      "Grave's disease",
+      "Tuberculosis",
+      "AIDS",
+      "Amyloidosis",
+      "Hemochromatosis"
+    ],
+    "answer": ["Grave's disease"],
+    "explanation": "Grave's disease is a common cause of hyperthyroidism."
+  },
+  {
+    "id": 29,
+    "question": "About thyroid adenomas",
+    "options": [
+      "Histology and FNAC provide d basis for diagnosis",
+      "20% have point mutation in RAS gene",
+      "Most are hot nodules",
+      "Hurtle cell change may be seen",
+      "There is capsular and vascular invasion"
+    ],
+    "answer": ["Hurtle cell change may be seen"],
+    "explanation": "Thyroid adenomas may show Hurtle cell change."
+  },
+  {
+    "id": 30,
+    "question": "The following are true about papillary thyroid carcinoma",
+    "options": [
+      "Mutation in BRAF",
+      "Mutation in tyrosine kinase receptor gene",
+      "Vascular invasion is more common than lymphatic invasion",
+      "Can release polypeptide hormone like bradykinin",
+      "Hurtle cell change"
+    ],
+    "answer": [
+      "Mutation in BRAF",
+      "Vascular invasion is more common than lymphatic invasion"
+    ],
+    "explanation": "Papillary thyroid carcinoma can have a mutation in BRAF and often shows vascular invasion."
+  },
+  {
+    "id": 31,
+    "question": "The following are true except",
+    "options": [
+      "Solitary nodules are more likely to be neoplastic",
+      "Nodules in older patients are more likely to be neoplastic",
+      "Previous history of head or neck irradiation is associated with thyroid malignancy",
+      "Hot nodules are more likely to be malignant Nodules in females are more likely to be neoplastic"
+    ],
+    "answer": [
+      "Hot nodules are more likely to be malignant Nodules in females are more likely to be neoplastic"
+    ],
+    "explanation": "Hot nodules are less likely to be malignant, and nodules in older patients are more likely to be neoplastic."
+  },
+  {
+    "id": 32,
+    "question": "The following 's/are not unlikely about multinodular goitre",
+    "options": [
+      "Morphology diffusely & symmetrically enlarged gland",
+      "Radioidine uptake is even",
+      "Hypothyroidism can develop (plummer syndrome)",
+      "Degenerative changes are absent.",
+      "Enlarged thyroid above 300g"
+    ],
+    "answer": ["Radioidine uptake is even", "Degenerative changes are absent."],
+    "explanation": "Radioidine uptake is uneven in multinodular goitre, and degenerative changes can occur."
+  },
+  {
+    "id": 33,
+    "question": "About multinodular goitre",
+    "options": [
+      "Causes include iodine deficiency, goitrogens and hereditary enzymatic defects",
+      "Thyroid follicular c IIS attain autonomous growth",
+      "Contains monoclonal nodules",
+      "Contains polyclonaI nodules",
+      "Most patients are euthyroid."
+    ],
+    "answer": [
+      "Causes include iodine deficiency, goitrogens and hereditary enzymatic defects",
+      "Most patients are euthyroid."
+    ],
+    "explanation": "These are both true statements about multinodular goitre."
+  },
+  {
+    "id": 34,
+    "question": "The following are true about Hashimotos disease except",
+    "options": [
+      "There is an increased risk of thyroid epithelial neoplasm",
+      "There is an increased risk of thyroid lymphoid neoplasm",
+      "Painless anterior neck mass",
+      "Diffuse enlargement of the thyroid",
+      "Extensive infiltrate of the thyroid gland by lymphocytes and plasma cells with germinal"
+    ],
+    "answer": ["There is an increased risk of thyroid epithelial neoplasm"],
+    "explanation": "Hashimoto's disease is not associated with an increased risk of thyroid epithelial neoplasm."
+  },
+  {
+    "id": 35,
+    "question": "The following are true about findings in Grave's disease except",
+    "options": [
+      "Infiltration of the retro orbital tissues and dermis chiefly by B cells",
+      "Antibodies to TSH receptor, thyroglobulin and thyroid peroxidase only",
+      "Asymmetrical thyroid enlargement",
+      "Increase number of follicles with pale scalloped margins",
+      "Scaly thickening and induration of d shin skin"
+    ],
+    "answer": [
+      "Infiltration of the retro orbital tissues and dermis chiefly by B cells"
+    ],
+    "explanation": "In Grave's disease, infiltration of the retro orbital tissues and dermis is chiefly by T cells, not B cells."
+  },
+  {
+    "id": 36,
+    "question": "The following are not incorrect about Hashimoto's disease",
+    "options": [
+      "Most prevalent between ages 45-65yrs",
+      "There is a male predominance of 10:1 - 20:1",
+      "There is 40-60% concordance rate in monozygotic twins",
+      "Associated with Trisomy 21 and Turner syndrome",
+      "Associated with I-ILA-DR3 and HLA- DRS"
+    ],
+    "answer": [
+      "Most prevalent between ages 45-65yrs",
+      "Associated with Trisomy 21 and Turner syndrome"
+    ],
+    "explanation": "Hashimoto's disease is most prevalent in women and is not associated with Trisomy 21 and Turner syndrome."
+  },
+  {
+    "id": 37,
+    "question": "Which of the following is a possible finding in hypothyroidism",
+    "options": [
+      "Goitre",
+      "Elevated T4, T3 and TSH",
+      "History of use of lithium, iodides & amiodarone",
+      "Mental retardation, umbilical hernia, protruding tongue & short stature",
+      "Deepening of the voice & depression"
+    ],
+    "answer": [
+      "Goitre",
+      "History of use of lithium, iodides & amiodarone",
+      "Mental retardation, umbilical hernia, protruding tongue & short stature"
+    ],
+    "explanation": "These are all possible findings in hypothyroidism."
+  },
+  {
+    "id": 38,
+    "question": "The following neoplasms lack GNAS mutation",
+    "options": [
+      "Prolactinoma",
+      "Corticotroph adenoma",
+      "Thyroid adenoma",
+      "Parathyroid adenoma",
+      "Somatotroph adenoma"
+    ],
+    "answer": [
+      "Prolactinoma",
+      "Corticotroph adenoma",
+      "Parathyroid adenoma",
+      "Somatotroph adenoma"
+    ],
+    "explanation": "These neoplasms do not typically have GNAS mutations."
+  },
+  {
+    "id": 39,
+    "question": "Causes of hyperthyroidism include",
+    "options": [
+      "Grave's disease",
+      "Hashimoto's thyroiditis",
+      "Subacute granulomatous thyroiditis",
+      "Toxic multinodular goitre",
+      "Struma ovarii"
+    ],
+    "answer": [
+      "Grave's disease",
+      "Subacute granulomatous thyroiditis",
+      "Toxic multinodular goitre",
+      "Struma ovarii"
+    ],
+    "explanation": "These are all causes of hyperthyroidism."
+  },
+  {
+    "id": 40,
+    "question": "The following are true about thyroid carcinoma.",
+    "options": [
+      "Anaplastic carcinoma— p53 mutation",
+      "Long standing mu tinodular goitre— papillary carcinoma",
+      "Hashimoto:s disease— lymphoma",
+      "Ground glass/Orphan Annie eye nuclei — papillary carcinoma",
+      "Medullary carcinoma— hypocalcemia"
+    ],
+    "answer": [
+      "Anaplastic carcinoma— p53 mutation",
+      "Ground glass/Orphan Annie eye nuclei — papillary carcinoma"
+    ],
+    "explanation": "Anaplastic carcinoma can have a p53 mutation, and papillary carcinoma can have ground glass/Orphan Annie eye nuclei."
+  },
+  {
+    "id": 41,
+    "question": "The following are diagnostic criteria for diabetis mellitus except",
+    "options": [
+      "Random blood glucose over 200mg/DL with signs and symptoms",
+      "Fasting blood glucose 140mg/DL",
+      "An OGTT and 2hrs post prandial blood glucose estimation 200mg/DL",
+      "HbA1C 6.5%",
+      "Random blood glucose over 7mmol/l"
+    ],
+    "answer": ["Fasting blood glucose 140mg/DL"],
+    "explanation": "Fasting blood glucose criteria for diabetes mellitus is typically over 126mg/DL, not 140mg/DL."
+  },
+  {
+    "id": 42,
+    "question": "The following are true about type 1 DM",
+    "options": [
+      "There is T-cell mediated destruction of beta cells",
+      "CD4+ and CDB+ T cells are involved",
+      "Autoantibodies against beta cells and insulin are detected in 80-90% Of patients",
+      "90-95% of Caucasians with type 1 DM have HLA-DR3, DR5 and DQ",
+      "Molecular mimicry -s involved in the pathogenesiS"
+    ],
+    "answer": [
+      "There is T-cell mediated destruction of beta cells",
+      "CD4+ and CDB+ T cells are involved",
+      "Autoantibodies against beta cells and insulin are detected in 80-90% Of patients",
+      "Molecular mimicry -s involved in the pathogenesiS"
+    ],
+    "explanation": "These are all true statements about type 1 DM."
+  },
+  {
+    "id": 43,
+    "question": "The following are incorrect about DM type 2",
+    "options": [
+      "Concordance rate in monozygotic twins is 50-90%",
+      "The concordance rate in first degree relatives is 40-60%",
+      "Offspring of type 2 DM mothers are at increased risk",
+      "Triglycerides and products of fatty acid inhibit insulin signaling pathways",
+      "Increased free fatty acids and chronic hyperglycemia enhance beta cell function"
+    ],
+    "answer": [
+      "Concordance rate in monozygotic twins is 50-90%",
+      "Offspring of type 2 DM mothers are at increased risk",
+      "Triglycerides and products of fatty acid inhibit insulin signaling pathways"
+    ],
+    "explanation": "The concordance rate in monozygotic twins is 70-90%, offspring of type 2 DM mothers are not at increased risk, and triglycerides and products of fatty acid do not inhibit insulin signaling pathways in DM type 2."
+  },
+  {
+    "id": 44,
+    "question": "The following are true about complications of DM",
+    "options": [
+      "Atherosclerosis, Ml, stroke and lower extremity gangrene",
+      "Diabetic nephropathy. retinopathy and neuropathy",
+      "There is enzymatic combination of glucose and proteins",
+      "AGE and AGE receptor interaction lead to generation of reactive oxygen species and"
+    ],
+    "answer": [
+      "Atherosclerosis, Ml, stroke and lower extremity gangrene",
+      "Diabetic nephropathy. retinopathy and neuropathy",
+      "AGE and AGE receptor interaction lead to generation of reactive oxygen species and"
+    ],
+    "explanation": "These are all true statements about complications of DM."
+  },
+  {
+    "id": 45,
+    "question": "The following are incorrect about morphology of DM",
+    "options": [
+      "Leucocytic infiltration of the islet by polymorphs",
+      "Amyloid deposition and fibrosis in the islets is pathognomonic of type 2 DM",
+      "Hyaline arteriolosclerosis is restricted to the afferent arteriole",
+      "Pyelonephritis with necrotizing pappilitis and papillary necrosis",
+      "Capillary basement membrane screening"
+    ],
+    "answer": [
+      "Leucocytic infiltration of the islet by polymorphs",
+      "Amyloid deposition and fibrosis in the islets is pathognomonic of type 2 DM",
+      "Hyaline arteriolosclerosis is restricted to the afferent arteriole",
+      "Pyelonephritis with necrotizing pappilitis and papillary necrosis",
+      "Capillary basement membrane screening"
+    ],
+    "explanation": "These statements are all incorrect about the morphology of DM."
+  },
+  {
+    "id": 46,
+    "question": "Findings in diabetic nephropathy include",
+    "options": [
+      "Diffuse mesangial sclerosis seen after 5yrs of disease onset",
+      "Nodular glomerulosclerosis(Kimmelstiel-Wilson lesion) develops in 40-65% of Long standing diabetics",
+      "Kimmelstiel-Wilson lesion is pathognomonic of diabetis",
+      "Tubular basement membrane thickening",
+      "Diffuse granularity of the renal cortical surface."
+    ],
+    "answer": [
+      "Nodular glomerulosclerosis(Kimmelstiel-Wilson lesion) develops in 40-65% of Long standing diabetics",
+      "Kimmelstiel-Wilson lesion is pathognomonic of diabetis",
+      "Tubular basement membrane thickening"
+    ],
+    "explanation": "These are all findings in diabetic nephropathy."
+  },
+  
+    {
+        "id": 47,
+        "question": "T/F",
+        "options": [
+            "Primary hypersecretion of ACTH accounts for 70-80% of Cushing syndrome",
+            "Crooke hyaline change occurs in the pituitary gland in ACTH independent Cushing syndrome",
+            "Bilateral adrenal cortical atrophy is seen in Cushing disease",
+            "There is selective atrophy of slow twitch fibers in Cushing syndrome",
+            "There is decreased glycogenolysis and proximal muscle weakness in Cushing syndrome"
+        ],
+        "answer": [
+            "Primary hypersecretion of ACTH accounts for 70-80% of Cushing syndrome",
+            "Crooke hyaline change occurs in the pituitary gland in ACTH independent Cushing syndrome",
+            "Bilateral adrenal cortical atrophy is seen in Cushing disease"
+        ],
+        "explanation": "These statements are true about Cushing syndrome, except for the statement about selective atrophy of slow twitch fibers, which is false."
+    },
+    {
+        "id": 48,
+        "question": "Possible adrenal changes in Cushing syndrome include",
+        "options": [
+            "Cortical atrophy",
+            "Diffuse hyperplasia",
+            "Nodular hyperplasia",
+            "Adenoma",
+            "Carcinoma"
+        ],
+        "answer": [
+            "Cortical atrophy",
+            "Diffuse hyperplasia",
+            "Nodular hyperplasia",
+            "Adenoma",
+            "Carcinoma"
+        ],
+        "explanation": "These are all possible adrenal changes in Cushing syndrome."
+    },
+    {
+        "id": 49,
+        "question": "T/F",
+        "options": [
+            "Primary adrenocortical hyperplasia is a cause of Conn syndrome",
+            "There is suppression Of the RAAS in primary Hyperaldosteronism",
+            "Adrenocortical neoplasms and congenital adrenal hyperplasia cause adrenogenital syndromes",
+            "21 hydroxylase deficiency causes overproduction Of dehydroepiandrosterone and androstenedione",
+            "None of the above"
+        ],
+        "answer": [
+            "Primary adrenocortical hyperplasia is a cause of Conn syndrome",
+            "There is suppression Of the RAAS in primary Hyperaldosteronism",
+            "Adrenocortical neoplasms and congenital adrenal hyperplasia cause adrenogenital syndromes",
+            "21 hydroxylase deficiency causes overproduction Of dehydroepiandrosterone and androstenedione"
+        ],
+        "explanation": "These statements are true about adrenal disorders."
+    },
+    {
+        "id": 50,
+        "question": "Causes Of Addison's disease include",
+        "options": [
+            "Autoimmune adrenalitis",
+            "Tuberculosis and fungal infections",
+            "AIDS",
+            "Metastatic cancer",
+            "Lymphomas"
+        ],
+        "answer": [
+            "Autoimmune adrenalitis",
+            "Tuberculosis and fungal infections",
+            "AIDS",
+            "Metastatic cancer",
+            "Lymphomas"
+        ],
+        "explanation": "These are all causes of Addison's disease."
+    },
+    {
+        "id": 51,
+        "question": "Features of autoimmune polyendocrine syndrome type Il include",
+        "options": [
+            "Chronic mucocutaneous candidiasis",
+            "Autoimmune thyroiditis",
+            "Type 1 DM",
+            "Hpoparathyroidism",
+            "Pernicious anemia"
+        ],
+        "answer": [
+            "Autoimmune thyroiditis",
+            "Type 1 DM"
+        ],
+        "explanation": "Autoimmune polyendocrine syndrome type II is characterized by autoimmune thyroiditis and type 1 DM."
+    },
+    {
+        "id": 52,
+        "question": "Phaechromocytomas are associated with",
+        "options": [
+            "MEN2A",
+            "MEN2B",
+            "NFI",
+            "VHL syndrome",
+            "Sturge Weber syndrome"
+        ],
+        "answer": [
+            "MEN2A",
+            "MEN2B",
+            "NFI",
+            "VHL syndrome",
+            "Sturge Weber syndrome"
+        ],
+        "explanation": "Phaechromocytomas can be associated with MEN2A, MEN2B, NFI, VHL syndrome, and Sturge Weber syndrome."
+    },
+    {
+        "id": 53,
+        "question": "Morphological findings in phaechromocytoma include- NOTE (RULE OF 10’S)",
+        "options": [
+            "Hemorrhagic adrenocortical mass",
+            "Zellballen",
+            "Immunohistochemistey shows positivity to chromogranin, synaptophysin and Sl00",
+            "10% of cases are extra adrenal",
+            "Metastasis in 10% of cases"
+        ],
+        "answer": [
+            "Hemorrhagic adrenocortical mass",
+            "Zellballen",
+            "Immunohistochemistey shows positivity to chromogranin, synaptophysin and Sl00",
+            "10% of cases are extra adrenal",
+            "Metastasis in 10% of cases"
+        ],
+        "explanation": "These are all morphological findings in phaechromocytoma."
+    },
+    {
+        "id": 54,
+        "question": "The following are true about type 1 DM",
+        "options": [
+            "There is T-cell mediated destruction of beta cells",
+            "CD4+ and CD8+ T cells are involved",
+            "Autoantibodies against beta cells and insulin are detected in 80-90% of patients",
+            "90-95% of Caucasians with type DM have HI-A-DR3, DR5 and DQ",
+            "Molecular mimicry is involved in the pathogenesis"
+        ],
+        "answer": [
+            "There is T-cell mediated destruction of beta cells",
+            "CD4+ and CD8+ T cells are involved",
+            "Autoantibodies against beta cells and insulin are detected in 80-90% of patients",
+            "Molecular mimicry is involved in the pathogenesis"
+        ],
+        "explanation": "These statements are true about type 1 DM."
+    },
+    {
+        "id": 55,
+        "question": "The following are incorrect about DM type 2",
+        "options": [
+            "Concordance rate in monozygotic twins is 50-90%",
+            "The concordance rate in first degree relatives is 40-60%",
+            "Offspring of type 2 DM mothers are at increased risk",
+            "Triglycerides and products of fatty acid inhibit insulin signaling pathways",
+            "Increased free fatty acids and chronic hyperglycemia enhance beta cell function"
+        ],
+        "answer": [
+            "Concordance rate in monozygotic twins is 50-90%",
+            "Offspring of type 2 DM mothers are at increased risk",
+            "Triglycerides and products of fatty acid inhibit insulin signaling pathways"
+        ],
+        "explanation": "These statements are incorrect about DM type 2."
+    },
+    {
+        "id": 56,
+        "question": "Type I diabetes mellitus",
+        "options": [
+            "Tends to occur at an older age than does type II diabetes",
+            "Is associated with increased production or glucagon",
+            "Is usually treated with oral hypoglycaemic agent",
+            "May be complicated by a retinopathy",
+            "Is caused by destruction of alpha cells in the pancreatic islets"
+        ],
+        "answer": [
+            "May be complicated by a retinopathy"
+        ],
+        "explanation": "This statement is true about type I diabetes mellitus."
+    },
+    {
+        "id": 57,
+        "question": "Addison's disease",
+        "options": [
+            "Many result in hypovolaemia and hypotension",
+            "Tuberculosis is a cause",
+            "If primary, is associated with levels reduced adrenocorticotroohic hormone",
+            "Results in hypernitraemia",
+            "Is associated with pigmentation of the skin"
+        ],
+        "answer": [
+            "Many result in hypovolaemia and hypotension",
+            "Tuberculosis is a cause",
+            "Is associated with pigmentation of the skin"
+        ],
+        "explanation": "These statements are true about Addison's disease."
+    },
+    {
+        "id": 58,
+        "question": "Recognized complications Of DM",
+        "options": [
+            "Amyloid deposition",
+            "Glomerulosclerosis",
+            "Peripheral vascular disease",
+            "Pyelonephritis",
+            "Blindness"
+        ],
+        "answer": [
+            "Amyloid deposition",
+            "Glomerulosclerosis",
+            "Peripheral vascular disease",
+            "Pyelonephritis",
+            "Blindness"
+        ],
+        "explanation": "These are all recognized complications of DM."
+    }
+
+
+]

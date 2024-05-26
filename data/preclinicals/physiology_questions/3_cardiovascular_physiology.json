@@ -1,0 +1,823 @@
+[
+  {
+    "id": 1,
+    "question": "The volume of blood ejected by ventricles in one heart beat is called",
+    "options": [
+      "cardiac output",
+      "end diastolic volume",
+      "end systolic volume",
+      "stroke volume",
+      "ejection fraction"
+    ],
+    "answer": ["stroke volume"],
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "question": "The volume of blood in the ventricles just before ejection is called",
+    "options": [
+      "cardiac output",
+      "end diastolic volume",
+      "end systolic volume",
+      "stroke volume",
+      "ejection fraction"
+    ],
+    "answer": ["end diastolic volume"],
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "question": "The cardiac conductive cells include the following",
+    "options": ["S A node", "AV node", "Ventricles", "A and B", "A and C"],
+    "answer": ["A and B"],
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "question": "The plateau phase of cardiac action potential is due to opening of voltage gated",
+    "options": ["Kᶧ", "Naᶧ", "Ca²ᶧ", "Cl¯", " Mg²ᶧ"],
+    "answer": ["Ca²ᶧ"],
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "question": "The cardiac intercalated disc is functionally a ________",
+    "options": [
+      "cell wall",
+      "cellular organelle",
+      "cell membrane",
+      "cell space",
+      "connective tissue"
+    ],
+    "answer": ["cell membrane"],
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "question": "Atrial syncytium is faster than ventricular syncytium because of",
+    "options": [
+      "atrial filling",
+      "atrial contraction",
+      "ventricular filling",
+      "B and C"
+    ],
+    "answer": ["atrial filling"],
+    "explanation": "TODO:CHECK ANSWER"
+  },
+  {
+    "id": 7,
+    "question": "Atrial action potential is first conducted through a special conducting system called",
+    "options": [
+      "SA node",
+      "purkinje fibres",
+      "AV node",
+      "Bundle of HIS",
+      "option B &C"
+    ],
+    "answer": ["AV node"],
+    "explanation": "TODO:CHECK ANSWER"
+  },
+  {
+    "id": 8,
+    "question": "The anterior conducting fibres from the S.A node to the A.V node to a right atrium is the",
+    "options": [
+      "anterior fibre of Thorel",
+      "anterior fibre of Bechman",
+      "anterior fibres of weekenbach",
+      "atrial intermodal fibres",
+      "A and C"
+    ],
+    "answer": ["anterior fibre of Bechman"],
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "question": "At what threshold are the T- type calcium channel of the SA node activated",
+    "options": ["60mV", "+60mV", "+40mV", "-40mV", "+30mV"],
+    "answer": ["-40mV"],
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "question": "The phase 0 of the ventricular action potential represent",
+    "options": [
+      "upstroke",
+      "ventricular repolarization",
+      "ventricular depolarization",
+      "initial action potential",
+      "A and C"
+    ],
+    "answer": ["upstroke"],
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "question": "The following receptors are implicated in positive chronotropism in the cardiac muscle",
+    "options": [
+      "β1 receptors",
+      "M₂ receptors",
+      "β2 receptors",
+      "M1 receptors",
+      "β3 receptor"
+    ],
+    "answer": ["β1 receptors"],
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "question": "The first heart sound is heard as a result of ___________",
+    "options": [
+      "closure of semilunar valves",
+      "opening of AV valves",
+      "opening of semilunar valves",
+      "closure of AV valves",
+      "none of the above"
+    ],
+    "answer": ["closure of AV valves"],
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "question": "Funny Na channels are activated by",
+    "options": [
+      "depolarization of Naᶧ",
+      "ventricular repolarization",
+      "repolarization",
+      "initial action potential",
+      "A&C"
+    ],
+    "answer": ["ventricular repolarization"],
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "question": "The phase 2 of the SA node action potential is as a result of",
+    "options": [
+      "influx of Caᶧ",
+      "efflux of Kᶧ",
+      "funny channels",
+      "initial repolarization",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "question": "The phase 2 of ventricular action potential represents",
+    "options": [
+      "upstroke",
+      "ventricular repolarization",
+      "ventricular depolarization",
+      "initial repolarization",
+      "A &C"
+    ],
+    "answer": ["initial repolarization"],
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "question": "Chemoreceptors are sensitive to the following except",
+    "options": [
+      "low oxygen",
+      "carbon dioxide excess",
+      "hydrogen ion excess",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "question": "The apparatus used to measure blood pressure in human beings is called__________",
+    "options": [
+      "sphygmanometer",
+      "sphygmonometer",
+      "sphygmomanometer",
+      "sphymomanometer",
+      "sphygmomanometer"
+    ],
+    "answer": ["sphygmomanometer"],
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "question": "During exercise, as body temperature increases, sympathetic centers controlling cutaneous blood flow are",
+    "options": [
+      "initiated",
+      "inhibited",
+      "there is no effect",
+      "the effect is unknown",
+      "none of the above"
+    ],
+    "answer": ["inhibited"],
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "question": "At what stage of shock does the normal circulatory compensatory mechanisms eventually cause full recovery without help from outside therapy",
+    "options": [
+      "non progressive stage",
+      "progressive stage",
+      "irreversible stage",
+      "all of the above",
+      "A and B"
+    ],
+    "answer": ["non progressive stage"],
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "question": "The largest percentage of blood in the cardiovascular system is contained in the",
+    "options": ["arteries", "arterioles", "capillaries", "venules", "Veins"],
+    "answer": ["Veins"],
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "question": "Which of these is not a type of shock?",
+    "options": [
+      "hypovolemic",
+      "distributive",
+      "obstructive",
+      "cardiogenic",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "question": "Angiotensin II has biologic actions in the following except?",
+    "options": [
+      "adrenal cortex",
+      "vascular smooth muscle",
+      "kidneys",
+      "brain",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "question": "The resultant effects of the peripheral chemoreceptors to decreased arterial PO2 are the following except",
+    "options": [
+      "vasoconstriction",
+      "vasodilation",
+      "increase TPR",
+      "increase in arterial pressure",
+      "none of the above"
+    ],
+    "answer": ["vasodilation"],
+    "explanation": ""
+  },
+  {
+    "id": 24,
+    "question": "In the auscultatory method of blood pressure measurement, the point of disappearance of the sound corresponds to the  _________ pressure on the manometer qauge",
+    "options": [
+      "diasolic",
+      "systolic",
+      "pulse",
+      "mean arterial",
+      "none of the above"
+    ],
+    "answer": [""],
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "question": "A baroreceptor reflex feedback mechanism in response to an increase in blood pressure includes the following except",
+    "options": [
+      "increase in parasympathetic outflow to the heart",
+      "increase in parasympathetic outflow to the blood vessels",
+      "decrease in parasympathetic outflow to the heart",
+      "decrease in parasympathetic outflow to the blood vessels",
+      "none of a-d"
+    ],
+    "answer": ["decrease in parasympathetic outflow to the heart"],
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "question": "The ___________ all together, are the mjor factor in determining mean arterial pressure itself",
+    "options": ["arteries", "arterioles", "capillaries", "venules", "veins"],
+    "answer": ["arterioles"],
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "question": "The following are involved in diastole except",
+    "options": [
+      "Closure of semilunar valves",
+      "opening of AV valves",
+      "opening of semilunar valves",
+      "closure of AV valves",
+      "none of the above"
+    ],
+    "answer": ["opening of semilunar valves"],
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "question": "One of the differences between cardiac and skeletal muscles is that cardiac muscles have",
+    "options": [
+      "more developed T- tubules",
+      "less developed than skeletal",
+      "T- tubules are 5x as great as skeletal muscles",
+      "A and C",
+      "A and B"
+    ],
+    "answer": ["more developed T- tubules"],
+    "explanation": "One of the differences between cardiac and skeletal muscles is that cardiac muscles have more developed T-tubules (option A). The other options are incorrect because they either provide inaccurate information about T-tubules in cardiac muscles or wrongly compare them to skeletal muscles."
+  },
+  {
+    "id": 29,
+    "question": " On the sarcoplasmic reticulum for cardiac muscles",
+    "options": [
+      "more developed than skeletal",
+      "less developed than skeletal",
+      "stores 5x as great as than skeletal muscles",
+      "A and C",
+      "A and B"
+    ],
+    "answer": ["more developed than skeletal"],
+    "explanation": "The correct answer is `More developed than skeletal.` The sarcoplasmic reticulum (SR) is an organelle within muscle cells responsible for storing and releasing calcium ions, which are crucial for muscle contraction. In the case of cardiac muscles, the sarcoplasmic reticulum is indeed more developed than in skeletal muscles.\n Explanation for the options: \n`More developed than skeletal`: This is correct. The sarcoplasmic reticulum in cardiac muscles is more developed than in skeletal muscles, reflecting the specific needs and functions of the cardiac muscle tissue.\n`Less developed than skeletal`:  The correct relationship is the opposite; the sarcoplasmic reticulum in cardiac muscles is more developed than in skeletal muscles.\n`Stores 5x as great as skeletal muscles`: This option is not accurate, as it provides a specific quantity (5x) without a clear basis. The focus should be on the relative development rather than a specific numerical value.",
+    "Topic": "Muscle physiology",
+    "shuffle": false
+  },
+  {
+    "id": 30,
+    "question": "The volume of blood ejected by ventricles in one heart beat is called",
+    "options": [
+      "cardiac output",
+      "end diastolic volume",
+      "end systolic volume",
+      "stroke volume",
+      "ejection fraction"
+    ],
+    "answer": ["stroke volume"],
+    "explanation": ""
+  },
+  {
+    "id": 31,
+    "question": "The volume of blood in the ventricles just before ejection is called",
+    "options": [
+      "cardiac output",
+      "end diastolic volume",
+      "end systolic volume",
+      "stroke volume"
+    ],
+    "answer": ["end systolic volume"],
+    "explanation": ""
+  },
+  {
+    "id": 32,
+    "question": "The total volume of blood ejected per unit time from the ventricles is called",
+    "options": [
+      "cardiac output",
+      "end diastolic volume",
+      "end systolic volume",
+      "stroke volume"
+    ],
+    "answer": ["cardiac output"],
+    "explanation": ""
+  },
+  {
+    "id": 33,
+    "question": "The volume of blood in the ventricles after ejection of blood is known as",
+    "options": [
+      "cardiac output",
+      "end diastolic volume",
+      "end systolic volume",
+      "stroke volume"
+    ],
+    "answer": ["end diastolic volume"],
+    "explanation": "End systolic volume refers to the volume of blood remaining in the ventricles after the ejection of blood during systole (contraction phase of the heart).\n`Cardiac output`:  Cardiac output is the total volume of blood pumped by the heart in one minute and is not specifically related to the volume in the ventricles after ejection.\n`End diastolic volume`:  End diastolic volume is the volume of blood in the ventricles at the end of diastole (relaxation phase) just before contraction.\n`End systolic volume`: This is correct. End systolic volume is the volume of blood in the ventricles after the ejection of blood during systole.\n`Stroke volume`:  Stroke volume is the volume of blood ejected by the ventricle in one contraction (systole), not the volume remaining after ejection."
+  },
+  {
+    "id": 34,
+    "question": "The component of the myofibril that binds to tropomyosin for cardiac contraction is called",
+    "options": [
+      "Troponin A",
+      "myosin head",
+      "troponin C",
+      "troponin T",
+      "actin"
+    ],
+    "answer": ["troponin T"],
+    "explanation": "",
+    "Topic": "Muscle physiology"
+  },
+  {
+    "id": 35,
+    "question": "The QRS complex in ECG means",
+    "options": [
+      "ventricular depolarization",
+      "atrial depolarization",
+      "ventricular contraction",
+      "ventricular repolarization",
+      "ejection fraction"
+    ],
+    "answer": ["ventricular depolarization"],
+    "explanation": ""
+  },
+  {
+    "id": 36,
+    "question": "The T- wave in ECG represents",
+    "options": [
+      "cardiac output",
+      "end diastolic volume",
+      "end systolic volume",
+      "stroke volume",
+      "ejection fraction"
+    ],
+    "answer": ["end systolic volume"],
+    "explanation": "The T-wave in an electrocardiogram (ECG) represents the ventricular repolarization phase, specifically the end of the ventricular systole\n`Cardiac output`:  The T-wave does not directly represent cardiac output, which is the total volume of blood pumped by the heart in one minute.\n`End diastolic volume`:  The T-wave is associated with the end of ventricular systole (repolarization), not the end of diastole.\n`End systolic volume`: This is the correct answer. The T-wave in ECG corresponds to the end of the ventricular systole.\n`Stroke volume`:  The T-wave does not represent stroke volume, which is the volume of blood ejected by the ventricle in one contraction.\n`Ejection fraction`:  The T-wave is not directly related to ejection fraction, which is the fraction of the end-diastolic volume ejected with each heartbeat."
+  },
+  {
+    "id": 37,
+    "question": "The sterling outward forces at the arterial end in capillary fluid exchange include the following except",
+    "options": [
+      "capillary fluid pressure",
+      "interstitial fluid pressure",
+      "plasma colloidal osmotic pressure",
+      "interstitial fluid colloidal pressure",
+      "none of the above"
+    ],
+    "answer": ["interstitial fluid colloidal pressure"],
+    "explanation": "The forces involved in capillary fluid exchange include capillary fluid pressure (hydrostatic pressure), interstitial fluid pressure, and plasma colloidal osmotic pressure (oncotic pressure). The term `interstitial fluid colloidal pressure` is not a recognized force in capillary fluid exchange. Therefore, the correct answer is the option that includes this term, which is `Interstitial fluid colloidal pressure.` It is an incorrect term in the context of the forces influencing fluid movement across capillaries"
+  },
+  {
+    "id": 38,
+    "question": "The sterling inward forces at the arterial end in capillary fluid exchange include the following except",
+    "options": [
+      "capillary fluid pressure",
+      "interstitial fluid pressure",
+      "plasma colloidal osmotic pressure",
+      "interstitial fluid colloidal pressure",
+      "none of the above"
+    ],
+    "answer": ["interstitial fluid colloidal pressure"],
+    "explanation": "The forces involved in capillary fluid exchange include capillary fluid pressure (hydrostatic pressure), interstitial fluid pressure, and plasma colloidal osmotic pressure (oncotic pressure). The term `interstitial fluid colloidal pressure` is not a recognized force in capillary fluid exchange. Therefore, the correct answer is the option that includes this term, which is `Interstitial fluid colloidal pressure.` It is an incorrect term in the context of the forces influencing fluid movement across capillaries"
+  },
+  {
+    "id": 39,
+    "question": "The unipolar leads in ECG include the following except",
+    "options": ["aVL", "aVR", "aVF", "aVB", "none of the above"],
+    "answer": ["aVF"],
+    "explanation": ""
+  },
+  {
+    "id": 40,
+    "question": " The bipolar leads II electrode position include",
+    "options": ["RA &LA", "RA &LL", "LA &LL", "LA & LB", "none of the above"],
+    "answer": ["RA & LA"],
+    "explanation": ""
+  },
+  {
+    "id": 41,
+    "question": "In physiology blood pressure can be represented",
+    "options": [
+      "cardiac output x Total peripheral resisilience",
+      "CO X HR",
+      "HR X TPR",
+      "CO X TPR",
+      "none of the above"
+    ],
+    "answer": ["CO X TPR"],
+    "explanation": ""
+  },
+  {
+    "id": 42,
+    "question": " On auscultatory method of measurement of blood pressure, the first sound heard is called",
+    "options": ["korotkwof", "korotkoft", "korotkoff", "none of the above"],
+    "answer": ["korotkoff"],
+    "explanation": ""
+  },
+  {
+    "id": 43,
+    "question": "The main causes of oedema include",
+    "options": ["head", "fingers", "toes", "body surface", "none of the above"],
+    "answer": ["none of the above"],
+    "explanation": ""
+  },
+  {
+    "id": 44,
+    "question": "The following is not a function of cardiovascular system",
+    "options": [
+      "delivery of oxygen to tissues",
+      "delivery of hormones",
+      "delivery of CO2 to tissues",
+      "secretion of ANP into blood",
+      "temperature regulation"
+    ],
+    "answer": ["delivery of CO2 to tissues"],
+    "explanation": ""
+  },
+  {
+    "id": 45,
+    "question": "contractility in cardiac muscles is known as",
+    "options": [
+      "chronotropism",
+      "Barthotropism",
+      "cardiotropism",
+      "Ionotropism",
+      "none of the above"
+    ],
+    "answer": ["Ionotropism"],
+    "explanation": ""
+  },
+  {
+    "id": 46,
+    "question": " The ion mediating cardiac contractility is called",
+    "options": ["Na ion", "K ion", "Mg ion", "Zn ion", "Ca ion"],
+    "answer": ["Ca ion"],
+    "explanation": ""
+  },
+  {
+    "id": 47,
+    "question": " The volume of blood ejected by the ventricles in one heart beat is",
+    "options": ["250 ml", "70 ml", "90 ml", "120 ml", "150 ml"],
+    "answer": ["70 ml"],
+    "explanation": ""
+  },
+  {
+    "id": 48,
+    "question": "The value for cardiac output is given a",
+    "options": ["500 kg", "50 L", "0.5 ml", "5 ml", "5L"],
+    "answer": ["5L"],
+    "explanation": ""
+  },
+  {
+    "id": 49,
+    "question": " The volume of blood in the ventricles just before ejection is called",
+    "options": [
+      "Preload",
+      "Afterload",
+      "end systolic volume",
+      "stroke volume",
+      "none of the above"
+    ],
+    "answer": ["Preload"],
+    "explanation": ""
+  },
+  {
+    "id": 50,
+    "question": "The QRS complex in ECG masks",
+    "options": [
+      "ventricular depolarization",
+      "atrial",
+      "ventricular",
+      "atrial repolarization",
+      "Ejection fraction"
+    ],
+    "answer": ["atrial repolarization"],
+    "explanation": ""
+  },
+  {
+    "id": 51,
+    "question": "Blood capillaries do not contain the following except",
+    "options": [
+      "single endothelial layer",
+      "elastic tissues",
+      "collagen",
+      "smooth muscles",
+      "none of the above"
+    ],
+    "answer": ["single endothelial layer"],
+    "explanation": ""
+  },
+  {
+    "id": 52,
+    "question": "The highest blood pressure is called",
+    "options": [
+      "ventricular BP",
+      "systolic BP",
+      "diastolic BP",
+      "atrial BP",
+      "ejection fraction"
+    ],
+    "answer": ["systolic BP"],
+    "explanation": ""
+  },
+  {
+    "id": 53,
+    "question": "The lowest blood pressure",
+    "options": [
+      "ventricular BP",
+      "systolic BP",
+      "diastolic BP",
+      "atrial BP",
+      "ejection fraction"
+    ],
+    "answer": ["diastolic BP"],
+    "explanation": ""
+  },
+  {
+    "id": 54,
+    "question": "The average BP exerted by blood is given as",
+    "options": [
+      "1/3 of pulse + diastolic BP",
+      "1/3 of pulse + systolic BP",
+      "1/3 of pulse + high BP",
+      "1/3 of pulse + atrial BP",
+      "1/3 of pulse + stroke vol."
+    ],
+    "answer": ["1/3 of pulse + diastolic BP"],
+    "explanation": ""
+  },
+  {
+    "id": 55,
+    "question": "Direct measurement of BP involves",
+    "options": [
+      "catheterization of an artery",
+      "catheterization of a vein",
+      "auscultation",
+      "atrial pressure",
+      "catheterization of capillaries"
+    ],
+    "answer": ["catheterization of an artery"],
+    "explanation": ""
+  },
+  {
+    "id": 56,
+    "question": "Short term regulation of Blood Pressure is by",
+    "options": [
+      "baroreceptor mechanism",
+      "renal mechanism",
+      "neural mechanism",
+      "A&B",
+      "A and C"
+    ],
+    "answer": ["A and C"],
+    "explanation": ""
+  },
+  {
+    "id": 57,
+    "question": " Long term regulation of Blood Pressure is by",
+    "options": [
+      "baroreceptor mechanism",
+      "renal mechanism",
+      "neural mechanism",
+      "A&B",
+      "A and C"
+    ],
+    "answer": ["renal mechanism"],
+    "explanation": ""
+  },
+  {
+    "id": 58,
+    "question": " In capillary fluid exchange, lipid soluble substances diffuse directly through",
+    "options": [
+      "pores depending on the molecular size",
+      "cell membrane mechanism",
+      "protein carrier mechanism",
+      "active transport",
+      "A and C"
+    ],
+    "answer": ["cell membrane mechanism"],
+    "explanation": "",
+    "shuffle": false
+  },
+  {
+    "id": 59,
+    "question": " In capillary fluid exchange, the following are examples of water soluble substances",
+    "options": ["Na ion", "O2 molecule", "CO2 molecule", "B& C", "A and C"],
+    "answer": ["A and C"],
+    "explanation": "",
+    "shuffle": false
+  },
+  {
+    "id": 60,
+    "question": "In capillary fluid exchange, the following are examples of lipid soluble substances",
+    "options": ["Na ion", "O2 molecule", "CO2 molecule", "B& C", "A and C"],
+    "answer": ["O2 molecule"],
+    "explanation": ""
+  },
+  {
+    "id": 61,
+    "question": "The interstitial fluid is comparable to plasma but with",
+    "options": [
+      "increased protein",
+      "reduced protein",
+      "reduced fat",
+      "increased electrolytes",
+      "reduced electrolytes"
+    ],
+    "answer": ["reduced protein"],
+    "explanation": ""
+  },
+  {
+    "id": 62,
+    "question": "The outward sterling forces at the arterial end in capillary fluid exchanghe include the following except",
+    "options": [
+      "capillary pressure",
+      "interstitial fluid pressure",
+      "interstititial colloidal pressure",
+      "none of the above",
+      "all of the above"
+    ],
+    "answer": [""],
+    "explanation": "Capillary pressure: This force represents the hydrostatic pressure within the capillary that tends to push fluid out \nInterstitial fluid pressure: This force is the pressure in the interstitial space outside the capillary, contributing to fluid movement. \nInterstitial colloidal pressure: This force involves the osmotic pressure due to colloids (proteins) in the interstitial fluid."
+  },
+  {
+    "id": 63,
+    "question": "Parasympathetic innervation of the heart involves the",
+    "options": ["SA node", "ventricles", "AV node", "A&B", "A & C"],
+    "answer": ["A & C"],
+    "explanation": ""
+  },
+  {
+    "id": 64,
+    "question": "Increased chronotropic effect in the cardiac myocardium means",
+    "options": [
+      "increased contractility",
+      "increased heart rate",
+      "decreased contractility",
+      "reduced heart rate",
+      "increased secretion"
+    ],
+    "answer": ["increased heart rate"],
+    "explanation": ""
+  },
+  {
+    "id": 65,
+    "question": "stimulation of B1 receptors can result in",
+    "options": [
+      "positive ionotropism",
+      "negative chronotropism",
+      "positive chronotropism",
+      "negative ionotropism",
+      "A&C"
+    ],
+    "answer": ["A&C"],
+    "explanation": ""
+  },
+  {
+    "id": 66,
+    "question": " Stimulation of M1 receptors can result in",
+    "options": [
+      "positive ionotropism",
+      "negative ionotropism",
+      "positive chronotropism",
+      "negative chronotropism",
+      "B&C"
+    ],
+    "answer": ["B&C"],
+    "explanation": ""
+  },
+  {
+    "id": 67,
+    "question": "Shock can simply be referred to mean",
+    "options": [
+      "increased tissue perfusion",
+      "decreased tissue perfusion",
+      "decreased cardiac contractility",
+      "reduced heart rate",
+      "none"
+    ],
+    "answer": ["decreased tissue perfusion"],
+    "explanation": ""
+  },
+  {
+    "id": 68,
+    "question": "Hypovolaemic shock relates with which of the following",
+    "options": [
+      "decreased extra cellular fluid volume",
+      "sepsis",
+      "heart failure",
+      "embolism",
+      "increased secretion"
+    ],
+    "answer": ["decreased extra cellular fluid volume"],
+    "explanation": ""
+  },
+  {
+    "id": 69,
+    "question": "Distributive shock relates with which of the following",
+    "options": [
+      "decreased extra cellular fluid volume",
+      "sepsis",
+      "heart failure",
+      "embolism",
+      "increased secretion"
+    ],
+    "answer": ["sepsis"],
+    "explanation": ""
+  },
+  {
+    "id": 70,
+    "question": "Cardiogenic shock relates with which of the following",
+    "options": [
+      "decreased extra cellular fluid volume",
+      "sepsis",
+      "heart failure",
+      "embolism",
+      "increased secretion"
+    ],
+    "answer": ["heart failure"],
+    "explanation": ""
+  }
+]

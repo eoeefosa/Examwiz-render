@@ -1,0 +1,487 @@
+medical dictionary
+antidepressants are mood elevating drugs, Thymoleptics
+
+First generation of antidepressants are 
+1. Tricylic antidepressants(TCAs)
+2. monoamine oxidase inhibitors(MAOIs)
+
+2nd generation 
+1. Selective serotonin reuptake inhibitors(SSRIs)
+2. serotonin Norepinephrine reuptake inhibitors(SNRIs)
+
+1. One of the following drugs metabolism is affected by genetic polymorphism enzyme
+a. Isoniazid
+b. Digoxin
+c. Codeine
+d. Suxamethonium
+e. Fluconazole
+
+answer: Isoniazid
+explanation: Codeine is metabolised by CYP2D6 which undergoes genetic polymorphism
+other drugs metabolised by CYP2D6 Include Tricylic antidepressants, Neuroleptics, Antiarrhythmics, and metoprolol,
+Tricylic antidepressants includes 
+1. Imipramine, Doxepin, Desipramine, Amoxepine, Trimipramine, Maprotiline, Clomipramine, 
+Amitriptyline, Nortriptyline, Protriptyline 
+CYP2C9 also undergoes genetic polymorphism and drugs metabolised by this Include Warfarin, phenytoin, Carbamazepine 
+
+
+2. The bioavailability of this drug is increased when given by the sublingual route
+a. Diazepam extended release
+b. Simvastatin
+c. Methyl Prednisolone
+d. Diltiazem preparations
+e. Glyceryl trinitrate
+
+answer: Glyceryl trinitrate
+
+3. A newly diagnosed hypertensive patient was given an extended release of a
+dosed once every 24 hours. The half-life of the drug is 48hours. However, ©
+drug, blood pressure is not controlled. What should be the next step?
+a. Double the dose of the antihypertensive drug
+b. Observe the patient’s blood pressure after an additional week.
+c. Measure blood levels of the antihypertensive agent
+d. Add a second antihypertensive agent
+e. Change the antihypertensive agent to a new class
+
+answer:  Add a second antihypertensive agent
+
+4. One of the following statements is consistent with drug therapy in e\derly
+a. Elderly patients have an increased volume of distribution due to
+b. Elderly patients are 2-3x more predisposed 1o having an advers
+c. Fat soluble drugs have a shorter half-life in elderly patients
+d. Hypoalbuminemia in the elderly can lead to decreased toxicy
+e. Hepatic clearance of lipid soluble drugs reduces with age.
+
+answer: Elderly patients are 2-3x more predisposed 1o having an advers
+
+5. A 50 year old known hypertensive patient who just celebrated her birthday and drank lots of grape juice was brought to emergency on account of severe myalgia. Which of the following drugs could have been responsible for her presentation?
+a. Amoxicillin
+b. Aspirin
+c. Atorvastatin
+d. Lisinopril
+c. Sildenafil
+
+answer:  Atorvastatin
+
+6.  Which of the following reasons is BEST considered for giving a 72 year old man in cardiac failure on parenteral frusemide therapy
+a. Reduced gastrointestinal blood flow and mucosal edema
+b. Decreased tissue perfusion and altered partition kinetics
+c. Decreased volume of distribution of frusemide
+d. Reduced elimination of frusemide
+c, Reduced hepatic clearance and high hepatic perfusion
+
+answer: Reduced gastrointestinal blood flow and mucosal edema
+
+7. Which ONE of the following features suggests amphetamine overdose rather than drug withdrawal.
+a. Hallucinations
+b. Hot, dry, flushed skin
+c. Marked urinary retention
+d. Hypertension
+e. Nystagmus
+
+answer: 
+
+8. In the estimation of plasma/serum drug concentrations are most useful in optimizing the therapeutic dose
+required of:
+a. Warfarin
+b. Omeprazole
+c. Salbutamol
+d. Olanzapine
+e. Lithium
+
+answer: Lithium
+
+9. Which of the following drugs would require a loading dose to ensure a rapid onset of action as part of a
+rational and advised therapeutic practice ?
+a. Clozapine
+b. Sumatriptan
+c. Amiodarone
+d. Levodopa
+e. Doxazosin
+
+answer: Amiodarone
+
+10. A 66 year old man was diagnosed with transient ischaemic attack secondary to severe hypertension and was placed on several medications. He was found unconscious 3 weeks later with petechiae hemorrahges on his body and a platelet count of 45,000 cellsul.. Which of the following medications could have been responsible for his condition?
+a. Clopidogrel
+b. Simvastatin
+c. Losartan
+d. Atenolol
+e. Tiotropium
+
+answer: Clopidogrel
+
+11. 45 year old teacher with dysfunctional uterine bleeding was started on oral contraceptives, she late presented with swelling and pain of the right calf, a diagnosis of deep venous thrombosis was made which of the following mechanisms of action of a drug would be best for her treatment at this time?
+a. A drug that acts by irreversibly inhibiting cyclooxygenase in platelets
+b. A drug that inhibits adenosine uptake and cyclic nucleotide phosphodiesterase
+€. A drug that inhibits purinergic receptor and requires activation in the liver
+d. A drug that inactivates clotting factors by binding to thrombin and antithrombin
+e. A drug that binds to the fibrinogen recognition site of thrombin
+
+answer: A drug that inactivates clotting factors by binding to thrombin and antithrombin
+
+12. All the following match the anticongulant with its correct mechanism of action EXCEPT
+a. abeiximab—GpIIb/llla receptor inhibition
+b. clopidogrel—inhibition of thromboxane A2 release
+c. fondaparinux—inhibition of factor Xa
+d. argatroban—thrombin inhibition
+e. warfarin- vitamin K—dependent carboxylation of coagulation fuctors
+
+answer: clopidogrel—inhibition of thromboxane A2 release
+
+13. One of the following antihypertensive medications is contraindicated in pregnancy?
+a. Amlodipine
+b. Hydralazine
+c. Labetatolol
+d. Valsartan
+e. Methyldopa
+
+answer: Valsartan
+
+14. In the management of a patient with hypertension, ONE of the following combinations is NOT rational when the patient is not controlled on a single agent.
+a. Amlodipine and valsartan in a diabetic patient
+b. Atenolol and amlodipine in an asthmatic
+c. Carvedilol and ramipril in a patient with gout
+d. Ramipril and doxazosin in a patient with prostatism
+e. Methyldopa and nifedipine in a pregnant woman
+
+answer: Carvedilol and ramipril in a patient with gout
+
+15. Which of the following drugs is useful in the acute treatment of an angina attack in a 65-year-old man with ischaemic chest pain following exertion?
+a. Clopidogrel
+b. Warfarin
+c. Sodium nitroprusside
+d. Glyceryl trinitrate
+e. Isosorbide dinitrate
+
+answer: Glyceryl trinitrate
+
+16.In the management of anaphylactic disorders, which of the following medications would be best at reducing the itching caused by flare and intradermal injection of histamine
+a. Cimetidine
+b. Omeprazole
+c. Diphenhydramine
+d. Prednisolone
+e. Methylhistamine
+
+answer: Diphenhydramine
+
+17. A 25 year old student was brought to the triage department of the hospital with complaints of poor sleep, flattened affect, and reluctance in performing daily tasks and reduced speech. He had also stopped eating in the last 72 hours. Which of the following medications would be BEST prescribed for this patient?
+a. Chlorpromazine
+b. Olanzepine
+c. Haloperidol
+d. Fluphenazine
+e. Loxapine
+
+answer: Olanzepine
+
+18. Which of the following is least likely to have an adverse drug interaction with phenelzine (a monoamine oxidase (MAO) inhibitor)?
+a. Levodopa
+b. Ropinirole
+c. Tolcapone
+d. Propofol
+e. Pseudoephedrine
+
+answer: 
+
+19. Calcium channel blockers exert their effects in the following ways except
+a. Decrease in the activation of calmodulin dependent myosin light chain kinase
+b. Reduction in the action of smooth muscle cell contraction
+c. Increased vasodilation of the resistance venules
+d. Increased dilation of the coronary arteries
+e. Augmentation of myocardial oxygen supply
+
+answer: Increased vasodilation of the resistance venules
+
+20. A newly diagnosed hypertensive complained of headaches, flushing and peripheral edema. Which of the following drugs could have caused these reactions?
+a. Valsartan
+b. Esmolol
+c Lisinopril
+d. Eplerenone
+e. Nifedipine
+
+answer:  Nifedipine
+
+21. A 52 year old hair dresscr was rushed 1o the emergency with difficulty in breathing. and leg swelling diagnosis of cardiogenic shock and acute heart failure was made. Which of the folwling medicines would be best prescribed for this patient.
+a. Carvedilol
+b. Losartan
+c. Dopamine
+d. Frusemide
+e. Spironolactone
+
+answer: Dopamine
+
+22. A 60 year old newly retired public servant with hypertension complained of erectile dysfunction, which pharmacokinetic property of the sildenafil citrate is MOST likely to cause hypotension in him?
+a. Its high plasma protein binding
+b. The metabolism by CYP3A4 inhibitors
+c. The onset time of 1 hour
+d. The reduced renal clearance
+e. The presence of an active metabolite
+
+answer: The reduced renal clearance
+
+23. The following drug used in erectile dysfunction is administered as an intraurethral mini-suppository or intracarvenosally.
+a. Sildenafil
+b. Papaverine
+c. Yohimbine
+d. Phentolamine
+e. Alprostadil
+
+answer: Alprostadil
+
+24. A 69-year-old man develops renal failure. Which of the following drups requites a major adjustment in dosage?
+a Levofloxacin
+b. Cefiriavone
+c. Amphotericin
+d. Cladsaycia
+e. Ampkillin
+
+answer: Levofloxacin
+
+25. A 19-year-old college student smokes. cannabis on a regular basis. Which of the following clinical findings is most likely to be seen an hour after Inhalation?
+a. A decrease in heart rate
+b. An increase in intraocular prevsare
+c. Prolonged reaction time
+d. A Periphoral vasoconstriction
+e. An increase in intelligence quotient (IQ)
+
+answer: Prolonged reaction time
+
+26. The follawing statements are True in drug pharmacokinetics. ‘
+a. The plasna clearance of a drug wwally decreases with increase in the dose prescribed
+b. The presence of an wnisable group iv evsential for the meshamism of action of most drugs
+c. Drugs are always taken with meals in oder 10 redoce unwanted effects
+d. Benzylpenicillin has u prolonged half-ife because the renal exiraction of penicillin is reduced.
+e. Cluonic treatment wiih phenoharhital can increase the systemic clearunce and ural biavailability of co-administered drugs.
+
+
+answer: The presence of an wnisable group iv evsential for the meshamism of action of most drugs
+
+27. The following undergoes. extensise first pass metabolism except:
+a Verapamil
+b. Doxycycline
+c. Propranolol
+d. Morphine
+e. Amoxicillin
+
+answer: Amoxicillin
+
+
+28. In discrete multiple dosing of an administered medication, maintenance dose of is a function of which of the following?
+a. Apparent volume of distribution (Vd)
+b. Half life(t1/2)
+c. Clearance (CL)
+d. Plasma concentration of the drug ( Cp)
+e. First pass effect
+
+answer: Clearance (CL)
+
+29. A patient was being maintained on a Fadrenergic receptor antagonist 10 control hypertension. The continuous exposure of receptor to this antagonist can:
+a Result in supersensitivity
+b Produce tachyphylaxis
+c Produce Irritation
+d Result in replacement
+e Produce desensitization
+
+answer: Result in supersensitivity
+
+30. An in vitro experiment was performed that involved adding two different drugs to a solution bathing strip of intestinal smooth muscle. Both drugs cause relaxation of the muscle but had very different ECS values. Based on this single piece of information, which of the following statements is most correct?
+a. The two drugs have similar chemical structures
+b. The two drugs have different potencies in causing relavation
+c. Both drugs activate the sam receptor in the muscle
+d. Both drugs are directly acting agoaisty
+e. The maximum relaxation causad by the two different drugs will be similar
+
+answer: The two drugs have different potencies in causing relavation
+
+31. Target validation in drug discovery and development refers to
+a. The identification of a therapeutically relevant drug target in modulating a discase condition
+b. Finding a genetic linkage 10 a pathological disonder
+c. The firuding that modulating the target with a drug produces the desired therapeutic effect
+d. The idea that the targets are safe and modulating it will be nontoss.
+e. Finding a target most usetul in the development of treatment for the disease
+
+answer: Finding a target most usetul in the development of treatment for the disease
+
+32. The following drug combinations help to enhance their effectiveness except?
+a. Clavulanic acid plus Amoxicillin
+b. Imipenem plus Cilastin
+c. Gentamicin plus amoxicillin
+d. Isoniazide plus Pyridoxine
+e. Sulphadouine plus pyrimethamine
+
+answer: Isoniazide plus Pyridoxine
+
+33. Which of the following statement is true concerning the autonomic NS
+a. Ganglion blocking drugs also block the neuromuscular junction
+b. Dopamine is a tranumitter in the penpheral autonomic nervous system.
+c. Botulinum toxin enhances acetykcholine release from cholinergic newrons
+d. The Beta S-adrenoceptor is the most widespread of the Beta receptors
+e. Acetylcholinesterase is the only enzyme in the body that breaks down acetylcholine
+
+answer: Ganglion blocking drugs also block the neuromuscular junction
+
+34. An elderly woman with elevated intraocular pressure is diagnosed with open-angle glavcoma. Her physician prescribes instillation of pilocarpine opbthalmic solution into the eye every 6 hours. The anticipated effect of pilocarpine eye drops would be to:
+a. Relax the ciliary muscles
+b. Contract the radial muscle
+c. Contract the sphincter muscle
+d. Inhibit the peoduction of aqueous humor
+e. Decrease the production of aqueous humor
+
+answer: Contract the sphincter muscle
+
+35 An agncultural worker is brought from his farm to the local emergency department with complains of chest tightness, difficulty with vision and was observed 1o have pinpoint pupils and 10 be profusely salivating. What is the most appropeiate medication for treating his condition?
+a Naloone
+b Atropine
+c Pralidoxime
+d Pilocarpine
+e Edrophonium
+
+answer: Atropine
+
+36. What is the most severe and potentially mmunmw-mzm
+exhibit?
+a. Hypovolsemic shock 
+b. Cardisc failure
+c. Respiratory failure
+d. Hypothermia
+e. Hyperthermia
+
+answer: Respiratory failure
+
+37. Parkinsons discase
+a. Symploms only become apparent when approximately 25% of dopaminergic neurvns have been lost
+b. Abnormally increased dopaminergic transmission
+c. L-DOPA is contraindicated for individuals taking MAO inhibitors
+d. Unlike tolcapone, entacapone crosses the BBR
+e. 25 % of the administered dose of levodopa reaches the CNS unchanged
+
+answer: L-DOPA is contraindicated for individuals taking MAO inhibitors
+
+38. A number of drugs are used for the treatment of Parkinson's discase. Which one of the following is 2
+true statement about the propertics of these drugs?
+a. Levodopa doey not slow the progress of Parkinson's disease
+b. Selegiline is a selective MAO-A inhibvtor used for Parkinson's disease
+c. More than $0% of orally administered levodopa enters the brain unaltered
+d. Currently used drugs for Parkinson’s disease only stunulate D1-ty pe dopamine recepton.
+e. Carbidopa is an effective dopamine decarbony lase inhabitor In the CNS
+
+answer: Levodopa doey not slow the progress of Parkinson's disease
+
+39. Phenytoin
+a Prevents seizure initiation
+b Salicylates and sodium valproate reduce the effectiveness of phenytoin
+c. Masma concentrations vary in a lincar manner with the dose admiinistered over the whole therapeutic dose range
+d. Fist line anticpileptic agent in status epilepticus
+e. Precipitates as salt in alkaline solutions
+
+answer: 
+
+40. Which of the following is not used in preventing a migraine attack?
+a. Propranolol
+b. Paracetamol
+c. Amitriptyline
+d. Sodiam valproate
+e. Candesartan
+
+answer: Paracetamol
+
+41. Reganding NSAIDs
+a. Paracetamol is a potent analgesic and antiinflammatory agent.
+b. Small daily doses of aspirin (75 mg) can compromise rens! function
+c. Ibuprofen is prefermed 1o indometacin or diclofenac as an effective first-choice NSAID in severe rheumatoid arthitis
+d. Celeconib s an antipyretic
+e. Aspirin is 2 gowd choice of analgesic therapy for people with asthma
+
+answer: Celeconib s an antipyretic
+
+42. Which of the drug is most appropriate for an elderly man with & long history of hypertension, congestive heart failure with oedema, and cheonic gastritis has chronic mild knee pain due to osteoarthritic changes which is interrupting his sleep
+a. Aspirin
+b. Celeconib
+c. Diclofenac plus misoprostol
+d. Paracetamol
+e. Indometacin
+
+answer: Diclofenac plus misoprostol
+
+43. Which is analgesic is most appropriate for a 32-year-old severely asthmatic woman with a diagnosis of rheumatoid arthritis and recurrent dyspepsia and no history of beart discase
+a. Aspirin
+b. Celecoxib
+c. Diclofenac plus misoprostol
+d. Paracetamol
+e. Indometacin
+
+answer: Celecoxib
+
+44. Regarding Rheumatoid discase
+a. NSAIDs reduce the symptoms of rheumatoid discase and retard the progress of the discase
+b. If penicillamine does not lead to clinical benefit within 6 months, it should be stopped
+c. During methotrexate therapy, folic acid is contraindicated
+d. Methotrexate has more unwanted effects compared with most other DMARDs for Rheumatoid arthritis
+e. Prolonged treatment with hugh doses of corticosteroids is advised
+
+answer: If penicillamine does not lead to clinical benefit within 6 months, it should be stopped
+
+45. A 64-ycar-old man had mild asthma that was well controlied taking salbutamol two 1o three times & week and inhaled beclomctasone twice daily. He complained of sorencss of the mouth and hoarsenes and was advised about oral hygiene. What is most appeopriate for this patient?
+a. A spacer
+b. Modificd-release theophy line
+c. Intravenous magnesium sulphate
+d. Only predisolone
+e. Ipratropium bromide
+
+answer: A spacer
+
+46. Which onc of the following is the most appropriate description of an unwanted effect of high-dose salbutamol?
+a. Bradycandia
+b. Hypokalaemia
+c. Mypoglycaemia
+d. Mydriasis
+e. Constipation
+
+answer:  Hypokalaemia
+
+47. Methicillin-resistant Staplylococeus aureus (MRSA) is a common nosocomial pathogen that is increasing in frequency in community settings. Which of the following statements best describes the worst common mechanism of resistance by S.aureus?
+a. Acquisition of the novel protein PBP
+b. Increased cell wall repair.
+c. Increased efflux of f-lactams.
+d. Increased synthesis of metabolic factors.
+e. Reduced permeability to p-lactams.
+
+answer: Acquisition of the novel protein PBP
+
+48.  when using combination antbiotic therapy, it is important to administer drugs that work synergistically as possible. Which one of the following represents a combination with known synergism? 
+a. B-Lactam + Aminoglycosides
+b. Penicillin + Cephalosporin.
+c. Combination of two drugs in which the first displaces the second from plasma binding sites.
+d. Two drugs eliminated by different routes.
+e. Two drugs that work on the same step in a metabolic pathway.
+
+answer: B-Lactam + Aminoglycosides
+
+49. Bacteria develop resistance o tetracyclines by which of the following mechanisms?
+a. Altered ribosomal targets.
+b. Bypass pathway in folic acid metabolism.
+c. Enzymatic inactivation
+d. Increased drug efflux
+e. Mutation of DNA gyrase gene.
+
+answer: Enzymatic inactivation
+
+50. A patient is administered an intravenous antibiotic for the treatment of bacterial
+meningitis but experiences seizures a short time later. Which of the following drugs was
+most likely administered?
+
+a. Ampicillin.
+b. Ceftriaxone.
+c. Imipenem
+d. Nafcillin.
+e. Vancomycin.
+
+answer: Imipenem
+
+51. A 45 year old man with a history of severe penicillin allergy is undergoing treatment for bacterial meningitis. Several days into therapy, he reports a severe headache, general malaise, and visual disturbances. Blood tests reveal that he is severely anemic. Which of the following drugs is most likely responsible for the adverse effects?
+a. Azithromycin.
+b. Erythromycin.
+c. Penicillin.
+d. Ticarcillin.
+e. Chloramphenicol
+
+answer: Chloramphenicol

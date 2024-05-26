@@ -1,0 +1,374 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is incorrect about core temperature",
+    "options": [
+      "It is constant",
+      "It is 37.8◦c",
+      "It is derived by deep seated body tissues",
+      "It is derived from the superficial part of the body"
+    ],
+    "answer": ["It is derived from the superficial part of the body"],
+    "explanation": "",
+    "topic": ""
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is correct about skin temperature",
+    "options": [
+      "it is constant",
+      "heat generated is transmitted to superficial parts of the body",
+      "it is derived by seated body tissues",
+      "it has a temperature of 39◦c"
+    ],
+    "answer": [
+      "heat generated is transmitted to superficial parts of the body"
+    ],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 3,
+    "question": "Skin temperature can be measured at strategic places such as:",
+    "options": [
+      "oral",
+      "axillary",
+      "rectal",
+      "sublingually",
+      "all of the above"
+    ],
+    "answer": ["all of the above"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 4,
+    "question": "The pathological variations of temperature include",
+    "options": [
+      "hypothermia",
+      "hyperthermia",
+      "menstrual cycle",
+      "sleep",
+      "option Aand B are correct"
+    ],
+    "answer": ["option Aand B are correct"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 5,
+    "question": "Physisological variations of temperature include the following except",
+    "options": ["before meal", "after meal", "age", "exercise", "sex"],
+    "answer": ["before meal"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 6,
+    "question": "Physiological variations of temperature include the following except",
+    "options": [
+      "sleep",
+      "diurnal changes",
+      "age",
+      "secretory phase",
+      "ovulatory phase"
+    ],
+    "answer": ["secretory phase"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following statements are incorrect",
+    "options": [
+      "muscle accounts for 80% of body temperature",
+      "females have more brown fats",
+      "temperature is increased in infants",
+      "during sleep temperature increases",
+      "temperature is reduced in adult"
+    ],
+    "answer": ["during sleep temperature increases"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 8,
+    "question": "The following cause increase in temperature except",
+    "options": ["exercise", "emotion", "sex", "sleep", "Nocturnal changes"],
+    "answer": ["sleep"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 9,
+    "question": "When heat production = heat loss it causes",
+    "options": [
+      "normal temperature",
+      "increase in temperature",
+      "decrease in temperature",
+      "fever",
+      "option B and D are correct"
+    ],
+    "answer": ["normal temperature"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 10,
+    "question": "When heat production > heat loss it leads to",
+    "options": [
+      "normal temperature",
+      "increase in temperature",
+      "decrease in temperature",
+      "fever",
+      "option B and D are correct"
+    ],
+    "answer": ["increase in temperature"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 11,
+    "question": "When heat production < heat loss it leads to",
+    "options": [
+      "normal temperature",
+      "increase in temperature",
+      "decrease in temperature",
+      "fever",
+      "option B and D are correc"
+    ],
+    "answer": ["decrease in temperature"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 12,
+    "question": "Extra metabolism include",
+    "options": [
+      "testosterone",
+      "growth hormone",
+      "epinephrine and nor epinephrine",
+      "T4",
+      "all of the above"
+    ],
+    "answer": ["all of the above"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 13,
+    "question": "Extra metabolism include",
+    "options": [
+      "testosterone",
+      "growth hormone",
+      "increased cellular activities",
+      "T4",
+      "all of the above"
+    ],
+    "answer": ["all of the above"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 14,
+    "question": "_________accounts for majority of heat loss",
+    "options": ["conduction", "convection", "radiation", "all of the above"],
+    "answer": ["radiation"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 15,
+    "question": "Insensible heat loss occur in places like",
+    "options": ["lungs", "skin", "brain", "option A and C", "option Aand B"],
+    "answer": ["option A and C"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 16,
+    "question": "Posterior hypothalamus causes",
+    "options": [
+      "vasoconstriction",
+      "inhibits sweating",
+      "increase hormonal metabolism",
+      "increase cellular activities",
+      "shivering"
+    ],
+    "answer": ["shivering"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 17,
+    "question": "The human body temperature is maintained at a set point of",
+    "options": ["34.5◦c", "35.5 ◦c", "36.5◦c", "37.5◦c", "38.5◦c"],
+    "answer": ["37.5◦c"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 18,
+    "question": "The normal body temperature ranges from",
+    "options": [
+      "36.2 - 36.8◦c",
+      "36.2 - 37.8◦c",
+      "37.2 - 38.8◦c",
+      "38.2 - 39. 8◦c",
+      "39.2 - 40.8◦c"
+    ],
+    "answer": ["36.2 - 37.8◦c"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 19,
+    "question": "Pyrogens that induces fever casue one of the following",
+    "options": [
+      "decrease in production of interleukin",
+      "shivering",
+      "decrease in hypothalamic set point",
+      "vasodilation of blood vessels in the skin",
+      "both A and D"
+    ],
+    "answer": ["shivering"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 20,
+    "question": "The human temperature regulating area is loctated at",
+    "options": [
+      "the cerebral cortex",
+      "the temporal lobe",
+      "the thalamus",
+      "the hypothalamus",
+      "the medulla oblongata"
+    ],
+    "answer": ["the hypothalamus"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 21,
+    "question": "The thermoregulatry response controlled by the cholinergic sympathetic system",
+    "options": [
+      "shivering",
+      "brown adipose tissue thermogenesis",
+      "thyroid hormone secretion",
+      "thermoregulatory behavior",
+      "sweating"
+    ],
+    "answer": ["sweating"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 22,
+    "question": "Homeothermals stand for animals with",
+    "options": [
+      "stable body temperature",
+      "unstable body temperature",
+      "body temperature changing with environment",
+      "body temperature similar to cold blood animals",
+      "body temperature that is unpredictable"
+    ],
+    "answer": ["stable body temperature"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 23,
+    "question": "Hard exercise results in body temperature with the range of",
+    "options": [
+      "36 to 37◦c",
+      "37 to 38◦c",
+      "38 to 40◦c",
+      "40 to 42◦c",
+      "36 to 36.2◦c"
+    ],
+    "answer": ["38 to 40◦c"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 24,
+    "question": "Clinical thermometer measure body temeperature after a minimum of",
+    "options": ["2 minute", "½ minute", "3 minutes", "4 minuites", "5 minutes"],
+    "answer": ["½ minute"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 25,
+    "question": "Heat gain include all these except",
+    "options": [
+      "metabolism",
+      "environment",
+      "shivering",
+      "evaporation",
+      "hot food"
+    ],
+    "answer": ["evaporation"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 26,
+    "question": "Heat loss mechanisms include all these except",
+    "options": [
+      "conduction",
+      "convection",
+      "radiation",
+      "metabolism",
+      "evaporation"
+    ],
+    "answer": ["metabolism"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 27,
+    "question": "Eccrine sweating produces the following",
+    "options": ["NaCl", "proteins", "lead", "magnesium", "calcium"],
+    "answer": ["NaCl"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 28,
+    "question": "Apocrine has a significant content of one of these materials- which one",
+    "options": ["sodium", "chloride", "calcium", "magnesium", "proteins"],
+    "answer": ["proteins"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 29,
+    "question": "Body temperature is maintained in a room with decreasing temperature by all these except",
+    "options": [
+      "curling up",
+      "vasoconstriction",
+      "shivering",
+      "cold food and drinks",
+      "exercise"
+    ],
+    "answer": ["cold food and drinks"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  },
+  {
+    "id": 30,
+    "question": "Body heat is decreased by all these except",
+    "options": [
+      "vasodilation of skin vessels",
+      "sweating",
+      "putting on cooler clothes",
+      "increased muscle tone",
+      "putting on fan"
+    ],
+    "answer": ["increased muscle tone"],
+    "explanation": "",
+    "topic": "Temperature Regulation"
+  }
+]

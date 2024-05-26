@@ -1,0 +1,328 @@
+{
+    "Questions": [
+        {
+            "id": 1,
+            "question": "Lipids can be classified in the following ways",
+            "options": [
+                "Structural lipid",
+                "Derived Lipids",
+                "Functional lipids",
+                "Storage lipids",
+                "Complex lipids"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lipid"
+        },
+        {
+            "id": 2,
+            "question": "The following are examples of eicosanoids",
+            "options": [
+                "Linolenic acid",
+                "Prostacyclins",
+                "Lipoxins",
+                "Leukotrienes",
+                "Thromboxanes"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lipid"
+        },
+        {
+            "id": 3,
+            "question": "Regarding fatty acid oxidation",
+            "options": [
+                "Is a major energy yielding pathway",
+                "Occurs in the cytosol",
+                "Occurs in the mitosol",
+                "Requires NAD+ and FAD",
+                "Requires NADP+ and FAD"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lipid"
+        },
+        {
+            "id": 4,
+            "question": "On  β-oxidation",
+            "options": [
+                "Conversion of fatty acyl-CoA to trans-Δ2 - Enoyl-CoA is catalyzed by enoyl-CoA hydratase",
+                "3-L-hydroxyacyl-CoA dehydrogenase reaction requires FADH2 as a cofactor",
+                "The precursor of β-Ketoacyl-CoA is 3-L-Hydroxyacyl-CoA",
+                "Acyl-Coa dehydrogenase reaction requires FADH2 as a cofactor",
+                "The thiolase reaction utilizes NADH"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lipid"
+        },
+        {
+            "id": 5,
+            "question": "On amino acids structure",
+            "options": [
+                "They are all chiral",
+                "They have the same relative orientation",
+                "They possess the L orientation",
+                "Some contain the D orientation",
+                "Glycine is not chiral"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lipid"
+        },
+        {
+            "id": 6,
+            "question": "Amino acid is composed of the following",
+            "options": [
+                "An acidic amino group",
+                "A basic carboxyl group",
+                "A hydrogen atom",
+                "A distinctive side chain(-R)",
+                "A water molecule"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lipid"
+        },
+        {
+            "id": 7,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 8,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 9,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 10,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 11,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 12,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 13,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 14,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 15,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 16,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 17,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 18,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 19,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 20,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 21,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 22,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 23,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 24,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 25,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 26,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 27,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 28,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 29,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 30,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 31,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 32,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 33,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 34,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 35,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 36,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        }
+    ]
+}

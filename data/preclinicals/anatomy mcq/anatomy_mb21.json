@@ -1,0 +1,1695 @@
+{
+    "Questions": [
+        {
+            "id": 1,
+            "question": "The following are true except",
+            "options": [
+                "Embryology is the study of the development of an embryo from the stage of ovum fertilization to the fetal stage",
+                "Embryogenesis is the process of initiation and development of an embryo from a zygote",
+                "Embryogenesis is the developmeantal period within the first eight weeks of gestation",
+                "Fetogenesis is the fetal development occurs through an exceptionally organized sequence of cell division enlargement and differentiation"
+            ],
+            "answer": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "explanation": "Embryology is the study of the development of an embryo from the stage of ovum fertization ",
+            "topic": "General Embrology"
+        },
+        {
+            "id": 2,
+            "question": "With regards to gametogenesis",
+            "options": [
+                "Gametogenesis is a biological process by which haploid cells undergo division and differntiation to form mature diploid gametes",
+                "Spermatogenesis begins with mitotic division of the stem cells close to the basement membrane of the tubules",
+                "Type A cells replenish the stem cells, and type B cells differentiate into primary spematocytes",
+                "The primary spermatocytes divides meiotically (meiosis I) into four secondary spermatocytes",
+                "The process of Spermatogenesis occurs to creates immature male gametes"
+            ],
+            "answer": [
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "explanation": "",
+            "topic": "General Embrology"
+        },
+        {
+            "id": 3,
+            "question": "The following can affect spermatogenesis",
+            "options": [
+                "Pituitary gland",
+                "Hypothalamus",
+                "Sertoli cell",
+                "Inhibin",
+                "Drugs"
+            ],
+            "answer": [
+                true,
+                true,
+                true,
+                true,
+                true
+            ],
+            "explanation": "",
+            "topic": "General Embrology"
+        },
+        {
+            "id": 4,
+            "question": "With regards oogenesis",
+            "options": [
+                "A femal neonate is deliverd with all her primary oocytes",
+                "The first meiotic division get arrested at metaphase",
+                "The second meiotic division starts at fertilization",
+                "Produces non motile gamete",
+                "Folliculogenesis is the maturation of an ovarian follicle"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "General Embrology"
+        },
+        {
+            "id": 5,
+            "question": "With regards to fertilization",
+            "options": [
+                "It is the fusion of hapliod gametes to form a diploid zygote",
+                "Initates the beginning of the second meiosis",
+                "The motility of the sperm cell is not important in fertilization",
+                "It involves the exchange of genetic materials",
+                "Zonal reaction takes place on day 4 of fetal life"
+            ],
+            "answer": [
+                true,
+                false,
+                false,
+                true,
+                false
+            ],
+            "explanation": "",
+            "topic": "General Embrology"
+        },
+        {
+            "id": 6,
+            "question": "The following are true about fertilazation except",
+            "options": [
+                "It is the fusion of the male and female pronuclei",
+                "It is the completion of the second meiotic division",
+                "The second polar body plays an important role",
+                "The zonal reaxtion prevents polyspermia",
+                "It is a complex multi-step process that is completed in one week"
+            ],
+            "answer": [
+                false,
+                false,
+                true,
+                false,
+                true
+            ],
+            "explanation": "",
+            "topic": "General Embrology"
+        },
+        {
+            "id": 7,
+            "question": "Which of the following is/are true",
+            "options": [
+                "The chromosomes of the mature oocyte decondenses to form a pronucleus",
+                "12 to 32 blastomers cluster together toform a morula",
+                "Peristaic activity continues to move the dividing blastomere from the fallopian tube into the uterine cavity",
+                "The morula arrives the uterine cavity on day 4 post fertilization",
+                "On gestation day6, the trophoblasts differentiate into the cytotrophoblast and syncytiotrophoblast"
+            ],
+            "answer": [
+                true,
+                true,
+                true,
+                true,
+                true
+            ],
+            "explanation": "",
+            "topic": "General Embrology"
+        },
+        {
+            "id": 8,
+            "question": "The following are true except",
+            "options": [
+                "Implantation is a complex biochemical and mechanical process that begins in the first week of gestation and extends into the second week",
+                "The deepest layer of the endometrium is the stratum basalis",
+                "The syncytiotrophoblast is unicellular with cell wall",
+                "The cytotrophoblast is mitotically active",
+                "The bilaminar disc is made up of ectoderm and endoderm"
+            ],
+            "answer": [
+                false,
+                false,
+                true,
+                false,
+                true
+            ],
+            "explanation": "",
+            "topic": "General Embrology"
+        },
+        {
+            "id": 9,
+            "question": "Which of the following is/are true",
+            "options": [
+                "The cytiotrophoblast is a highly invasive structure that penetrates the endometrium in order for the blastocyst to become embedded",
+                "The syncytiotrophoblast begins to produce human chorionic gonadotropin hormone",
+                "Epiblastic cell form the floor of the amiontic cavity",
+                "The hypoblast is continuous with the exoclomic(Heuser's) membrane",
+                "The lacunae become confluent forming lacunar networks which serve as the primordial uteroplacental circulation"
+            ],
+            "answer": [
+                false,
+                false,
+                true,
+                true,
+                true
+            ],
+            "explanation": "",
+            "topic": "General Embrology"
+        },
+        {
+            "id": 10,
+            "question": "The following are true concerning the cardiac muscle except",
+            "options": [
+                "Contractions are continous and controlled by external autonomic and hormonal stimuli",
+                "Fibers are long, cylindrical cells with one centrally located nucleus",
+                "Their fibres funtion like a syncytium",
+                "They have a striated arrangement at the end of adjacents cells which are intercalated disc",
+                "Their fibers are highly modified cells which constitute the pacemaker regions of the heart thereby forming a purkinje system "
+            ],
+            "answer": [
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "explanation": "",
+            "topic": "General Histology"
+        },
+        {
+            "id": 11,
+            "question": "Concerning the Harversian, which of these is/are false?",
+            "options": [
+                "Is a system of concentric lamellae of bones surrounding a canal",
+                "It is s system of concentric lamellae of bones surrounding a cananl containing blood vessels, nerve, and loose connective tissue",
+                "The Harversian canal is found in compact bones",
+                "Its canal is lined by endosteum and contain blood vessels, nerves and loose connective tissue",
+                "The system communicates with the marrow, periosteum and with each other through tranvers or oblique Volkmann's canal"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "General Histology"
+        },
+        {
+            "id": 12,
+            "question": "The following is true except",
+            "options": [
+                "Dark bands are called A-bands while light bands are called I-Bands",
+                "Running through the centre of the H-Band is a thin dark line which is the M-Band",
+                "The middle of A-band is tranversed by a lighter band called the H-Band",
+                "The distance between two Z-Bands is a sarcomere",
+                "H-Band is named after Hanson while M-Band is namec after Mittleschiebe"
+            ],
+            "answer": [
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "explanation": "",
+            "topic": "General Histology"
+        },
+        {
+            "id": 13,
+            "question": "The following statements are true",
+            "options": [
+                "Individual muscle fibers are surrounded by delicate connective tissue known as endomysium",
+                "Individual fasciculi are surrounded by a stronger sheath of connective tissue called the perimysium",
+                "The connective tissue that surround the entire muscle is called the epimysium",
+                "A-Band is confined to one sarcomere but the I-Band is made up of parts of two sarcomeres that meet at the Z-Bands",
+                "Within the muscles, the muscular fibers are arranged in the form of bundles or fasciculi"
+            ],
+            "answer": [
+                true,
+                true,
+                true,
+                true,
+                true
+            ],
+            "explanation": "",
+            "topic": "General Histology"
+        },
+        {
+            "id": 14,
+            "question": "The following statements is correct",
+            "options": [
+                "The total displacement that a muscle can produce is propotional to the length of is fiber",
+                "The strength of contraction of a muscle depends on the number of fibers in the muscle",
+                "Muscle differs only in the way the fasciculi are arranged",
+                "All of the above",
+                "None of the above"
+            ],
+            "answer": [
+                true,
+                true,
+                true,
+                false,
+                false
+            ],
+            "explanation": "",
+            "topic": "General Histology"
+        },
+        {
+            "id": 15,
+            "question": "The events at the neuromuscular junction",
+            "options": [
+                "Is initiated by termination of nerve impulse",
+                "Includes the termination of nerve impulse usually leading to release of acetylcholine",
+                "Include attachment of acetylcholine to muscle end plate to initiate entry of Na+ into muscle membrane",
+                "Include generation of local end plate potential on reaching critical magnitude which leads to depolarization of muscle fiber",
+                "Includes depolarization of muscle fibers leading to propagation of muscle action potential with entry of calcium that results in mechanical contraction of muscles"
+            ],
+            "answer": [
+                true,
+                true,
+                true,
+                true,
+                true
+            ],
+            "explanation": "",
+            "topic": "General Histology"
+        },
+        {
+            "id": 16,
+            "question": "Which of the following is correct about the satellite cell",
+            "options": [
+                "It is present in smooth muscles",
+                "It is present in skeletal muscle",
+                "It is present in cardiac muscle",
+                "All of the above",
+                "None of the above"
+            ],
+            "answer": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "explanation": "",
+            "topic": "General Histology"
+        },
+        {
+            "id": 17,
+            "question": "Which of the following abnormal conditions may occur in the integumentary system?",
+            "options": [
+                "Alopecia",
+                "Onychomycoses",
+                "Bromhidrosis",
+                "Hyperhidrosis",
+                "All of the above"
+            ],
+            "answer": [
+                true,
+                true,
+                true,
+                true,
+                true
+            ],
+            "explanation": "",
+            "topic": "Embryology of the integumentary system"
+        },
+        {
+            "id": 18,
+            "question": "Which of the following is not true concerning the subcutaneous tissue?",
+            "options": [
+                "It is also called the Hypodermis",
+                "It increases the mobility of the skin",
+                "It thermally insulates the body",
+                "Acts as a shock absorber",
+                "It contains the platysma muscle in the head and neck"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Embryology of the integumentary system"
+        },
+        {
+            "id": 19,
+            "question": "The components of the hair shaft include the following except",
+            "options": [
+                "Medulla",
+                "Cortex",
+                "Curticle",
+                "Huxley's layer",
+                "All of the above"
+            ],
+            "answer": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "explanation": "Component of the hair shaft include cortex, medulla and cuticle. Huxley's layer is the component of the inner root sheath",
+            "topic": "Embryology of the integumentary system"
+        },
+        {
+            "id": 20,
+            "question": "Apocrine sweat glands are found in the following regions except",
+            "options": [
+                "Axillae",
+                "Nipple",
+                "Mons pubis",
+                "Nail bed",
+                "Periumbilical region"
+            ],
+            "answer": [
+                false,
+                true,
+                false,
+                true,
+                false
+            ],
+            "explanation": "Apocrine sweat glands are found in Axilla, pubic region, and periumbilical region",
+            "topic": "Embryology of the integumentary system"
+        },
+        {
+            "id": 21,
+            "question": "Structures present at the roof of the cubital fossa",
+            "options": [
+                "Median nerve",
+                "Brachial artery",
+                "Biceps tendon",
+                "Radial nerve",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "Structures present at the roof of the cubital fossa include median cubital vein, biceptial aponeurosis, skin",
+            "topic": "Upper limb"
+        },
+        {
+            "id": 22,
+            "question": "Branches of thoracoacromial artery include",
+            "options": [
+                "Axillary branch",
+                "Acromial branch",
+                "Brachial branch",
+                "Clavicular branch",
+                "Deltoid branch"
+            ],
+            "answer": [
+                false,
+                true,
+                false,
+                true,
+                true
+            ],
+            "explanation": "Branches of thoracoacromial artery are Clavicular, Acromial, Deltoid and Pectoral(Cadavers are dead people)",
+            "topic": "Upper limb"
+        },
+        {
+            "id": 23,
+            "question": "Which of the following contribute to anastomosis on the subscapular fossa",
+            "options": [
+                "Dorsal scapular artery",
+                "Suprascapular artery",
+                "Subscapular artery",
+                "Circumflex scapular artery",
+                "Posterior circumflex humeral artery"
+            ],
+            "answer": [],
+            "explanation": "Dorsal scapular artery and Subscapular artery contribute to anastomosis on the subscapular fossa",
+            "topic": "Upper limb"
+        },
+        {
+            "id": 24,
+            "question": "Muscles responsible for abduction of the shoulder joints include the following except",
+            "options": [
+                "Supraspinatus",
+                "Deltoid",
+                "Serratus anterior",
+                "Upper fiber of trapezius",
+                "Lower fibers of trapezius"
+            ],
+            "answer": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "explanation": "",
+            "topic": "Upper limb"
+        },
+        {
+            "id": 25,
+            "question": "The following is incorrect about th elbow joint except",
+            "options": [
+                "It is a hinge type of synovial joint",
+                "The capitulum articulates with the trochlea",
+                "Head of radius articulaes with olecranon fossa",
+                "It is continuous with superior radioulanr joint",
+                "It allows abdution-adduction movement"
+            ],
+            "answer": [
+                true,
+                false,
+                false,
+                true,
+                false
+            ],
+            "explanation": "",
+            "topic": "Upper limb"
+        },
+        {
+            "id": 26,
+            "question": "The contents of the quadrangular space include",
+            "options": [
+                "Radial artery",
+                "Anterior circumflex humeral artery",
+                "Posterior circumflex humeral artery",
+                "Radial nerve",
+                "Axillary nerve"
+            ],
+            "answer": [
+                false,
+                false,
+                true,
+                false,
+                true
+            ],
+            "explanation": "The content of the quadrangular space are Posterior circumflex humeral artery and Axillary nerve",
+            "topic": "Upper limb"
+        },
+        {
+            "id": 27,
+            "question": "The carpus is composed of the following carpal bones",
+            "options": [
+                "Trapezium",
+                "capitate",
+                "Cubiod",
+                "Navicular",
+                "Cuneiform"
+            ],
+            "answer": [
+                false,
+                false,
+                true,
+                true,
+                true
+            ],
+            "explanation": "",
+            "topic": "Upper limb"
+        },
+        {
+            "id": 28,
+            "question": "The main contents of the anatomical snuff box include",
+            "options": [
+                "Radial artery",
+                "Basilar artery",
+                "Ulnar nerve",
+                "Radial nerve",
+                "Cephalic vein"
+            ],
+            "answer": [
+                true,
+                false,
+                false,
+                false,
+                true
+            ],
+            "explanation": "",
+            "topic": "Upper limb"
+        },
+        {
+            "id": 29,
+            "question": "Failure to revascularize the scaphoid in the event of a fracture can lead to",
+            "options": [
+                "Avascular necrosis",
+                "Rheumatism",
+                "Future Anthritis",
+                "Osteoporosis",
+                "None of the above"
+            ],
+            "answer": [
+                true,
+                true,
+                true,
+                true,
+                false
+            ],
+            "explanation": "",
+            "topic": "Upper limb"
+        },
+        {
+            "id": 30,
+            "question": "The following jobs are risk factors for the development of Carpal tunnel syndrome",
+            "options": [
+                "Typist",
+                "Footballers",
+                "Pianist",
+                "Meat cutters",
+                "Long distance drivers"
+            ],
+            "answer": [
+                true,
+                true,
+                true,
+                true,
+                true
+            ],
+            "explanation": "",
+            "topic": "Upper limb"
+        },
+        {
+            "id": 31,
+            "question": "Inversion and eversion of the foot do take place at the following site except",
+            "options": [
+                "Naviculocalcaneal articulation",
+                "Talocalcaneal articulation",
+                "Mid tarsal joint",
+                "Talocuboidal articulation",
+                "All of the above"
+            ],
+            "answer": [
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 32,
+            "question": "Inversion of the foot is brought about by the following muscle except",
+            "options": [
+                "Peroteus tertius",
+                "Peroneus brevis",
+                "Tibialis anterior",
+                "Tbialis posterior",
+                "Extensor hallux longus"
+            ],
+            "answer": [
+                true,
+                true,
+                false,
+                false,
+                false
+            ],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 33,
+            "question": "Eversion of the foot is brought about by the following muscles except",
+            "options": [
+                "Peroneus tertius",
+                "Peroneus brevis",
+                "Tibialis anterior",
+                "Tibialis anterior",
+                "Extensor hallux longus"
+            ],
+            "answer": [
+                false,
+                false,
+                true,
+                true,
+                true
+            ],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 35,
+            "question": "Which of the following is/are not related in ankle fracture",
+            "options": [
+                "Second degree pott's fracture",
+                "First degree Pott's fracture",
+                "Third degree Pott's fracture",
+                "Non fracture of the lateral malleoli",
+                "All of the above"
+            ],
+            "answer": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 36,
+            "question": "Considering popliteal fossa, the following is/are true except",
+            "options": [
+                "Is a narrow interval between the diverging hamstring muscles inferiorly",
+                "Biceps femoris forms the upper lateral boundary",
+                "The short head of gastrocnemius forms the lower boundary",
+                "Its posterior wall is the deep fascia"
+            ],
+            "answer": [
+                true,
+                false,
+                true,
+                true,
+                false
+            ],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 37,
+            "question": "The capsule of the hip joint is attached proximally to",
+            "options": [
+                "The margin of the acetabulum",
+                "The trochanteric line",
+                "The bases of the lesser and greater trochanters",
+                "The tip of the greater trochanter",
+                "The transverse acetabular ligament"
+            ],
+            "answer": [
+                true,
+                true,
+                true,
+                true,
+                true
+            ],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 38,
+            "question": "The following is/are true about the fibular except",
+            "options": [
+                "It is laterally oriented in the leg(sura)",
+                "Its head reaches Proximally to the inferolateral surface of the lateral tibial condyle",
+                "It does not take part in the knee joint formation",
+                "Some of the muscles attached to it are called peroneal muscle"
+            ],
+            "answer": [
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 39,
+            "question": "The following is/are incorrect about the tibial nerve",
+            "options": [
+                "It is the large terminal branch of the sciatic nerve",
+                "Has the same nerve origin as the sciatic nerve",
+                "Continues into the leg as the common peroneal nerve",
+                "It is overlapped proximally by the Hamstring muscle in the leg",
+                "It terminates at the inferior border of the Flexor Retinaculum"
+            ],
+            "answer": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 40,
+            "question": "Considering femoral hernia, the following is/are incorrect",
+            "options": [
+                "It may be due to congenital sac",
+                "It is never found in the neonate",
+                "Rarely occur in children",
+                "The sac usually projects below the inguinal ligament",
+                "It's neck always lies below and medial to the pubic tubercle"
+            ],
+            "answer": [
+                true,
+                false,
+                false,
+                true,
+                true
+            ],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 41,
+            "question": "Which of the following option is incorrect",
+            "options": [
+                "The sibson's fascia is triangular in shape",
+                "The apex of the suprapleural membrane is attached to the transverse process of the 6th cervical vertebrae",
+                "The base of the suprapleural membrane is attached to the outer border of the 1st rib",
+                "The thymus gland is active throughout human life",
+                "The inferior surface of the Sibson's fascia is related to the subclavian vessels"
+            ],
+            "answer": [
+                false,
+                false,
+                true,
+                true,
+                true
+            ],
+            "explanation": "",
+            "topic": "Thorax"
+        },
+        {
+            "id": 42,
+            "question": "Concerning the ribs, which of the following option is incorrect",
+            "options": [
+                "The head of a typical rib has 2 facets",
+                "The first rib has the scalene tubercle between its grooves",
+                "The internal surface of typical ribs have grooves where the subclavian vessels lie",
+                "The tuberosity of the serratus anterior is found on the upper surface of the 2nd rib",
+                "The 10th rib has 2 facets"
+            ],
+            "answer": [
+                false,
+                false,
+                true,
+                false,
+                true
+            ],
+            "explanation": "",
+            "topic": "Thorax"
+        },
+        {
+            "id": 43,
+            "question": "Relations of the anterior part of the lungs(right side)",
+            "options": [
+                "Right atrium",
+                "SVC",
+                "IVC",
+                "Arch of aorta",
+                "Pulmonary trunk"
+            ],
+            "answer": [
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "explanation": "",
+            "topic": "Thorax"
+        },
+        {
+            "id": 44,
+            "question": "Relations of the anterior part of the lungs(Left side) include",
+            "options": [
+                "Trachea",
+                "Esophagus",
+                "Azygos vein",
+                "Thoracic duct",
+                "Descending thoracic aorta"
+            ],
+            "answer": [
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "explanation": "",
+            "topic": "Thorax"
+        },
+        {
+            "id": 45,
+            "question": "The content of the superior mediastinum include",
+            "options": [
+                "Aortic arch",
+                "Brochiocephalic artery",
+                "Right common carotid artery",
+                "Right subclavian artery",
+                "Vagus nerve"
+            ],
+            "answer": [
+                true,
+                true,
+                false,
+                false,
+                true
+            ],
+            "explanation": "The content of the superior mediastinum are \n 1. Organs: Thymus, Trachea and Oesophagus \n 2 Arteries: Aortic arch, Brachiocephalic artery, left subclavian artery, left common carotid artery \n 3. Veins: Left and right Brachiocephalic veins, left superior intercostal vein, upper half of superior vena cava \n 4. Muscle: Sternohyoid, sternothyroid, lower end of longus colli\n 5. Nerves: vagus, phrenic, cardiac nerves on both sides and left recurrent laryngeal nerve\n 6. lymphatics: Paratracheal, brachiocephalic and tracheobronchial nodes",
+            "topic": "Thorax"
+        },
+        {
+            "id": 46,
+            "question": "The pericardium",
+            "options": [
+                "The fibrous pericardium has a double layer of fibrous sac that encloses the heart and the root of great vessels",
+                "The serous pericardium fuses with the central tendon of the diaphragm",
+                "The transverse sinus is located above the heart",
+                "The oblique sinus lies between the left atrium anteriorly and the fibrous pericardium posteriorly",
+                "Pain associated with pericarditis originates in the fibrous pericardium"
+            ],
+            "answer": [
+                false,
+                false,
+                true,
+                true,
+                true
+            ],
+            "explanation": "",
+            "topic": "Thorax"
+        },
+        {
+            "id": 47,
+            "question": "Regarding the surfaces and borders of the heart",
+            "options": [
+                "The inferior border is mainly formed by the right ventricle",
+                "The left border is mainly formed by the left ventricle",
+                "The posterior surface is mainly formed by the left atrium",
+                "The anterior surface is mainly formed by the right ventricle",
+                "An average adult heart is approximately 12m from base to apex"
+            ],
+            "answer": [
+                true,
+                true,
+                true,
+                true,
+                false
+            ],
+            "explanation": "",
+            "topic": "Thorax"
+        },
+        {
+            "id": 48,
+            "question": "The oesophagus",
+            "options": [
+                "Is about 25cm long",
+                "Commences at the upper border of the cricoid cartilage at the level of C6 vertebra",
+                "Passes through the diaphragm at T10, 2.5 cm to the left of midline",
+                "Branches of the left gastric arteries supply the middle part",
+                "Recurrent laryngeal nerve supplies its middle part"
+            ],
+            "answer": [
+                true,
+                true,
+                true,
+                false,
+                true
+            ],
+            "explanation": "",
+            "topic": "Thorax"
+        },
+        {
+            "id": 49,
+            "question": "The trachea",
+            "options": [
+                "Is posteriorly related to the oesophagus",
+                "Bifurcates at upper border of T8 into right and left main bronchi",
+                "May extend to 15cm long in full inspiration",
+                "Has the brachiocephalic vein anterolaterally related to it",
+                "Has its mucus membrane supplied by the phrenic nerve"
+            ],
+            "answer": [
+                false,
+                false,
+                true,
+                true,
+                false
+            ],
+            "explanation": "",
+            "topic": "Thorax"
+        },
+        {
+            "id": 50,
+            "question": "Lymphatic drainage of the thorax",
+            "options": [
+                "Is particularly important in the spread of metastatic lesions",
+                "parasternal node is a superficial node",
+                "The superficial nodes drain majorly into the axillary nodes",
+                "Axillary lymphadenopathy could be a tell-tale sign in breast malignancy",
+                "Thoracic duct begins at T12"
+            ],
+            "answer": [
+                true,
+                true,
+                true,
+                true,
+                true
+            ],
+            "explanation": "",
+            "topic": "Thorax"
+        },
+        {
+            "id": 51,
+            "question": "The following statement(s) is/are correct concerning abdominal incision",
+            "options": [
+                "The right subcostal(Kocher's) incision is made 3cm parallel to and below the right costal margin",
+                "The gridiron (McBurney's) incision is a left lower oblique muscle-splitting incision",
+                "Paramedian incision is made vertically 3cm from the midline and the rectus muscle is either retracted laterally or split before the posterior wall of the sheath can be excised",
+                "Pfannenstiel incision is the median incision",
+                "Rutherford incision is and oblique muscle-splitting incision"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Abdomen"
+        },
+        {
+            "id": 52,
+            "question": "The option(s) is/are contents of the Spermatic cord",
+            "options": [
+                "Vas deferens",
+                "Testicular artery and the cremasteric artery",
+                "Genital branch of the genitofemoral nerve",
+                "Processus vaginalis",
+                "Pampiniform plexus"
+            ],
+            "answer": [
+                true,
+                true,
+                true,
+                true,
+                true
+            ],
+            "explanation": "",
+            "topic": "Abdomen"
+        },
+        {
+            "id": 53,
+            "question": "Concerning the Inguinal triangle(of Hesselbach)",
+            "options": [
+                "It is bounded laterally by the rectus muscle",
+                "It is bounded medially by the inferior epigastric artery",
+                "It is bounded inferiorly by the inguinal ligament",
+                "Only option A and B are true",
+                "All of the above are true"
+            ],
+            "answer": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "explanation": "",
+            "topic": "Abdomen"
+        },
+        {
+            "id": 54,
+            "question": "Concernign the Inguinal ligament",
+            "options": [
+                "It extends from the anterior superior iliac spine to the pubic tubercle",
+                "The medial part of the ligament gives attachment to the internal oblique abdominis muscle",
+                "The lateral part of the ligament gives attachment to the transversus abdominis muscles",
+                "The medial part of the ligament  gives attachment to the Fascia lata of the Thigh",
+                "All of the above are true"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Abdomen"
+        },
+        {
+            "id": 55,
+            "question": "Concerning the Inguinal ligament",
+            "options": [
+                "It extends from the anterior superior iliac spine to the pubic tubercle",
+                "The medial part of the ligament gives attachment to the tranversus abdominis muscles",
+                "The lateral part of the ligament gives attachment to the tranversus abdominis muscle",
+                "The medial part of the ligament gives attachments to the Fascia lata of the Thigh",
+                "All of the above are true"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Abdomen"
+        },
+        {
+            "id": 56,
+            "question": "The following is/are actions of the abdominal muscles",
+            "options": [
+                "They move the Trunk",
+                "They depress the ribs",
+                "They compress the abdomen",
+                "They support the viscera",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Abdomen"
+        },
+        {
+            "id": 57,
+            "question": "The following statement(s) is/are correct concerning abdominal incision Deep Inguinal ring",
+            "options": [
+                "The medial border is the transversalis fascia",
+                "It is an opening in the transversalis muscles",
+                "It is bounded laterally by the tranversalis muscles and the inguinal ligament",
+                "It lies above the midpoint of the inguinal ligament",
+                "It provides passage for the vas deferens"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Abdomen"
+        },
+        {
+            "id": 58,
+            "question": "The option(s) is/are used to divide the abdomen into quadrant regions",
+            "options": [
+                "Mid-clavicular line",
+                "Mid-inguinal line",
+                "Subcostal plane",
+                "Transpyloric plane",
+                "Intertubercular plane"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Abdomen"
+        },
+        {
+            "id": 59,
+            "question": "Concerning the Abdominal muscles",
+            "options": [
+                "Transversus abdominis is the most superficial abdominal muscle",
+                "Rectus abdominis muscle is the deepest abdominal muscle",
+                "Rectus sheath is the most superficial abdominal muscle",
+                "Internal Oblique abdominis is the intermediate abdominal muscle",
+                "None of the above is correct"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Abdomen"
+        },
+        {
+            "id": 60,
+            "question": "The following is/are posterior abdominal wall muscles",
+            "options": [
+                "Quadratus lumborum",
+                "External oblique muscle",
+                "Psoas major muscle",
+                "Transversus abdominis muscle",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Abdomen"
+        },
+        {
+            "id": 61,
+            "question": "The following parameters of the pelvis are important in obstetrics except",
+            "options": [
+                "The size and shape of the pelvic outlet",
+                "The size and shape of the pelvic inlet",
+                "The prominence of the ishial spine",
+                "The age of the woman",
+                "The height of the woman"
+            ],
+            "answer": [
+                true,
+                true,
+                true,
+                true,
+                false
+            ],
+            "explanation": "In obstetrics the following pelvic measurement are important\n 1. size and shape of plevic inlet and outlet 2. Prominence of the ischial spine, and age of the woman",
+            "topic": "Pelvis and perineum"
+        },
+        {
+            "id": 62,
+            "question": "The following are true about the platypelloid pelvis",
+            "options": [
+                "it is oval in shape",
+                "its ischial spine is prominent",
+                "It has a narrow pelvic outlet",
+                "they usually have prolong labour",
+                "The baby finds it difficult to engage"
+            ],
+            "answer": [
+                true,
+                false,
+                true,
+                true,
+                true
+            ],
+            "explanation": "Platepelliod( flat pelvis) has its transverse diameter much greater than its anterior posterior diameter (i.e it is compressed anteriorposteriorly). It posses difficulty in delivery",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 63,
+            "question": "The following are true about the urinary bladder except",
+            "options": [
+                "It is lined with transitional epithelium",
+                "Its base is the posterior surface",
+                "Its neck is in the superior surface",
+                "Its trigone is at its base",
+                "Detrusor muscle is the smooth muscle"
+            ],
+            "answer": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "explanation": "The Urinary bladder is lined by transitonal epithelium. \n it has  a \n 1. base(or posterior surface. It contains the trigone) \n 2 neck(lowest and most fixed part of the bladder. It is situated where the inferolateral and the posterior surfaces of the bladder meet) \n 3. Apex (situated at the anterior superior part of the bladder. It contains the medial umblical ligament) \n 4. Destrusor muscle as its smooth muscle",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 64,
+            "question": "The following are true about the uterus",
+            "options": [
+                "its a fibromuscular organ",
+                "The fundus is the part below the entrance of the fallopian tubes",
+                "The muscle of teh uterus plays a role in control of hemostasis",
+                "The edothelial thickness varies with stage in the menstal cycle",
+                "The mucosa of the cervix does not undergo cyclical changes"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 65,
+            "question": "The pudendal canal",
+            "options": [
+                "is also known as the Alcock's canal",
+                "lines the lateral wall of the ischioanal fossa",
+                "covers the medial aspect of the obturator internus muscle",
+                "contains the internal pudendal artery and vein",
+                "contains the internal pudendal nerve and nerve to obturator internus"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 66,
+            "question": "The following are true about urogenital triangle",
+            "options": [
+                "is posterior to the perineal body",
+                "the deep perineal pouch lies between the inferior and superior urogenital fascia",
+                "it is broader in males",
+                "It consist of mainly the internal genitalia",
+                "The superficial perineal pouch lies between the skin and the superfical perineal muscles"
+            ],
+            "answer": [
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "explanation": "The urogenital triangle is anterior to the perineal body.\n The deep perineal pouch lies between the Superficial fascia of urogenital diaphram and the perineal membrane\n it is pierced by urethra in males and urethra and vagina in females\n it consist of mainly the external genitalia\n  The superifial perineal pouch lies between the Colles'(superficial perineal) fascia and perineal membrane",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 67,
+            "question": "The following are true about the penis",
+            "options": [
+                "The root is attached to the superior surface of the perineal membrane",
+                "The bulb is continous with the anterior surface of the corpus spongiosus",
+                "The dorsal vein lies superior to the deep fascia of the penis",
+                "Teh corpora cavernosum lie dorsal to teh corpus spongiosus",
+                "The skin is hairless"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 68,
+            "question": "Which of the following is/are true",
+            "options": [
+                "The measurment from the lower border of the pubic symphysis to the promontory of the sacrum is the obstetric conjugate",
+                "The pelvic variant with narrowed anteroposterior inlet diameter but increased outlet diameter is rachitic",
+                "The subpubic angle is wider in females",
+                "The most important muscle of the pelvic floor is coccygeus",
+                "The pubococcygeus is the important muscle in maintenance of faecal and urinary continence"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Pelvis and perineum"
+        },
+        {
+            "id": 69,
+            "question": "Which of the following is/are true",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": "Pelvis and perineum"
+        },
+        {
+            "id": 70,
+            "question": "Which of the following is/are true",
+            "options": [
+                "The lower third of the rectum is devoid of peritoneal covering",
+                "The inferior rectal artery is a branch of the internal iliac artery",
+                "The rectum is a site for poto-systemic anastomosis",
+                "The external anal sphincter blends with the puborectalis muscle of the pelvic floor",
+                "The normal vascular cushoids of the anal canal maintain faecal continence"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Pelvis and perineum"
+        },
+        {
+            "id": 71,
+            "question": "The features of skeletal muscle include the following except",
+            "options": [
+                "Have poor capacity for regeneration",
+                "Are readily prone to fatigue",
+                "Develop from mesenchymal cells",
+                "Form connective tissue scar after trauma",
+                "Atrophy upon denervation"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Muscle Histology"
+        },
+        {
+            "id": 72,
+            "question": "The following is not true about cardiac muscle",
+            "options": [
+                "Histological sections possess striations",
+                "It is under nerbous and hormonal control",
+                "Autonomic fibers have direct contact",
+                "Funtions like smooth muscle",
+                "Undergo mitosis only during infancy"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Muscle Histology"
+        },
+        {
+            "id": 73,
+            "question": "Epithelium is implicated in",
+            "options": [
+                "Forming a protective layer",
+                "Syntheses and secretion of glandular product",
+                "Selective diffusion and absorption",
+                "Only b and c are true",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "General Histology"
+        },
+        {
+            "id": 74,
+            "question": "Which of the following is true about Transitional epithelium",
+            "options": [
+                "May be 4-6 cells thick",
+                "Characterizes the urinary system",
+                "Undergoes rapid mitotic division",
+                "Only A and C true",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "General Histology"
+        },
+        {
+            "id": 75,
+            "question": "Connective Tissue cells",
+            "options": [
+                "Are endodermal in origin",
+                "May be fixed in type e.g Mast cells",
+                "Are widely spaced cells",
+                "Form part of the immune system",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "General Histology"
+        },
+        {
+            "id": 76,
+            "question": "The nose/nasal cavity",
+            "options": [
+                "is separated from the mouth by the nasal bones and cartilages",
+                "The hard plate elevates and closes all the nasopharynx preventing air streams and food tract from collision during swallowing",
+                "The dorsum of the nose is formed anteriorly where the two sides of the nose meet",
+                "The nasal bones articulates with maxilla posteriorly",
+                "Branches of the maxillary, infraorbital and external nasal nerves supply the nose"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and Neck"
+        },
+        {
+            "id": 77,
+            "question": "The paranasal sinuses",
+            "options": [
+                "Are lined with pseudostratified cilated epithelium",
+                "The ostium of the maxillary sinus opens into the middle meatus",
+                "The ostium of the anterior and middle ethmoidal air cells open into the middle meatus",
+                "The ostium of the frontal sinus opens into the middle meatus",
+                "The ostium of the sphenoidal sinus opens into the sphenoethmoidal recess"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and Neck"
+        },
+        {
+            "id": 78,
+            "question": "There is homology between the number of bones in the upper and lower limbs as follows",
+            "options": [
+                "Limbs girdles",
+                "Proximal segments",
+                "Intermediate segments",
+                "Distal segments",
+                "All of the above"
+            ],
+            "answer": [
+                true,
+                true,
+                true,
+                true,
+                true
+            ],
+            "explanation": "Neuroanatomy",
+            "topic": "Upper limb"
+        },
+        {
+            "id": 79,
+            "question": "Concerning nerve fibers in the central nervous system",
+            "options": [
+                "Commissural fibers decussate",
+                "Association fibers are ipsilateral",
+                "Projection fibers are bilateral",
+                "Habernular fibers are commissural",
+                "Internal capsule fibers are projection fibers"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Neuroanatomy"
+        },
+        {
+            "id": 80,
+            "question": "Which of the following(s) is/are not neurologic conditions",
+            "options": [
+                "Transverse myelitis",
+                "Dupuytrens contracture",
+                "Horner's syndrome",
+                "DeVick's syndrome",
+                "Brown sequard syndrome"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Neuroanatomy"
+        },
+        {
+            "id": 81,
+            "question": "The tongue",
+            "options": [
+                "Is a mass of smooth muscle fibers covered by mucous membrane and separated into two halves by a midline fibrous septum",
+                "The anterior 2/3rd of the mucous membrane receives sensory supply from the glossopharygeal nerve",
+                "The posterior 1/3rd of the mucous membrane receives motor supply from the glossopharygeal nerve",
+                "Inferior longitudinal muscle is and extrinsic muscle of the tongue",
+                "The lingual glands receives secretormotor from the parasympathetic fibers"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and Neck"
+        },
+        {
+            "id": 82,
+            "question": "The orbit and eye",
+            "options": [
+                "The orbital cavity is related superiorly to the pituitary fossa and middle  cranial fossa",
+                "The area behind the lens is filled with aqueous humour",
+                "Relates posterolaterally to the infratemporal fossa and middle cranial fossa",
+                "The superior oblique muscle is supplied by occulomotor nerve",
+                "The iris controls amount of light entering the eye"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and Neck"
+        },
+        {
+            "id": 83,
+            "question": "The scalp",
+            "options": [
+                "Sub periosteal haemorrhage in the occipital region could spread to the frontal region",
+                "The frontalis and occipitalis are supplied by the accessory nerve",
+                "The skine of the scalp is the hairiest in the body but with few or absent sebaceous glands",
+                "It extends from the superior orbital margin anteriorly to the superior nuchal line posteriorly",
+                "Auriculotemporal and zygomaticotemporal nerves supply the temple"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and Neck"
+        },
+        {
+            "id": 84,
+            "question": "The external ear",
+            "options": [
+                "Consists of Pinna and the external acoustic meatus",
+                "The auricle is made up of hyaline cartilage",
+                "The skin is loosely attached to the cartilaginous and bony part of the meatus hence otitis external is more or less not painful",
+                "Ear wax are produced by ceruminous glands which are scanty in the subcutaneous layer of cartilaginous part of the meatus",
+                "Crytotia is an abnomality of the pinna"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and Neck"
+        },
+        {
+            "id": 85,
+            "question": "The middle ear cavity",
+            "options": [
+                "The presence of pharygotympanic tubes helps to equalize pressure on both side of the tympanic membrane",
+                "Malleus articulates directly with the tympanic membrane and the stapes",
+                "The reflex contractions of the stapes and tensor tympani in response to high intensity sound helps to prevent damage to the ossicles",
+                "It is bounded medially by the lateral wall of the internal ear",
+                "The stapedius muscle is supplied by branches of the facial nerve"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and Neck"
+        },
+        {
+            "id": 86,
+            "question": "The following is correct concerning the fascial spaces of the neck except",
+            "options": [
+                "The retropharyngeal space lies between the prevertebral and pretracheal layer",
+                "The retropharyngeal space allows movement of viscera during swalloing",
+                "The pretracheal space is limited by attachments of fascia to thyroid cartilages inferiorly",
+                "The pretracheal space lies between the investing and pretracheal fascia",
+                "The pretracheal space allows for spread of infections from the head to mediastinum"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and Neck"
+        },
+        {
+            "id": 87,
+            "question": "The following is correct concerning the posterior triangle of the neck",
+            "options": [
+                "Inferior boundary-Lateral third of clavicle",
+                "Roof-superficial fascia",
+                "Floor-Splenius Capitis",
+                "Floor-Levator Scapulae",
+                "Floor-Scalenus medius"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and Neck"
+        },
+        {
+            "id": 88,
+            "question": "The following is correct concerning the submandibular triangle of the neck except",
+            "options": [
+                "It is located between inferior mandible and anterior and posterior bellies of the omohyoid muscle",
+                "Anterior boundary is the anterior belly of omohyoid",
+                "Posterior boundary is the posterior belly of digastric",
+                "Superior boundary is the base of mandible",
+                "Roof is the deep cervical fascia"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and Neck"
+        },
+        {
+            "id": 89,
+            "question": "The following is incorrect concerning the thyroid gland",
+            "options": [
+                "It is composed of about one million spherical follicles",
+                "C cells synthesize and secrete calcitonin",
+                "Lining of the follicles is columnar in resting phase and cuboidal in active phase",
+                "Follicular cells secrete thyroglobulin into the lumen of the follicle",
+                "It is larger in males than in females"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and Neck"
+        },
+        {
+            "id": 90,
+            "question": "The following is incorrect concerning the parathyroid gland",
+            "options": [
+                "They secrete parathormone which controls metabolism of calcium and phosphorus",
+                "The superior parathyroid glands are at the level of the inferior border of the cricoid cartilage",
+                "The inferior parathyroid gland is near the inferior pole of the thyroid gland",
+                "The superior parathyroids develop from the third pharyngeal pouch",
+                "The inferior parathyroids develops from the fourth pharyngeal pouch"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and Neck"
+        },
+        {
+            "id": 91,
+            "question": "The followings are correct concerning the development of the nervous system",
+            "options": [
+                "It develops from mesoderm",
+                "It develops form ectoderm",
+                "It begins in 5th week",
+                "Neural plate forms neural fold",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Neuroanatomy"
+        },
+        {
+            "id": 92,
+            "question": "Which of the following is true concerning unipolar neurons",
+            "options": [
+                "Have two processes arising from one cell body",
+                "They are found in special sense organs",
+                "They are found in the ganglia of spinal nerves",
+                "They are found in the ganglia of cranial nerves",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Neuroanatomy"
+        },
+        {
+            "id": 93,
+            "question": "Which is not true concerning the white mater of the central nervous system",
+            "options": [
+                "Makes up about 60% of the brain",
+                " most of the brain neuronal cell bodies",
+                "Consist of bundles which connect various gray matter areas",
+                "Serves to process information",
+                "None of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Neuroanatomy"
+        },
+        {
+            "id": 94,
+            "question": "The pia matter of the spinal cord could have different modifications which include",
+            "options": [
+                "Filum terminale",
+                "Cauda equina",
+                "Ligamenta denticulata",
+                "Conus medullaris",
+                "Linea splendens"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Neuroanatomy"
+        },
+        {
+            "id": 95,
+            "question": "Which of these is true about the posterior funiculus of the spinal cord",
+            "options": [
+                "It is lateral to the dorsal median sulcus",
+                "It is medial to the dorsolateral sulcus",
+                "It is divided into a nucleus cuneatus and a nucleus gracilis",
+                "All of the above",
+                "None of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Neuroanatomy"
+        },
+        {
+            "id": 96,
+            "question": "Which of this is not an ascending tract in the lateral column",
+            "options": [
+                "Lateral Spinothalamic tract",
+                "Anterior spinothalamic tract",
+                "Dorsal spinocerebellar tract",
+                "Tectospinal tract",
+                "Spino-vestibular tract"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Neuroanatomy"
+        },
+        {
+            "id": 97,
+            "question": "Concerning the medulla at the decussation of the pyramid, which of the followings are present",
+            "options": [
+                "Large trigeminal nucleus and tracts",
+                "Inferior olivary nucleus",
+                "The spinocerebellar tracts",
+                "Nucleus ambigus",
+                "Nucleus cuneatus"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Neuroanatomy"
+        },
+        {
+            "id": 98,
+            "question": "The anterior surface of the Pons gives rise to the following cranial nerves",
+            "options": [
+                "Cranial nerves V",
+                "Cranial nerve IV",
+                "Cranial nerve VI",
+                "Cranial nerve VII",
+                "Cranial nerve IX"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Neuroanatomy"
+        },
+        {
+            "id": 99,
+            "question": "Which of the following structures are present in a section of the mid-brain at the level of the inferior-colliculus",
+            "options": [
+                "The paired crus cerebri",
+                "The tectum",
+                "Red nuclei",
+                "Trigeminal lemnisci",
+                "Occulomotor complex"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Neuroanatomy"
+        },
+        {
+            "id": 100,
+            "question": "The facial nerve transmits all the following information except",
+            "options": [
+                "General somatic sensory",
+                "General visceral sensory",
+                "Special visceral sensory",
+                "General somatic motor",
+                "General visceral motor"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Neuroanatomy"
+        },
+        {
+            "id": 81,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        }
+    ]
+}

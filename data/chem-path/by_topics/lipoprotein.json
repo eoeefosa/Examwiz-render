@@ -1,0 +1,843 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following statements about lipids and lipoproteins is true?",
+    "options": [
+      "Lipids are characterized by being water-soluble and insoluble in nonpolar solvents.",
+      "Lipoproteins are simple particles consisting of lipids only.",
+      "Triglycerides are the form in which fatty acids are stored in the body and transported in the plasma.",
+      "Phospholipids do not participate in chemical reactions in the body."
+    ],
+    "answer": [
+      "Triglycerides are the form in which fatty acids are stored in the body and transported in the plasma."
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Lipids are characterized by being:",
+    "options": [
+      "Water-soluble",
+      "Soluble in polar solvents",
+      "Soluble in nonpolar solvents",
+      "Insoluble in all solvents"
+    ],
+    "answer": ["Soluble in nonpolar solvents"]
+  },
+  {
+    "id": 3,
+    "question": "Lipoproteins transport lipids in:",
+    "options": [
+      "Red blood cells",
+      "Plasma",
+      "Lymphatic vessels",
+      "Muscle tissue"
+    ],
+    "answer": ["Plasma"]
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is not a classification of lipids?",
+    "options": ["Fatty acids", "Triglycerides", "Steroids", "Amino acids"],
+    "answer": ["Amino acids"]
+  },
+  {
+    "id": 5,
+    "question": "What is the function of lipids as hormones or hormone precursors?",
+    "options": [
+      "Store energy",
+      "Aid in digestion",
+      "Act as structural components",
+      "Serve as messengers in the body"
+    ],
+    "answer": ["Serve as messengers in the body"]
+  },
+  {
+    "id": 6,
+    "question": "Triglycerides are mainly stored in the body as:",
+    "options": [
+      "Muscle tissue",
+      "Adipose tissue",
+      "Liver tissue",
+      "Blood plasma"
+    ],
+    "answer": ["Adipose tissue"]
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is a characteristic of short-chain fatty acids?",
+    "options": [
+      "They are catabolic",
+      "They have fewer than 4 carbons",
+      "They are handled differently by the body",
+      "They are water-soluble"
+    ],
+    "answer": ["They are water-soluble"]
+  },
+  {
+    "id": 8,
+    "question": "Saturated fatty acids:",
+    "options": [
+      "Have no double bonds",
+      "Are liquid at room temperature",
+      "Are found in plants only",
+      "Are more common in unsaturated fats"
+    ],
+    "answer": ["Have no double bonds"]
+  },
+  {
+    "id": 9,
+    "question": "Which fatty acid has one double bond?",
+    "options": [
+      "Palmitic acid",
+      "Oleic acid",
+      "Stearic acid",
+      "Arachidonic acid"
+    ],
+    "answer": ["Oleic acid"]
+  },
+  {
+    "id": 10,
+    "question": "Phospholipids are important constituents of:",
+    "options": ["DNA", "Cellular membranes", "Mitochondria", "Ribosomes"],
+    "answer": ["Cellular membranes"]
+  },
+  {
+    "id": 11,
+    "question": "Cholesterol is a precursor of:",
+    "options": ["Bile acids", "Amino acids", "Nucleic acids", "Glucose"],
+    "answer": ["Bile acids"]
+  },
+  {
+    "id": 12,
+    "question": "How is cholesterol mainly transported in the plasma?",
+    "options": [
+      "Free cholesterol",
+      "Esterified cholesterol",
+      "Cholesterol esters",
+      "Cholesterol phospholipids"
+    ],
+    "answer": ["Cholesterol esters"]
+  },
+  {
+    "id": 13,
+    "question": "Where do humans obtain cholesterol from?",
+    "options": ["Plants", "Fish", "Meat and dairy", "Eggs only"],
+    "answer": ["Meat and dairy"]
+  },
+  {
+    "id": 14,
+    "question": "How much cholesterol is synthesized per day by cells within the body?",
+    "options": [
+      "Equal to dietary intake",
+      "Twice the dietary intake",
+      "Half the dietary intake",
+      "Depends on the diet"
+    ],
+    "answer": ["Depends on the diet"]
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is not a form of cholesterol excretion?",
+    "options": [
+      "Bile acids",
+      "Faecal neutral sterols",
+      "Urine",
+      "Skin shedding"
+    ],
+    "answer": ["Skin shedding"]
+  },
+  {
+    "id": 16,
+    "question": "What is the most abundant phospholipid in plasma and cellular membranes?",
+    "options": [
+      "Phosphatidyl choline",
+      "Phosphatidyl serine",
+      "Phosphatidyl ethanolamine",
+      "Phosphatidic acid"
+    ],
+    "answer": ["Phosphatidyl choline"]
+  },
+  {
+    "id": 17,
+    "question": "What makes cholesterol less soluble in water?",
+    "options": [
+      "Esterification",
+      "Hydrogenation",
+      "Oxidation",
+      "Saponification"
+    ],
+    "answer": ["Esterification"]
+  },
+  {
+    "id": 18,
+    "question": "How do fatty acids in plasma mainly bond?",
+    "options": [
+      "To lipoproteins",
+      "To albumin",
+      "To red blood cells",
+      "To phospholipids"
+    ],
+    "answer": ["To albumin"]
+  },
+  {
+    "id": 19,
+    "question": "What is the primary form of dietary fat?",
+    "options": ["Fatty acids", "Phospholipids", "Triglycerides", "Cholesterol"],
+    "answer": ["Triglycerides"]
+  },
+  {
+    "id": 20,
+    "question": "What is the function of triglycerides in the body?",
+    "options": [
+      "Provide energy storage",
+      "Aid in hormone synthesis",
+      "Act as structural components",
+      "Facilitate nerve conduction"
+    ],
+    "answer": ["Provide energy storage"]
+  },
+  {
+    "id": 21,
+    "question": "Which of the following is not a function of lipids?",
+    "options": [
+      "Serve as hormones",
+      "Provide insulation",
+      "Participate in DNA replication",
+      "Act as structural components in membranes"
+    ],
+    "answer": ["Participate in DNA replication"]
+  },
+  {
+    "id": 22,
+    "question": "Lipoproteins are biochemical assemblies of:",
+    "options": [
+      "Lipids only",
+      "Proteins only",
+      "Lipids and proteins",
+      "Carbohydrates and proteins"
+    ],
+    "answer": ["Lipids and proteins"]
+  },
+  {
+    "id": 23,
+    "question": "What is the main function of lipoproteins?",
+    "options": [
+      "Energy storage",
+      "Transport of lipids in blood",
+      "Structural support",
+      "Enzyme activation"
+    ],
+    "answer": ["Transport of lipids in blood"]
+  },
+  {
+    "id": 24,
+    "question": "Which of the following is not an essential function of lipoproteins?",
+    "options": [
+      "Absorption of dietary lipids",
+      "Transport of lipids from the liver to peripheral tissues",
+      "Transport of lipids from peripheral tissues to the lungs",
+      "Reverse cholesterol transport"
+    ],
+    "answer": ["Transport of lipids from peripheral tissues to the lungs"]
+  },
+  {
+    "id": 25,
+    "question": "Which lipoprotein fraction has the highest content of triglycerides?",
+    "options": ["Chylomicrons", "HDL", "VLDL", "LDL"],
+    "answer": ["Chylomicrons"]
+  },
+  {
+    "id": 26,
+    "question": "Which lipoprotein fraction is the most dense?",
+    "options": ["Chylomicrons", "VLDL", "IDL", "HDL"],
+    "answer": ["HDL"]
+  },
+  {
+    "id": 27,
+    "question": "Lipoprotein lipase (LPL) hydrolyzes triglycerides in:",
+    "options": ["Adipose tissue", "Liver", "Muscle tissue", "All of the above"],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 28,
+    "question": "Hepatic lipase (HL) is primarily involved in the hydrolysis of triglycerides in:",
+    "options": ["Chylomicrons", "VLDL", "LDL", "HDL"],
+    "answer": ["HDL"]
+  },
+  {
+    "id": 29,
+    "question": "Lecithin:cholesterol acyltransferase (LCAT) is responsible for the formation of:",
+    "options": [
+      "Triglycerides",
+      "Phospholipids",
+      "Cholesterol esters",
+      "Apolipoproteins"
+    ],
+    "answer": ["Cholesterol esters"]
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is not a function of apolipoproteins?",
+    "options": [
+      "Activate metabolic enzymes",
+      "Maintain structural integrity of lipoproteins",
+      "Facilitate uptake of lipoproteins into cells",
+      "Hydrolyze triglycerides"
+    ],
+    "answer": ["Hydrolyze triglycerides"]
+  },
+  {
+    "id": 31,
+    "question": "Which of the following pathways is involved in the transport of lipoproteins composed mainly of dietary lipids?",
+    "options": [
+      "Exogenous pathway",
+      "Endogenous pathway",
+      "Reverse cholesterol transport pathway",
+      "Intracellular cholesterol transport pathway"
+    ],
+    "answer": ["Exogenous pathway"]
+  },
+  {
+    "id": 32,
+    "question": "Chylomicrons transport dietary triglycerides and cholesterol from the intestine to:",
+    "options": ["Liver", "Peripheral tissues", "Lungs", "Brain"],
+    "answer": ["Peripheral tissues"]
+  },
+  {
+    "id": 33,
+    "question": "What activates lipoprotein lipase (LPL) on endothelial cells?",
+    "options": [
+      "Apolipoprotein A-I",
+      "Apolipoprotein B-48",
+      "Apolipoprotein C-II",
+      "Apolipoprotein E"
+    ],
+    "answer": ["Apolipoprotein C-II"]
+  },
+  {
+    "id": 34,
+    "question": "VLDL particles circulate and encounter LPL expressed on:",
+    "options": ["Intestinal cells", "Adipose tissue", "Liver", "Muscle tissue"],
+    "answer": ["Muscle tissue"]
+  },
+  {
+    "id": 35,
+    "question": "After VLDL loses triglyceride, it transforms into VLDL remnant, also known as:",
+    "options": ["Chylomicron", "IDL", "LDL", "HDL"],
+    "answer": ["IDL"]
+  },
+  {
+    "id": 36,
+    "question": "Which lipoprotein is primarily responsible for the transport of cholesterol to peripheral tissues?",
+    "options": ["LDL", "HDL", "VLDL", "Chylomicrons"],
+    "answer": ["LDL"]
+  },
+  {
+    "id": 37,
+    "question": "The reverse cholesterol transport pathway helps the body maintain cholesterol homeostasis by removing excess cholesterol from:",
+    "options": ["Peripheral cells", "Liver", "Intestine", "Lungs"],
+    "answer": ["Peripheral cells"]
+  },
+  {
+    "id": 38,
+    "question": "HDL is secreted from the liver and intestine as:",
+    "options": [
+      "Disc-shaped nascent particles",
+      "Spherical particles",
+      "Tubular particles",
+      "Irregular-shaped particles"
+    ],
+    "answer": ["Disc-shaped nascent particles"]
+  },
+  {
+    "id": 39,
+    "question": "Which enzyme esterifies cholesterol in HDL particles?",
+    "options": [
+      "Lecithin:cholesterol acyltransferase (LCAT)",
+      "Lipoprotein lipase (LPL)",
+      "Hepatic lipase (HL)",
+      "Cholesterol ester transfer protein"
+    ],
+    "answer": ["Lecithin:cholesterol acyltransferase (LCAT)"]
+  },
+  {
+    "id": 40,
+    "question": "Excess cholesterol inhibits further cholesterol biosynthesis by down-regulating which enzyme?",
+    "options": ["LPL", "HL", "LCAT", "HMG CoA reductase"],
+    "answer": ["HMG CoA reductase"]
+  },
+  {
+    "id": 41,
+    "question": "How are lipids chiefly transported in the body?",
+    "options": [
+      "In free form",
+      "Bound to proteins",
+      "In the form of lipoproteins",
+      "Attached to carbohydrates"
+    ],
+    "answer": ["In the form of lipoproteins"]
+  },
+  {
+    "id": 42,
+    "question": "Which of the following is not a function of lipoproteins?",
+    "options": [
+      "Energy storage",
+      "Enzyme activation",
+      "Structural support",
+      "Immune response"
+    ],
+    "answer": ["Immune response"]
+  },
+  {
+    "id": 43,
+    "question": "Which lipoprotein fraction has the highest content of protein?",
+    "options": ["Chylomicrons", "VLDL", "LDL", "HDL"],
+    "answer": ["HDL"]
+  },
+  {
+    "id": 44,
+    "question": "What is the main function of lecithin:cholesterol acyltransferase (LCAT)?",
+    "options": [
+      "Hydrolysis of triglycerides",
+      "Formation of cholesterol esters",
+      "Activation of lipoprotein lipase",
+      "Transport of lipoproteins into cells"
+    ],
+    "answer": ["Formation of cholesterol esters"]
+  },
+  {
+    "id": 45,
+    "question": "Which lipoprotein is primarily responsible for the transport of cholesterol from the liver to peripheral tissues?",
+    "options": ["Chylomicrons", "VLDL", "LDL", "HDL"],
+    "answer": ["HDL"]
+  },
+  {
+    "id": 46,
+    "question": "Which lipoprotein fraction has the highest density?",
+    "options": ["Chylomicrons", "VLDL", "IDL", "HDL"],
+    "answer": ["HDL"]
+  },
+  {
+    "id": 47,
+    "question": "What is the function of hepatic lipase (HL)?",
+    "options": [
+      "Hydrolysis of triglycerides in chylomicrons",
+      "Formation of cholesterol esters",
+      "Activation of lipoprotein lipase",
+      "Hydrolysis of triglycerides in VLDL remnants"
+    ],
+    "answer": ["Hydrolysis of triglycerides in VLDL remnants"]
+  },
+  {
+    "id": 48,
+    "question": "Which of the following is not a typical function of apolipoproteins?",
+    "options": [
+      "Activate metabolic enzymes",
+      "Maintain structural integrity of lipoproteins",
+      "Facilitate uptake of lipoproteins into cells",
+      "Hydrolyze triglycerides"
+    ],
+    "answer": ["Hydrolyze triglycerides"]
+  },
+  {
+    "id": 49,
+    "question": "Which lipoprotein fraction has the lowest content of triglycerides?",
+    "options": ["Chylomicrons", "VLDL", "IDL", "HDL"],
+    "answer": ["HDL"]
+  },
+  {
+    "id": 50,
+    "question": "What is the primary function of lipoprotein lipase (LPL)?",
+    "options": [
+      "Hydrolysis of triglycerides in chylomicrons",
+      "Formation of cholesterol esters",
+      "Activation of hepatic lipase (HL)",
+      "Facilitation of reverse cholesterol transport"
+    ],
+    "answer": ["Hydrolysis of triglycerides in chylomicrons"]
+  },
+  {
+    "id": 51,
+    "question": "What is the main function of chylomicrons?",
+    "options": [
+      "Transport of lipids from the liver to peripheral tissues",
+      "Transport of lipids from peripheral tissues to the liver",
+      "Transport of dietary lipids from the intestine to peripheral tissues",
+      "Transport of cholesterol from the liver to peripheral tissues"
+    ],
+    "answer": [
+      "Transport of dietary lipids from the intestine to peripheral tissues"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Which enzyme is responsible for the formation of cholesterol esters in HDL particles?",
+    "options": [
+      "Lecithin:cholesterol acyltransferase (LCAT)",
+      "Lipoprotein lipase (LPL)",
+      "Hepatic lipase (HL)",
+      "Cholesterol ester transfer protein"
+    ],
+    "answer": ["Lecithin:cholesterol acyltransferase (LCAT)"]
+  },
+  {
+    "id": 53,
+    "question": "Which lipoprotein is primarily responsible for the transport of cholesterol to the liver and intestine for excretion?",
+    "options": ["Chylomicrons", "VLDL", "LDL", "HDL"],
+    "answer": ["HDL"]
+  },
+  {
+    "id": 54,
+    "question": "Which of the following pathways is involved in the transport of lipoproteins composed mainly of endogenous lipids?",
+    "options": [
+      "Exogenous pathway",
+      "Endogenous pathway",
+      "Reverse cholesterol transport pathway",
+      "Intracellular cholesterol transport pathway"
+    ],
+    "answer": ["Endogenous pathway"]
+  },
+  {
+    "id": 55,
+    "question": "How are nascent HDL particles converted to spherical particles?",
+    "options": [
+      "By addition of triglycerides",
+      "By addition of cholesterol esters",
+      "By addition of phospholipids and cholesterol",
+      "By addition of apolipoprotein A-I"
+    ],
+    "answer": ["By addition of phospholipids and cholesterol"]
+  },
+  {
+    "id": 56,
+    "question": "Which lipoprotein is primarily responsible for the transport of triglycerides and cholesterol from the liver to peripheral tissues?",
+    "options": ["Chylomicrons", "VLDL", "LDL", "HDL"],
+    "answer": ["VLDL"]
+  },
+  {
+    "id": 57,
+    "question": "Which lipoprotein fraction has the highest content of protein?",
+    "options": ["Chylomicrons", "VLDL", "LDL", "HDL"],
+    "answer": ["HDL"]
+  },
+  {
+    "id": 58,
+    "question": "What is the main function of Lecithin:Cholesterol Acyltransferase (LCAT)?",
+    "options": [
+      "Formation of cholesterol esters",
+      "Hydrolysis of triglycerides",
+      "Activation of lipoprotein lipase (LPL)",
+      "Transport of lipoproteins into cells"
+    ],
+    "answer": ["Formation of cholesterol esters"]
+  },
+  {
+    "id": 59,
+    "question": "Which lipoprotein is primarily responsible for the transport of cholesterol from the liver to peripheral tissues?",
+    "options": ["Chylomicrons", "VLDL", "LDL", "HDL"],
+    "answer": ["HDL"]
+  },
+  {
+    "id": 60,
+    "question": "Which lipoprotein fraction has the highest density?",
+    "options": ["Chylomicrons", "VLDL", "IDL", "HDL"],
+    "answer": ["HDL"]
+  },
+  {
+    "id": 61,
+    "question": "What is the function of hepatic lipase (HL)?",
+    "options": [
+      "Hydrolysis of triglycerides in chylomicrons",
+      "Formation of cholesterol esters",
+      "Activation of lipoprotein lipase (LPL)",
+      "Hydrolysis of triglycerides in VLDL remnants"
+    ],
+    "answer": ["Hydrolysis of triglycerides in VLDL remnants"]
+  },
+  {
+    "id": 62,
+    "question": "Elevated levels of HDL are associated with:",
+    "options": [
+      "Increased risk of CAD",
+      "Decreased risk of CAD",
+      "Increased risk of hyperlipidemia",
+      "Decreased risk of hyperlipidemia"
+    ],
+    "answer": ["Decreased risk of CAD"]
+  },
+  {
+    "id": 63,
+    "question": "Low levels of HDL are associated with increased risk of CAD in conjunction with other factors such as:",
+    "options": [
+      "Cellular enzyme activity",
+      "Arterial wall integrity",
+      "Macrophage activity",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 64,
+    "question": "Hyperlipoproteinemia in individuals has not been associated with major genetic receptor abnormality, but LDL levels apparently exceed those that appear to be appropriate for receptor systems. This inappropriate level is believed to predispose to:",
+    "options": [
+      "Hypercholesterolemia",
+      "Hypertriglyceridemia",
+      "Atherosclerosis",
+      "Hypolipidemia"
+    ],
+    "answer": ["Atherosclerosis"]
+  },
+  {
+    "id": 65,
+    "question": "Hyperlipidemia is due to increased endogenous cholesterol production and excessive intake of:",
+    "options": [
+      "Proteins",
+      "Carbohydrates",
+      "Triglycerides and cholesterol",
+      "Vitamins"
+    ],
+    "answer": ["Triglycerides and cholesterol"]
+  },
+  {
+    "id": 66,
+    "question": "Exogenous cholesterol carrying chylomicron and remnant, from excess dietary fat and calories, stimulates overproduction of VLDL in the liver and increased VLDL which increases LDL levels because of its increased catabolism. This can potentially saturate the:",
+    "options": [
+      "LDL receptor system",
+      "HDL receptor system",
+      "VLDL receptor system",
+      "Chylomicron receptor system"
+    ],
+    "answer": ["LDL receptor system"]
+  },
+  {
+    "id": 67,
+    "question": "Familial hypercholesterolemia is due to impaired:",
+    "options": [
+      "HDL metabolism",
+      "LDL metabolism",
+      "VLDL metabolism",
+      "Chylomicron metabolism"
+    ],
+    "answer": ["LDL metabolism"]
+  },
+  {
+    "id": 68,
+    "question": "Familial hypercholesterolemia is defined as plasma cholesterol level of >7.5mmol/L in adults or a plasma LDL level of >4.9mmol/L in an adult with:",
+    "options": ["Xanthoma", "Xerosis", "Xerostomia", "Xeroderma"],
+    "answer": ["Xanthoma"]
+  },
+  {
+    "id": 69,
+    "question": "What is a clinical manifestation of severe hypercholesterolemia?",
+    "options": [
+      "High triglyceride levels",
+      "Low LDL levels",
+      "Xanthomas",
+      "Normal cholesterol levels"
+    ],
+    "answer": ["Xanthomas"]
+  },
+  {
+    "id": 70,
+    "question": "What treatment is useful in heterozygous subjects with familial hypercholesterolemia?",
+    "options": [
+      "Plasma exchange",
+      "Aphersis",
+      "Heparin extracorporeal LDL precipitation",
+      "Cholesterol lowering drugs like statins"
+    ],
+    "answer": ["Cholesterol lowering drugs like statins"]
+  },
+  {
+    "id": 71,
+    "question": "Familial hypertriglyceridemia can be due to:",
+    "options": [
+      "Increased production of VLDL",
+      "Decreased conversion to LDL",
+      "Both A and B",
+      "None of the above"
+    ],
+    "answer": ["Both A and B"]
+  },
+  {
+    "id": 72,
+    "question": "What laboratory finding is characteristic of hypercholesterolemia and hypertriglyceridemia?",
+    "options": [
+      "Low plasma HDL",
+      "High plasma LDL",
+      "High plasma VLDL",
+      "High plasma LDL and VLDL"
+    ],
+    "answer": ["High plasma LDL and VLDL"]
+  },
+  {
+    "id": 73,
+    "question": "What is the treatment for familial combined hyperlipidemia?",
+    "options": ["Dietary changes", "Statins", "Clofibrate", "Both B and C"],
+    "answer": ["Both B and C"]
+  },
+  {
+    "id": 74,
+    "question": "Secondary hyperlipidemia can be caused by:",
+    "options": [
+      "Primary hypothyroidism",
+      "Nephrotic syndrome",
+      "Obesity",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 75,
+    "question": "Which of the following drugs can cause secondary hyperlipidemia?",
+    "options": [
+      "Corticosteroids",
+      "Anticonvulsants",
+      "β-blockers",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 76,
+    "question": "Abetalipoproteinemia is characterized by a defect in the synthesis of:",
+    "options": ["LDL", "HDL", "VLDL", "Chylomicrons"],
+    "answer": ["Chylomicrons"]
+  },
+  {
+    "id": 77,
+    "question": "What is a characteristic feature of Tangier's disease?",
+    "options": [
+      "Splenomegaly",
+      "Peripheral neuropathy",
+      "Hyperplastic orange tonsils",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 78,
+    "question": "What is the most significant and independent predictor of cardiovascular morbidity and mortality?",
+    "options": ["LDL-C", "HDL-C", "Apo B", "LDL-P"],
+    "answer": ["LDL-P"]
+  },
+  {
+    "id": 79,
+    "question": "Which lipoprotein particle has a half-life of around 3 days?",
+    "options": ["HDL", "LDL", "VLDL", "Chylomicrons"],
+    "answer": ["LDL"]
+  },
+  {
+    "id": 80,
+    "question": "What is the standard of care for lipoprotein management in patients with cardiometabolic risk?",
+    "options": [
+      "Apo B or LDL-P testing",
+      "HDL-C testing",
+      "Total cholesterol testing",
+      "Triglyceride testing"
+    ],
+    "answer": ["Apo B or LDL-P testing"]
+  },
+  {
+    "id": 81,
+    "question": "Which of the following is not a traditional lipid test?",
+    "options": [
+      "Plasma standing test",
+      "Serum total cholesterol (TChol)",
+      "Serum LDL-Cholesterol (LDL-C)",
+      "Serum apo B study"
+    ],
+    "answer": ["Plasma standing test"]
+  },
+  {
+    "id": 82,
+    "question": "Which lipoprotein concentration is the most significant and independent predictor of cardiovascular morbidity and mortality?",
+    "options": ["LDL-C", "HDL-C", "Apo B", "LDL-P"],
+    "answer": ["LDL-P"]
+  },
+  {
+    "id": 83,
+    "question": "Which of the following is a traditional lipid test?",
+    "options": [
+      "Serum apo B study",
+      "Serum apo E study",
+      "Serum lipoprotein study",
+      "Serum HDL-C testing"
+    ],
+    "answer": ["Serum apo B study"]
+  },
+  {
+    "id": 84,
+    "question": "Which lipoprotein is primarily responsible for transferring free cholesterol from peripheral cells?",
+    "options": ["Chylomicrons", "VLDL", "LDL", "HDL"],
+    "answer": ["HDL"]
+  },
+  {
+    "id": 85,
+    "question": "Excessive dietary intake of which of the following contributes to hyperlipidemia?",
+    "options": [
+      "Proteins",
+      "Carbohydrates",
+      "Triglycerides and cholesterol",
+      "Vitamins"
+    ],
+    "answer": ["Triglycerides and cholesterol"]
+  },
+  {
+    "id": 86,
+    "question": "What is the treatment for familial hypercholesterolemia?",
+    "options": [
+      "Plasma exchange",
+      "Aphersis",
+      "Heparin extracorporeal LDL precipitation",
+      "Cholesterol lowering drugs like statins"
+    ],
+    "answer": ["Cholesterol lowering drugs like statins"]
+  },
+  {
+    "id": 87,
+    "question": "What is the characteristic feature of type I hyperlipidaemia?",
+    "options": [
+      "Increased apo-protein C",
+      "Lipoprotein lipase deficiency",
+      "Decreased production of VLDL",
+      "Increased conversion to LDL"
+    ],
+    "answer": ["Lipoprotein lipase deficiency"]
+  },
+
+  {
+    "id": 88,
+    "question": "Which of the following is a feature of familial hypobetalipoproteinaemia?",
+    "options": [
+      "Increased synthesis of apo B",
+      "Increased plasma levels of total cholesterol",
+      "Decreased synthesis of apo B",
+      "Decreased plasma levels of total cholesterol"
+    ],
+    "answer": ["Decreased synthesis of apo B"]
+  },
+  {
+    "id": 89,
+    "question": "What is a characteristic feature of Tangier's disease?",
+    "options": [
+      "Splenomegaly",
+      "Peripheral neuropathy",
+      "Hyperplastic orange tonsils",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 90,
+    "question": "Which lipoprotein is primarily responsible for the transport of triglycerides and cholesterol from the liver to peripheral tissues?",
+    "options": ["Chylomicrons", "VLDL", "LDL", "HDL"],
+    "answer": ["VLDL"]
+  },
+  {
+    "id": 91,
+    "question": "Which lipoprotein is primarily responsible for the transport of cholesterol from the liver to peripheral tissues?",
+    "options": ["Chylomicrons", "VLDL", "LDL", "HDL"],
+    "answer": ["LDL"]
+  }
+]

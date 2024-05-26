@@ -1,0 +1,1390 @@
+{
+  "Questions": [
+    {
+      "id": 1,
+      "question": "Which of these is a feature in fertillization?",
+      "options": [
+        "Cortical granule enzymes digest zona pellucida",
+        "Decondensation of female chromosomes",
+        "Release of hyaluronic acid",
+        "Meiosis I is completed",
+        "Fusion of pronuclei and zygote formation"
+      ],
+      "answer": [true, false, true, false, true],
+      "explanation": "Characteristics of Fertilization include\n\t • Cortical granule enzymes digest ZP proteins so other sperm can no longer bind. \n\t Hyaluronic acid and other proteoglycans are also released that become hydrated and swell, thus pushing the other sperm away. \n\t Meiosis II is completed \n\t The male and female pronuclei are formed \n\t Decondensation of male chromosomes \n\t Fusion of pronuclei and zygote formatio",
+      "topic": "Introductory embryology"
+    },
+    {
+      "id": 2,
+      "question": "which of these is a feature in compaction of embryo during cleavage?",
+      "options": [
+        "Caused by increased cell-cell adhesion",
+        "Cells that are forced to the outside of the morula are destined to become trophoblast",
+        "Cells that are forced to the outside of the morula are destined to become epiblast",
+        "The inner cells will form the embryo proper",
+        "The embryo is already out of the Zona pellucida"
+      ],
+      "answer": [true, true, false, true, false],
+      "explanation": "features in Compaction of the embryo include \n\t Caused by increase cell-cell adhesion \n\t cells that are forced to the outside of the morula are destined to become trophoblast cell that will form placenta\n\t The inner cells will form the embryo proper and are call the inner cell mass or embryoblast",
+      "topic": "Introductory embryology"
+    },
+    {
+      "id": 3,
+      "question": "Which of these is not an avenue to screen for congenital birth defects",
+      "options": [
+        "Ultrasound",
+        "Chorionic villi sampling",
+        "Ammiocentesis",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": [false, false, false, true, false],
+      "explanation": "Screening for congenital defect can be done using \n\t ultrasound \n\t chorionic villi sampling \n\t Amniocentesis",
+      "topic": "Introductory embryology"
+    },
+    {
+      "id": 4,
+      "question": "All of the following are structural abnormalities associated with chromosome except",
+      "options": [
+        "Cri-du-char syndrome",
+        "Angelman syndrome",
+        "Turner syndrome",
+        "Klinefelter syndrome",
+        "Prader-Willi syndrome"
+      ],
+      "answer": [true, true, false, false, true],
+      "explanation": "Chromosomal abnormalities can be structural or numerical abnormalities\n NUMERICAL abnormalities include \n\t Down syndrom or Trisomy 21(extra copy of chromosome 21) \n\t  Trisomy 18 or Edward syndrome(3 18th chromosomes) \n\t Trisomy 13 \n\t 45, X(Turner syndrome)\n\t 47,XXY (Klinefelter syndrome \n\t 47,XYY\n\t 47,XXX(Tripple X syndrome)\n STRUCTURAL abnormalities include \n\t Prader-Willi\n\t Angelman\n\t Cri-du-char syndrome",
+      "topic": "Introductory embryology"
+    },
+    {
+      "id": 5,
+      "question": "A monozygotic twin where separation takes place just after the first cellular divison(1st three days) is characterised by the following",
+      "options": [
+        "Each of the twins will have its own placenta",
+        "Each of the twins will have its own ammiotic sac",
+        "Each of the twins will share a common placenta",
+        "Each of the twins will share a common ammiotic sac",
+        "None of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Introductory embryology"
+    },
+    {
+      "id": 6,
+      "question": "which of the following are true concerning the cardiovascular system?",
+      "options": [
+        "It begins development in the 3rd week",
+        "It is already funtional in the 4th week",
+        "Cells forming the heark are mesodermal in origin",
+        "It is highly regulated molecularly",
+        "All of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Embryology of CVS"
+    },
+    {
+      "id": 7,
+      "question": "Which of these are true concerning the development of the heart layers?",
+      "options": [
+        "The primordial myocardium begins to form from the splanchnic mesoderm",
+        "The primordial myocardium originates from the primitive ventricle",
+        "The endothelial tube becomes the endocardium, the innermost layer of the heart",
+        "Epicardium, originates from the mesothelial cells from the outer surface of the truncus arteriosus",
+        "Epicardium, originates from mesothelial cells from the outer surface of the bulbus cordis"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Embryology of CVS"
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is a derivative of the sinus venosus?",
+      "options": [
+        "The posterior portion of the right atrium",
+        "The chordae tendinea",
+        "The SA node",
+        "The fossa ovalis",
+        "The coronary sinus"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Embryology of CVS"
+    },
+    {
+      "id": 9,
+      "question": "The following are true of the aortic arches except",
+      "options": [
+        "The first aortic arch regresses early, but a remnant forms a portion of the maxillary artery",
+        "The second aortic arch regresses early, but a remnant forms portions of the hyoid and stapedial arteries",
+        "The third arch regresses completely",
+        "The fourth arch gives rise to bilateral structures",
+        "All of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Embryology of CVS"
+    },
+    {
+      "id": 10,
+      "question": "Which of these are correct concerning ectopia cordis",
+      "options": [
+        "It is a very rare congenital condition",
+        "It can never be corrected",
+        "It could result to in abnormal development of the sternum",
+        "It is a common condition",
+        "Infants could die shortly after birth"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Embryology of CVS"
+    },
+    {
+      "id": 11,
+      "question": "Which of theses structures allow shunting of blood in the developing heart",
+      "options": [
+        "Foramen ovale",
+        "Foramen arteriosus",
+        "Ductus arteriosus",
+        "Foramen venosum",
+        "All of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Embryology of CVS"
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is true concerning the ductus venosus?",
+      "options": [
+        "It forms in the liver",
+        "It connects the left umbilical vein with the inferior vena cava",
+        "It connects the right umbilical vein with the infeior vena cava",
+        "The ductus serves as a bypas through the liver",
+        "It forms in the heart"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Embryology of CVS"
+    },
+    {
+      "id": 13,
+      "question": "Which of these is a feature in Tetralogy of Fallot?",
+      "options": [
+        "Pulmonary infundibular stenosis",
+        "Atrial septa defect",
+        "An overriding aorta",
+        "Right ventricular hypertrophy",
+        "Left ventricular hypertrophy"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Embryology of CVS"
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is correct about the normal fetal circulation?",
+      "options": [
+        "Shunting of blood is as a result of higher pressure in the left chamber of the heart",
+        "Shunting of blood is as a result of higher pressure in the right chamber of the heart",
+        "Blood bypass the lungs through the ductus arteriosus",
+        "Ductus arteriosus sends oxygen rich blood to other parts of the body",
+        "The brain receives the blood with most oxygen"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Embryology of CVS"
+    },
+    {
+      "id": 15,
+      "question": "Which of these is true concerning Dextrocardia?",
+      "options": [
+        "It is a common congenital condition",
+        "The apex of the heart is located on the right side of the body",
+        "It could occur with situs inversus",
+        "It could occur with a defect in the heart chambers",
+        "All of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Embryology of CVS"
+    },
+    {
+      "id": 16,
+      "question": "The following is true about the placenta",
+      "options": [
+        "Is a fetomaternal organ",
+        "The fetal portion develops from the endometrium",
+        "The maternal portion develops from the chorionic sac",
+        "Is a fetopaternal organ",
+        "It not the primary site of nutrient and gaseous exchange between the mother and fetus"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Placenta Embryology"
+    },
+    {
+      "id": 17,
+      "question": "The placenta",
+      "options": [
+        "Develops upon implantaion of the blastocyst into the maternal endometrium",
+        "Is disc shaped",
+        "Is connected by the umbilical cord to the fetus",
+        "Helps in the transportation of gases and nutrients",
+        "Has a fetal and paternal part"
+      ],
+      "answer": [true, true, true, true, false],
+      "explanation": "",
+      "topic": "Placenta Embryology"
+    },
+    {
+      "id": 18,
+      "question": "The umbilical cord",
+      "options": [
+        "Is approximately 60-70cm in length",
+        "Is approximately 55-60cm in length",
+        "Contains two umbilical veins and one umbilical artery",
+        "Contains two umbilical arteries and one umbilical vein",
+        "Contains one umbilical artery, one umbilical vein and one umbilical nerve"
+      ],
+      "answer": [false, true, false, true, false],
+      "explanation": "",
+      "topic": "Placenta Embryology"
+    },
+    {
+      "id": 19,
+      "question": "The placenta has the following functions except",
+      "options": [
+        "Metabolism",
+        "Excretion",
+        "Reproductive",
+        "Barrier Function",
+        "Transportation of gases and nutrients"
+      ],
+      "answer": [false, false, true, false, false],
+      "explanation": "",
+      "topic": "Placenta Embryology"
+    },
+    {
+      "id": 20,
+      "question": "The pleuroperitoneal membranes",
+      "options": [
+        "By the 6th week grows to separated the pleural cavities",
+        "Separates the pericardial cavity from the pleural cavities",
+        "Separates the pleural cavities",
+        "Separates the pericardioperitoneal canals",
+        "By the 4th week grows to separate the pleural cavities form the pericardial cavity"
+      ],
+      "answer": [true, false, false, true],
+      "explanation": "",
+      "topic": "Diaphram Embryology"
+    },
+    {
+      "id": 21,
+      "question": "The peritoneal cavity",
+      "options": [
+        "Forms the major part of the intra-embryonic coelom(cavity)",
+        "Loses its connection with the extra-embryonic coelom by the 10th week of development, as the intestines return to the abdomen form the umbilical cord",
+        "Does not form the major part of the intra-embryonic coelom(cavity)",
+        "Forms major part of the extra-embryonic coelom(cavity)",
+        "Is connected with the extra-embryonic coelom at the umbilicus"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Diaphram Embryology"
+    },
+    {
+      "id": 22,
+      "question": "The diaphragm is derived from the following structures except",
+      "options": [
+        "The septum transversum",
+        "The pleuropericadial membranes",
+        "The pleuroperitoneal membranes",
+        "Dorsal mesentery of the esophagus",
+        "Muscular ingrowth from the medial body walls"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Diaphram Embryology"
+    },
+    {
+      "id": 23,
+      "question": "Septum Transversum",
+      "options": [
+        "Is first visible by the end of the 3rd as a mass of mesodermal tissue",
+        "Forms the primordium of the central tendon of the diaphragm",
+        "Forms a thick partition between the pericardial and abdominal cavity by the 4th week",
+        "Forms a complete partition between the pericardial and abdominal cavity by the 4th week",
+        "None of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Diaphram Embryology"
+    },
+    {
+      "id": 24,
+      "question": "Pleuroperitoneal membranes",
+      "options": [
+        "Completely separated the thoracic and abdominal cavities",
+        "Fuses with the septum transversum and dorsal mesentery of the esophagus to completely sepatates the thoracic and abdominal cavities",
+        "Forms a major part of the early fetal diaphragm",
+        "Forms a major part of the adult diaphragm",
+        "All of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Diaphram Embryology"
+    },
+    {
+      "id": 25,
+      "question": "Dorsal mesentery of the esophagus",
+      "options": [
+        "Fuses with the septum transversum to complete partition between the thoracic and abdominal cavities",
+        "Fuses with the pleuroperitoneal membranes to completely separate the thoracic and abdominal cavities",
+        "Is not involved in the formation of the diaphragm",
+        "Forms the median portion of the diaphragm",
+        "None of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Diaphram Embryology"
+    },
+    {
+      "id": 26,
+      "question": "The following are True concerning Epithelial tissue except",
+      "options": [
+        "Are tissues in which cells are bound tightly together structurally and functionally",
+        "They are tissues that form a sheet like or tubular structure with little extracellulary material between cells",
+        "The cells in their epithelia each have apical side facing the sheeps free surface and a basal side",
+        "The cells in their Epithelia have a basal side facing a basement membrane and underlying connective tissue",
+        "Their epithelia are oftem specialized for absorption or transcytosis or pinocytosis of material"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Epithelial Histology"
+    },
+    {
+      "id": 27,
+      "question": "Concerning the Basement membrane of all epithelia the following is/are False",
+      "options": [
+        "It is a thin extracellular layer of specialized proteins",
+        "It usually has twoo parts, a basal lamina and a fibrous reticular lamina",
+        "Their basal lamina is a thin meshwork of type IV collagen and lamina produces by the epithelial cell",
+        "Their reticular lamina contains type III collagen and anchoring fibers of VII collagen all served by cells of the immediately adjacent connective tissue",
+        "None of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Epithelial Histology"
+    },
+    {
+      "id": 28,
+      "question": "Concerning the intercellular Junction",
+      "options": [
+        "They are well developed in epithelia and consist of 3 major types with different functions",
+        "The tight intercellular junction is also called the occluding junction",
+        "The occluding junctions are formed by interacting trans membrane protein such as claudin and occludin",
+        "The linear arrangement of claudin and occluding surround the apical ends of the cells there by preventing paracellular passage of substance between cells",
+        "Intercellular junction play a crucial role in transmembrane permeability"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Epithelial Histology"
+    },
+    {
+      "id": 29,
+      "question": "The following statements are FALSE",
+      "options": [
+        "Adherent or anchoring junctions is formed by interacting proteins of cadhering family which are points of strong attachment holding together cells of the epithelium",
+        "Adherent junction may form zonular adherence that encircle epithelial cells just below their tight junction",
+        "Zonula adherence are scattered spot like attachments site called desmosomes or maculae adherens",
+        "Hemidesmosomes composed of transmembrane integrins attach cells to proteins of the basal lamina",
+        "Gap junction are also called communicating junction are points of cell contact where both plasma membranes have numerous hexametric complexes transmembrane connexion"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Epithelial Histology"
+    },
+    {
+      "id": 30,
+      "question": "Concerning the Apical Structure of Epithelial cells",
+      "options": [
+        "Microvilli are small membrane projections with cores of actin filaments that generally function to increase epithelia cell's apical surface area for absorption",
+        "Stereocilia are long microvilli with specialized mechanosensory function in cells of the inner ear and for absorption in tissues of the male reproduction tract",
+        "Cilia are larger projecting structure with a well-organized core of microtubules in a 9 + 2 arrangement called the axonema",
+        "The restricted, dynein-based sliding of microtubules causes ciliary movement that propel material along an epithelia surface",
+        "The Apical structure of epithelia cells possess several mechanisms for locomotion and a medium for interphasing of tissue"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Epithelial Histology"
+    },
+    {
+      "id": 31,
+      "question": "The following statement are TRUE",
+      "options": [
+        "An epithelium in which the basement membrane has one cell layer is simple",
+        "The cells of different simple epithelia vary in height to form very thin or squamous to roughly cuboidal to very tall or columnar",
+        "The epithelia with two or more layers of cells are stratified squamous in which the outer cell layer are thin and flat",
+        "Cells of stratified squamous epithelia are filled with keratin intermediate filaments",
+        "All of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Epithelial Histology"
+    },
+    {
+      "id": 32,
+      "question": "TRUE/FALSE",
+      "options": [
+        "Pseudostratified epithelia are thick and appear to have several cell layers; all cells attach to the basal lamina but not all extend to the free epithelial surface",
+        "Squamous stratified epithelia such as the epidermis cover the body surface, protecting underlying tissue from the excess water loss and microbial invasion",
+        "Transitional epithelium or urothelium as found in the lining of the urinary system is stratified, with large round surface cell protective against urine",
+        "Simple squamous epithelia cells are found in the Alveolar sac"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Epithelial Histology"
+    },
+    {
+      "id": 33,
+      "question": "About the Gland",
+      "options": [
+        "Exocrine glands produce mucus or similar individual cells called goblet cells which are called mucous gland",
+        "The oligosaccharide components of mucus stain poorly with routine dye but stain well with PAS stain",
+        "Exocrine glands producing largely enzyme(proteins) are called serous glands and stain darkly with H & E due to the cells content of RER and secretary granules",
+        "The secretory proteins of exocrine gland may form round, sac like acine(alveoli) or elongated tubules; both types of secretory unit may themselves branch",
+        "Glands have 3 basic secretory mechanisms which are either merocrine, Holocrine or Apocrine"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Epithelial Histology"
+    },
+    {
+      "id": 34,
+      "question": "TRUE/FALSE",
+      "options": [
+        "Adipocytes are cells specialized for storage of triglyceride, they predominate in a specialized form of connective tissue called Adipose tissue",
+        "Connective tissue is specialized to physical support and connect other tissue and maintain the water required for metabolic diffusion to and from cells",
+        "Connective tissue all consist primarily of extracellular material rather than cells",
+        "The ECM of connective tissue proper usually consist of both large protein tube and non-fibrous are of unstained ground substance rich in various GAGs and water",
+        "All adult connective tissues are derived from an embryonic form of connective tissue called the mesenchyme"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Epithelial Histology"
+    },
+    {
+      "id": 35,
+      "question": "Concerning the fibres of connective tissue",
+      "options": [
+        "The most important and abundant fibers of connective tissue are composed of the protein collagen of which there are some 20 related type",
+        "Fibrils of type I collagen are bundled together by other forms of non-fibrillar, linking collagens to produce large collagen bundles",
+        "Collagen fibrils are degraded by collagenase enzyme",
+        "Collagenase enzyme is classified as a matrix metalloproteinase(MMPs) which is produced primarily by macrophages",
+        "All of the above options are true"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Connective tissue Histology"
+    },
+    {
+      "id": 36,
+      "question": "Concerning the Ground substance",
+      "options": [
+        "The ground substance is the watery, largely unstained extracellular material that is more abundant than",
+        "Ground substance is rich in hydrated glycosaminoglycan, proteoglycans and multiadhesive glycoproteins",
+        "Chondrointin sulfate are examples of sulfated GAGs",
+        "Sulfated GAGs are all bonds to core proteins of proteoglycans and are produced in the golgi apparatus before secretion",
+        "Fibronectin and laminin are example of multiadhesive glycoprotein"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Connective tissue Histology"
+    },
+    {
+      "id": 37,
+      "question": "Concerning connective Tissue",
+      "options": [
+        "Connective tissue proper is usually classified as loose or dense according to the amount of collagen and ground substance presents",
+        "Loose connective tissue has relative more ground substance than collagen and its is typically surrounded by small blood vessels and occupy adjacent areas to other types of epithelia",
+        "Dense irregular connective tissue is filled primarily with randomly distributed bundles of type I collagen with some elastic fibers",
+        "Dense irregular connective tissue has more resistance to tearing from all directions as well as some elasticity",
+        "Reticular tissue consists of delicate networks of type III collagen (reticulin) and is most abundant in certain lymphoid organ"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Connective tissue Histology"
+    },
+    {
+      "id": 38,
+      "question": "TRUE/FALSE",
+      "options": [
+        "White adipose tissue is found in many organs throughout the body",
+        "White adipose tissue typically form about 20% of the body weight in adults",
+        "Adipocyte of white fat are typically very large cells ranging in diameter from 50-150mm",
+        "These cells each contain primarily one large lipid droplet(they are unilocular). Causing the nucleus and remaining cytoplasm to be pushed against the plasmalemma",
+        "Fatty acids are released from white adipocyte when nutrients are needed and carried throughout the body on plasma protein such as albumin"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Adipose tissue Histology"
+    },
+    {
+      "id": 39,
+      "question": "Striated Muscle",
+      "options": [
+        "Consist of mainly two types",
+        "Are capable of relatively fast contractions",
+        "Are always under voluntary control",
+        "Has a poorly organized contractile apparatus",
+        "Are found in the walls of the alimentary tract"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Muscle Histology"
+    },
+    {
+      "id": 40,
+      "question": "The units of Skeletal muscle are the",
+      "options": ["Muscle fibres", "The A bands", "The I bands", "The Z bands"],
+      "answer": [],
+      "explanation": "",
+      "topic": "Muscle Histology"
+    },
+    {
+      "id": 41,
+      "question": "The following are true concerning skeletal muscles",
+      "options": [
+        "The fibers are arranged in bundles also known as fascisculus",
+        "The endomysium is the connective tissue sheath that fills the spaces between the fasciculi",
+        "Each fasciculus is also surrounded by a stronger connective tissue, the perimysium",
+        "The whole muslce is covered by epimysium",
+        "The epimysium is continuous with the perimysium"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Muscle Histology"
+    },
+    {
+      "id": 42,
+      "question": "In longitudinal sections",
+      "options": [
+        "The myofibrils are not tranversed by striations",
+        "The myofibrils do not vary in their staining reactions nor do they vary in optical properties",
+        "I-bands or isotropic bands stain lightly with basic dyes and rotate the plane of polarization of light",
+        "The anisotropic A bands stain deeply with haematoxylin and strongly rotate the plane of polarization of light",
+        "The Zwischenscheibe or Z bands bisect the I bands"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Muscle Histology"
+    },
+    {
+      "id": 43,
+      "question": "Electron microscopy shows skeletal muscle to be",
+      "options": [
+        "Composed of longitudinally disposed fine myofilaments",
+        "The myofilaments are divided transversely by the Z bands",
+        "The division form repeating regions called sarcomeres",
+        "The myofilaments are Actin and Myosin",
+        "The Actin filaments are attached at one end to a Z-band"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Muscle Histology"
+    },
+    {
+      "id": 44,
+      "question": "The myosin filaments",
+      "options": [
+        "Interdigitate with the Actin filaments",
+        "Do not overlap with the acin filaments at the I bands",
+        "Are coextensive with the A bands of light microscopy",
+        "Have fine strands that interconnect adjacent myosin filaments viz the M bands that lie transversely across the middle of the H bands",
+        "In contracted state have slide in relation to the Actin filaments bringing the Z bands closer together"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Muscle Histology"
+    },
+    {
+      "id": 45,
+      "question": "Each myosin filament",
+      "options": [
+        "Has a tail, neck and head",
+        "The tail is made of light mero myosin",
+        "The head is made up of heavy mero myosin",
+        "Is arranged in parallel bundles",
+        "The myosin head bears two sites for spliting ATP, stimulated by the presence of calcium ions"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Muscle Histology"
+    },
+    {
+      "id": 46,
+      "question": "Excitation contraction coupling",
+      "options": [
+        "Involves the manner in which energy is converted to mechanical movement",
+        "Is aided by the activity of troponin and tropomyosin",
+        "Is aided by the release of calcium ions",
+        "Is aided by the sarcoplasm of muscle fibres",
+        "Is aided by the presence of ribosomes"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Muscle Histology"
+    },
+    {
+      "id": 47,
+      "question": "The following are essential for normal muscle action",
+      "options": [
+        "Golgi bodies",
+        "Lysosomes",
+        "Lipid vacuoles",
+        "Glycogen",
+        "Cell membranes"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Muscle Histology"
+    },
+    {
+      "id": 48,
+      "question": "The following is true concerning innervation of skeletal muscles",
+      "options": [
+        "The nerves may be one or more entering the neuromucular hilum and contains both motor and sensory fibres",
+        "The motor fibres comprise myelinated efferents of ventral grey column motor neurons(alpha efferents) supplying extra-fusal muscle fibers",
+        "The smaller myelinated gamma efferents run to the muscle spindle and non-myelinated autonomic efferents which supply vascular smooth muscles",
+        "The  sensory fibres are distributed to the muscle spindles",
+        "Once the nerve has entered the muscle, it breaks up into a plexus which runs in the Epi and perimysial septa then endomysial spaces"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Nerve Histology"
+    },
+    {
+      "id": 49,
+      "question": "Gap Junctions of epithelial cells can be likened to",
+      "options": [
+        "Nexuses of cardiac muscle cells",
+        "Solar plexus",
+        "Arachnoid granulations",
+        "Neuromuscular junctions",
+        "Communicating junctions"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Muscle Histology"
+    },
+    {
+      "id": 50,
+      "question": "Communicating junctions in cardiac muscles",
+      "options": [
+        "Are made of intercalated disc and desmosomes",
+        "Permit the relatively unimpeded flow of ionic current",
+        "Are of great importance in the dissemination of contractions within the heart",
+        "Allow excitation and contraction in one part of a muscle to spread to all cells of the bundle",
+        "Allow the heart to behave electrically as a syncytium"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Muscle Histology"
+    },
+    {
+      "id": 51,
+      "question": "In anatomical position",
+      "options": [
+        "The head is directed forward",
+        "The gaze is directed upwards",
+        "The toes are directed laterally",
+        "The arms are adjacent to the sides of the body",
+        "The palm faces medially"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Introduction to Anatomy"
+    },
+    {
+      "id": 52,
+      "question": "About anatomical planes",
+      "options": [
+        "The median plane divides the body into right and left halves",
+        "The sagittal plane is perpendicular to the median plane",
+        "The coronal plane is parallel to the median plane",
+        "The transverse plane is perpendicular to the median plane",
+        "The transverse is perpendicular to the coronal plane"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Introduction to Anatomy"
+    },
+    {
+      "id": 53,
+      "question": "About movement",
+      "options": [
+        "Flexion decreases the angle",
+        "Adduction is moving away from the median plane",
+        "Pronation occurs in the leg",
+        "Eversion moves the palm of the hand away from the median plane",
+        "Opposition occurs in the toes"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Introduction to Anatomy"
+    },
+    {
+      "id": 54,
+      "question": "Clavipectoral fascia",
+      "options": [
+        "Encloses pectoralis minor",
+        "Encloses clavicle",
+        "Is pierced by lateral pectoral nerve",
+        "Is pierced by basilic vein",
+        "Is pierced by thoracoacromial artery"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 55,
+      "question": "Select the correct matches of branches of brachial plexus with their roots",
+      "options": [
+        "Nerve to serratus anterior (C5-C7)",
+        "Musculocutaneous nerve (C5-C7)",
+        "Ulnar nerve (C7,C8,T1)",
+        "Radial nerve (C5-C8,T1)",
+        "Dorsal scapular nerve (C5-C7)"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 56,
+      "question": "The branches of the lower trunk of brachial plexus include",
+      "options": [
+        "Nerve to subclavius",
+        "Suprascapular nerve",
+        "Dorsal subscapular nerve",
+        "Upper subscapular nerve",
+        "Lower subscapular nerve"
+      ],
+      "answer": [false, false, false, false, false],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 57,
+      "question": "Pick the correct statement about Erb's paralysis",
+      "options": [
+        "Occurs at the upper trunk",
+        "Arm is abducted",
+        "Arm is medially rotated",
+        "Forearm is flexed",
+        "Forearm is pronated"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 58,
+      "question": "The cervicoaxillary canal is bounded",
+      "options": [
+        "Medially by lateral border of first rib",
+        "Laterally by the surgical neck of the humerus",
+        "Anteriorly by the anterior border of the clavicle",
+        "Posteriorly by the superior border of the scapula",
+        "Inferiorly the axillary fascia"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 59,
+      "question": "Which of the following contribute to anastomosis on the subscapular fossa?",
+      "options": [
+        "Dorsal scapular artery",
+        "Suprascapular artery",
+        "Subscapular artery",
+        "Circumflex scapular artery",
+        "Posterior circumflex humeral artery"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 60,
+      "question": "About arterial anastomoses around the elbow",
+      "options": [
+        "Posterior ulnar collateral anastomoses with superior ulnar recurrent",
+        "Anterior ulnar collateral anastomoses with inferior ulnar recurrent",
+        "Superior radial collateral anastomoses with posterior radial recurrent",
+        "Inferior radial collateral anastomoses with anterior radial recurrent",
+        "Interosseous collateral anastomoses with interosseous recurrent"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 61,
+      "question": "The following is incorrect about the elbow joint except",
+      "options": [
+        "It is a hinge type of synovial joint",
+        "The capitulum articulates with the trochlea",
+        "Head of radius articulates with olecranon fossa",
+        "It is continuous with superior radioulnar joint",
+        "It allows abduction-adduction movement"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 62,
+      "question": "Which of the following is correct about carrying angle?",
+      "options": [
+        "Transverse axis of the elbow joint is directed medially and downwards",
+        "The medial flange of the trochlea is lower than the lateral flange",
+        "The superior articular surface of the coronoid process of ulna is oblique",
+        "It disappears in full flexion",
+        "It disappear during pronation"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 63,
+      "question": "The contents of the Upper triangular space include the following except",
+      "options": [
+        "Circumflex scapular artery",
+        "Dorsal Scapular artery",
+        "Suprascapular artery",
+        "Thoracoacromial artery",
+        "Lateral thoracic artery"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 64,
+      "question": "The contents of the quadrangular space include",
+      "options": [
+        "Radial artery",
+        "anterior circumflex humeral artery",
+        "Posterior circumflex humeral artery",
+        "Radial nerve",
+        "Axillary nerve"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 65,
+      "question": "Lymph from the breast drain into",
+      "options": [
+        "Anterior group axillary lymph nodes",
+        "Parasternal node",
+        "Supraclavicular node",
+        "Cephalic nodes",
+        "Posterior intercostal nodes"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 66,
+      "question": "Concerning fascial spaces, the following statement(s) is/are correct",
+      "options": [
+        "They are also known as tissue spaces",
+        "They are potential spaces that exist between the fasciae and underlying organs",
+        "In health fascial spaces do not exist",
+        "They are of no relevance in oral and maxillofacial surgery",
+        "All of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 67,
+      "question": "The muscles of the hypothenar eminence include",
+      "options": [
+        "Palmaris brevis",
+        "Pronator teres",
+        "Anconeus",
+        "Supinator",
+        "Extensor digiti minimi"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 68,
+      "question": "Failure to revascularise the scaphoid in the event of a fracture can lead to",
+      "options": [
+        "Avascular necrosis",
+        "Rheumatism",
+        "Future arthritis",
+        "Osteoporsis",
+        "All of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 69,
+      "question": "The following statement(s) is/are correct concerning the palmar arches",
+      "options": [
+        "The superficial palmar arch is more distally located than the deep palmar arch",
+        "The deep palmar arch branches out into smaller arteries that serve the fingers",
+        "The superficial palmar arch lies further away from the thumb than the deep palmar arch",
+        "The palm arch is either deep or superficial loops of blood vessels in the palm of the hand",
+        "All of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 70,
+      "question": "The following statement(s) is/are correct concerning the flexor retinaculum",
+      "options": [
+        "It is also known as the longitudinal carpal ligament",
+        "It is located at the dorsal aspect of the wrist",
+        "It is a triangular shaped fibrous band",
+        "On the radial side it is attached to the scaphoid tubercle",
+        "It forms the floor of the carpal tunnel"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 71,
+      "question": "Concerning the Carpal Tunnel syndrome the following statement(s) is are correct except",
+      "options": [
+        "The tissues in the carpal tunnel are inflamed",
+        "One of the tendons in the Carpal tunnel is fibrotic",
+        "Pressure is exerted on the median nerve",
+        "It is the most commonly reported nerve entrapment syndrome",
+        "Obesity and rheumatoid arthritis are particularly high risk factors"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 72,
+      "question": "The Carpus is composed of the following carpal bones except",
+      "options": ["Trapezium", "Cubiod", "Cuneiform", "Capitate", "Navicular"],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 73,
+      "question": "Functions of the palmer aponeurosis include the the following except",
+      "options": [
+        "Protects underlying structures",
+        "Provides attachment to muscles",
+        "Provides firm attachment to overlying skin",
+        "Provides palmar creases",
+        "Helps to form the ridges in the palm"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 74,
+      "question": "The following statements is/are correct concerning the palmar crease",
+      "options": [
+        "The distal transverse palmar crease runs along the top of the palm",
+        "The proximal transverse palmar crease is above the distal crease",
+        "The thenar transverse palmar crease runs vertically around the base of the thumb",
+        "A & C only",
+        "All of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 75,
+      "question": "The Thenar musculature consist of the following muscles except",
+      "options": [
+        "Abductor policis brevis",
+        "Adductor pollicis",
+        "Flexor pollicis brevis",
+        "Opponens pollicis",
+        "Palmaris longus"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Upper limb"
+    },
+    {
+      "id": 76,
+      "question": "The bony surfaces that form the KNEE JOINT include the foollowing EXCEPT",
+      "options": [
+        "The smooth surfaces of the condyles of the femur, Tibia and patella",
+        "The distal surfaces of the condyles of the femur, Tibia and patella",
+        "The smooth surfaces of the condyles of the femur, fibula and tibia",
+        "The distal surfaces of the condyles of the patella, fibula and femur"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 77,
+      "question": "The capsule of the HIP is attached proximally to",
+      "options": [
+        "The margins of the acetabulum",
+        "The Transverse acetabular ligament",
+        "The Trochanteric line",
+        "The bases of the lesser and greater Trochanters",
+        "Femoral neck"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 78,
+      "question": "Which of the following ligament(s) remains intact in posterior dislocation of the Hip joint",
+      "options": [
+        "Ilioinguinal ligament",
+        "Ligament of Bigelow",
+        "Pubofemoral ligament",
+        "Ischiofemoral ligament",
+        "Acetabular ligament"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 79,
+      "question": "When one foot is off the ground, dropping of the pelvis to the unsupported side is prevented by",
+      "options": [
+        "Gluteus minimus",
+        "Tensor Fascia latae",
+        "Gluteus maximus",
+        "Tibialis anterior",
+        "Ligamentum teres"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 80,
+      "question": "The following is/are TRUE about the cutaneous supply the lower limb",
+      "options": [
+        "L4 supplies the front medial aspect of the leg",
+        "S1 supplies the lateral side of the foot only",
+        "S2 supplies the posterior surface of the leg and thigh",
+        "S3 only supplies the buttock and perineal region",
+        "S3 only supplies the posterior part of the Scrotum"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 81,
+      "question": "The following is/are correct about the ILIOTIBIAL TRACT",
+      "options": [
+        "It is a thin fascia lata on the anterior side of the thigh",
+        "It encloses the fascia lata superiorly",
+        "Major part of the gluteus maximus is inserted into it",
+        "The tract is inserted into GERDY'S tubercle",
+        "It maintains the knee in the hyperextended position"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 82,
+      "question": "The following is/are incorrect about the SUBSARTORIAL CANAL",
+      "options": [
+        "Lies between the vastus lateralis and anterior aspect of adductor muscles",
+        "Its content include femoral artery and nerve to Vastus medialis",
+        "Its floor contains the adductor longus and magnus",
+        "Femoral vein is posterolateral to the artery in the canal distally",
+        "Femoral vein is posterolateral to the artery in the canal medially"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 83,
+      "question": "The following is/ar TRUE about the Piriformis muscle EXCEPT",
+      "options": [
+        "Relevant in the arrangements of the structures in the gluteal region",
+        "The surface marking of the lower border is from the midpoint of a line between the postero-superior iliac spine",
+        "It is innervated by anterior rami of S1 and S2",
+        "It is innervated by posterior rami of S2 and S3",
+        "It is inserted into medial surface of the upper border of the greater trochanter"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 84,
+      "question": "About the SCIATIC NERVE the following is/are INCORRECT",
+      "options": [
+        "It may be demaged during intramuscular injection",
+        "It runs vertically through the hamstrings compartment",
+        "Its surface marking is from the midpoint between the ischial tuberosity and the greater trochanter to the apex of the popliteal fossa",
+        "Its lies deep to the long head of the biceps",
+        "It divides into tibial and common peroneal nerve at the base of the popliteal fossa"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 85,
+      "question": "The following is/are TRUE about the PATELLA",
+      "options": [
+        "It articulates with the two femoral condyles posteriorly",
+        "It has a larger medial facet and a smaller lateral facet laterally",
+        "Lateral displacement is usually resisted by the lateral femoral condyles",
+        "Recurrent dislocation of the patella may occur in Genu Valgum",
+        "Its lateral displacement is usually resisted by the medial pull of vastus medialis"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 86,
+      "question": "The following is/are correct about HIP DISLOCATION",
+      "options": [
+        "It is usually posterior in flexed position",
+        "There may not be acetabular fracture if the hip is in adducted position",
+        "In abducted position, there may be fracture of the posterior acetabular lip",
+        "The sciatic nerve may be compromised",
+        "Central dislocation may result from a fall from a height"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 87,
+      "question": "The following is/are True about the KNEE JOINT EXCEPT",
+      "options": [
+        "Its Capsule is reinforced on each side by the medial and lateral collateral ligament",
+        "Its Capsule is strengthened anteriorly by the ligamentum patellae",
+        "Its capsule is strengthened on each side by the patella",
+        "The cruciate ligaments connect the tibia with the femur",
+        "It is majorly stabilized by Quadriceps femoris"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 88,
+      "question": "The following is/are INCORRECT about the Leg",
+      "options": [
+        "The muscles of the lateral compartment are innervated by the musculocutaneus nerve",
+        "The posterior compartment muscle are long extensor muscles of the sole of the foot",
+        "The muscles of the flexor compartment are supplied by the fibular nerve",
+        "The anterior compartment muscles are long extensor muscles of the toe",
+        "The extensor compartment is innervated by deep peroneal nerve"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 89,
+      "question": "Obturator nerve supply the following except",
+      "options": [
+        "Obturator externus",
+        "Gracilis",
+        "Adductor magnus",
+        "Adductor longus",
+        "All of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 90,
+      "question": "Obturator nerve supply the following",
+      "options": [
+        "Hip joint",
+        "Knee joint",
+        "Area of the skin over the lateral aspect of the thigh",
+        "Adductor longus",
+        "None of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 91,
+      "question": "In the groin, the femoral artery gives of the following except",
+      "options": [
+        "Superficial circumflex iliac artery",
+        "Superficial epigastric artery",
+        "Deep internal pudendal artery",
+        "Superficial iliac artery",
+        "All of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 92,
+      "question": "Eversion of the foot is the duty of the following except",
+      "options": [
+        "Peroneus longus",
+        "Peroneus intermedius",
+        "Peroneus anterior",
+        "peroneus brevis",
+        "None of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 93,
+      "question": "Inversion of the foot is the duty of the following Except",
+      "options": [
+        "Tibialis posterior",
+        "Tibialis anterior",
+        "Tibialis intermedius",
+        "Peroneus brevis",
+        "All of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 94,
+      "question": "The arches of the foot are maintained by the following except",
+      "options": [
+        "Short ligament",
+        "Long ligament",
+        "Spring ligament",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 95,
+      "question": "The Principal muscle concerned in the mechanism of arches of the foot include the following except",
+      "options": [
+        "Tibialis posterior",
+        "Tibialis anterior",
+        "Peroneus brevis",
+        "Peroneus intermedius",
+        "None of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 96,
+      "question": "The lateral arch of the foot comprises of the following bones except",
+      "options": [
+        "Calcaneus",
+        "Cubiod",
+        "Talus",
+        "Navicular",
+        "All of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 97,
+      "question": "The medial arch of the foot comprises of the following bones except",
+      "options": [
+        "Calcaneus",
+        "Cubiod",
+        "Talus",
+        "Navicular",
+        "All of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 98,
+      "question": "The following muscle are the principal dorsiflexors of the ankle except",
+      "options": [
+        "Tibialis posterior",
+        "Tibialis anterior",
+        "Flexor Hallucis longus",
+        "Flexor Hallucis brevis",
+        "All of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 99,
+      "question": "The following muscles are the principal plantarflexors of the ankle except",
+      "options": [
+        "Flexor digitorum longus",
+        "Flexor Hallucis longus",
+        "Flexor Hallucis brevis",
+        "Tibialis anterior",
+        "None of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    },
+    {
+      "id": 100,
+      "question": "Which of the following is/are not related to ankle fracture",
+      "options": [
+        "Second degree potts fracture",
+        "First degree potts fracture",
+        "Third degree potts fracture",
+        "Non fracture of the lateral malleoli",
+        "All of the above"
+      ],
+      "answer": [],
+      "explanation": "",
+      "topic": "Lower limb"
+    }
+  ]
+}

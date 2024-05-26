@@ -1,0 +1,199 @@
+[
+  {
+    "id": 1,
+    "question": "About Chemokines, select the odd one",
+    "options": [
+      "They are a family of small proteins that primarily act as chemoattractants",
+      "Alpha chemokines are CXC",
+      "The sole member of gamma chemokine is Fractalkine",
+      "Examples of beta chemokines are Eotaxin and RANTES",
+      "Gamma chemokines lack the first and third conserved cysteines."
+    ],
+    "answer": ["The sole member of gamma chemokine is Fractalkine"],
+    "explanation": "Chemokines are a family of small proteins that primarily act as chemoattractants, guiding the movement of immune cells. The other options correctly describe various characteristics of chemokines:\n\n(A) Correct: Chemokines are indeed a family of small proteins that primarily act as chemoattractants.\n(B) Correct: Alpha chemokines are classified as CXC chemokines.\n(C) Incorrect: Gamma chemokines typically have multiple members, and Fractalkine is not the sole member of this category. This makes it the odd one out.\n(D) Correct: Eotaxin and RANTES are examples of beta chemokines.\n(E) Correct: Gamma chemokines generally lack the first and third conserved cysteines."
+  },
+  {
+    "id": 2,
+    "question": "Which cell releases histamine during inflammation?",
+    "options": [
+      "Red blood cells",
+      "Mast cells",
+      "T cells",
+      "Neutrophils",
+      "Giant cells"
+    ],
+    "answer": ["Mast cells"],
+    "explanation": "Mast cells release histamine during inflammation, contributing to the inflammatory response."
+  },
+  {
+    "id": 3,
+    "question": "The following are stimuli for acute inflammation except",
+    "options": [
+      "Trauma",
+      "Necrosis",
+      "Bacterial infection",
+      "Immune reaction",
+      "Anorexia"
+    ],
+    "answer": ["Anorexia"],
+    "explanation": "Anorexia is not a stimulus for acute inflammation. The other options are known triggers of inflammation."
+  },
+  {
+    "id": 4,
+    "question": "One of these is not a fate of inflammatory mediators from arachidonic acids",
+    "options": [
+      "Quickly decay",
+      "Recycled",
+      "Inactivated by enzymes",
+      "Scavenged",
+      "Inhibited"
+    ],
+    "answer": ["Recycled"],
+    "explanation": "Recycling is not a typical fate of inflammatory mediators from arachidonic acids. The other options describe common outcomes of these mediators."
+  },
+  {
+    "id": 5,
+    "question": "One of these is a systemic effect of inflammation",
+    "options": [
+      "Decreased production of acute phase proteins",
+      "Decreased Appetite",
+      "Decreased sleep",
+      "Leucopenia",
+      "None of the above"
+    ],
+    "answer": ["Decreased Appetite"],
+    "explanation": "Decreased appetite is a systemic effect of inflammation, contributing to symptoms like anorexia."
+  },
+  {
+    "id": 6,
+    "question": "About the cellular events of inflammation, one of the following is incorrectly paired",
+    "options": [
+      "Margination and rolling -------- Selectins",
+      "Adhesions -------------------------- Adhesins",
+      "Chemotaxis---------------------------IL-8",
+      "MAC 1---------------------------------- VCAM",
+      "None of the Above"
+    ],
+    "answer": ["MAC 1---------------------------------- VCAM"],
+    "explanation": "The pairing 'MAC 1 and VCAM' is incorrect. MAC 1 is associated with integrins, not VCAM."
+  },
+  {
+    "id": 7,
+    "question": "The following are preformed mediators of inflammation except",
+    "options": [
+      "Histamine",
+      "Serotonin",
+      "Proteases",
+      "Lipases",
+      "Leukotriene B4"
+    ],
+    "answer": ["Leukotriene B4"],
+    "explanation": "Leukotriene B4 is not a preformed mediator of inflammation. The other options are well-known mediators."
+  },
+  {
+    "id": 8,
+    "question": "Select the odd one out",
+    "options": [
+      "C5a---------- Chemoattractant",
+      "Leukotriene B4--------- Neutrophil activation and chemotaxis",
+      "C3b----------- Opsonin",
+      "C4a C3a,C5a-------- Anaphylatoxins",
+      "C4a--------------- Opsonin"
+    ],
+    "answer": ["C4a--------------- Opsonin"],
+    "explanation": "C4a being an opsonin is the odd one out. The other options correctly describe the roles of these complement components."
+  },
+  {
+    "id": 9,
+    "question": "A 32-year-old long-distance driver presents to the clinic with complaints of a painless sore around his prepuce and mouth ulcer. Laboratory investigations suggest the causative organism to be Treponema pallidum. Which of the following statements is not in keeping with this finding",
+    "options": [
+      "A gummatous inflammation is seen microscopically",
+      "Activated epithelioid histocytes are seen",
+      "It is an immune granuloma",
+      "It is a chronic granulomatous inflammation",
+      "Neutrophilic infiltrates are seen"
+    ],
+    "answer": ["Neutrophilic infiltrates are seen"],
+    "explanation": "Neutrophilic infiltrates are not typically seen in Treponema pallidum infection. The other options are consistent with syphilis."
+  },
+  {
+    "id": 10,
+    "question": "The first event in acute inflammation is",
+    "options": [
+      "Arteriolar vasodilation",
+      "Increased Permeability",
+      "Diapedesis",
+      "Arteriolar vasoconstriction",
+      "Stasis"
+    ],
+    "answer": ["Arteriolar vasoconstriction"],
+    "explanation": "Arteriolar vasoconstriction is the first event in acute inflammation, helping to minimize blood loss from injured vessels."
+  },
+  {
+    "id": 11,
+    "question": "The following are in keeping with exudation except",
+    "options": [
+      "Specific gravity of fluid is >1.02",
+      "It is an ultrafiltrate of plasma",
+      "It is a protein-rich fluid",
+      "The fluid typically contains cellular debris",
+      "Pus is a purulent exudate"
+    ],
+    "answer": ["It is an ultrafiltrate of plasma"],
+    "explanation": "Exudation is not an ultrafiltrate of plasma; it contains high levels of proteins and cellular debris. The other options describe characteristics of exudates."
+  },
+  {
+    "id": 12,
+    "question": "The following are effects of bradykinin except",
+    "options": [
+      "Increase vascular permeability",
+      "Mediates pain",
+      "Vasodilation",
+      "Bronchodilation",
+      "None of the above"
+    ],
+    "answer": ["Bronchodilation"],
+    "explanation": "Bronchodilation is not an effect of bradykinin. The other options describe typical effects of this inflammatory mediator."
+  },
+  {
+    "id": 13,
+    "question": "One of the following is not true about inflammation",
+    "options": [
+      "It is a response of vascularized living tissue to injury",
+      "It is designed to get rid of the injurious agent but not the consequences of such injury",
+      "The process of inflammation is closely interrelated to the process of repair",
+      "The process of inflammation and repair may be potentially harmful",
+      "B & D"
+    ],
+    "answer": [
+      "It is designed to get rid of the injurious agent but not the consequences of such injury"
+    ],
+    "explanation": "Inflammation is designed to eliminate both the injurious agent and the consequences of injury. The other options correctly characterize inflammation."
+  },
+  {
+    "id": 14,
+    "question": "Select the improperly matched",
+    "options": [
+      "Connective tissue: Histiocytes",
+      "Lungs: Pulmonary alveolar Macrophages",
+      "Brain: Astrocytes",
+      "Liver: Kupffer cells",
+      "Bone: Osteoclast"
+    ],
+    "answer": ["Brain: Astrocytes"],
+    "explanation": "Astrocytes are not histiocytes in the brain. The other options correctly match specific cells with their respective tissues."
+  },
+  {
+    "id": 15,
+    "question": "Causes of Foreign body granulomatous disease",
+    "options": [
+      "Mycobacterium tuberculosis",
+      "Mycobacterium leprae",
+      "Treponema pallidum",
+      "Talc",
+      "Beryllium"
+    ],
+    "answer": ["Talc"],
+    "explanation": "Talc is a cause of foreign body granulomatous disease. The other options are associated with different diseases and conditions."
+  }
+]

@@ -1,0 +1,670 @@
+{
+    "Questions": [
+        {
+            "id": 1,
+            "question": "Which of the following is not retroperitoneal?",
+            "options": [
+                "Abdominal Aorta",
+                "Inferior vena cava",
+                "Kidneys",
+                "Suprarenal glands",
+                "Spleen"
+            ],
+            "answer": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "The following accessory organs of digestion associated with the small intestine except",
+            "options": [
+                "Liver",
+                "Pancreas",
+                "Gallbladder",
+                "Plicae circularis",
+                "None of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 3,
+            "question": "The following are characteristic of the large intestine except",
+            "options": [
+                "Teniae coli",
+                "Appendices epiploicea",
+                "Arterial arcades",
+                "Larger diameter",
+                "Reduced vascularization"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 4,
+            "question": "The jejeunum differs from the ileum in the following respects except",
+            "options": [
+                "It has fewer numbers of arterial arcades",
+                "Arterial arcades are larger",
+                "It has minor traces of MALT(payer's patches)",
+                "It is shorter in length",
+                "Vit B absorption takes place in the jejunum"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 5,
+            "question": "Which of the following is not true about the development of the gut",
+            "options": [
+                "There are three gut arteries",
+                "The midgut artery supplies only the small intestine",
+                "The hindgut artery suppliex only the large intestine",
+                "Nerves and neurons of the gut tube are derived from the neural crest cells",
+                "Meckel's diverticulum may be associated"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 6,
+            "question": "The following are true concerning limb anatomy except",
+            "options": [
+                "The upper limb is adapted for mobility",
+                "The bones the upper limbs are smaller",
+                "The limb girdles have equal number of bones",
+                "The free limbs are segmented by major synvial joints",
+                "The lower limb is adapted for stability"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 7,
+            "question": "Homologous structures in the limbs include all except",
+            "options": [
+                "Humerus and femur",
+                "Tibia and ulnar",
+                "Fibula and radius",
+                "Wrist and ankle joints",
+                "Femoral and subclavicular arteries"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 8,
+            "question": "One of the following is not associated with nerve injury",
+            "options": [
+                "Duputren's contracture",
+                "Horner's syndrome",
+                "Carpal tunnel syndrome",
+                "Saturday night palsy",
+                "Brown sequard's syndrome"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 9,
+            "question": "Subdividion of the mediastinum include all except",
+            "options": [
+                "Inferior",
+                "Superior",
+                "Posterior",
+                "Median",
+                "Anterior"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 10,
+            "question": "Classification of ribs include all except",
+            "options": [
+                "True ribs",
+                "False ribs",
+                "Typical ribs",
+                "Cervical ribs",
+                "Atypical ribs"
+            ],
+            "answer": [],
+            "explanation": "Ribs can be classified based on articulation as True ribs(1-7), False ribs(8-10) and ",
+            "topic": ""
+        },
+        {
+            "id": 11,
+            "question": "Contents of an intercostal space may include all except",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 12,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 13,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 14,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 15,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 16,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 17,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 18,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 19,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 20,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 21,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 22,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 23,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 24,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 25,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 26,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 27,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 28,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 29,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 30,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 2,
+            "question": "",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        }
+    ]
+}

@@ -1,0 +1,683 @@
+Introduction to Renal Function:
+
+Kidneys convert over 1700L of blood to 1L of concentrated urine daily.
+Main functions: excreting urea, regulating salt and water, maintaining acid/base balance, serving as an endocrine gland.
+Clinical Manifestations of Renal Disease:
+
+Azotemia: ↑↑BUN and Creatinine, associated with signs and symptoms leads to uremia.
+Nephritic Syndrome: hematuria, proteinuria, hypertension.
+Rapidly Progressive GN(Glomerulonephritis): characterized by a rapid course.
+Nephrotic Syndrome: heavy proteinuria, hypoalbuminemia, severe edema, hyperlipidemia.
+Asymptomatic hematuria or proteinuria: reflects mild glomerular abnormalities.
+ARF (acute renal failure): dominated by oliguria or anuria and recent onset azotemia.
+CRF (chronic renal failure): prolonged signs & symptoms of uremia, end result of CKD.
+Renal Tubular Disease: polyuria, nocturia, electrolyte disorders.
+UTI (urinary tract infection): bacteriuria, pyuria; pyelonephritis, cystitis.
+Nephrolithiasis: renal stones causing renal colic with severe spasms of pain.
+Urinary Tract Obstruction: due to renal/extrarenal tumors, obstructive uropathy.
+Course/Progression of Renal Disease:
+
+ARF: rapid onset, frequently reversible.
+Diminished Renal Reserve: GFR is about 50% of normal, usually asymptomatic.
+Renal Insufficiency: GFR is about 20-50% of normal.
+CRF: GFR < 20-50%, edema, metabolic acidosis with overt uremia.
+ESRD (End-stage renal disease): GFR < 5%, requires renal replacement therapy (dialysis, transplant).
+Glomerular Diseases (GD):
+
+GDs are major problems in nephrology and common causes of CKD.
+Primary Glomerulopathies: Acute proliferative GN(Glomerulonephritis), Rapid Progressive GN, Membranous Glomerulopathy, Minimal Change Disease, Focal Segmental Glomerulosclerosis, Membranoproliferative GN(Glomerulonephritis), IgA Nephropathy, Chronic GN(Glomerulonephritis).
+Systemic Diseases with Glomerular Involvement: SLE, DM, Amyloidosis, Goodpasture syndrome, etc.
+Hereditary Disorders: Alport syndrome, Thin basement membrane disease, Fabry's disease.
+Clinical Manifestations of GDs:
+
+Nephritic Syndrome: hematuria, azotemia, proteinuria, oliguria, hypertension, edema.
+RPGN: acute nephritis, ARF, proteinuria.
+Nephrotic Syndrome: >3.5g/day proteinuria, hypoalbuminemia, increased lipidemia, lipiduria, anasarca.
+CRF: azotemia leading to uremia, takes years to evolve.
+Isolated Urinary Abnormalities: glomerular hematuria and/or subnephrotic proteinuria.
+Glomerular Structure:
+
+Glomerulus composed of capillaries, mesangium, and Bowman's capsule.
+GBM( Glomerular Basement Membrane) has collagen, laminin, proteoglycans, fibronectin, entactin.
+Slit diaphragm composed of Nephrin, Podocin, CD2-associated protein, and actin filaments.
+Mutation in these genes can lead to Nephrotic Syndrome.
+Histological Alterations:
+
+Hypercellularity: mesangial cells, endothelial cells, leukocytes, parietal epithelial cells.
+Basement Membrane (BM) Thickening: increased synthesis, deposition of immune complexes, fibrin, amyloid, cryoglobulins, and fibrillary proteins.
+Hyalinosis and Sclerosis: accumulation of eosinophilic material in ECM(Extracellular Matrix) (hyalinosis), collagen accumulation (sclerosis).
+
+Definition of Terms:
+Global: affecting >50% of the glomerulus.
+Segmental: affecting <50% of the glomerulus.
+Diffuse: affecting >50% of the glomeruli.
+Focal: affecting <50% of the glomeruli.
+
+
+Pathogenesis of Glomerular Injury:
+
+Immune Mechanisms of Glomerular Injury:
+a. Antibody-Mediated Injury:
+
+In Situ Immune Complex Deposition:
+Fixed intrinsic tissue Antigens: NCI(Non-Collagenous Interrupting) domain of COL IV(Collagen Type IV) antigen, Heymann antigen, Mesangial antigens, Planted antigens.
+Exogenous (infectious agent, drugs) and Endogenous (DNA, Nuclear proteins, Ig, immune complexes IgA).
+Circulating Immune Complex Deposition:
+Endogenous antigens (DNA, Tumour antigens) and Exogenous antigens (infectious products).
+b. Cell-Mediated Immune Injury
+c. Activation of Alternative Complement Pathway
+
+Specific Immune Mechanisms:
+
+Heymann Nephritis:
+
+GN(Glomerulonephritis) induced in rats by injecting antigens from the PT( Proximal Tubule) brush border.
+Antibodies react with PT( Proximal Tubule) brush border and cross-react with an antigen on the basal surface of visceral epithelial cells.
+Heymann antigen is a 330-KD protein called megalin.
+MGNMGN( Membranous Glomerulonephritis) and anti-GBM-GN are autoimmune diseases caused by antibodies to endogenous tissue components.
+Antibodies Against Planted Antigens:
+
+GN(Glomerulonephritis) results from antibodies reacting against planted antigens not normally present in the glomerulus.
+Antibodies react against cationic molecules complexed with anionic components (DNA, nuclear proteins, nucleosomes).
+Anti-GBM Antibody-Induced GN:
+
+Antibodies directed against intrinsic fixed antigens that are normal components of GBM( Glomerular Basement Membrane).
+Experimental counterpart in rats: Masugi or Nephrotoxic Nephritis.
+Cross-reactivity with other BM can lead to Goodpasture syndrome in humans.
+Circulating Immune Complex GN(Glomerulonephritis):
+
+Circulating immune complexes trapped within glomeruli.
+Triggering antigens: endogenous (SLE) or exogenous (microbial products, bacterial/viral products, tumour antigens).
+Chronic renal disease occurs if antigens are continuously shed.
+Cytotoxic Antibodies to Glomerular Cells:
+
+Antibodies reacting with cellular components cause cytotoxic injury.
+Cell-Mediated Immune Injury in GN(Glomerulonephritis):
+
+Activated T-cells implicated in glomerular injury and progression of GN(Glomerulonephritis).
+Activated macrophages and T-cells found in glomeruli in some human and experimental GN(Glomerulonephritis).
+Activation of Alternative Complement Pathway:
+
+Found mainly in Dense Deposit Disease (MPGN(Membranoproliferative Glomerulonephritis) type II).
+Occurs in other forms of proliferative GN(Glomerulonephritis).
+Mediators of Glomerular Injury:
+
+Neutrophils and Monocytes:
+
+Attracted to glomeruli by C5a and Fc-mediated adherence.
+Degranulation causes GBM( Glomerular Basement Membrane) degradation, cell damage, and hemodynamic changes.
+Macrophages, T-lymphocytes & NK cells:
+
+Infiltrate glomeruli following antibody and cell-mediated reactions.
+Cause glomerular damage.
+Platelet Aggregate:
+
+Release eicosanoids and growth factors contributing to GN(Glomerulonephritis).
+Antiplatelet agents are beneficial.
+Resident Glomerular Cells (Mesangial cells):
+
+When stimulated and activated, release pro-inflammatory mediators.
+Soluble Mediators:
+
+Chemotactic Complement Components:
+C5a induces leukocyte influx.
+C5b-C9 induces cell lysis.
+Eicosanoids, Nitric Oxide, Angiotensin, Endothelin:
+Contribute to hemodynamic changes.
+Cytokines and Chemokines:
+IL-1 & TNF cause leukocyte adhesion and glomerular injury.
+Coagulation System:
+
+Fibrin leaks out during endothelial injury, contributing to crescent formation.
+Mechanisms of Progression in Glomerular Diseases:
+
+Outcome depends on initial severity, nature and persistence of antigens, immune status, age, genetic predisposition.
+Main histological characteristics: FSGS( Focal Segmental Glomerulosclerosis) and Tubulointerstitial Fibrosis (TIF).
+Focal Segmental Glomerulosclerosis (FSGS):
+
+Sclerosis is an adaptive change in unaffected glomeruli following renal loss.
+Compensatory hypertrophy leads to glomerular hypertension and injury.
+TGF-β(Transforming Growth Factor-beta) is an implicated mediator.
+Targeted therapy: inhibitors of RAS(Renin Angiotensin System) tend to ameliorate progression of sclerosis.
+Tubulointerstitial Fibrosis (TIF):
+
+Manifests as tubular damage and interstitial inflammation.
+Decline in renal function correlates better with TIF(Tubulointerstitial Fibrosis) than the severity of glomerular injury.
+Causes include ischemia, acute and chronic inflammation, loss of peritubular capillary blood supply.
+Proteinuria directly injures/activates tubular cells, contributing to interstitial fibrosis.
+Filtered proteins may include cytokines, complement products, iron, immunoglobulins, lipid moieties, and oxidatively modified plasma proteins.
+
+Nephritic Syndrome:
+
+Characteristics:
+
+Glomerular diseases with inflammation.
+Presents with hematuria, oliguria, azotemia, red cell cast in urine, mild to moderate hypertension, proteinuria, and edema.
+Associated with acute proliferative GN and crescentic (rapidly progressive) GN.
+Can be found in systemic diseases like Systemic Lupus Erythematosus (SLE) and microscopic polyangiitis.
+Post-Streptococcal GN:
+
+Worldwide occurrence, more common in children (6-10 years).
+Etiology: Aβ-hemolytic streptococcus strains (types 12, 4&1) with M-protein in the cell wall.
+Latent period corresponds to antibody and immune complex formation.
+Morphology: Hypercellular glomeruli, leukocyte infiltrate, endothelial and mesangial cell proliferation, crescent formation, red cell cast.
+Immunofluorescence: Granular deposits of IgG, IgM, and C3 along the GBM and mesangium.
+Electron Microscopy: Sub-epithelial humps on the epithelial side of GBM.
+Clinical Course: Cola-colored urine, proteinuria, periorbital edema, hypertension. In adults, atypical onset with hypertension, edema, and elevated BUN. Most children recover completely with conservative therapy; <1% may develop RPGN, while adults have a less benign course.
+Non-Streptococcal APGN (PIGN):
+
+Bacterial Causes:
+Staph endocarditis, Strept/Pneumococci pneumonia, meningococcemia, abscess & osteomyelitis, shunt-GN.
+Viral Causes:
+HIV, Varicella, Infectious mononucleosis (Herpes).
+Parasitic Causes:
+Malaria, toxoplasmosis.
+Rapidly Progressive/Crescentic GN:
+
+Syndrome with severe glomerular injury, rapid and progressive loss of renal function, severe oliguria, and nephritic syndrome.
+Death occurs within weeks to months if untreated.
+LM: Formation of crescents (↑↑ parietal epithelial cell and infiltrate of monocytes and macrophages).
+Classification and Pathogenesis:
+
+Type I (Anti-GBM antibody):
+Renal limited
+Goodpasture Syndrome
+Type II (Immune Complex):
+Idiopathic
+Post-infectious GN
+Lupus Nephritis
+IgA Nephropathy, Henoch-Schonlein purpura, others.
+Type III (Pauci-immune):
+ANCA-associated
+Idiopathic
+Wegener granulomatosis
+Microscopic Polyangiitis.
+
+Morphology:
+Kidneys enlarged and pale with petechial hemorrhage.
+LM: Focal endothelial proliferation, crescent formation.
+IF: Type I shows linear GBM staining for Ig and complements, Type II shows granular deposits, Type III shows little or no immune reactants.
+EM: Type II reveals immune complex deposition, Types I and III show no electron-dense deposit.
+Clinical Course:
+
+Hematuria, red cell cast, proteinuria (may reach nephrotic range).
+Hemoptysis in Goodpasture syndrome.
+Some forms of RPGN may respond to steroids, cytotoxic agents, and/or renal transplantation.
+Nephrotic Syndrome Overview:
+
+Pathophysiology:
+
+Massive Proteinuria: ≥ 3.5 gm/day
+Hypoalbuminemia: Albumin ˂ 3gm/dl
+Generalized Edema: Anasarca
+Hyperlipidemia and Lipiduria:
+Glomerular capillary wall derangement leads to increased permeability to plasma proteins.
+Selective proteinuria involves low molecular weight proteins (albumin), while non-selective includes high molecular weight proteins like globulins.
+Hyperlipidemia results from increased synthesis of lipoproteins and lipiduria follows hyperlipidemia.
+Complications:
+
+Prone to infections, especially Staph and Pneumococci, due to loss of immunoglobulins.
+Thrombosis and thromboembolic complications due to the loss of endogenous anticoagulants like antithrombin III and antiplasmins.
+Causes:
+
+Primary Glomerular Disease:
+
+Membranous Glomerulopathy (MGN)
+Minimal Change Disease (MCD)
+Focal Segmental Glomerulosclerosis (FSGS)
+Membranoproliferative Glomerulonephritis (MPGN)
+Other proliferative GN (IgA, Henoch Schonlein Nephropathy)
+Systemic Diseases:
+
+DM, Amyloidosis, SLE
+Drugs: NSAIDs, Penicillamine, Heroin
+Infections: Malaria, Syphilis, HBV, HCV, HIV
+Malignant diseases: Carcinoma, Lymphoma
+Miscellaneous: Bee-sting allergy, Alport's disease
+Membranous Nephropathy (MGN):
+
+Deposition of subepithelial electron-dense Ig-containing deposits.
+Primary (60-80%) and secondary causes.
+Autoimmune/collagen vascular diseases, infections, drugs, neoplasms, and others.
+Complement system, especially C5b-C9, plays a critical role in pathogenesis.
+Morphology: Stages I-IV with subepithelial immune deposits; granular and diffuse pattern in IF; foot process effacement in EM.
+Clinical Features: Most common cause of nephrotic syndrome in adults, progressive with age, non-nephrotic range proteinuria, hematuria, and HTN in 15-35%.
+Minimal Change Disease (MCD):
+
+Major cause of idiopathic nephrotic syndrome in children.
+No glomerular disorder on LM, foot process effacement in EM.
+Etiology involves immunological basis, association with URTI, response to steroids, and increased prevalence in certain HLA haplotypes.
+Morphology: No LM anomaly, diffuse foot process effacement in EM.
+Clinical Features: Massive proteinuria, selective proteinuria, no renal failure/insufficiency, excellent response to steroids.
+Focal Segmental Glomerulosclerosis (FSGS):
+
+NR proteinuria with focal and segmental glomerular sclerosis, foot process effacement without immune deposits.
+Primary (idiopathic) and secondary causes.
+Mechanism involves circulating cytokines or specific genetic defects in slit diaphragm proteins.
+Morphology: Focal and segmental sclerosing lesions, wrinkled GBM, adhesion to Bowman’s capsule; granular deposits of IgM and C3 in IF.
+Clinical Course: Variable response to steroids, poor prognosis in some cases, recurrence in allografts.
+
+HIV-Associated Nephropathy (HIVAN):
+
+Renal complications caused directly or indirectly by HIV include ARF, acute interstitial nephritis, thrombotic microangiopathies (TMAs), pauci-immune glomerulonephritis (PIGN), and collapsing variant of focal segmental glomerulosclerosis (FSGS).
+Nephrotic syndrome (NS) may precede HIV infection.
+Morphology:
+
+Collapsing Variant of FSGS:
+
+Characterized by podocyte proliferation and collapse.
+Tubuloreticular inclusions (TRIs) within endothelial cells observed on electron microscopy (EM).
+TRIs also seen in SLE, induced by circulating interferon (IFN).
+Focal Cystic Dilation of Tubule Segment:
+
+Tubular abnormalities associated with HIVAN.
+Numerous Tubuloreticular Inclusions (TRIs):
+
+Seen within endothelial cells on EM.
+Absent in idiopathic FSGS.
+Membranoproliferative Glomerulonephritis (MPGN):
+
+Characterized by alterations in the glomerular basement membrane (GBM), proliferation of glomerular cells, and leukocyte infiltration.
+Accounts for 10-20% of nephrotic syndrome (NS) cases in both children and young adults.
+Combined nephrotic/nephritic syndrome possible.
+Pathogenesis:
+
+Type I MPGN: Evidence of immune complexes and activation of classical and alternative complement pathways.
+Type II MPGN (Dense Deposit Disease - DDD): Activation of alternative complement pathway; low C3 levels; presence of C3NeF autoantibody.
+Causes of MPGN:
+
+With immune deposits: Infections (HBV, HCV, HIV), autoimmune diseases (SLE, RA), paraproteinemias.
+Without immune deposits: Chronic liver disease, TMA, systemic sclerosis.
+Morphology:
+
+LM: Enlarged, hypercellular glomeruli with lobular architecture; thickened GBM with double contour or tram-track appearance.
+IF: Type I - IgG and C3 staining; Type II - strong C3 staining in GCW, mesangium, and tubular basement membrane.
+EM: Type I - subendothelial and mesangial deposits; Type II - intramembranous deposits.
+Clinical Features:
+
+Adolescents or young adults with nephrotic syndrome and nephritic component.
+Hematuria, proteinuria; slowly progressive course.
+About 50% develop CRF within 10 years.
+Recurrence common in transplant patients.
+Isolated Urinary Abnormalities: IgA Nephropathy (Berger’s Disease):
+
+Glomerular disease with dominant or co-dominant IgA immunostaining.
+Most common cause of primary glomerulonephritis worldwide.
+Pathogenesis involves abnormal IgA1 leading to immune complex deposition in mesangium.
+Morphology:
+
+Gross: Flea-bitten appearance in early stages; reduced kidney size in advanced stages.
+LM: Variable findings, ranging from normal to various glomerular lesions.
+IF: Dominant IgA staining with strong positivity for C3 and C1q.
+EM: Mesangial electron-dense deposits.
+Clinical Features:
+
+Affects all ages, more common in older children and young adults.
+Gross or microscopic hematuria following infections; proteinuria.
+Slow progression to CRF in 15-40% of cases over 20 years.
+Recurrence common in transplant cases.
+Hereditary Disorders: Alport Syndrome:
+
+Hereditary nephritis due to mutation in alpha minor chains of collagen type IV.
+X-linked, autosomal dominant, or autosomal recessive inheritance.
+Abnormal collagen assembly leads to defective GBM function.
+Morphology:
+
+LM: Glomeruli initially normal, later fetal types, irregular GBM, thinning, and eventual FSGS.
+IF & EM: Negative for IgG and complement stains; diffuse thinning of GBM with characteristic basket-weave appearance.
+Clinical Features:
+
+Persistent microhematuria following upper respiratory tract infections.
+Progression to CRF with nerve deafness and eye disorders.
+Onset between 5-20 years; renal failure between 20-50 years in men.
+Thin Basement Membrane Disease (TBMD):
+
+Hereditary nephritis with familial asymptomatic hematuria; diffuse thinning of GBM.
+No extrarenal features, proteinuria rare, excellent prognosis.
+Morphology:
+
+LM: Normal GBM, attenuation seen by PAS or JMS.
+IF: No Ig or complement deposits.
+EM: Diffuse uniform thinning of GBM.
+Clinical Features:
+
+Hematuria, proteinuria, renal insufficiency rare.
+Considered an early, subtle form of Alport syndrome by some.
+Fabry’s Disease:
+
+X-linked lysosomal disorder caused by alpha-galactosidase deficiency.
+Accumulation of globotriaosylceramide (Gb3) and lyso-globotriaosylsphingosine in lysosomes.
+Clinical Features:
+
+Pain and burning sensation in hands and feet.
+Corneal opacities, dark red spots on the skin, minimal sweating, hearing loss.
+Serious kidney problems, heart issues, stroke, and weak bones.
+Morphology:
+
+Enlarged podocytes with clear foamy cytoplasm on LM.
+Diagnostic myelin figures (whorled Zebra bodies) in podocyte cytoplasm on EM.
+Clinical Course:
+
+Proteinuria, slowly progressing renal insufficiency.
+Organ involvement in skin, CNS, and heart.
+Chronic Glomerulonephritis (CGN):
+
+A pool of end-stage glomerular disease caused by specific glomerulonephritis.
+Possible causes include AP(PS)GN, RP(crescentic) GN, MGN, FSGS, MPGN, IgA GN.
+Morphology:
+
+Symmetrically contracted kidneys with diffuse coarse granularity.
+Glomeruli may show primary disease in early cases; eventually, glomeruli become acellular eosinophilic masses.
+Tubular atrophy, interstitial fibrosis, and mononuclear cell infiltrates.
+Clinical Course:
+
+Slow progression to renal insufficiency, CRF, and death from uremia.
+Nonspecific complaints include anorexia, anemia, vomiting, weakness, proteinuria, HTN, azotemia.
+Glomerular Lesions Associated with Systemic Diseases: SLE (Systemic Lupus Erythematosus):
+
+Clinical manifestations include recurrent hematuria, nephrotic syndrome, nephritic syndrome, CRF, and HTN.
+About 50% of SLE patients have clinical renal disease, termed Lupus Nephritis (LN).
+Classification (based on LM):
+
+Class I: Normal or minimal change
+Class II: Purely mesangial
+Class III: Focal proliferative (endocapillary or extracapillary)
+Class IV: Diffuse proliferative changes
+Class V: Membranous LN
+Class VI: Advanced sclerosing LN
+IF & EM:
+
+Full-house immune staining (strong positivity for IgG, IgA, and IgM).
+Granular deposits (mesangial, subendothelial, subepithelial) and fibrillary/microtubular structures.
+Tubulointerstitial Lesion:
+
+Interstitial inflammation, edema, tubulitis, tubular atrophy, and interstitial fibrosis.
+Tubulointerstitial deposits in about 50% of cases.
+Vascular Lesions:
+
+Arteriosclerosis, arteriolosclerosis, lupus vasculopathy (non-inflammatory).
+Necrotizing lesions: Thrombotic microangiopathy, true necrotizing vasculitis.
+General Findings:
+
+Full-house staining with IgG, M, A, Lambda, Kappa, C3, C1q.
+Electron microscopy reveals granular deposits and tubuloreticular inclusions.
+
+HENOCH-SCHONLEIN PURPURA (HSP):
+
+Small vessel vasculitis with IgA-dominant immune deposits.
+Common sites of purpura: skin, gut, joints, kidneys.
+Clinical features: More in children ≤ 10 years, male > female; follows URTI or drug administration. Hematuria, proteinuria, ± reduced renal function.
+Purpuric skin lesions on extensor surfaces, buttocks, GIT bleeding, pain, vomiting, non-migratory arthralgia.
+Morphology: Flea-bitten appearance, similar to IgA Nephropathy. Focal Segmental Proliferative GN common.
+IF: Strong IgA positivity; immune deposits in mesangium, GCW, and vessels.
+DIABETIC NEPHROPATHY:
+
+Renal disease associated with DM, common cause of ESRD in the US.
+Clinical presentations: non-nephrotic proteinuria, nephrotic syndrome, CRF.
+Morphology: Symmetrically enlarged kidneys, glomerulomegaly, thickening of GBM, diffuse mesangial sclerosis, nodular glomerulosclerosis (Kimmelstiel Wilson nodules), insudative lesions.
+Tubules: Hyaline change, thickening of TBM; Armani Ebstein change.
+Interstitium: Progressive fibrosis; Blood vessels: Intimal fibroplasia, hyaline arteriolosclerosis.
+IF: Diffuse linear staining of TBM; EM reveals minimal changes.
+ACUTE KIDNEY INJURY (ATN):
+
+Characterized by acute diminution of renal function with tubular injury; often presents with oliguria.
+Causes: Ischemia, direct toxic injury, acute tubulointerstitial nephritis, urinary obstruction.
+Pathogenesis involves tubular injury and severe disturbances in blood flow.
+Tubular cell injury: Reversible with cell swelling, blebbing; irreversible leads to necrosis or apoptosis.
+Disturbances in blood flow: Mediated by Renin-angiotensin system, endothelin, reduced NO.
+Morphology: Enlarged pale kidneys, patchy interstitial suppurative inflammation, tubular necrosis, granulomatous interstitial nephritis.
+TUBULOINTERSTITIAL NEPHRITIS (TIN):
+
+Characterized by histological and functional alterations involving tubules and interstitium.
+Causes: Infections, toxins, metabolic diseases, physical factors, neoplasms, immunologic reactions, vascular disorders, miscellaneous.
+Acute TIN: Interstitial edema, leukocytic infiltrate, focal tubular necrosis.
+Chronic TIN: Mononuclear leukocytes, fibrosis, widespread tubular atrophy.
+Early forms distinguished by defects in tubular function: hyposthenuria, polyuria, nocturia, metabolic acidosis.
+PYELONEPHRITIS AND URINARY TRACT INFECTION:
+
+Acute Pyelonephritis (APN): Suppurative inflammation of kidney, bacterial origin.
+Chronic Pyelonephritis (CPN): Tubulointerstitial inflammation with scarring, pelvocalyceal damage.
+Reflux Nephropathy: Most common, occurs in childhood due to vesicoureteral reflux.
+Obstructive Pyelonephritis: Recurrent infection and obstruction lead to chronic inflammation and scarring.
+Morphology (CPN): Irregularly scarred renal cortex, U-shaped scars, tubular atrophy, interstitial fibrosis.
+Clinical Features: Fever, malaise, back pain, frequency, dysuria, pyuria, bacteriuria; predisposing factors include urinary tract obstruction, catheterization, gender, age, preexisting renal lesions, and immunosuppression.
+DRUG-INDUCED INTERSTITIAL NEPHRITIS:
+
+Immune-mediated injury causing acute hypersensitivity interstitial nephritis.
+Associated with antibiotics, NSAIDs, diuretics, allopurinol, H2-blockers, lithium, and PCM.
+Pathogenesis: Idiosyncratic, not dose-related; hypersensitivity reaction involving immune response.
+Morphology: Normal or slightly enlarged kidneys, interstitial edema, mixed inflammatory infiltrate, tubulitis, varying degrees of ATN, minimal change disease in NSAID-associated nephritis.
+Clinical Features: Latent period, eosinophilia, fever, rash, renal features (hematuria, proteinuria, increased BUN and creatinine, sterile pyuria).
+ANALGESIC NEPHROPATHY:
+
+Associated with excessive intake of analgesic mixtures (phenacetin + ASA + caffeine or Phenacetin/PCM + ASA).
+Causes cortical tubulointerstitial nephritis and renal papillary necrosis.
+Pathogenesis: Analgesic mixtures induce papillary necrosis; phenacetin leads to ↑ROS, and aspirin inhibits vasodilatory effects of PGs.
+Morphology: Tubular atrophy, interstitial fibrosis, hyaline colloid casts, evidence of papillary necrosis.
+Clinical Features: More common in females, recurrent headache, muscle pain, psychoneurotic patients, and factory workers; renal features include hyposthenuria, renal tubular acidosis, nocturia, polyuria, anemia, HTN, UTI.
+
+Vascular Diseases:
+
+Renal diseases often involve renal blood vessels.
+Systemic diseases like HTN and DM can impact kidneys.
+Renovascular disease can cause HTN.
+Benign Nephrosclerosis:
+
+Involves renal arterioles and small arteries.
+Thickened vessel walls, narrowed lumen, and renal parenchyma ischemia.
+Associated with increasing age, black race, HTN, and DM.
+Gross morphology: kidneys normal or moderately reduced with cortical granularity.
+Microscopy: narrowed lumen, hyalinized walls (hyaline arteriolosclerosis), sclerotic glomeruli, atrophied tubules.
+Generally benign course, preserved renal function, occasional proteinuria.
+Malignant HTN and Accelerated Nephrosclerosis:
+
+Associated with malignant or accelerated HTN (BP > 210/130 mmHg).
+Affects multiorgans, especially kidneys.
+Hyperplastic arteriolosclerosis due to arteriolar wall injury.
+Vasoconstrictors involved: Angiotensin II, Endothelin, loss of vasodilators.
+Gross morphology: swollen kidney, flee-bitten appearance.
+Microscopy: fibrinoid necrosis of arterioles, hyperplastic arteriolitis.
+Clinical features: BP > 200/120 mmHg, papilledema, retinal hemorrhages, encephalopathy, renal failure.
+Renal Artery Stenosis (RAS):
+
+Refers to the narrowing of the main renal artery.
+Unilateral RAS is a rare curable cause of HTN.
+Pathogenesis: stimulates renin secretion, increased Angiotensin II.
+Gross morphology: small kidneys, smooth surface, renal artery anomaly.
+Most common cause: atheromatous plaque at the origin of the renal artery.
+Clinical features: resembles essential benign HTN, responds to ACE inhibitors, more common in females.
+Thrombotic Microangiopathies (TMAs):
+
+Main classes: Hemolytic Uremic Syndrome, Antiphospholipid Antibody Syndrome, Toxemia of pregnancy, Thrombotic Thrombocytopenic Purpura, Disseminated Intravascular Coagulopathy.
+Others:
+
+Atherosclerosis ischemic renal disease, Atheroembolic renal disease, Sickle cell disease nephropathy, Diffuse cortical necrosis, Renal infarcts.
+Congenital Anomalies:
+
+About 10% have significant malformations.
+CAKUT (Congenital Abnormalities of the Kidney and Urinary Tract).
+Examples: Agenesis of the kidney, Hypoplasia, Ectopic kidney, Horseshoe kidneys, Multicystic renal dysplasia.
+Cystic Diseases of the Kidney:
+
+Heterogeneous disorders (hereditary, developmental, acquired).
+Diagnostic challenges for Radiologists, Clinicians, and Pathologists.
+Common cause of CKD, potential for confusion with malignant disorders.
+Autosomal-Dominant (Adult) Polycystic Kidney Disease (ADPKD):
+
+Hereditary disorder, multiple expanding cysts in both kidneys.
+
+Occurs in 1 in 400-1000 live births, 5-10% of CKD cases.
+
+Autosomal-dominant inheritance with high penetrance.
+
+Mutations in PKD-1 (Ch 16p13.3) and PKD2 (Ch 4q21).
+
+Polycystin-1 and polycystin-2 proteins involved in pathogenesis.
+
+PKD-1 mutation more severe, PKD-2 relatively benign.
+
+Genetics and Pathogenesis:
+
+Polycystin-1: Found in tubular epithelial cells, role in cell-cell and cell-matrix interactions.
+Polycystin-2: Ca2+ channel, regulates intracellular Ca2+ levels.
+Defects lead to cyst formation due to loss of control over proliferation, apoptosis, ECM interactions, and epithelial secretory function.
+Morphology:
+
+Bilaterally enlarged kidneys, may weigh up to 4kg each.
+External surface composed of cysts (3-4cm diameter), no intervening parenchyma.
+Functioning nephrons dispersed between cysts, arising from tubules throughout nephron.
+Bowman's capsules involved in cyst formation, glomeruli within cystic space.
+Clinical Features:
+
+Often asymptomatic until renal insufficiency.
+Hemorrhage, pain due to expanding cysts, hematuria, proteinuria, polyuria, HTN.
+Accelerated progression in sickle cell trait, males, and with HTN.
+40% with liver cysts, other organs affected, 20-25% with mitral valve prolapse.
+Autosomal Recessive (Childhood) Polycystic Kidney Disease (ARPKD):
+
+Affects children, subcategories: perinatal, neonatal, infantile, juvenile.
+
+Mutation in PKHD1 gene (Ch 6p21-p23), encodes Fibrocystin.
+
+Fibrocystin: Large integral membrane protein, localized to primary cilium of tubular cells.
+
+Exact function unknown, believed to be a cell surface receptor in collecting duct and biliary differentiation.
+
+Morphology:
+
+Enlarged kidneys, smooth external surface.
+Small cysts distributed in cortex and medulla.
+Dilated elongated channels at right angles to cortical surface.
+LM:
+
+Cylindrical or saccular dilation of all collecting tubules lined by low cuboidal cells.
+Liver often has cysts associated with portal fibrosis.
+Clinical Course:
+
+Serious problems present at birth, rapid progression to renal failure.
+Hepatic fibrosis, proliferation of well-differentiated biliary ductules.
+Older children: hepatic disease, portal HTN, splenomegaly.
+Acquired (Dialysis-Associated) Cystic Disease (ACD):
+
+≥ 5 cysts per kidney or cysts occupy ≥ 40% of renal tissue.
+
+90% of dialysis patients develop ACD, usually 5-10 years after starting dialysis.
+
+Morphology:
+
+Variable cyst size, mainly in the cortex.
+Cysts lined by flat or hyperplastic/tall epithelium.
+Epithelial atypia over time, adenoma, carcinoma in 7% of cases.
+Surrounding renal parenchyma: Diffuse global glomerulosclerosis, tubular atrophy, interstitial fibrosis, vascular changes.
+Deposits of calcium oxalate crystals may be present.
+Pathogenesis:
+
+Cause unknown.
+Loss of renal tissue may enhance production of growth factors (EGF, TGF) promoting renal hypertrophy.
+
+Urinary Tract Obstruction (Obstructive Uropathy):
+
+Importance of early recognition: Increased risk of recurrent UTIs, stone formation, permanent renal atrophy (hydronephrosis).
+Most cases amenable to surgery.
+Can be partial/complete, unilateral/bilateral, intrinsic/extrinsic, occurring at any level from urethra to renal pelvis.
+Common causes: congenital anomalies, urinary calculi, benign prostatic hypertrophy, tumors, inflammation, sloughed papillae, pregnancy, uterine prolapse, cystocele, functional disorders (neurogenic).
+Hydronephrosis:
+
+Dilation of renal pelvis and calyces due to distal obstruction.
+
+Progressive renal parenchymal loss.
+
+Glomerular function preserved initially.
+
+Back pressure effect leads to compression of renal vasculature, tubular defects, decreased GFR, interstitial fibrosis.
+
+Morphology:
+
+Gross: Kidney enlargement, dilated pelvis, calyces (papillary necrosis in early cases).
+LM: Interstitial inflammation, cortical tubular atrophy, marked interstitial fibrosis, varying degrees of parenchymal atrophy.
+Clinical Features:
+
+Acute obstruction: Pain due to distension.
+Unilateral cases often silent, detected on investigations.
+Bilateral partial obstruction: Hyposthenuria, polyuria, nocturia, acquired renal tubular acidosis, chronic tubulointerstitial nephritis, HTN.
+Complete bilateral obstruction: Oliguria, anuria, incompatible with life unless relieved.
+Urolithiasis (Renal Calculi/Stone):
+
+Stones can form at any level in urinary tree, mostly in the kidney.
+
+Affects 5-10% of Americans, more in men, peak age 20-30 years.
+
+Types of Stones:
+
+Calcium stone (70%)
+Triple stones/Struvite stone (15%)
+Uric acid stone (5-10%)
+Cysteine stone (1-2%)
+Others (unknown, 5%)
+Causes and Pathogenesis:
+
+Increased urinary concentration of stone constituents leading to supersaturation.
+Specific causes for each stone type.
+Deficiency in inhibitors of crystal formation may contribute.
+Morphology:
+
+Favoured sites: Calyces, pelvis, bladder.
+Kidney/pelvic stones are small in 80% of cases; some may be branching (staghorn stone).
+Clinical Features:
+
+Obstruction to urine flow.
+Ulceration, bleeding.
+Asymptomatic or colic/pain (renal or ureteric colic).
+Large stones predispose to recurrent infections.
+Tumors of the Kidney:
+
+Benign and malignant tumors.
+
+Benign Tumors:
+
+Renal papillary adenomas
+Angiomyolipoma
+Oncocytoma
+Malignant Tumors - Renal Cell Carcinoma (RCC):
+
+Accounts for 85% of renal cancers in adults.
+Risk factors: Tobacco, obesity, hypertension, asbestos, heavy metals, tuberous sclerosis.
+Classification of RCC:
+
+Clear cell carcinoma (70-80%)
+Papillary carcinoma (10-15%)
+Chromophobe renal carcinoma (5%)
+Collecting duct (Bellini duct) carcinoma (≤1%)
+Morphology:
+
+Gross: Spherical masses, yellow-gray-white tissue, may invade renal vein.
+Microscopic features vary based on RCC type.
+Clear cell: Loss of ch3p, VHL mutation, lipid/glycogen-filled cells.
+Papillary: Trisomy 16, 17, MET gene anomaly.
+Chromophobe: Pale eosinophilic cytoplasm, perinuclear halo.
+Clinical Features:
+
+Costovertebral pain, palpable mass, hematuria.
+Late stages: Constitutional signs, metastasis to lungs, bones, lymph nodes, liver, adrenal, brain.
+Urothelial Carcinoma of Renal Pelvis:
+
+5-10% of renal tumors involve renal pelvis.
+Can be benign papillomas or invasive transitional cell carcinoma.
+Early presentation due to hematuria, small size at discovery, can cause hydronephrosis.
+Histologically, transitional cell neoplasms.
+Tips for Exam Preparation:
+
+Understand the importance of early recognition in obstructive uropathy.
+Memorize common causes and risk factors for urinary tract obstruction, urolithiasis, and kidney tumors.
+Focus on key morphological features of hydronephrosis, stone types, and RCC variants.
+Know clinical features associated with different conditions.
+Pay attention to risk factors for urolithiasis and RCC.
+Understand the classification and characteristics of RCC variants.
+Recognize the presentation and risk factors for urothelial carcinoma of the renal pelvis.
+
+
+
+
+
+
+

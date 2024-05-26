@@ -1,0 +1,587 @@
+[
+  {
+    "id": 1,
+    "question": "Concerning phenylketonuria:",
+    "options": [
+      "Is an autosomal recessive inborn error of carbohydrate metabolism",
+      "There is increased phenylalanine in urine",
+      "Guthrie test is a bacterial inhibition test for phenylalanine.",
+      "Is not associated with learning disability"
+    ],
+    "answer": [
+      "Guthrie test is a bacterial inhibition test for phenylalanine."
+    ],
+    "explanation": "In phenylketonuria (PKU), there is a deficiency in the enzyme phenylalanine hydroxylase, leading to the accumulation of phenylalanine in the blood and its excretion in urine. This can cause intellectual disability if not detected early and managed through a phenylalanine-restricted diet."
+  },
+  {
+    "id": 2,
+    "question": "Regarding inborn error of metabolism:",
+    "options": [
+      "Hypoglycaemia is a symptom of chronic onset inborn error of metabolism",
+      "Screening involves chorionic villous sampling in 1st trimester",
+      "Wilson's disease is a disorder of iron metabolism",
+      "All inborn errors produce symptoms"
+    ],
+    "answer": [
+      "Screening involves chorionic villous sampling in 1st trimester"
+    ],
+    "explanation": "Inborn errors of metabolism are genetic disorders that result from defects in enzymes responsible for metabolizing various substances. These errors can lead to a wide range of symptoms, depending on the specific metabolic pathway affected."
+  },
+  {
+    "id": 3,
+    "question": "The following statement is correct:",
+    "options": [
+      "Angiotensin converting enzyme is mainly found in the liver",
+      "Renin converts angiotensin I to II",
+      "Aldosterone is produced by the zona glomerulosa and fasiculata of the adrenal cortex",
+      "None of the above"
+    ],
+    "answer": [
+      "Aldosterone is produced by the zona glomerulosa and fasiculata of the adrenal cortex"
+    ],
+    "explanation": "Renin is an enzyme produced by the kidneys that plays a crucial role in the renin-angiotensin-aldosterone system (RAAS). It converts angiotensinogen, produced by the liver, into angiotensin I, which is further converted to angiotensin II by angiotensin converting enzyme (ACE). Angiotensin II is a potent vasoconstrictor and also stimulates the release of aldosterone from the adrenal glands."
+  },
+  {
+    "id": 4,
+    "question": "Laboratory investigation of mineralocorticoid disorders include:",
+    "options": [
+      "Plasma urea",
+      "Plasma uric acid",
+      "Plasma electrolytes",
+      "All of the above"
+    ],
+    "answer": ["Plasma electrolytes"],
+    "explanation": "Mineralocorticoid disorders, such as hyperaldosteronism or hypoaldosteronism, can be investigated through various blood tests, including measuring plasma urea, uric acid, and electrolytes. These tests can help in diagnosing and monitoring the condition."
+  },
+  {
+    "id": 5,
+    "question": "Congenital adrenal hyperplasia is associated with:",
+    "options": [
+      "Increased serum cortisol",
+      "Increased serum aldosterone",
+      "3-alpha-hydroxysteroid dehydrogenase deficiency",
+      "None of the above"
+    ],
+    "answer": ["3-alpha-hydroxysteroid dehydrogenase deficiency"],
+    "explanation": "Congenital adrenal hyperplasia (CAH) is a group of 3-beta-hydroxysteroid dehydrogenase deficiency genetic disorders affecting the adrenal glands. It is characterized by a deficiency of enzymes involved in the synthesis of cortisol, aldosterone, and sex steroids. This can lead to a variety of symptoms, depending on the specific enzyme deficiency."
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is not correct concerning chronic kidney disease:",
+    "options": [
+      "Is associated with hypocalcaemia",
+      "Is associated with elevated ionized calcium",
+      "May be caused by hypercalcaemia",
+      "Is associated with secondary hyperparathyroidism"
+    ],
+    "answer": ["Is associated with elevated ionized calcium"],
+    "explanation": "Is associated with reduced ionized calcium Chronic kidney disease (CKD) is often associated with disturbances in calcium and phosphate metabolism, leading to secondary hyperparathyroidism. However, it is not typically associated with elevated ionized calcium levels."
+  },
+  {
+    "id": 7,
+    "question": "Acute kidney injury is associated with:",
+    "options": [
+      "Hyperlipidaemia",
+      "Hyperuricaemia",
+      "Metabolic alkalosis",
+      "Secondary hyperparathyroidism"
+    ],
+    "answer": ["Hyperuricaemia"],
+    "explanation": "Acute kidney injury (AKI) is characterized by a sudden loss of kidney function, leading to the accumulation of waste products and electrolytes in the blood. This can result in various metabolic disturbances, including hyperuricemia, as the kidneys are unable to excrete uric acid efficiently."
+  },
+  {
+    "id": 8,
+    "question": "The following cause polyuria except:",
+    "options": [
+      "Hypokalaemia",
+      "Hyperkalaemia",
+      "Diabetes insipidus",
+      "Psychogenic polydipsia"
+    ],
+    "answer": ["Hyperkalaemia"],
+    "explanation": "Polyuria refers to excessive urination and can be caused by various conditions, including diabetes insipidus and psychogenic polydipsia. However, hyperkalemia, or high levels of potassium in the blood, is not typically associated with polyuria."
+  },
+  {
+    "id": 9,
+    "question": "Which of these is not correct concerning nephrotic syndrome:",
+    "options": [
+      "Does not present with haematuria",
+      "Could result from amyloidosis",
+      "Is a tubular disease of the kidney",
+      "Could be due to immune complex disorders"
+    ],
+    "answer": ["Is a tubular disease of the kidney"],
+    "explanation": "Nephrotic syndrome is a kidney disorder characterized by the presence of protein in the urine, low levels of protein in the blood, high cholesterol levels, and edema. It is primarily a glomerular disease, not a tubular disease."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is not associated with Von Gierke's disease:",
+    "options": [
+      "Hepatomegaly",
+      "Lactic acidosis",
+      "Glucose-6-dehydrogenase deficiency",
+      "Hyperuricaemia"
+    ],
+    "answer": ["Glucose-6-dehydrogenase deficiency"],
+    "explanation": "Von Gierke's disease, also known as glycogen storage disease type Ia, is a genetic disorder characterized by the deficiency of glucose-6-phosphatase enzyme. This leads to the accumulation of glycogen in various tissues, particularly the liver and kidneys. Glucose-6-dehydrogenase deficiency is a different disorder that does not typically present with hepatomegaly or lactic acidosis."
+  },
+  {
+    "id": 11,
+    "question": "Hyperadrenalism presents with the following except:",
+    "options": [
+      "Loss of circadian rhythm",
+      "Hypoglycaemia",
+      "Trunkal obesity",
+      "Hypokalaemic alkalosis"
+    ],
+    "answer": ["Hypoglycaemia"],
+    "explanation": "Hyperadrenalism, or Cushing's syndrome, is characterized by excessive production of cortisol by the adrenal glands. Symptoms include weight gain, particularly around the trunk and face (trunkal obesity), hypertension, and metabolic disturbances. Hypoglycemia is not typically a symptom of hyperadrenalism."
+  },
+  {
+    "id": 12,
+    "question": "A function of potassium includes:",
+    "options": [
+      "ADH secretion",
+      "Regulation of glomerular filtration rate",
+      "Myocardial contraction and rhythm",
+      "Renin secretion"
+    ],
+    "answer": ["Myocardial contraction and rhythm"],
+    "explanation": "Potassium is an essential electrolyte that plays a crucial role in various physiological processes, including maintaining normal myocardial contraction and rhythm. It is also involved in nerve function, muscle contraction, and fluid balance."
+  },
+  {
+    "id": 13,
+    "question": "Exocrine function of the kidney includes:",
+    "options": [
+      "Renin production",
+      "Erythropoietin production",
+      "Synthesis of vitamin B12",
+      "Electrolyte balance"
+    ],
+    "answer": ["Electrolyte balance"],
+    "explanation": "The kidney has both endocrine and exocrine functions. One of its exocrine functions is the production of renin, an enzyme involved in the regulation of blood pressure and electrolyte balance. Erythropoietin production, on the other hand, is an endocrine function of the kidney."
+  },
+  {
+    "id": 14,
+    "question": "The following are raised in nephrotic syndrome except:",
+    "options": [
+      "Total cholesterol",
+      "Urine albumin",
+      "Serum triglyceride",
+      "Plasma potassium"
+    ],
+    "answer": ["Plasma potassium"],
+    "explanation": "Nephrotic syndrome is characterized by the presence of protein in the urine, low levels of protein in the blood, high cholesterol levels, and edema. While total cholesterol, urine albumin, and serum triglycerides are typically elevated in nephrotic syndrome, plasma potassium levels are usually normal or low."
+  },
+  {
+    "id": 15,
+    "question": "The following hormone is used as a tumour marker:",
+    "options": [
+      "Calcitonin releasing hormone",
+      "Calcitriol",
+      "Adrenaline",
+      "Calcitonin"
+    ],
+    "answer": ["Calcitonin"],
+    "explanation": "Calcitonin is a hormone produced by the thyroid gland that helps regulate calcium levels in the body. Elevated levels of calcitonin can indicate the presence of medullary thyroid cancer, making it a useful tumor marker for this type of cancer."
+  },
+  {
+    "id": 16,
+    "question": "The following are clinical applications of tumour markers except:",
+    "options": [
+      "Determination of the duration of a tumour",
+      "Detecting tumour recurrence",
+      "Prognosticating disease progression",
+      "Evaluation of therapy"
+    ],
+    "answer": ["Determination of the duration of a tumour"],
+    "explanation": "Tumour markers are substances produced by cancer cells or by the body in response to cancer. They are used for various purposes, including detecting tumour recurrence, prognosticating disease progression, and evaluating therapy effectiveness. However, they are not typically used to determine the duration of a tumour."
+  },
+  {
+    "id": 17,
+    "question": "Which of the following investigations is not useful in metabolic acidosis:",
+    "options": [
+      "Plasma glucose",
+      "Plasma creatinine",
+      "Plasma calcium",
+      "Urine ketones"
+    ],
+    "answer": ["Plasma calcium"],
+    "explanation": "Metabolic acidosis is a condition characterized by an imbalance in the body's acid-base balance, resulting in excess acid accumulation. While plasma glucose, creatinine, and urine ketones can provide valuable information in the context of metabolic acidosis, plasma calcium levels are not typically useful for this purpose."
+  },
+  {
+    "id": 18,
+    "question": "In primary hyperaldosteronism, there",
+    "options": [
+      "Hyponatremia",
+      "Hyperkalemia",
+      "Metabolic acidosis",
+      "Hypervolemia"
+    ],
+    "answer": ["Hypervolemia"],
+    "explanation": "Primary hyperaldosteronism, also known as Conn's syndrome, is characterized by excessive production of aldosterone by the adrenal glands, leading to sodium retention and potassium excretion. This results in hypervolemia (increased blood volume) and typically leads to hypokalemia (low potassium levels), not hyperkalemia."
+  },
+  {
+    "id": 19,
+    "question": "Causes of hyponatremia do not include:",
+    "options": [
+      "Liver cirrhosis",
+      "Nephrotic syndrome",
+      "Chronic renal failure",
+      "Conn's syndrome"
+    ],
+    "answer": ["Conn's syndrome"],
+    "explanation": "Hyponatremia is a condition characterized by low sodium levels in the blood. It can be caused by various conditions, including liver cirrhosis, nephrotic syndrome, and chronic renal failure. However, Conn's syndrome, which is characterized by primary hyperaldosteronism, typically leads to hypernatremia (high sodium levels), not hyponatremia."
+  },
+  {
+    "id": 20,
+    "question": "The following will cause hypokalemia, except:",
+    "options": [
+      "Alkalosis",
+      "Persistent vomiting",
+      "Diuretic therapy",
+      "Insulin deficiency"
+    ],
+    "answer": ["Insulin deficiency"],
+    "explanation": "Hypokalemia is a condition characterized by low potassium levels in the blood. It can be caused by various factors, including persistent vomiting, diuretic therapy, and insulin deficiency. However, alkalosis, or an increase in blood pH, typically does not cause hypokalemia."
+  },
+  {
+    "id": 21,
+    "question": "Which of the following tests are useful in assessing renal glomerular function?",
+    "options": [
+      "Ammonium chloride test",
+      "Glucose load test",
+      "Cystatin C assay",
+      "Water deprivation test"
+    ],
+    "answer": ["Cystatin C assay"],
+    "explanation": "Cystatin C is a protein produced by all nucleated cells at a constant rate and is freely filtered by the glomerulus. Its serum levels are inversely correlated with glomerular filtration rate (GFR) and are thus used as a marker of renal function. Other tests mentioned are not primarily used for assessing renal glomerular function."
+  },
+  {
+    "id": 22,
+    "question": "Creatinine clearance studies are useful in assessing:",
+    "options": [
+      "Renal tubular function",
+      "Hepato-renal function",
+      "Renal glomerular function",
+      "Urea reduction ratio"
+    ],
+    "answer": ["Renal glomerular function"],
+    "explanation": "Creatinine clearance is a test used to estimate the glomerular filtration rate (GFR) and assess renal function. It measures the rate at which creatinine is cleared from the blood by the kidneys and can provide information about renal tubular function, among other aspects of kidney function."
+  },
+  {
+    "id": 23,
+    "question": "Concerning iron metabolism",
+    "options": [
+      "Maximal absorption takes place in the stomach",
+      "Phytates enhance its absorption",
+      "It is absorbed from the intestine in the ferric form",
+      "Vitamin C enhances its absorption"
+    ],
+    "answer": ["Vitamin C enhances its absorption"],
+    "explanation": "Iron is absorbed in the duodenum and upper jejunum primarily in the ferrous form (Fe2+). Vitamin C enhances the absorption of non-heme iron by reducing ferric iron (Fe3+) to ferrous iron (Fe2+). Phytates, on the other hand, inhibit iron absorption, and the stomach is not the primary site of iron absorption."
+  },
+  {
+    "id": 24,
+    "question": "Vitamin B12",
+    "options": [
+      "It is a fat-soluble vitamin",
+      "Does not require intrinsic factor for its absorption",
+      "Maximally absorbed in the jejunum",
+      "Maximally absorbed in the terminal ileum"
+    ],
+    "answer": ["Maximally absorbed in the terminal ileum"],
+    "explanation": "Vitamin B12, also known as cobalamin, is a water-soluble vitamin that is absorbed in the terminal ileum of the small intestine. Its absorption requires intrinsic factor, a protein secreted by the stomach that binds to vitamin B12 and facilitates its absorption in the ileum."
+  },
+  {
+    "id": 25,
+    "question": "In acute intermittent porphyria",
+    "options": [
+      "Protoporphyrin levels are raised.",
+      "Aminolevulinic acid levels are raised.",
+      "There is cutaneous photosensitivity",
+      "It never presents with acute clinical symptoms."
+    ],
+    "answer": ["Aminolevulinic acid levels are raised."],
+    "explanation": "Acute intermittent porphyria (AIP) is a rare metabolic disorder characterized by a deficiency of the enzyme porphobilinogen deaminase, leading to the accumulation of porphyrins in the body. One of the hallmark symptoms of AIP is cutaneous photosensitivity, which can manifest as skin blistering and rashes upon exposure to sunlight."
+  },
+  {
+    "id": 26,
+    "question": "Concerning parathyroid hormone",
+    "options": [
+      "It causes reabsorption of phosphate from the renal tubular cells",
+      "It causes reabsorption of calcium from the renal tubular cells",
+      "It directly causes reabsorption of calcium from the intestine",
+      "Hypophosphatemia will stimulate its secretion"
+    ],
+    "answer": [
+      "It causes reabsorption of calcium from the renal tubular cells"
+    ],
+    "explanation": "Parathyroid hormone (PTH) is a hormone produced by the parathyroid glands that plays a key role in regulating calcium and phosphate levels in the body. One of its primary functions is to stimulate the reabsorption of calcium from the renal tubular cells, leading to an increase in serum calcium levels."
+  },
+  {
+    "id": 27,
+    "question": "Concerning phosphate",
+    "options": [
+      "It exhibits a diurnal variation in its concentration in humans.",
+      "Its levels increase in blood immediately after meals.",
+      "Its level is high in vitamin D deficiency.",
+      "Vitamin D does not play any role in its absorption."
+    ],
+    "answer": [
+      "It exhibits a diurnal variation in its concentration in humans."
+    ],
+    "explanation": "Phosphate is an essential mineral that plays a key role in various physiological processes, including bone formation, energy metabolism, and acid-base balance. Vitamin D plays a crucial role in the absorption of calcium, not phosphate."
+  },
+  {
+    "id": 28,
+    "question": "The following will cause hypocalcemia",
+    "options": [
+      "Hyperparathyroidism",
+      "Hypoalbuminemia",
+      "Hypermagnesemia",
+      "Vitamin D toxicity"
+    ],
+    "answer": ["Hypoalbuminemia"],
+    "explanation": "Hypocalcemia is a condition characterized by low calcium levels in the blood. It can be caused by various factors, including hyperparathyroidism, hypoalbuminemia (which affects the binding of calcium in the blood), and vitamin D toxicity. However, hypermagnesemia, or high magnesium levels in the blood, typically does not cause hypocalcemia."
+  },
+  {
+    "id": 29,
+    "question": "Concerning magnesium",
+    "options": [
+      "Calcitriol plays a role in its secretion.",
+      "It is an important cofactor in the secretion of parathyroid hormone.",
+      "Hypermagnesemia will cause hypocalcemia.",
+      "It is the most abundant extracellular cation."
+    ],
+    "answer": [
+      "It is an important cofactor in the secretion of parathyroid hormone."
+    ],
+    "explanation": "Magnesium is an essential mineral that plays a key role in various physiological processes, including muscle and nerve function, blood glucose control, and blood pressure regulation. It is the fourth most abundant cation in the body and is primarily found in the intracellular space, not the extracellular space."
+  },
+  {
+    "id": 30,
+    "question": "Levels of the following hormones are raised throughout pregnancy:",
+    "options": [
+      "Oestrogen",
+      "HCG",
+      "Luteinizing hormone",
+      "Follicle Stimulating Hormone"
+    ],
+    "answer": ["Oestrogen"],
+    "explanation": "Human chorionic gonadotropin (HCG) is a hormone produced by the placenta during pregnancy. Its levels rise rapidly in the early stages of pregnancy and are used in pregnancy tests to detect pregnancy. While estrogen levels also increase during pregnancy, HCG levels rise more significantly and are a more specific marker of pregnancy."
+  },
+  {
+    "id": 31,
+    "question": "Primary oestriol is useful in",
+    "options": [
+      "Monitoring fetal well-being",
+      "Assessment of renal function",
+      "Determination of nutritional status",
+      "Monitoring progress of labour"
+    ],
+    "answer": ["Monitoring fetal well-being"],
+    "explanation": "Oestriol is a form of estrogen that is produced by the placenta during pregnancy. It is used as a marker of fetal well-being, as its levels can indicate the health and viability of the fetus. Monitoring oestriol levels during pregnancy can help healthcare providers assess fetal health and make decisions about the management of pregnancy."
+  },
+  {
+    "id": 32,
+    "question": "Prolonged synacthen test is useful in",
+    "options": [
+      "Investigation of hypercortisolism",
+      "Investigation of hypothalamo-pituitary-gonadal axis",
+      "Distinguishing between primary and secondary hypocortisolism",
+      "Determining whether ovulation has occurred"
+    ],
+    "answer": ["Distinguishing between primary and secondary hypocortisolism"],
+    "explanation": "The prolonged synacthen test, also known as the ACTH stimulation test, is used to assess the function of the adrenal glands. It involves administering synthetic ACTH (adrenocorticotropic hormone) and measuring the cortisol response. This test can help distinguish between primary (adrenal) and secondary (pituitary or hypothalamic) causes of hypocortisolism."
+  },
+  {
+    "id": 33,
+    "question": "Corticotropin releasing hormone.",
+    "options": [
+      "It's an anterior pituitary hormone.",
+      "It's a posterior pituitary hormone.",
+
+      "Stimulates release of adrenocorticotropic hormone from the adrenal gland.",
+      "Stimulates release of adrenocorticotropic hormone from the anterior pituitary gland"
+    ],
+    "answer": [
+      "Stimulates release of adrenocorticotropic hormone from the anterior pituitary gland"
+    ],
+    "explanation": "Corticotropin-releasing hormone (CRH) is a hormone produced by the hypothalamus that stimulates the release of adrenocorticotropic hormone (ACTH) from the anterior pituitary gland. ACTH, in turn, stimulates the adrenal glands to produce cortisol, a key stress hormone involved in the body's response to stress and inflammation."
+  },
+  {
+    "id": 34,
+    "question": "Concerning antidiuretic hormone",
+    "options": [
+      "It's synthesized in the hypothalamus",
+      "It is synthesized in the post pituitary",
+      "Deficiency will cause syndrome of inappropriate ADH secretion",
+      "Hypersecretion will cause diabetes insipidus"
+    ],
+    "answer": ["It's synthesized in the hypothalamus"],
+    "explanation": "Antidiuretic hormone (ADH), also known as vasopressin, is a hormone produced by the hypothalamus and released by the posterior pituitary gland. It plays a key role in regulating water balance in the body by increasing water reabsorption in the kidneys. Deficiency of ADH can lead to syndrome of inappropriate ADH secretion (SIADH), while hypersecretion can lead to diabetes insipidus, a condition characterized by excessive thirst and urination."
+  },
+  {
+    "id": 35,
+    "question": "In request form completion, the most important information that must not be left out is",
+    "options": ["Age", "Gender", "Hospital number", "Name"],
+    "answer": ["Hospital number"],
+    "explanation": "When completing a request form, it is essential not to leave out the patient's name. This information is crucial for ensuring that the correct patient is identified and that the test results are accurately matched to the patient's records."
+  },
+  {
+    "id": 36,
+    "question": "Calcitonin will cause the following in the body",
+    "options": ["Hypercalcemia", "Hypothermia", "Hyperthermia", "Calciuresis"],
+    "answer": ["Calciuresis"],
+    "explanation": "Calcitonin is a hormone produced by the thyroid gland that helps regulate calcium levels in the body. One of its primary functions is to promote the excretion of calcium in the urine, a process known as calciuresis. This helps lower blood calcium levels and maintain calcium balance in the body."
+  },
+  {
+    "id": 37,
+    "question": "Beta-oxidation of fatty acids occurs",
+    "options": [
+      "Peroxisomes",
+      "Peroxisomes and mitochondria",
+      "Mitochondria",
+      "Peroxisomes, mitochondria, and endoplasmic reticulum"
+    ],
+    "answer": ["Peroxisomes and mitochondria"],
+    "explanation": "Beta-oxidation of fatty acids is a process that occurs in the mitochondria of cells. It involves the breakdown of fatty acids to produce acetyl-CoA, which can then enter the citric acid cycle to generate energy. While peroxisomes also play a role in fatty acid metabolism, beta-oxidation primarily occurs in the mitochondria."
+  },
+  {
+    "id": 38,
+    "question": "Tangier's disease is a disorder of lipoprotein metabolism. The phenotype corresponds to:",
+    "options": [
+      "Low level of VLDL",
+      "Low level of LDL",
+      "Low level of IDL",
+      "Low level of HDL"
+    ],
+    "answer": ["Low level of HDL"],
+    "explanation": "Tangier's disease is a rare genetic disorder characterized by a deficiency or malfunction of a protein involved in the transport of cholesterol in the body. This leads to a low level of high-density lipoprotein (HDL) cholesterol in the blood, which is a hallmark of the disease."
+  },
+  {
+    "id": 39,
+    "question": "The following is a polyunsaturated fatty acid:",
+    "options": [
+      "Palmitic acid",
+      "Palmitoleic acid",
+      "Linoleic acid",
+      "Oleic acid"
+    ],
+    "answer": ["Linoleic acid"],
+    "explanation": "Linoleic acid is a polyunsaturated fatty acid that is essential for human health. It is an omega-6 fatty acid and is found in vegetable oils, nuts, and seeds. Palmitic acid, palmitoleic acid, and oleic acid are all saturated or monounsaturated fatty acids."
+  },
+  {
+    "id": 40,
+    "question": "Triglycerides are:",
+    "options": [
+      "Heavier than water",
+      "Neutral fats",
+      "Major constituents of cell membrane",
+      "Hydrophilic"
+    ],
+    "answer": ["Neutral fats"],
+    "explanation": "Triglycerides are a type of lipid (fat) that are composed of three fatty acid molecules attached to a glycerol molecule. They are the main form of fat storage in the body and are found in adipose tissue. Triglycerides are neutral fats and are hydrophobic, meaning they are insoluble in water."
+  },
+  {
+    "id": 41,
+    "question": "The lipoprotein richest in cholesterol is:",
+    "options": ["Chylomicron", "VLDL", "LDL", "HDL"],
+    "answer": ["LDL"],
+    "explanation": "Low-density lipoprotein (LDL) is a type of lipoprotein that is rich in cholesterol and is often referred to as 'bad' cholesterol. It is responsible for transporting cholesterol from the liver to the cells of the body and is associated with an increased risk of heart disease when present in high levels in the blood."
+  },
+  {
+    "id": 42,
+    "question": "Cholesterol is transported from extrahepatic tissues to the liver by:",
+    "options": ["Chylomicron", "VLDL", "LDL", "HDL"],
+    "answer": ["HDL"],
+    "explanation": "High-density lipoprotein (HDL) is responsible for transporting cholesterol from extrahepatic tissues (tissues outside the liver) back to the liver, where it can be excreted or recycled. This process, known as reverse cholesterol transport, helps maintain cholesterol balance in the body and is thought to have a protective effect against heart disease."
+  },
+  {
+    "id": 43,
+    "question": "Activated lecithin cholesterol acyl transferase is essential for the conversion of:",
+    "options": [
+      "VLDL remnant into LDL",
+      "Nascent HDL into HDL",
+      "HDL-2 into HDL-3",
+      "HDL-3 into HDL-2"
+    ],
+    "answer": ["Nascent HDL into HDL"],
+    "explanation": "Lecithin cholesterol acyltransferase (LCAT) is an enzyme that plays a key role in the metabolism of high-density lipoprotein (HDL) cholesterol. It catalyzes the esterification of cholesterol, converting nascent HDL particles into mature HDL particles. This process is essential for the reverse cholesterol transport pathway, which helps remove excess cholesterol from peripheral tissues and transport it back to the liver for excretion."
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is not a chronic complication of renal replacement therapy?",
+    "options": [
+      "Dialysis dysequilibrium syndrome.",
+      "Anaemia.",
+      "Peritonitis.",
+      "Malnutrition."
+    ],
+    "answer": ["Dialysis dysequilibrium syndrome."],
+    "explanation": "Peritonitis is an acute complication of peritoneal dialysis, a form of renal replacement therapy. It is characterized by inflammation of the peritoneum, the membrane that lines the abdominal cavity. While peritonitis is a serious complication that requires prompt treatment, it is not considered a chronic complication of renal replacement therapy."
+  },
+  {
+    "id": 45,
+    "question": "Biochemical features of Wilson's disease include:",
+    "options": [
+      "Increase in plasma ceruloplasmin.",
+      "Low urinary excretion of copper.",
+      "Normal total serum copper.",
+      "Low plasma ceruloplasmin."
+    ],
+    "answer": ["Low plasma ceruloplasmin."],
+    "explanation": "Wilson's disease is a genetic disorder characterized by abnormal copper metabolism, leading to copper accumulation in various tissues, including the liver and brain. One of the biochemical features of Wilson's disease is a decrease in plasma ceruloplasmin, a protein that binds copper and transports it in the blood. This results in an increase in free copper levels in the blood, which can lead to copper toxicity."
+  },
+  {
+    "id": 46,
+    "question": "In which of the following regions of the gastrointestinal tract will the loss of fluid lead to metabolic acidosis and hypokalaemia?",
+    "options": ["Small intestine", "Appendix", "Colon", "Gall bladder"],
+    "answer": ["Small intestine"],
+    "explanation": "The colon, also known as the large intestine, plays a crucial role in maintaining fluid and electrolyte balance in the body. Loss of fluid from the colon can lead to metabolic acidosis and hypokalemia, as the colon is responsible for reabsorbing water and electrolytes from the stool before it is excreted from the body. Conditions such as diarrhea can result in excessive fluid loss from the colon, leading to these electrolyte imbalances."
+  },
+  {
+    "id": 47,
+    "question": "Stimulation of hydrochloric acid secretion involves:",
+    "options": ["Cholecystokinin", "Lipase", "Secretin", "Vagus nerve"],
+    "answer": ["Vagus nerve"],
+    "explanation": "The secretion of hydrochloric acid (HCl) in the stomach is primarily regulated by the vagus nerve, which stimulates the release of HCl from the parietal cells of the stomach lining. Cholecystokinin, secretin, and lipase are all involved in the digestive process, but they do not directly stimulate HCl secretion."
+  },
+  {
+    "id": 48,
+    "question": "All of the following statements are true concerning urobilinogen, except:",
+    "options": [
+      "Produced by oxidative action of intestinal bacteria.",
+      "Undergoes significant enterohepatic circulation.",
+      "Urinary levels are increased in biliary obstruction.",
+      "Fecal levels are decreased in biliary obstruction"
+    ],
+    "answer": ["Urinary levels are increased in biliary obstruction."],
+    "explanation": "Urobilinogen is a byproduct of the breakdown of bilirubin in the intestine by intestinal bacteria. It is reabsorbed into the bloodstream and taken up by the liver, where it is either re-excreted into bile or converted into urobilin and excreted in the feces. Urinary levels of urobilinogen are typically low, and they are not significantly affected by biliary obstruction."
+  },
+  {
+    "id": 49,
+    "question": "Gluconeogenesis occurs in the liver because of the presence of",
+    "options": [
+      "Phosphofructokinase",
+      "Pyruvate carboxylase",
+      "Glucose-6-phosphate",
+      "Glucokinase"
+    ],
+    "answer": ["Glucose-6-phosphate"],
+    "explanation": "Gluconeogenesis is the process by which glucose is synthesized from non-carbohydrate precursors, such as amino acids, lactate, and glycerol. This process primarily occurs in the liver and to a lesser extent in the kidneys. Pyruvate carboxylase is an enzyme that catalyzes a key step in gluconeogenesis, the carboxylation of pyruvate to form oxaloacetate, which can then be converted into glucose."
+  },
+  {
+    "id": 50,
+    "question": "Crigler-Najjar syndrome Type II occurs due to---",
+    "options": [
+      "Excess production of bilirubin",
+      "Complete absence of the conjugating enzyme",
+      "Partial deficiency of the conjugating enzyme",
+      "Overexpression of the conjugating enzyme"
+    ],
+    "answer": ["Partial deficiency of the conjugating enzyme"],
+    "explanation": "Crigler-Najjar syndrome Type II is a rare genetic disorder characterized by a partial deficiency of the enzyme UDP-glucuronosyltransferase, which is responsible for conjugating bilirubin in the liver. This results in an accumulation of unconjugated bilirubin in the blood, leading to jaundice and potentially severe neurological complications. Crigler-Najjar syndrome Type II is less severe than Type I, which is caused by a complete absence of the enzyme."
+  }
+]

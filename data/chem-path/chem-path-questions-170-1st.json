@@ -1,0 +1,933 @@
+[
+  {
+    "id": 1,
+    "questionType": "objective",
+    "question": "Function of potassium",
+    "options": [
+      "ADH secretion",
+      "Regulation of glomerular filtration rate",
+      "Myocardial contraction and rhythm",
+      "Renin secretion",
+      "Transport protein"
+    ],
+    "answer": ["Myocardial contraction and rhythm"],
+    "explanation": "Function of Potassium in the body include \n\b1. Regulation of neuromuscular excitablity, \n\b2. Contraction of heart, nerves and muscles \n\b3. Maintenance of ICF volume and H+ homeostasis. K exit the cell with Cl- when cell swells \n\b3. Essenctial for protein synthesis, growth and metabolism processes \n\b4. Acid/base regulation through exchange with H+",
+    "searchTags": [
+      "Potassium Function",
+      "Myocardial Contraction",
+      "Chemical Pathology"
+    ],
+    "topics": ["Electrolyte Balance in Chemical Pathology"]
+  },
+  {
+    "id": 2,
+    "questionType": "objective",
+    "question": "Exocrine function of the kidney includes",
+    "options": [
+      "Renin production",
+      "Erythropoietin production",
+      "Synthesis of vitamin B12",
+      "Electrolyte balance",
+      "Ferritin production"
+    ],
+    "answer": ["Electrolyte balance"],
+    "explanation": "The kidneys are involved in many physiological functions such as \n\b1. Homeostatic functions eg \n\b\b\bElectrolyte balance \n\b\b\bRegulation of blood pressure \n\b\b\bAcid-base balance \n\b\b\bWater balance \n\b2. Synthetic functions eg \n\b\b\bActivation of Vitamin D \n\b\b\bAmmonia synthesis \n\b\b\bGluconeogenesis \n\b3. Endocrine eg \n\b\b\bErythropoietin \n\b\b\bActivation of vitamin D \n\b\b\bRenin release \n\b4. Excretory eg \n\b\b\bFiltration \n\b\b\bReabsorbtion  \n\b\b\bSecretion",
+    "searchTags": [
+      "Kidney Exocrine Function",
+      "Electrolyte Balance",
+      "Chemical Pathology"
+    ],
+    "topics": ["Kidney Function in Chemical Pathology"]
+  },
+  {
+    "id": 3,
+    "questionType": "objective",
+    "question": "The following are raised in nephrotic syndrome except",
+    "options": [
+      "Total cholesterol",
+      "Urine albumin",
+      "Serum triglyceride",
+      "Serum HDL cholesterol",
+      "Plasma potassium"
+    ],
+    "answer": ["Serum HDL cholesterol"],
+    "explanation": "Clinically Nephrotic syndrome is characterised by 1. Massive proteinuria >3.5g/24hr 2. Edema 3. Hyperlipidemia +/- Lipiduria : reduced HDL, increased TG, increased total cholesterol, increased  LDL, 4. GFR is slighlty depressed or might be normal 5. Hypoalbuminaemia ",
+    "searchTags": [
+      "Nephrotic Syndrome",
+      "Laboratory Markers",
+      "Chemical Pathology"
+    ],
+    "topics": ["Lab Markers in Renal Disorders"]
+  },
+  {
+    "id": 4,
+    "questionType": "objective",
+    "question": "Which of the following is not correct concerning chronic kidney disease",
+    "options": [
+      "Is associated with hypocalcemia",
+      "Is associated with elevated ionized calcium",
+      "May be caused by hypercalcemia",
+      "Acidosis alters calcium metabolism",
+      "Is associated with secondary hyperparathyroidism"
+    ],
+    "answer": ["May be caused by hypercalcemia"],
+    "explanation": " chronic kidney disease is not typically associated with elevated ionized calcium. ",
+    "searchTags": [
+      "Chronic Kidney Disease",
+      "Calcium Metabolism",
+      "Chemical Pathology"
+    ],
+    "topics": ["Biochemical Changes in Kidney Disorders"]
+  },
+  {
+    "id": 5,
+    "questionType": "objective",
+    "question": "Acute kidney injury is associated with",
+    "options": [
+      "Hyperlipidemia",
+      "Hyperuricemia",
+      "Metabolic alkalosis",
+      "Secondary hyperparathyroidism",
+      "Hyperglycemia"
+    ],
+    "answer": ["Hyperuricemia"],
+    "explanation": " acute kidney injury is associated with hyperuricemia. Recognizing the biochemical changes in kidney injury is crucial for diagnosing and managing renal disorders.",
+    "searchTags": [
+      "Acute Kidney Injury",
+      "Biochemical Changes",
+      "Chemical Pathology"
+    ],
+    "topics": ["Biochemical Markers in Kidney Injury"]
+  },
+  {
+    "id": 6,
+    "questionType": "objective",
+    "question": "The following cause polyuria except:",
+    "options": [
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hyperglycemia",
+      "Diabetes insipidus",
+      "Psychogenic polydipsia"
+    ],
+    "answer": ["Hyperkalemia"],
+    "explanation": " hyperkalemia is not typically associated with polyuria. ",
+    "searchTags": [
+      "Polyuria Causes",
+      "Electrolyte Imbalances",
+      "Chemical Pathology"
+    ],
+    "topics": ["Symptoms in Renal Disorders"]
+  },
+  {
+    "id": 7,
+    "questionType": "objective",
+    "question": "Which of these is not correct concerning nephrotic syndrome",
+    "options": [
+      "Does not present with hematuria",
+      "Could result from amyloidosis",
+      "Is associated with hyponatremia",
+      "Is a tubular disease of the kidney",
+      "Could be due to immune complex disorders"
+    ],
+    "answer": ["Is a tubular disease of the kidney"],
+    "explanation": "Disease affecting the glomeruli include Acute glomerulonephitis/Acute nephritic syndrome and Nephrotic syndrome While Disease affecting the tubules include Renal Tubular Acidosis ",
+    "searchTags": [
+      "Nephrotic Syndrome",
+      "Glomerular Dysfunction",
+      "Chemical Pathology"
+    ],
+    "topics": ["Pathology of Renal Disorders"]
+  },
+  {
+    "id": 8,
+    "questionType": "objective",
+    "question": "Which of the following investigations is not useful in metabolic acidosis",
+    "options": [
+      "Plasma glucose",
+      "Plasma lactate",
+      "Plasma creatinine",
+      "Plasma calcium",
+      "Urine ketones"
+    ],
+    "answer": ["Plasma calcium"],
+    "explanation": " plasma calcium is not typically used to assess metabolic acidosis. ",
+    "searchTags": ["Metabolic Acidosis Investigations", "Chemical Pathology"],
+    "topics": ["Diagnostic Tests in Acid-Base Disorders"]
+  },
+  {
+    "id": 9,
+    "questionType": "objective",
+    "question": "In Primary hyperaldosteronism, there is",
+    "options": [
+      "Hyponatremia",
+      "Hyperkalemia",
+      "Metabolic Acidosis",
+      "Hypervolemia",
+      "Decreased urine potassium"
+    ],
+    "answer": ["Hypervolemia"],
+    "explanation": "PRIMARY ADRENAL INSUFFICIENCY: Also known as Addison disease results from progressive destruction or dysfunction of the adrenal glands caused by a local disease process or systemic disorder, the entire cortex is affected in primary adrenal insufficiency, all classes of adrenal steroids are deficient\nThe onset of clinical manifestation is usually gradual, and the degree and severity of symptoms depend on the extent of adrenal failure\nEarly or mild expressions of primary adrenal insufficiency may not be evident unless the patient is under stress\n\nClinical features of glucocorticoid deficiency include\n1.Fatigue\n2.Weakness\n3.Weight losss\n4.Gastrointestinal disturbance\n5.Postprandial hypoglycemia\nMineralocorticoid deficiency leads to dehydration with \na. hypotension,\nb. hyponatremia and\nc. hyperkalemia\nExcessive pituitary release of ACTH and related precursor peptides due to loss of the negative feedback system, may cause hyperpigmentation of the skin and mucous membranes through the action of melanocyte-stimulating hormones on melanocytes",
+    "searchTags": [
+      "Primary Hyperaldosteronism",
+      "Adrenal Disorders",
+      "Chemical Pathology"
+    ],
+    "topics": ["Clinical Features of Adrenal Disorders"]
+  },
+  {
+    "id": 10,
+    "questionType": "objective",
+    "question": "Galactosemia is associated with the following except:",
+    "options": [
+      "Failure to thrive",
+      "Positive clinitest test",
+      "Ketoacidosis",
+      "Positive clinistix test",
+      "Cataract"
+    ],
+    "answer": ["Positive clinistix test"],
+    "explanation": "Ketoacidosis is not a characteristic of galactosemia, but rather a complication that can arise in patients with galactosemia under certain circumstances such as sepsis\n\nGalactosemia is associated with:\n 1. lethargy\n 2. vomiting\n 3. diarrhoea\n 4. hypoglycemia\n 5. failure to thrive\n 6. jaundice from liver involvement\n 7. mental retardation\n 7. cataract( accumulation of galactitol deposit)\n\nClinitest is a test used to determine the amount of reducing substances, typically glucose, in urine. It provide clinically useful information on carbohydrate levels. Clinitest uses a chemical reaction involving cupric sulfate, sodium hydroxide, and citric acid. when glucose is added to the clinitest tablet in a test tube filled with uring, the glucose react with the chemicals in the tablet, forming a colored compound called cuprous oxide. The intensity of the color indicates the level of glucose in the urine \n\n clinistix tablets are used to test glucose level in urine. Positive clinistix results in patients with galactosemia are unlikely because galactosemia is characterized by excessive amount of galactose, not glucose. Therefore, a positive clinistix test would indicate the presence of glucoes, while galactosemia would suggest the opposite- high levels of galactose and hypoglycemia. If a pateint with galactosemia had a false-postive Clinistix result, it would be advisable to confirm the finding with a test specifically designed for glucose detection, such as clinistix or a blood glucose meter. The clinistix use a double sequential enzymatic reaction. Glucose oxidase converts glucoes into gluconic acid and hydrogen peroxide. Then, peroxidase catalyzes the breakdown of hydrogen peroxide into water and oxygen, producing a colored product. The intensity of the color correlates with the level of glucosee in the urine",
+    "searchTags": ["Galactosemia", "Metabolic Disorders", "Chemical Pathology"],
+    "topics": ["Clinical Features of Metabolic Disorders"]
+  },
+  {
+    "id": 11,
+    "questionType": "objective",
+    "question": "Causes of hyponatremia do not include:",
+    "options": [
+      "Congestive heart failure",
+      "Liver cirrhosis",
+      "Nephrotic syndrome",
+      "Chronic renal failure",
+      "Conn's syndrome"
+    ],
+    "answer": ["Conn's syndrome"],
+    "explanation": "In clinical biochemistry, causes of hyponatremia typically do not include Conn's syndrome. Recognizing the etiology is crucial for accurate diagnosis and treatment of sodium imbalances.",
+    "searchTags": [
+      "Hyponatremia Causes",
+      "Conn's Syndrome",
+      "Clinical Biochemistry"
+    ],
+    "topics": ["Etiology of Sodium Imbalances"]
+  },
+  {
+    "id": 12,
+    "questionType": "objective",
+    "question": "The following will cause Hypokalemia except:",
+    "options": [
+      "Alkalosis",
+      "Persistent vomiting",
+      "Diarrhea",
+      "Diuretic therapy",
+      "Insulin deficiency"
+    ],
+    "answer": ["Insulin deficiency"],
+    "explanation": "In clinical biochemistry, insulin deficiency does not typically cause hypokalemia. ",
+    "searchTags": [
+      "Hypokalemia Causes",
+      "Insulin Deficiency",
+      "Clinical Biochemistry"
+    ],
+    "topics": ["Etiology of Potassium Imbalances"]
+  },
+  {
+    "id": 13,
+    "questionType": "objective",
+    "question": "Total body water in infants is about",
+    "options": ["45%", "50%", "54%", "60%", "75%"],
+    "answer": ["75%"],
+    "explanation": "In clinical biochemistry, total body water in infants is approximately 75%. ",
+    "searchTags": [
+      "Total Body Water",
+      "Infant Physiology",
+      "Clinical Biochemistry"
+    ],
+    "topics": ["Physiology of Body Fluids"]
+  },
+  {
+    "id": 14,
+    "questionType": "objective",
+    "question": "Intracellular fluid in an adult constitutes about:",
+    "options": ["42L", "23L", "19L", "16L", "3L"],
+    "answer": ["16L"],
+    "explanation": "In clinical biochemistry, intracellular fluid in an adult constitutes approximately 16L. ",
+    "searchTags": [
+      "Intracellular Fluid",
+      "Body Fluid Distribution",
+      "Clinical Biochemistry"
+    ],
+    "topics": ["Physiology of Body Fluids"]
+  },
+  {
+    "id": 15,
+    "questionType": "objective",
+    "question": "The following stimulates the thirst center except:",
+    "options": [
+      "Increased plasma osmolality",
+      "Hypovolemia",
+      "Stress",
+      "Pain",
+      "Hunger"
+    ],
+    "answer": ["Hunger"],
+    "explanation": "In clinical biochemistry, hunger does not typically stimulate the thirst center. ",
+    "searchTags": [
+      "Thirst Center Stimulation",
+      "Fluid Balance Regulation",
+      "Clinical Biochemistry"
+    ],
+    "topics": ["Physiology of Fluid Balance"]
+  },
+  {
+    "id": 16,
+    "questionType": "objective",
+    "question": "Which of these is not a buffering system in the body:",
+    "options": [
+      "Bicarbonate/Carbonic acid buffer",
+      "Protein/Proteinate buffer",
+      "Hemoglobin/Hemoglobin buffer",
+      "Phosphate/Phosphoric acid buffer",
+      "Sulfate/Sulfuric acid buffer"
+    ],
+    "answer": ["Sulfate/Sulfuric acid buffer"],
+    "explanation": "Buffer systems  in the body include\n 1. Bicarbonate buffer system\n 2. Protein buffer system\n 3. Phosphate buffer system\n 4. Haemoglobin buffer system.",
+    "searchTags": [
+      "Buffering Systems",
+      "pH Homeostasis",
+      "Clinical Biochemistry"
+    ],
+    "topics": ["Physiology of Acid-Base Balance"]
+  },
+  {
+    "id": 17,
+    "questionType": "objective",
+    "question": "Hyperadrenalism presents with the following except:",
+    "options": [
+      "Loss of cardiac rhythm",
+      "Hypoglycemia",
+      "Truncal obesity",
+      "Osteoporosis",
+      "Hypokalemic alkalosis"
+    ],
+    "answer": ["Loss of cardiac rhythm"],
+    "explanation": "In clinical biochemistry, loss of cardiac rhythm is not typically associated with hyperadrenalism. ",
+    "searchTags": [
+      "Hyperadrenalism",
+      "Adrenal Disorders",
+      "Clinical Biochemistry"
+    ],
+    "topics": ["Clinical Features of Adrenal Disorders"]
+  },
+  {
+    "id": 18,
+    "questionType": "objective",
+    "question": "Concerning Addison's disease:",
+    "options": [
+      "High plasma ACTH",
+      "High plasma cortisol",
+      "Hyperpigmentation",
+      "Hypotension",
+      "Could be precipitated by severe infection"
+    ],
+    "answer": ["Could be precipitated by severe infection"],
+    "explanation": "In clinical biochemistry, Addison's disease can be precipitated by severe infection. ",
+    "searchTags": [
+      "Addison's Disease",
+      "Adrenal Disorders",
+      "Clinical Biochemistry"
+    ],
+    "topics": ["Clinical Features of Adrenal Disorders"]
+  },
+  {
+    "id": 19,
+    "questionType": "objective",
+    "question": "In electrophoresis, separation of particles does not depend on:",
+    "options": [
+      "Intensity of the electrical field",
+      "Particle size and shape",
+      "Static",
+      "Supporting medium",
+      "pH and ionic strength of the buffer"
+    ],
+    "answer": ["Static"],
+    "explanation": "In clinical biochemistry, separation of particles in electrophoresis does not depend on static. ",
+    "searchTags": ["Electrophoresis Principles", "Clinical Biochemistry"],
+    "topics": ["Principles of Electrophoresis"]
+  },
+  {
+    "id": 20,
+    "questionType": "objective",
+    "question": "Which of these is not true concerning electrophoresis:",
+    "options": [
+      "Starch is not a support medium",
+      "Separation depends on electrical charges on the particles",
+      "Proteins migrate toward the anode in alkaline pH"
+    ],
+    "answer": ["Starch is not a support medium"],
+    "explanation": "In clinical biochemistry, starch is not typically used as a support medium in electrophoresis. ",
+    "searchTags": ["Electrophoresis Support Medium", "Clinical Biochemistry"],
+    "topics": ["Support Media in Electrophoresis"]
+  },
+  {
+    "id": 21,
+    "questionType": "objective",
+    "question": "The most effective form of Renal Replacement therapy is:",
+    "options": [
+      "Peritoneal dialysis",
+      "Hemodialysis",
+      "Carderveric transplant",
+      "Hemodia filtration",
+      "Live transplant"
+    ],
+    "answer": ["Live transplant"],
+    "explanation": "In clinical nephrology, live transplant is considered the most effective form of renal replacement therapy. ",
+    "searchTags": [
+      "Renal Replacement Therapy",
+      "Live Transplant",
+      "Clinical Nephrology"
+    ],
+    "topics": ["Management of End-Stage Renal Disease"]
+  },
+  {
+    "id": 22,
+    "questionType": "objective",
+    "question": "Reasons for exclusion during preoperative assessment of kidney transplant patients include:",
+    "options": [
+      "Body mass index <40",
+      "Ischaemic heart disease",
+      "Any immunological disease",
+      "Severe chronic lung disease",
+      "Severe Malaria"
+    ],
+    "answer": ["Ischaemic heart disease"],
+    "explanation": "In clinical nephrology, ischaemic heart disease is a reason for exclusion during preoperative assessment of kidney transplant patients. Identifying contraindications is crucial for patient safety.",
+    "searchTags": [
+      "Kidney Transplant Assessment",
+      "Contraindications",
+      "Clinical Nephrology"
+    ],
+    "topics": ["Preoperative Assessment in Kidney Transplant"]
+  },
+  {
+    "id": 23,
+    "questionType": "objective",
+    "question": "Causes of hypoalbuminemia include all but one of the following:",
+    "options": [
+      "Burns",
+      "Malnutrition",
+      "Hyperparathyroidism",
+      "Hypothyroidism",
+      "Nephrotic syndrome"
+    ],
+    "answer": ["Hyperparathyroidism"],
+    "explanation": "In clinical nephrology, hyperparathyroidism is not typically a cause of hypoalbuminemia. ",
+    "searchTags": [
+      "Hypoalbuminemia Causes",
+      "Hyperparathyroidism",
+      "Clinical Nephrology"
+    ],
+    "topics": ["Hypoalbuminemia in Renal Disorders"]
+  },
+  {
+    "id": 24,
+    "questionType": "objective",
+    "question": "Reference intervals are dependent on all but one of the following:",
+    "options": ["Race", "Gender", "Age", "Complexion", "All of the above"],
+    "answer": ["Complexion"],
+    "explanation": "In clinical laboratory medicine, reference intervals are typically not dependent on complexion. ",
+    "searchTags": ["Reference Intervals", "Laboratory Medicine"],
+    "topics": ["Clinical Laboratory Medicine"]
+  },
+  {
+    "id": 25,
+    "questionType": "objective",
+    "question": "One of the acute complications of hemodialysis is",
+    "options": [
+      "Anemia",
+      "Septicemia",
+      "Pyrexia",
+      "Amyloidosis",
+      "Peritonitis"
+    ],
+    "answer": ["Septicemia"],
+    "explanation": "In clinical nephrology, septicemia is an acute complication of hemodialysis. Recognizing complications is crucial for providing timely interventions and improving patient outcomes.",
+    "searchTags": [
+      "Hemodialysis Complications",
+      "Acute Complications",
+      "Clinical Nephrology"
+    ],
+    "topics": ["Hemodialysis Complications"]
+  },
+  {
+    "id": 26,
+    "questionType": "objective",
+    "question": "During pregnancy, Increased blood volume with subsequent hemodilution can result in:",
+    "options": [
+      "Low concentration of Plasma",
+      "Reduction in GFR",
+      "Reduction in urine volume",
+      "Low Creatinine clearance",
+      "Hyperglycemia"
+    ],
+    "answer": ["Reduction in urine volume"],
+    "explanation": "In clinical nephrology, increased blood volume during pregnancy can result in a reduction in urine volume. ",
+    "searchTags": [
+      "Pregnancy and Renal Function",
+      "Hemodilution",
+      "Clinical Nephrology"
+    ],
+    "topics": ["Renal Physiology in Pregnancy"]
+  },
+  {
+    "id": 27,
+    "questionType": "objective",
+    "question": "Which of the following is not a chronic complication of renal Replacement therapy?",
+    "options": [
+      "Dialysis dysequilibrium syndrome",
+      "Anemia",
+      "Peritonitis",
+      "Malnutrition",
+      "Amyloidosis"
+    ],
+    "answer": ["Peritonitis"],
+    "explanation": "In clinical nephrology, peritonitis is typically not considered a chronic complication of renal replacement therapy. ",
+    "searchTags": [
+      "Chronic Complications of Renal Replacement Therapy",
+      "Peritonitis",
+      "Clinical Nephrology"
+    ],
+    "topics": ["Chronic Complications in Renal Replacement Therapy"]
+  },
+  {
+    "id": 28,
+    "questionType": "objective",
+    "question": "Which of the following analytes has a higher plasma concentration in neonates than in adults?",
+    "options": [
+      "Urea",
+      "Random blood glucose",
+      "Lipids",
+      "Immunoglobulins",
+      "Hemoglobin"
+    ],
+    "answer": ["Immunoglobulins"],
+    "explanation": "In clinical laboratory medicine, immunoglobulins often have higher plasma concentrations in neonates than in adults. ",
+    "searchTags": [
+      "Neonatal Laboratory Values",
+      "Immunoglobulins",
+      "Clinical Laboratory Medicine"
+    ],
+    "topics": ["Laboratory Values in Neonates"]
+  },
+  {
+    "id": 29,
+    "questionType": "objective",
+    "question": "One analyte whose concentration varies due to the effect of age is:",
+    "options": [
+      "Phosphate",
+      "Sex hormones",
+      "Urinary gonadotrophins",
+      "Cholesterol",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "In clinical laboratory medicine, various analytes, including phosphate, sex hormones, urinary gonadotrophins, and cholesterol, can exhibit age-related variations. ",
+    "searchTags": [
+      "Age-Related Variations in Analytes",
+      "Clinical Laboratory Medicine"
+    ],
+    "topics": ["Analyte Variations with Age"]
+  },
+  {
+    "id": 30,
+    "questionType": "objective",
+    "question": "Biological rhythm affects the timing of sample collection for one of the following analytes:",
+    "options": ["Urea", "Creatinine", "Cortisol", "Potassium", "Sodium"],
+    "answer": ["Cortisol"],
+    "explanation": "In clinical laboratory medicine, the biological rhythm affects the timing of cortisol sample collection. ",
+    "searchTags": [
+      "Circadian Rhythm",
+      "Cortisol Testing",
+      "Clinical Laboratory Medicine"
+    ],
+    "topics": ["Circadian Rhythms in Hormone Levels"]
+  },
+  {
+    "id": 31,
+    "questionType": "objective",
+    "question": "Immediately following the birth of a baby, serum protein electrophoresis of the cord blood showed a depressed, faint α1 band. What disease is associated with this finding?",
+    "options": [
+      "Tuberculosis",
+      "Multiple Sclerosis",
+      "Multiple myeloma",
+      "Alpha-1 antitrypsin deficiency",
+      "Nephrotic syndrome"
+    ],
+    "answer": ["Alpha-1 antitrypsin deficiency"],
+    "explanation": "In clinical laboratory medicine, a depressed, faint α1 band on serum protein electrophoresis in cord blood can be associated with alpha-1 antitrypsin deficiency. Recognizing this finding is important for early diagnosis.",
+    "searchTags": [
+      "Protein Electrophoresis",
+      "Alpha-1 Antitrypsin Deficiency",
+      "Clinical Laboratory Medicine"
+    ],
+    "topics": ["Laboratory Assessment in Neonates"]
+  },
+  {
+    "id": 32,
+    "questionType": "objective",
+    "question": "An infant with recurrent infection would have:",
+    "options": [
+      "Low level of Immunoglobulin G",
+      "Low level of transferrin",
+      "Low level of immunoglobulin M",
+      "Low level of ascorbic acid",
+      "All of the above are true"
+    ],
+    "answer": ["All of the above are true"],
+    "explanation": "In clinical laboratory medicine, an infant with recurrent infection may have low levels of Immunoglobulin G, transferrin, immunoglobulin M, and ascorbic acid. ",
+    "searchTags": [
+      "Infant Infections",
+      "Laboratory Markers",
+      "Clinical Laboratory Medicine"
+    ],
+    "topics": ["Immune Function Assessment in Infants"]
+  },
+  {
+    "id": 33,
+    "questionType": "objective",
+    "question": "The Primary function of albumin in the circulation is to:",
+    "options": [
+      "Enhance the ionization of calcium",
+      "Regulate colloidal oncotic pressure",
+      "Promote the antigen activity of plasma protein",
+      "Provide a neutral binding site for cell receptors",
+      "Agglutination of leucocytes"
+    ],
+    "answer": ["Regulate colloidal oncotic pressure"],
+    "explanation": "In clinical laboratory medicine, the primary function of albumin in the circulation is to regulate colloidal oncotic pressure. ",
+    "searchTags": [
+      "Albumin Function",
+      "Colloidal Oncotic Pressure",
+      "Clinical Laboratory Medicine"
+    ],
+    "topics": ["Albumin in Clinical Laboratory Practice"]
+  },
+  {
+    "id": 34,
+    "questionType": "objective",
+    "question": "Complement proteins are responsible for:",
+    "options": [
+      "Enhanced phagocytosis of infectious agents",
+      "Attraction of polymorphonuclear cells to the site of injury",
+      "Agglutination of erythrocytes",
+      "Cross-linking of immunoglobulins",
+      "Emulsification of Lipids"
+    ],
+    "answer": ["Enhanced phagocytosis of infectious agents"],
+    "explanation": "In clinical immunology, complement proteins are responsible for enhanced phagocytosis of infectious agents. ",
+    "searchTags": [
+      "Complement Proteins",
+      "Phagocytosis",
+      "Clinical Immunology"
+    ],
+    "topics": ["Complement System in Immune Response"]
+  },
+  {
+    "id": 35,
+    "questionType": "objective",
+    "question": "Which of the following proteins transports thyroxine and vitamin A in the blood?",
+    "options": [
+      "Alpha fetoprotein",
+      "Hemopexin",
+      "Ceruloplasmin",
+      "Transthyretin",
+      "Calcitonin"
+    ],
+    "answer": ["Transthyretin"],
+    "explanation": "In clinical laboratory medicine, transthyretin transports thyroxine and vitamin A in the blood. ",
+    "searchTags": [
+      "Transthyretin",
+      "Thyroxine Transport",
+      "Vitamin A Transport"
+    ],
+    "topics": ["Transport Proteins in Blood"]
+  },
+  {
+    "id": 36,
+    "questionType": "objective",
+    "question": "Transferrin is a protein typically associated with the transport of",
+    "options": [
+      "Ferritin",
+      "Copper Sulphate",
+      "Ferric ions",
+      "Ferrous ions",
+      "Heavy metal"
+    ],
+    "answer": ["Ferric ions"],
+    "explanation": "Iron is transported in plasma bound to transferrin in the ferric (Fe3+) form",
+    "searchTags": ["Transferrin Function", "Iron Transport", "Fe3+"],
+    "topics": ["IRON, VIT B12, FOLATE METABOLISM"]
+  },
+  {
+    "id": 37,
+    "questionType": "objective",
+    "question": "Which of the following proteins is decreased in hemolytic disorders?",
+    "options": [
+      "Transferrin",
+      "Beta 2 microglobulin",
+      "Fibrinogen",
+      "Haptoglobin",
+      "Ceruloplasmin"
+    ],
+    "answer": ["Haptoglobin"],
+    "explanation": "In clinical laboratory medicine, haptoglobin is decreased in hemolytic disorders. ",
+    "searchTags": [
+      "Haptoglobin",
+      "Hemolytic Disorders",
+      "Clinical Laboratory Medicine"
+    ],
+    "topics": ["Laboratory Changes in Hemolysis"]
+  },
+  {
+    "id": 38,
+    "questionType": "objective",
+    "question": "Plasma proteins that serve as nutritional markers include:",
+    "options": [
+      "Albumin",
+      "Prealbumin",
+      "Transthyretin",
+      "None of the above",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "In clinical nutrition, plasma proteins such as albumin, prealbumin, and transthyretin serve as nutritional markers. ",
+    "searchTags": [
+      "Nutritional Markers",
+      "Plasma Proteins",
+      "Clinical Nutrition"
+    ],
+    "topics": ["Nutritional Assessment in Medicine"]
+  },
+  {
+    "id": 39,
+    "questionType": "objective",
+    "question": "A heavy distinct band located in the gamma region on serum protein electrophoresis suggests the presence of:",
+    "options": [
+      "Nephrotic syndrome",
+      "Polyclonal gammopathy",
+      "Monoclonal gammopathy",
+      "An acute inflammatory response",
+      "A chronic inflammatory response"
+    ],
+    "answer": ["Monoclonal gammopathy"],
+    "explanation": "In clinical laboratory medicine, a heavy distinct band in the gamma region on serum protein electrophoresis suggests the presence of monoclonal gammopathy. ",
+    "searchTags": [
+      "Serum Protein Electrophoresis",
+      "Gammopathy",
+      "Clinical Laboratory Medicine"
+    ],
+    "topics": ["Electrophoretic Patterns in Gammopathies"]
+  },
+  {
+    "id": 40,
+    "questionType": "objective",
+    "question": "Negative acute phase proteins include:",
+    "options": [
+      "Albumin and immunoglobulin G",
+      "Ceruloplasmin, haptoglobin, and fibrinogen",
+      "Albumin, transthyretin, and transferrin",
+      "C-reactive protein, fibrinogen, and haptoglobin",
+      "Immunoglobulin M and fibrinogen"
+    ],
+    "answer": ["Albumin, transthyretin, and transferrin"],
+    "explanation": "In clinical laboratory medicine, negative acute phase proteins include albumin, transthyretin, and transferrin. ",
+    "searchTags": [
+      "Acute Phase Proteins",
+      "Negative Acute Phase Proteins",
+      "Clinical Laboratory Medicine"
+    ],
+    "topics": ["Inflammatory Response Markers"]
+  },
+  {
+    "id": 41,
+    "questionType": "objective",
+    "question": "The following is important information required in a request form filling:",
+    "options": [
+      "Kind of tribal mark on patient's face",
+      "Name",
+      "Dietary habit",
+      "Sleeping habit",
+      "Complexion of patients"
+    ],
+    "answer": ["Name"],
+    "explanation": "In the context of request form filling, the patient's name is an important piece of information required for identification and record-keeping.",
+    "searchTags": ["Request Form", "Patient Information", "Medical Record"],
+    "topics": ["Medical Record Keeping"]
+  },
+  {
+    "id": 42,
+    "questionType": "objective",
+    "question": "The anticoagulant in lithium heparin sample bottle is:",
+    "options": [
+      "Acid citrate",
+      "Heparin",
+      "Oxalate",
+      "Fluoride",
+      "Indoacetate"
+    ],
+    "answer": ["Heparin"],
+    "explanation": "In laboratory medicine, lithium heparin is used as an anticoagulant in sample bottles. ",
+    "searchTags": [
+      "Anticoagulant",
+      "Lithium Heparin",
+      "Clinical Laboratory Medicine"
+    ],
+    "topics": ["Sample Collection in Laboratories"]
+  },
+  {
+    "id": 43,
+    "questionType": "objective",
+    "question": "The anticoagulant in Fluoride Oxalate bottle is:",
+    "options": [
+      "Ethylene Diamine tetra acetate",
+      "Lithium heparin",
+      "Oxalate",
+      "Fluoride",
+      "Nessier's reagent"
+    ],
+    "answer": ["Oxalate"],
+    "explanation": "The anticoagulant in a Fluoride Oxalate bottle is Oxalate. The addition of fluoride to oxalate helps preserve glucose levels in the blood by inhibiting glycolysis, making it suitable for glucose analysis. It is particularly used in tests such as glucose tolerance tests.",
+    "searchTags": [
+      "Anticoagulant",
+      "Fluoride Oxalate",
+      "Clinical Laboratory Medicine"
+    ],
+    "topics": ["Sample Collection in Laboratories"]
+  },
+  {
+    "id": 44,
+    "questionType": "objective",
+    "question": "Blood samples for the following investigation can be dispensed in a lithium heparin sample bottle:",
+    "options": [
+      "Thyroid hormone profile",
+      "Fertility profile",
+      "Electrolyte and Urea",
+      "Serum Alpha-fetoprotein assay",
+      "Serum Creatinine assay"
+    ],
+    "answer": ["Electrolyte and Urea"],
+    "explanation": "In clinical laboratory medicine, lithium heparin is suitable for collecting blood samples for electrolyte and urea investigations. Proper selection of sample bottles is essential for accurate test results.",
+    "searchTags": [
+      "Sample Collection",
+      "Lithium Heparin",
+      "Clinical Laboratory Medicine"
+    ],
+    "topics": ["Sample Collection in Laboratories"]
+  },
+  {
+    "id": 45,
+    "questionType": "objective",
+    "question": "Samples for the following investigations can be dispensed in a Fluoride Oxalate sample bottle:",
+    "options": [
+      "Serum T4 assay",
+      "Serum Ferritin assay",
+      "Fasting Plasma glucose assay",
+      "Serum C-reactive protein assay",
+      "Plasma Albumin assay"
+    ],
+    "answer": ["Fasting Plasma glucose assay"],
+    "explanation": "In clinical laboratory medicine, Fluoride Oxalate is suitable for collecting blood samples for fasting plasma glucose assays. Choosing the right sample bottle is crucial for accurate test results.",
+    "searchTags": [
+      "Sample Collection",
+      "Fluoride Oxalate",
+      "Clinical Laboratory Medicine"
+    ],
+    "topics": ["Sample Collection in Laboratories"]
+  },
+  {
+    "id": 46,
+    "questionType": "objective",
+    "question": "Iron absorption is enhanced by the following:",
+    "options": [
+      "Vitamin C",
+      "Phytate ingestion",
+      "Phosphates",
+      "Iron overload state",
+      "Citrate"
+    ],
+    "answer": ["Vitamin C"],
+    "explanation": "Factors Enhanching iron absorption include \n\b1. Acidic PH \n\b2. Vitamin C \n\b3. Glucose, Fructose \n\b4. Iron deficiency state",
+    "searchTags": ["Iron Absorption", "Vitamin C", "Nutritional Assessment"],
+    "topics": ["Nutrition and Dietary Factors"]
+  },
+  {
+    "id": 47,
+    "questionType": "objective",
+    "question": "Iron is maximally absorbed in the:",
+    "options": ["Colon", "Terminal ileum", "Duodenum", "Stomach", "Pancreas"],
+    "answer": ["Duodenum"],
+    "explanation img url": null,
+    "explanation": "Iron is maximally absorbed in the duodenum and upper jejunum",
+    "searchTags": [
+      "Vitamin B12 Absorption",
+      "Terminal Ileum",
+      "Nutritional Assessment"
+    ],
+    "topics": ["IRON, VIT B12, FOLATE METABOLISM"]
+  },
+  {
+    "id": 48,
+    "questionType": "objective",
+    "question": "The following is a test of renal glomerular function:",
+    "options": [
+      "Xylose absorption test",
+      "Ammonium chloride test",
+      "Creatinine clearance",
+      "Water deprivation test",
+      "Oral glucose tolerance test"
+    ],
+    "answer": ["Creatinine clearance"],
+    "explanation": "Renal glumeruli function test include Creatine clearance, inulin clearance, cystatin c estimation",
+    "searchTags": [
+      "Renal Function Tests",
+      "Creatinine Clearance",
+      "Clinical Nephrology"
+    ],
+    "topics": ["Kidney Function Testing"]
+  },
+  {
+    "id": 49,
+    "questionType": "objective",
+    "question": "The following is a test of renal tubular function:",
+    "options": [
+      "Rothera's test",
+      "Water deprivation test",
+      "Dexamethasone Suppression test",
+      "Insulin clearance test",
+      "Metopirone test"
+    ],
+    "answer": ["Water deprivation test"],
+    "explanation": "Assessment of Tubular function\n1. Urine osmolality\n2. Ammonium chloride Test\n3. Urinalysis\n4. Water Deprivation test\n\nTests for determing  Renal function\n1. Urea-creatinine Ratio\n2. Urea Reduction Rate\n3. Fractional excretion of sodium\n4. Detection of microalbumin in urine",
+    "searchTags": [
+      "Renal Function Tests",
+      "Rothera's Test",
+      "Clinical Nephrology"
+    ],
+    "topics": ["Kidney Function Testing"]
+  },
+  {
+    "id": 50,
+    "questionType": "objective",
+    "question": "Vitamin B12 is absorbed in the:",
+    "options": ["Colon", "Stomach", "Pancreas", "Terminal ileum", "Caecum"],
+    "answer": ["Terminal ileum"],
+    "explanation img url": "https://cdn.lecturio.com/assets/Absorption-transport-and-metabolism-of-vitamin-B12.png",
+    "explanation": "The absorbtion of vitamin B12 occurs in the terminal ileum bound to Intrincic factor which then disociates as it enters the mucosal epithelial cells. The released B12 then binds to transcobalamin II, transported across the cell membrane and is released into the plasma of the mucosal capillaries",
+    "searchTags": [
+      "Vitamin B12 Absorption",
+      "Terminal Ileum",
+      "Nutritional Assessment"
+    ],
+    "topics": ["IRON, VIT B12, FOLATE METABOLISM"]
+  }
+]

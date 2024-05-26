@@ -1,0 +1,911 @@
+[
+  {
+    "id": 1,
+    "question": "Volume of CSF IS _____",
+    "options": ["150 ml", "250 ml", "400 ml", "500 ml", "300 ml"],
+    "answer": ["150 ml"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 2,
+    "question": "Two point sensibility is highest in the",
+    "options": ["lip", "finger tips", "palm of hand", "tongue", "ear lobe"],
+    "answer": ["tongue"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 3,
+    "question": "Which of these are examples of polysynaptic reflex",
+    "options": [
+      "knee jerk",
+      "patella reflex",
+      "stretch reflex",
+      "withdrawal reflex"
+    ],
+    "answer": ["withdrawal reflex"],
+    "explanation": "Types of spinal reflexes \n 1. Stretch reflex \n\t This is one of the most simple reflexes and is known as a monosynaptic reflex arc since there is no interneuron between the efferent and afferent neurons. \n \t The afferent and efferent signals are related at the level of a single spinal nerve.\n \t An example of Stretch reflex is quadriceps reflex (patellar reflex) which occurs following a stretch of the patellar tendon. \n\t 2. Flexor reflex \n\t The flexor reflex is commonly referred to as the withdrawal reflex. It occurs in response to harmful (noxious sensory stimulus, such as pain). It is a polysynaptic reflex, involving one or more interneurons. Afferent fibers carrying cutaneous sensory information are carried through the spinal nerve from the dermatome responsible for the stimulus",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 4,
+    "question": "The effect of peripheral nerve lesion include the following EXCEPT",
+    "options": [
+      "plastic paralysis",
+      "loss of reflexes",
+      "flaccid paralysis",
+      "vasodilatation",
+      "paralysis of the pilomuscular muscle"
+    ],
+    "answer": ["plastic paralysis"],
+    "explanation": "Consequences of peripheral nerve lession include \n 1. flaccid paralysis of the muscle supplied \n 2. Loss of muscle tone \n3. paralysis pilo motor nerve \n 4. paralysis of sweat gland \n 5. vasodilation followed by vasoconstriction\n 6. Loss of sensory over the supplied area\n 7. Trophic changes in skin\n 8. Wasting and atrophy of muscle \n 9. Loss of reflexes",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 5,
+    "question": "According to the GATE CONTROL THEORY OF PAIN",
+    "options": [
+      "dorsal column muscle fibers system is responsible for pain perception",
+      "the first central transmission of cells act as a gate control system",
+      "cell of the substantia nigra are inhibitory",
+      "large fibres stimulation promote prolong rapid",
+      ""
+    ],
+    "answer": [
+      "the first central transmission of cells act as a gate control system"
+    ],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 6,
+    "question": "Which is false",
+    "options": [
+      "signals from motor cortex are also projected to medullary reticular formation",
+      "excitatory signals are rejected from mid brain reticular formation to spinal cord",
+      "excitatory signals are projected from medullary are projected from medullary formation down to spinal cord",
+      "all of the above",
+      "none is false"
+    ],
+    "answer": [
+      "excitatory signals are projected from medullary are projected from medullary formation down to spinal cord"
+    ],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 7,
+    "question": "Which is false",
+    "options": [
+      "stimulation of medullary reticular formation enhances spinal reflexes",
+      "facilitatory signals are projected from vestibular nuclei to spinal cord",
+      "inhibitory signals are  projected from caudate medullary reticular formation",
+      "movements such as knee jerk is abolished following stimulation of ventromedial medullary reticular formation",
+      "none of the above"
+    ],
+    "answer": [
+      "stimulation of medullary reticular formation enhances spinal reflexes"
+    ],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 8,
+    "question": "Consciousness is maintained because",
+    "options": [
+      "activity in the central cortex continue to stimulate RAS",
+      "activity in the motor pathway continue to stimulate RAS",
+      "activity in the sensory continue to stimulate RAS",
+      "all of the above",
+      "mainly A and C"
+    ],
+    "answer": ["all of the above"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 9,
+    "question": "After relay in thalamic nuclei ; sensory pathways terminate in",
+    "options": [
+      "motor cortex",
+      "specific cortex",
+      "association cortex",
+      "non specific cortex",
+      "none of the above"
+    ],
+    "answer": ["specific cortex"],
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "question": "Commissural fibres-efferent fibres in cerebral hemisphere",
+    "options": ["", "", "", "", ""],
+    "answer": [""],
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "question": "EEG reading is evaluated with respect to ____________",
+    "options": ["", "", "", "", ""],
+    "answer": [""],
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "question": "The circardian rhythm",
+    "options": [
+      "regulate endocrine secretion",
+      "is precisely an area located in the superchiasmatic nucleus",
+      "regulate the secretion of melatonin",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": ["all of the above"],
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is not normally observed during transmission process at a synapse",
+    "options": [
+      "graded potential changes to action potential at the pre synaptic knob",
+      "chloride influx at the presynaptic knob",
+      "neurotransmitters are released by the process of endocytosis at the synaptic cleft",
+      "all of above",
+      "none above"
+    ],
+    "answer": ["all of above"],
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is part of the multisynaptic pathway for auditory impulses to the neocortex?",
+    "options": [
+      "Dorsal column nucleus",
+      "inferior corpora nucleus",
+      "superior colliculus",
+      "ventrobasal nucleus",
+      "none of the above"
+    ],
+    "answer": [""],
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "question": "Which of the following statements is false?",
+    "options": [
+      "the non specific afferent fibres from the reticular formation and the thalamus terminate at layer 4 of the neocortex",
+      "the commissural fibres connect the two cerebral hemisphere",
+      "alpha waves is indicative that new component of some sort in the brain are discharging rhythmically",
+      "stimulation of amygdala causes increased gastrointestinal tract motility",
+      "stimulation of amygdala results in increase gastrointestinal tract motility"
+    ],
+    "answer": ["alpha waves is indicative that new component of some sort in the brain are discharging rhythmically"],
+    "explanation": "The non-specific afferent fibers from the reticular formation and the thalamus terminate at layer 4 of the neocortex:  The reticular formation and thalamus play a role in relaying sensory information to the neocortex.\n\n Commissural fibers connect the two cerebral hemispheres: Commissural fibers, such as the corpus callosum, facilitate communication between the left and right hemispheres of the brain.\n\nAlpha waves are not indicative of a new component in the brain discharging rhythmically: Alpha waves are associated with a relaxed and awake state, not necessarily the activation of new components in the brain. Therefore, this statement is false.\n\nStimulation of the amygdala can cause increased gastrointestinal tract motility: The amygdala is involved in emotional responses, and its stimulation can influence autonomic functions, including gastrointestinal motility.\n\nStimulation of the amygdala result in increased gastrointestinal tract motility"
+  },
+  {
+    "id": 16,
+    "question": "Following the removal of the cortex on one side, one would anticipate complete loss of",
+    "options": [
+      "ability to maintain balance",
+      "sensation on the contralateral side",
+      "postural movement",
+      "discreet movement on the contralateral side",
+      "none of the above"
+    ],
+    "answer": ["discreet movement on the contralateral side"],
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "question": "Activity in the descending pyramidal tracts can influence",
+    "options": [
+      "gamma efferent discharge",
+      "the threshold for stretch reflex",
+      "spinal synaptic transmission",
+      "alpha motor neurons discharge",
+      "all of the above"
+    ],
+    "answer": ["all of the above"],
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is not part of the basal ganglia",
+    "options": [
+      "globus pallidum",
+      "corpus striatum",
+      "subthalamic nucleus",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "question": "Which is the effect of stimulation of the posterior aspect of the hypothalamus",
+    "options": [
+      "vasodilation in skin vessels",
+      "shivering",
+      "feeding behavior",
+      "satiety",
+      "all of the above"
+    ],
+    "answer": ["shivering"],
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "question": "Concerning the Delta waves of the EEG",
+    "options": [
+      "they indicate the presence of tumours in the brain",
+      "the waves occur during sleep in certain pathological conditions",
+      "the waves disappear during sleep",
+      "they are more likely to occur during mental concentration",
+      "only (a) and (b) are true concerning Delta waves"
+    ],
+    "answer": ["they indicate the presence of tumours in the brain"],
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "question": "Concerning the excitatory post synaptic potential (EPSP)",
+    "options": [
+      "It represents the net effect of all the potentials at the synapse",
+      "it is the sum total of the depolarizing potentials at the synapse",
+      "none of the above is true",
+      "all of the above are true concerning EPSP"
+    ],
+    "answer": ["none of the above is true"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 22,
+    "question": "Which of these sensory receptors in the skin are also referred to as expanded endings?",
+    "options": [
+      "meissner’s corpuscles",
+      "Pacinian corpuscles",
+      "nerve endings",
+      "ruffini endings",
+      "Krause’s end-bulbs"
+    ],
+    "answer": ["ruffini endings"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 23,
+    "question": "In cerebellar dysfunction, one of the disturbances of posture is",
+    "options": [
+      "intention tumor",
+      "gait",
+      "ataxia",
+      "Dysmetria",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 24,
+    "question": "In individuals with anomic aphasia",
+    "options": [
+      "there is no difficulty with understanding written language",
+      "there is no difficulty with understanding auditory information",
+      "there is difficulty with speech",
+      "there is difficult with comprehending the meaning of spoken words"
+    ],
+    "answer": [
+      "there is no difficulty with understanding auditory information"
+    ],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 25,
+    "question": "Which of these is the concentration of Na+ ions in humans cerebrospinal fluid?",
+    "options": [
+      "285 meq/L",
+      "113 meq/L",
+      "140 meq/L",
+      "112 meq/L",
+      "147 meq/L"
+    ],
+    "answer": ["147 meq/L"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 26,
+    "question": "One of the following is not function of palaeocerebellum",
+    "options": [
+      "modification of muscle tone",
+      "receiving enter for tactile impulses",
+      "receiving center for proprioceptive information",
+      "none of the above",
+      "all of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 27,
+    "question": "The motor neuron in the anterior horn serves as the final common path for",
+    "options": [
+      "afferent impulses from the same segment of the spinal cord",
+      "afferent impulses of the same segment but from the contralateral side of the spinal cord",
+      "impulses from other segments but of the same side of spinal cord",
+      "all of the above impulses",
+      "none of the above impulses"
+    ],
+    "answer": ["all of the above impulses"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 28,
+    "question": "Point out which of the following statements is correct",
+    "options": [
+      "The muscle spindle is a receptor organ",
+      "the muscle spindle lies in parallel with the intrafusal musculature",
+      "the tendon organ lie in series with the extrafusal musculature",
+      "none of the above",
+      "all of the above"
+    ],
+    "answer": ["The muscle spindle is a receptor organ"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 29,
+    "question": "The proprioceptive sensation concerned with movement co-ordination",
+    "options": [
+      "relays in medulla",
+      "ascends in the ventral spinothalamic tract",
+      "terminates in the primary sensory cortex",
+      "relays in the anterior horn of gray matter",
+      "none of the above"
+    ],
+    "answer": ["relays in medulla"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 30,
+    "question": "The energy to which a receptor is most sensitive is referred to as its",
+    "options": [
+      "specific energy",
+      "stimulus",
+      "threshold energy",
+      "composite energy",
+      "none of the above"
+    ],
+    "answer": ["threshold energy"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 31,
+    "question": "One of the following is not a sensory modality",
+    "options": [
+      "lung inflation",
+      "arterial PCO2",
+      "joint position",
+      "length of the muscle",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 32,
+    "question": "It is possible to produce the syndrome of hypothalamic obesity in an animal, simply by:",
+    "options": [
+      "causing lesions in the feeding center of the hypothalamus",
+      "stimulating the satiety center in the hypothalamus",
+      "destroying the satiety center in the hypothalamus",
+      "causing lesions the feeding center in the hypothalamus",
+      "none of the above"
+    ],
+    "answer": ["destroying the satiety center in the hypothalamus"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 33,
+    "question": "Which of these is the effect produced by lesions in Amygdala",
+    "options": [
+      "increased heart rate",
+      "hyperghapia",
+      "pupillary dilatation",
+      "decrease in secretion of anterior pituitary hormones",
+      "none of the above"
+    ],
+    "answer": ["hyperghapia"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 34,
+    "question": "Cerebrospinal fluid is reabsorbed through",
+    "options": [
+      "the foramen of magendie",
+      "both (a) and (b) structures",
+      "the venous structures",
+      "the arachnoid villi",
+      "none of the above"
+    ],
+    "answer": ["the arachnoid villi"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 35,
+    "question": "Which of the following is not a regulatory function of the hypothalamus?",
+    "options": [
+      "visceral reflexes",
+      "emotional processes",
+      "behavioural processes",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following statements is correct concerning two-point sensibility?",
+    "options": [
+      "when two stimuli are applied simultaneously , two distinct sensations are felt provided that the stimuli are sufficiently close together",
+      "in general, hairless regions of the body have lower discriminative ability than hairy parts of the body",
+      "the power of discrimination diminishes progressively from the distal to the more proximal segment",
+      "two point sensibility values at different regions of the body was first given by Gasser",
+      "none of the above statements"
+    ],
+    "answer": [
+      "the power of discrimination diminishes progressively from the distal to the more proximal segment"
+    ],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 37,
+    "question": "Concerning the concentration of various substances in human cerebrospinal fluid",
+    "options": [
+      "sodium is more in cerebrospinal fluid compared to plasma",
+      "sodium is less in cerebrospinal fluid compared to plasma",
+      "sodium is insignificant in plasma, as compared to cerebrospinal fluid",
+      "sodium is insignificant in cerebrospinal fluid, compared to plasma",
+      "none of the above is correct regarding the value of sodium ions in cerebrospinal fluid"
+    ],
+    "answer": ["sodium is less in cerebrospinal fluid compared to plasma"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 38,
+    "question": "ADEQUATE STIMULUS",
+    "options": [
+      "is that particular form of energy to which a receptor is most sensitive",
+      "is the particular form of energy to which a receptor is adapted at much lower threshold",
+      "is a specialized cell with affinity and specificity for a particular energy",
+      "action potentials in non neuronal cells",
+      "is non propagated potentials in neurons"
+    ],
+    "answer": [
+      "is that particular form of energy to which a receptor is most sensitive"
+    ],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 39,
+    "question": "Merkel’s disks",
+    "options": [
+      "are sensory receptors found mostly in deeper tissues",
+      "are sensory receptoers that response primarily to pressure",
+      "are sensory receptors with encapsulated endings",
+      "are sensory receptors that respond mainly to tactile sensation",
+      "are sensory receptors that are seen situated in close proximity to blood vessels"
+    ],
+    "answer": [
+      "are sensory receptors that respond mainly to tactile sensation"
+    ],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 40,
+    "question": "The following are nuclear masses in basal ganglia except",
+    "options": [
+      "corpus striatum",
+      "caudate nucleus",
+      "subthalamic nucleus",
+      "stria terminalis",
+      "none of the above"
+    ],
+    "answer": ["stria terminalis"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 41,
+    "question": "Which of the following is not part of the multisynaptic pathway for auditory impulses to the neocortex",
+    "options": [
+      "nucleus of the lateral lemniscus",
+      "dorsal column nucleus",
+      "inferior colliculus",
+      "superior olive",
+      "spiral ganglion"
+    ],
+    "answer": ["dorsal column nucleus"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 42,
+    "question": "Which of these is the thalamic nuclei concerned with complex integrative functions",
+    "options": [
+      "dorsolateral nuclei nuclei",
+      "anterior nuclei",
+      "middle nuclei",
+      "intralaminar nuclei",
+      "all of the above"
+    ],
+    "answer": ["dorsolateral nuclei nuclei"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 43,
+    "question": "Point out which statement is incorrect among the following",
+    "options": [
+      "the nonspecific afferent fibres from the reticular formation and thalamus terminate at layer 4 of the neocortex",
+      "commissural fibres are those that connect the two cerebral hemispheres",
+      "alpha waves in the EEG are indicative that neural components of some sort are discharging rhythmically",
+      "conditioned reflexes, memory, learning and thought are known as higher functions of the nervous system",
+      "none of the above"
+    ],
+    "answer": [
+      "the nonspecific afferent fibres from the reticular formation and thalamus terminate at layer 4 of the neocortex"
+    ],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 44,
+    "question": "Olivocerebellar fibres enter the cerebellum through",
+    "options": [
+      "the inferior peduncle",
+      "ipsilateral head region",
+      "the dorsal root ganglion",
+      "middle peduncle",
+      "none of the above"
+    ],
+    "answer": ["the inferior peduncle"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 45,
+    "question": "Which of the following is part of anterior lobe paleocerebellum",
+    "options": ["pyramis", "nodulus", "uvula", "culmen", "paraflocculus"],
+    "answer": ["culmen"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 46,
+    "question": "Reticular formation receives afferent input from",
+    "options": [
+      "olfactory system",
+      "viscera and internal structures",
+      "auditory system",
+      "gustatory system",
+      "all of the above areas"
+    ],
+    "answer": ["all of the above areas"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 47,
+    "question": "Association cortex",
+    "options": [
+      "takes up relatively more space than the motor cortex",
+      "is concerned mainly with the interaction between motor and sensory cortical waves",
+      "is also known as non specific cortex",
+      "can be viewed in terms of all of the above which are correct",
+      "is considered in terms of (b) and (c) above only"
+    ],
+    "answer": ["is considered in terms of (b) and (c) above only"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 48,
+    "question": "Learning",
+    "options": [
+      "can occur in crabs",
+      "occur in animals with well developed cortex only",
+      "cannot occur in subcortical structures",
+      "cannot be investigated using pavlov’s experiments",
+      "occur only in association cortex"
+    ],
+    "answer": ["occur in animals with well developed cortex only"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 49,
+    "question": "When a conditioned reflex is first established, it can be evoked not only by the conditioned  stimulus but also by",
+    "options": [
+      "stimuli of stronger intensity",
+      "reinforced stimuli",
+      "similar stimuli",
+      "stimulus that have been paired long enough",
+      "much weaker stimuli but of longer duration"
+    ],
+    "answer": ["stimulus that have been paired long enough"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 50,
+    "question": "What is 'External inhibition' in pavlov’s experiment on salivation in dog?",
+    "options": [
+      "conditioned reflex response that did not occur as a result of application of inhibitory factor",
+      "a reflex response becoming weak due to lack of reinforcement",
+      "when the dog become behaviourally weak due to external factors",
+      "conditioning of the animal whereby it becomes alert and attentive due to external inhibitory factor",
+      "none of the above adequately explains the term external inhibition"
+    ],
+    "answer": [
+      "conditioned reflex response that did not occur as a result of application of inhibitory factor"
+    ],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 51,
+    "question": "In the EEG, alpha waves are",
+    "options": [
+      "slow waves",
+      "large waves",
+      "synchronized waves",
+      "both (b) and (c)",
+      "all of the above"
+    ],
+    "answer": ["both (b) and (c)"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 52,
+    "question": "Excitatory post synaptic potential (EPSP) is",
+    "options": [
+      "the sum total of all the depolarizing potentials at the synapse",
+      "a summated potential",
+      "the net effect of all potentially spreading potentials",
+      "normally larger than inhibitory postsynaptic potential (IPSP)",
+      "none of the above"
+    ],
+    "answer": ["a summated potential"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 53,
+    "question": "In anomic aphasia",
+    "options": [
+      "there is no difficulty with speech as such",
+      "there is difficulty with understanding auditory information",
+      "there is difficulty with speech",
+      "there is no difficulty understanding written language or pictures",
+      "patient does not comprehend the meaning of spoken words"
+    ],
+    "answer": ["there is no difficulty with speech as such"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 54,
+    "question": "All of the following are part of the basal ganglia except",
+    "options": [
+      "striopallidal tract",
+      "substantia nigra",
+      "putamen",
+      "caudate nucleus",
+      "subthalamic nucleus"
+    ],
+    "answer": ["striopallidal tract"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 55,
+    "question": "Which of the sensory receptors are generally know",
+    "options": [
+      "ruffini’s endings",
+      "krause’s end bulbs",
+      "markel’s disks",
+      "naked nerve endings",
+      "cutaneous end bulbs"
+    ],
+    "answer": ["cutaneous end bulbs"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 56,
+    "question": "Synapses",
+    "options": [
+      "enable the use of drugs to regulate visceral activities",
+      "are the sites for memory in the brain",
+      "transmit more reliably when frequently used",
+      "all of the above are correct",
+      "only options (a) and (c) are correct"
+    ],
+    "answer": ["only options (a) and (c) are correct"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 57,
+    "question": "One of the following processes take place during synaptic transmission",
+    "options": [
+      "increased permeability to calcium ions at the postsynaptic membrane , which enchances the *******",
+      "permeability changes at the presynaptic nerve ending which is coupled with the formation of excitatory post synaptic potential",
+      "influx of calcium ions which results into partial depolarization of the synaptic knob",
+      "inhibitory postsynaptic (IPSP) which results from excitatory post synaptic input",
+      "none of the above"
+    ],
+    "answer": [
+      "permeability changes at the presynaptic nerve ending which is coupled with the formation of excitatory post synaptic potential"
+    ],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 58,
+    "question": "All of the following are the auditory pathways to the neocortex except",
+    "options": [
+      "superior olive",
+      "inferior colliculus",
+      "dorsal cochlear nucleus",
+      "dorsal column nucleus",
+      "nucleus of the lateral lenissus"
+    ],
+    "answer": ["dorsal column nucleus"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 59,
+    "question": "The part of the brain stem that subserves the inputs from the olfactory system is",
+    "options": [
+      "hypothalamus",
+      "rhombocephalon",
+      "Neopallium",
+      "rhombocephalon",
+      "none of the above"
+    ],
+    "answer": [""],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 60,
+    "question": "Which of the following is observed following stimulation of amydala",
+    "options": [
+      "defecation",
+      "micturition",
+      "licking movements",
+      "chewing movements",
+      "all of the above"
+    ],
+    "answer": ["all of the above"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 61,
+    "question": "One of the following is the average normal concentration of glucose in human cerebrospinal fluid:",
+    "options": ["100 mg/dl", "289 mg/dl", "64 mg/dl", "50 mg/dl", "147 mg/dl"],
+    "answer": ["64 mg/dl"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 62,
+    "question": "The following are all parts of the mid brain except",
+    "options": [
+      "tectum",
+      "tegmentum",
+      "cerebellum",
+      "superior colliculus",
+      "inferior colliculus"
+    ],
+    "answer": ["cerebellum"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 63,
+    "question": "The principal pathway for the touch sensation is:",
+    "options": [
+      "the ventral spinothalamic tract",
+      "the ventro medial system of the spinothalamic fibres",
+      "the anterolateral system of ascending fibres to the neocortex",
+      "the dorsomedial system of ascending fibres",
+      "none of the above"
+    ],
+    "answer": ["the ventral spinothalamic tract"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 64,
+    "question": "Which of the following statements is not true?",
+    "options": [
+      "stimulation of the lateral areas of the hypothalamus gives rise to vasoconstriction in muscles",
+      "the feeding center is located in the lateral area of the hypothalamus",
+      "one of the body cyclic phenomena is the circadian rhythm in the secretion of ACTH",
+      "an animal lacking cerebellum can still be kept alive",
+      "the hypothalamus makes neural connections both afferent and efferent with all superordinate regions of the central nervous system"
+    ],
+    "answer": [
+      "stimulation of the lateral areas of the hypothalamus gives rise to vasoconstriction in muscles"
+    ],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 65,
+    "question": "Which of the following statements is not true?",
+    "options": [
+      "emotions have mental component",
+      "in emotion, cognition is an awareness of the sensation",
+      "affect is the aspect of emotion that has been extensively studied with very much information documented on its neural basis",
+      "conation is a component of emotion and which is the urge to take action",
+      "none of the above"
+    ],
+    "answer": [""],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 66,
+    "question": "A well known effect of peripheral nervous system is",
+    "options": [
+      "loss of muscle tone",
+      "flaccid paralysis",
+      "loss of sensation over the area supplied",
+      "loss of reflexes",
+      "all of the above"
+    ],
+    "answer": ["all of the above"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  },
+  {
+    "id": 67,
+    "question": "Stimulation of the posterior hypothalamus causes",
+    "options": [
+      "cutaneous vasodilation",
+      "increased feeding",
+      "shivering",
+      "satiety",
+      "none of these"
+    ],
+    "answer": ["shivering"],
+    "explanation": "",
+    "topic": "Central Nervous system"
+  }
+]

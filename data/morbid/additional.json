@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "question": "Natural free radicals is/are",
+    "options": ["CCl4", "Superoxide", "NO", "CCl3", "Hydroxyl"],
+    "answer": ["Superoxide", "NO", "Hydroxyl"],
+    "explanation": "Natural free radicals include Superoxide, NO (Nitric Oxide), and Hydroxyl. CCl4 and CCl3 are not natural free radicals."
+  },
+  {
+    "id": 2,
+    "question": "Thromboembolism occurs from",
+    "options": [
+      "Stasis in the blood vessel",
+      "Hypercoagulability state",
+      "Aspirin overdose",
+      "Atherosclerosis",
+      "Long term immobility of the lower limb"
+    ],
+    "answer": [
+      "Stasis in the blood vessel",
+      "Hypercoagulability state",
+      "Long term immobility of the lower limb"
+    ],
+    "explanation": "Thromboembolism can occur from stasis in the blood vessel, hypercoagulability state, and long-term immobility of the lower limb. Aspirin overdose and atherosclerosis are not direct causes of thromboembolism."
+  },
+  {
+    "id": 3,
+    "question": "Concerning irreversible damage",
+    "options": [
+      "Ischemic injury to the brain for 1hr",
+      "Ischemic injury to the kidney for 30min",
+      "Ischemic injury to the liver 40min",
+      "Ischemic injury to the heart 3-5mins",
+      "Ischemic injury to the skeletal muscle ???"
+    ],
+    "answer": [
+      "Ischemic injury to the brain for 1hr",
+      "Ischemic injury to the heart 3-5mins"
+    ],
+    "explanation": "Irreversible damage can occur with ischemic injury. For the brain, irreversible damage may occur after 1 hour of ischemia, and for the heart, it may occur within 3-5 minutes. The other options represent varying degrees of ischemic injury."
+  },
+  {
+    "id": 4,
+    "question": "Leucocyte-induced injury is implicated in acute inflammation occurring in the following conditions",
+    "options": [
+      "Reperfusion injury",
+      "Vasculitis",
+      "Graves disease",
+      "Atherosclerosis",
+      "Chronic transplant rejection"
+    ],
+    "answer": ["Reperfusion injury", "Vasculitis"],
+    "explanation": "Leucocyte-induced injury is implicated in acute inflammation occurring in conditions such as reperfusion injury and vasculitis. Graves disease, atherosclerosis, and chronic transplant rejection involve other mechanisms of inflammation."
+  },
+  {
+    "id": 5,
+    "question": "A patient presented with right iliac fossa pain with marked tenderness in the McBurney point. An assessment of acute appendicitis was made. Which of the following is/are correct about the finding in the patient",
+    "options": [
+      "Neutrophil infiltrate traverses the wall of the appendix",
+      "Neutrophil infiltrate in the muscularis propria",
+      "Lymphocyte aggregate in the muscularis mucosae",
+      "Focal peritonitis can occur",
+      "Salpingitis is a differential in females"
+    ],
+    "answer": [
+      "Neutrophil infiltrate traverses the wall of the appendix",
+      "Focal peritonitis can occur"
+    ],
+    "explanation": "In acute appendicitis, neutrophil infiltrate typically traverses the wall of the appendix, and focal peritonitis can occur. Neutrophil infiltrate in the muscularis propria, lymphocyte aggregate in the muscularis mucosae, and salpingitis are not characteristic findings in acute appendicitis."
+  },
+  {
+    "id": 6,
+    "question": "A woman presented with fever 37.8°C, pulse rate of 82, two days history of cough with yellow sputum. On examination of the sputum, what are the likely cells seen",
+    "options": [
+      "Mast cells",
+      "Neutrophils",
+      "Macrophages",
+      "Lymphocytes",
+      "???"
+    ],
+    "answer": ["Neutrophils", "Macrophages"],
+    "explanation": "In a woman with fever, cough, and yellow sputum, likely cells seen in the sputum include neutrophils and macrophages. Mast cells and lymphocytes are less likely to be predominant in this context."
+  },
+  {
+    "id": 7,
+    "question": "Granuloma found in which of these conditions",
+    "options": [
+      "Schistosomiasis",
+      "Leprosy",
+      "Syphilis",
+      "Tuberculosis",
+      "Sarcoidosis"
+    ],
+    "answer": [
+      "Schistosomiasis",
+      "Leprosy",
+      "Syphilis",
+      "Tuberculosis",
+      "Sarcoidosis"
+    ],
+    "explanation": "Granulomas can be found in various conditions, including Schistosomiasis, Leprosy, Syphilis, Tuberculosis, and Sarcoidosis."
+  }
+]

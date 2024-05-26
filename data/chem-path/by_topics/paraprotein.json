@@ -1,0 +1,1036 @@
+[
+  {
+    "id": 1,
+    "question": "What are proteins?",
+    "options": [
+      "Polymers of amino acids linked covalently",
+      "Simple carbohydrates",
+      "Lipids",
+      "Nucleic acids"
+    ],
+    "answer": ["Polymers of amino acids linked covalently"]
+  },
+  {
+    "id": 2,
+    "question": "What is the primary structure of a protein?",
+    "options": [
+      "The specific order of amino acid residues in the polypeptide chain",
+      "The folding of the polypeptide chain into a 3-dimensional structure",
+      "The association of several polypeptide chains into a larger oligomeric aggregate",
+      "The arrangement of the primary structure in space along one dimension"
+    ],
+    "answer": [
+      "The specific order of amino acid residues in the polypeptide chain"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is an example of a fibrous protein?",
+    "options": ["Hemoglobin", "Enzymes", "Fibrinogen", "Troponin"],
+    "answer": ["Fibrinogen"]
+  },
+  {
+    "id": 4,
+    "question": "What is the secondary structure of a protein?",
+    "options": [
+      "The specific order of amino acid residues in the polypeptide chain",
+      "The folding of the polypeptide chain into a 3-dimensional structure",
+      "A regularly recurring arrangement in space of the primary structure",
+      "The association of several polypeptide chains into a larger oligomeric aggregate"
+    ],
+    "answer": [
+      "A regularly recurring arrangement in space of the primary structure"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "How are most plasma proteins synthesized?",
+    "options": [
+      "By muscle cells",
+      "By nerve cells",
+      "By liver cells",
+      "By kidney cells"
+    ],
+    "answer": ["By liver cells"]
+  },
+  {
+    "id": 6,
+    "question": "Which hormones are involved in protein synthesis?",
+    "options": [
+      "Thyroxine, GH, Insulin, Testosterone",
+      "Glucagon, Cortisol",
+      "Thyroxine, GH, Glucagon, Insulin",
+      "Cortisol, Testosterone, Insulin, GH"
+    ],
+    "answer": ["Thyroxine, GH, Glucagon, Insulin"]
+  },
+  {
+    "id": 7,
+    "question": "What is the quaternary structure of a protein?",
+    "options": [
+      "The specific order of amino acid residues in the polypeptide chain",
+      "The folding of the polypeptide chain into a 3-dimensional structure",
+      "A regularly recurring arrangement in space of the primary structure",
+      "The association of several polypeptide chains into a larger oligomeric aggregate"
+    ],
+    "answer": [
+      "The association of several polypeptide chains into a larger oligomeric aggregate"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is a property of plasma proteins?",
+    "options": [
+      "Molecular size",
+      "Differential solubility",
+      "Electrical charge",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 9,
+    "question": "Which hormones are involved in protein catabolism?",
+    "options": [
+      "Thyroxine, GH, Insulin, Testosterone",
+      "Glucagon, Cortisol",
+      "Thyroxine, GH, Glucagon, Insulin",
+      "Cortisol, Testosterone, Insulin, GH"
+    ],
+    "answer": ["Glucagon, Cortisol"]
+  },
+  {
+    "id": 10,
+    "question": "What are conjugated proteins?",
+    "options": [
+      "Proteins that contain non-amino acid components",
+      "Proteins that are synthesized by plasma cells",
+      "Proteins that are involved in hormone synthesis",
+      "Proteins that are found in the nucleus"
+    ],
+    "answer": ["Proteins that contain non-amino acid components"]
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is an example of a conjugated protein?",
+    "options": ["Hemoglobin", "Collagen", "Myosin", "Lipoproteins"],
+    "answer": ["Lipoproteins"]
+  },
+  {
+    "id": 12,
+    "question": "What is the tertiary structure of a protein?",
+    "options": [
+      "The specific order of amino acid residues in the polypeptide chain",
+      "The folding of the polypeptide chain into a 3-dimensional structure",
+      "A regularly recurring arrangement in space of the primary structure",
+      "The association of several polypeptide chains into a larger oligomeric aggregate"
+    ],
+    "answer": [
+      "The folding of the polypeptide chain into a 3-dimensional structure"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Which cells synthesize immunoglobulins?",
+    "options": ["Liver cells", "Muscle cells", "Nerve cells", "Plasma cells"],
+    "answer": ["Plasma cells"]
+  },
+  {
+    "id": 14,
+    "question": "Which of the following hormones is involved in protein synthesis?",
+    "options": ["Glucagon", "Cortisol", "Thyroxine", "Both A and B"],
+    "answer": ["Both A and B"]
+  },
+  {
+    "id": 15,
+    "question": "What is the function of plasma proteins?",
+    "options": [
+      "Structural elements of cells",
+      "Soluble in intracellular fluids",
+      "Soluble in extracellular fluids",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 16,
+    "question": "How are plasma proteins synthesized?",
+    "options": [
+      "By muscle cells",
+      "By liver cells",
+      "By nerve cells",
+      "By kidney cells"
+    ],
+    "answer": ["By liver cells"]
+  },
+  {
+    "id": 17,
+    "question": "Which hormones are involved in protein catabolism?",
+    "options": [
+      "Thyroxine, GH, Insulin, Testosterone",
+      "Glucagon, Cortisol",
+      "Thyroxine, GH, Glucagon, Insulin",
+      "Cortisol, Testosterone, Insulin, GH"
+    ],
+    "answer": ["Glucagon, Cortisol"]
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is a property of plasma proteins?",
+    "options": [
+      "Molecular size",
+      "Differential solubility",
+      "Electrical charge",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 19,
+    "question": "Which hormones are involved in protein synthesis?",
+    "options": [
+      "Thyroxine, GH, Insulin, Testosterone",
+      "Glucagon, Cortisol",
+      "Thyroxine, GH, Glucagon, Insulin",
+      "Cortisol, Testosterone, Insulin, GH"
+    ],
+    "answer": ["Thyroxine, GH, Glucagon, Insulin"]
+  },
+  {
+    "id": 20,
+    "question": "What are conjugated proteins?",
+    "options": [
+      "Proteins that contain non-amino acid components",
+      "Proteins that are synthesized by plasma cells",
+      "Proteins that are involved in hormone synthesis",
+      "Proteins that are found in the nucleus"
+    ],
+    "answer": ["Proteins that contain non-amino acid components"]
+  },
+  {
+    "id": 21,
+    "question": "What sets proteins apart from pure carbohydrates and lipids?",
+    "options": [
+      "They contain sulfur atoms",
+      "They contain nitrogen atoms",
+      "They are insoluble in water",
+      "They are found only in animal tissues"
+    ],
+    "answer": ["They contain nitrogen atoms"]
+  },
+  {
+    "id": 22,
+    "question": "What is the average nitrogen content of plasma proteins?",
+    "options": ["8%", "16%", "24%", "32%"],
+    "answer": ["16%"]
+  },
+  {
+    "id": 23,
+    "question": "What is the balance between protein synthesis and breakdown called?",
+    "options": [
+      "Nitrogen balance",
+      "Protein equilibrium",
+      "Amino acid balance",
+      "Protein turnover"
+    ],
+    "answer": ["Nitrogen balance"]
+  },
+  {
+    "id": 24,
+    "question": "In which condition does net protein synthesis proceed?",
+    "options": [
+      "Positive nitrogen balance",
+      "Negative nitrogen balance",
+      "Protein equilibrium",
+      "Protein breakdown"
+    ],
+    "answer": ["Positive nitrogen balance"]
+  },
+  {
+    "id": 25,
+    "question": "Which pathway degrades extracellular and some intracellular proteins?",
+    "options": [
+      "Lysosomal pathway",
+      "Cytosolic pathway",
+      "Transamination pathway",
+      "Oxidative pathway"
+    ],
+    "answer": ["Lysosomal pathway"]
+  },
+  {
+    "id": 26,
+    "question": "What is transamination?",
+    "options": [
+      "The breakdown of proteins to amino acids",
+      "The synthesis of proteins from amino acids",
+      "The transfer of an amino group from one amino acid to a keto carbon",
+      "The conversion of amino acids to ammonia"
+    ],
+    "answer": [
+      "The transfer of an amino group from one amino acid to a keto carbon"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Which of the following is not a classification of plasma proteins?",
+    "options": [
+      "Enzymes",
+      "Hormones",
+      "Transport proteins",
+      "Structural proteins"
+    ],
+    "answer": ["Enzymes"]
+  },
+  {
+    "id": 28,
+    "question": "What is the function of immunoglobulins?",
+    "options": [
+      "Transport ions",
+      "Control cell growth",
+      "Mediate the humoral immune response",
+      "Serve as reserve sources of energy"
+    ],
+    "answer": ["Mediate the humoral immune response"]
+  },
+  {
+    "id": 29,
+    "question": "What is the function of structural proteins?",
+    "options": [
+      "Transport hormones",
+      "Provide support to cells and tissues",
+      "Regulate immune responses",
+      "Maintain acid-base balance"
+    ],
+    "answer": ["Provide support to cells and tissues"]
+  },
+  {
+    "id": 30,
+    "question": "Which plasma protein is responsible for 80% of the colloid pressure of intravascular fluid?",
+    "options": ["Immunoglobulins", "Albumin", "Enzymes", "Hormones"],
+    "answer": ["Albumin"]
+  },
+  {
+    "id": 31,
+    "question": "What happens to the plasma colloid osmotic pressure when the concentration of plasma proteins decreases significantly?",
+    "options": [
+      "It increases",
+      "It decreases",
+      "It remains unchanged",
+      "It becomes unpredictable"
+    ],
+    "answer": ["It decreases"]
+  },
+  {
+    "id": 32,
+    "question": "Which of the following conditions can lead to decreased plasma protein concentration?",
+    "options": [
+      "Malnutrition and malabsorption",
+      "Liver disease",
+      "Protein-losing enteropathy",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 33,
+    "question": "What is the function of alpha-1-antitrypsin?",
+    "options": [
+      "It inhibits neutrophil elastase",
+      "It promotes blood coagulation",
+      "It transports hormones",
+      "It regulates immune responses"
+    ],
+    "answer": ["It inhibits neutrophil elastase"]
+  },
+  {
+    "id": 34,
+    "question": "What is the function of alpha-fetoprotein in fetuses?",
+    "options": [
+      "It binds estradiol",
+      "It protects the fetus from immunological attack by the mother",
+      "It regulates growth and development",
+      "It is involved in the metabolism of lipids"
+    ],
+    "answer": ["It protects the fetus from immunological attack by the mother"]
+  },
+  {
+    "id": 35,
+    "question": "Which of the following is a function of alpha-1-acid glycoprotein?",
+    "options": [
+      "It regulates immune responses",
+      "It maintains acid-base balance",
+      "It transports ions",
+      "It is a positive acute-phase reactant"
+    ],
+    "answer": ["It is a positive acute-phase reactant"]
+  },
+  {
+    "id": 36,
+    "question": "Which of the following conditions can lead to an increase in alpha-1-acid glycoprotein levels?",
+    "options": ["Stress", "Inflammation", "Cancer", "All of the above"],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 37,
+    "question": "Which plasma protein is called prealbumin because it migrates ahead of albumin in electrophoresis?",
+    "options": [
+      "Albumin",
+      "Alpha-1-antitrypsin",
+      "Alpha-1-acid glycoprotein",
+      "Prealbumin (transthyretin)"
+    ],
+    "answer": ["Prealbumin (transthyretin)"]
+  },
+  {
+    "id": 38,
+    "question": "What is the function of prealbumin?",
+    "options": [
+      "Transport protein for T4 and T3",
+      "Regulate immune responses",
+      "Maintain acid-base balance",
+      "Serve as a reserve source of energy"
+    ],
+    "answer": ["Transport protein for T4 and T3"]
+  },
+  {
+    "id": 39,
+    "question": "Which plasma protein is synthesized in the liver at the rate of 9-12g daily?",
+    "options": [
+      "Alpha-1-antitrypsin",
+      "Alpha-fetoprotein",
+      "Albumin",
+      "Alpha-1-acid glycoprotein"
+    ],
+    "answer": ["Albumin"]
+  },
+  {
+    "id": 40,
+    "question": "What is the function of albumin in the body?",
+    "options": [
+      "Transport thyroid hormones",
+      "Regulate immune responses",
+      "Maintain colloid pressure of intravascular fluid",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 41,
+    "question": "What is the function of alpha-1-antitrypsin?",
+    "options": [
+      "It inhibits neutrophil elastase",
+      "It promotes blood coagulation",
+      "It transports hormones",
+      "It regulates immune responses"
+    ],
+    "answer": ["It inhibits neutrophil elastase"]
+  },
+  {
+    "id": 42,
+    "question": "What is the function of alpha-fetoprotein in fetuses?",
+    "options": [
+      "It binds estradiol",
+      "It protects the fetus from immunological attack by the mother",
+      "It regulates growth and development",
+      "It is involved in the metabolism of lipids"
+    ],
+    "answer": ["It protects the fetus from immunological attack by the mother"]
+  },
+  {
+    "id": 43,
+    "question": "Which of the following is a function of alpha-1-acid glycoprotein?",
+    "options": [
+      "It regulates immune responses",
+      "It maintains acid-base balance",
+      "It transports ions",
+      "It is a positive acute-phase reactant"
+    ],
+    "answer": ["It is a positive acute-phase reactant"]
+  },
+  {
+    "id": 44,
+    "question": "Which of the following conditions can lead to an increase in alpha-1-acid glycoprotein levels?",
+    "options": ["Stress", "Inflammation", "Cancer", "All of the above"],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 45,
+    "question": "Which plasma protein is called prealbumin because it migrates ahead of albumin in electrophoresis?",
+    "options": [
+      "Albumin",
+      "Alpha-1-antitrypsin",
+      "Alpha-1-acid glycoprotein",
+      "Prealbumin (transthyretin)"
+    ],
+    "answer": ["Prealbumin (transthyretin)"]
+  },
+  {
+    "id": 46,
+    "question": "What is the function of prealbumin?",
+    "options": [
+      "Transport protein for T4 and T3",
+      "Regulate immune responses",
+      "Maintain acid-base balance",
+      "Serve as a reserve source of energy"
+    ],
+    "answer": ["Transport protein for T4 and T3"]
+  },
+  {
+    "id": 47,
+    "question": "Which plasma protein is synthesized in the liver at the rate of 9-12g daily?",
+    "options": [
+      "Alpha-1-antitrypsin",
+      "Alpha-fetoprotein",
+      "Albumin",
+      "Alpha-1-acid glycoprotein"
+    ],
+    "answer": ["Albumin"]
+  },
+  {
+    "id": 48,
+    "question": "What is the function of albumin in the body?",
+    "options": [
+      "Transport thyroid hormones",
+      "Regulate immune responses",
+      "Maintain colloid pressure of intravascular fluid",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 49,
+    "question": "Which proteinase inhibitor inhibits the activity of enzymes such as cathepsin G, pancreatic elastase, mast cell chymase, and chymotrypsin?",
+    "options": [
+      "Alpha-1-antichymotrypsin",
+      "Hemopexin",
+      "Ceruloplasmin",
+      "Fibrinogen"
+    ],
+    "answer": ["Alpha-1-antichymotrypsin"]
+  },
+  {
+    "id": 50,
+    "question": "Which protein is produced in the liver and is a positive acute-phase protein?",
+    "options": [
+      "Hemopexin",
+      "Ceruloplasmin",
+      "Alpha-1-antichymotrypsin",
+      "Haptoglobin"
+    ],
+    "answer": ["Alpha-1-antichymotrypsin"]
+  },
+  {
+    "id": 51,
+    "question": "Deficiency of which protein is associated with liver disease?",
+    "options": [
+      "Haptoglobin",
+      "Ceruloplasmin",
+      "Alpha-1-antichymotrypsin",
+      "Hemopexin"
+    ],
+    "answer": ["Alpha-1-antichymotrypsin"]
+  },
+
+  {
+    "id": 52,
+    "question": "Which protein is a major carrier protein of vitamin D and its metabolites?",
+    "options": [
+      "Ceruloplasmin",
+      "Haptoglobin",
+      "Alpha-1-antichymotrypsin",
+      "Gc-globulin"
+    ],
+    "answer": ["Gc-globulin"]
+  },
+  {
+    "id": 53,
+    "question": "Which protein is synthesized by hepatocytes and transports fatty acids and endotoxins?",
+    "options": [
+      "Hemopexin",
+      "Haptoglobin",
+      "Alpha-1-antichymotrypsin",
+      "Gc-globulin"
+    ],
+    "answer": ["Gc-globulin"]
+  },
+  {
+    "id": 54,
+    "question": "In which trimester of pregnancy is Gc-globulin increased?",
+    "options": [
+      "1st trimester",
+      "2nd trimester",
+      "3rd trimester",
+      "None of the above"
+    ],
+    "answer": ["3rd trimester"]
+  },
+  {
+    "id": 55,
+    "question": "Which protein is increased in patients taking estrogen oral contraceptive pills?",
+    "options": [
+      "Hemopexin",
+      "Ceruloplasmin",
+      "Alpha-1-antichymotrypsin",
+      "Gc-globulin"
+    ],
+    "answer": ["Gc-globulin"]
+  },
+  {
+    "id": 56,
+    "question": "Which protein is an alpha-2-glycoprotein synthesized in the hepatocytes and is an acute-phase protein?",
+    "options": [
+      "Hemopexin",
+      "Ceruloplasmin",
+      "Alpha-1-antichymotrypsin",
+      "Haptoglobin"
+    ],
+    "answer": ["Haptoglobin"]
+  },
+  {
+    "id": 57,
+    "question": "What does haptoglobin bind to prevent the loss of hemoglobin and its constituent, iron, into the urine?",
+    "options": ["Free hemoglobin", "Free iron", "Free protein", "Free calcium"],
+    "answer": ["Free hemoglobin"]
+  },
+  {
+    "id": 58,
+    "question": "In which conditions is haptoglobin increased?",
+    "options": [
+      "Ulcerative colitis",
+      "Acute rheumatic disease",
+      "Heart attack",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 59,
+    "question": "Which protein is a serine protease inhibitor that inhibits the activity of enzymes such as cathepsin G and chymotrypsin?",
+    "options": [
+      "Alpha-1-antichymotrypsin",
+      "Haptoglobin",
+      "Ceruloplasmin",
+      "Hemopexin"
+    ],
+    "answer": ["Alpha-1-antichymotrypsin"]
+  },
+  {
+    "id": 60,
+    "question": "Alpha-1-antichymotrypsin is deficient in which condition?",
+    "options": [
+      "Hemolytic anemia",
+      "Wilson's disease",
+      "Liver disease",
+      "Nephrotic syndrome"
+    ],
+    "answer": ["Liver disease"]
+  },
+  {
+    "id": 61,
+    "question": "Which protein is a major carrier protein of vitamin D and its metabolites?",
+    "options": ["Transferrin", "Haptoglobin", "Ceruloplasmin", "Gc-globulin"],
+    "answer": ["Gc-globulin"]
+  },
+  {
+    "id": 62,
+    "question": "In which trimester of pregnancy is there an increase in Gc-globulin levels?",
+    "options": [
+      "1st trimester",
+      "2nd trimester",
+      "3rd trimester",
+      "None of the above"
+    ],
+    "answer": ["3rd trimester"]
+  },
+  {
+    "id": 63,
+    "question": "Patients taking estrogen oral contraceptive pills may show an increase in which protein?",
+    "options": [
+      "Alpha-1-antichymotrypsin",
+      "Haptoglobin",
+      "Transferrin",
+      "Beta-2-microglobulin"
+    ],
+    "answer": ["Gc-globulin"]
+  },
+  {
+    "id": 64,
+    "question": "Which protein binds free hemoglobin to prevent its loss in urine?",
+    "options": [
+      "Hemopexin",
+      "Ceruloplasmin",
+      "Haptoglobin",
+      "Alpha-2-macroglobulin"
+    ],
+    "answer": ["Haptoglobin"]
+  },
+  {
+    "id": 65,
+    "question": "In which conditions is haptoglobin increased?",
+    "options": [
+      "Ulcerative colitis",
+      "Acute rheumatic disease",
+      "Severe infection",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 66,
+    "question": "In which condition is there a monoclonal increase in IgM?",
+    "options": [
+      "Toxoplasmosis",
+      "Primary biliary cirrhosis",
+      "Cytomegalovirus infection",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 67,
+    "question": "Which immunoglobulin is the first antibody to appear in response to antigenic stimulation?",
+    "options": ["IgG", "IgA", "IgM", "IgE"],
+    "answer": ["IgM"]
+  },
+  {
+    "id": 68,
+    "question": "IgG myeloma may result in an increase in which immunoglobulin?",
+    "options": ["IgG", "IgA", "IgM", "IgE"],
+    "answer": ["IgM"]
+  },
+  {
+    "id": 69,
+    "question": "What is the main function of IgE?",
+    "options": [
+      "Binds to bacteria and fungi",
+      "Neutralizes toxins",
+      "Contributes to allergic reactions",
+      "Acts in mucous secretions"
+    ],
+    "answer": ["Contributes to allergic reactions"]
+  },
+  {
+    "id": 70,
+    "question": "Which protein is synthesized in the liver and is a marker for congestive heart failure?",
+    "options": [
+      "Myoglobin",
+      "Troponin",
+      "Brain natriuretic peptide",
+      "Fibrinogen"
+    ],
+    "answer": ["Brain natriuretic peptide"]
+  },
+  {
+    "id": 71,
+    "question": "What is the primary oxygen-carrying protein in muscle tissue?",
+    "options": ["Myoglobin", "Troponin", "Hemopexin", "Fibrinogen"],
+    "answer": ["Myoglobin"]
+  },
+  {
+    "id": 72,
+    "question": "Which protein is a marker for bone resorption?",
+    "options": [
+      "Fibrinogen",
+      "Beta-2-microglobulin",
+      "Cross-linked C-telopeptides",
+      "Cystatin C"
+    ],
+    "answer": ["Cross-linked C-telopeptides"]
+  },
+  {
+    "id": 73,
+    "question": "Which protein is a potential marker for impaired renal function and is not influenced by glucocorticoid therapy?",
+    "options": [
+      "Beta-trace protein",
+      "Brain natriuretic peptide",
+      "Fibrinogen",
+      "Fibronectin"
+    ],
+    "answer": ["Beta-trace protein"]
+  },
+  {
+    "id": 74,
+    "question": "What is the primary function of alpha-1-antichymotrypsin?",
+    "options": [
+      "Transport fatty acids",
+      "Inhibit serine proteases",
+      "Scavenge free heme",
+      "Carry oxygen in muscle tissue"
+    ],
+    "answer": ["Inhibit serine proteases"]
+  },
+  {
+    "id": 75,
+    "question": "Which condition is characterized by low haptoglobin levels without signs of hemolytic anemia?",
+    "options": [
+      "Wilson's disease",
+      "Hemolytic anemia",
+      "Liver disease",
+      "None of the above"
+    ],
+    "answer": ["None of the above"]
+  },
+  {
+    "id": 76,
+    "question": "Which protein is synthesized by hepatocytes and is involved in the transport of iron?",
+    "options": ["Haptoglobin", "Hemopexin", "Transferrin", "Fibrinogen"],
+    "answer": ["Transferrin"]
+  },
+  {
+    "id": 77,
+    "question": "In which trimester of pregnancy do alpha-2-macroglobulin levels increase?",
+    "options": [
+      "1st trimester",
+      "2nd trimester",
+      "3rd trimester",
+      "None of the above"
+    ],
+    "answer": ["3rd trimester"]
+  },
+  {
+    "id": 78,
+    "question": "Which protein is a positive acute-phase reactant and forms a fibrin clot when activated by thrombin?",
+    "options": [
+      "Transferrin",
+      "Hemopexin",
+      "Fibrinogen",
+      "Beta-2-microglobulin"
+    ],
+    "answer": ["Fibrinogen"]
+  },
+  {
+    "id": 79,
+    "question": "In which condition is there an increase in CRP levels?",
+    "options": ["Rheumatoid arthritis", "AIDS", "Gout", "All of the above"],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 80,
+    "question": "What is the function of immunoglobulin IgD?",
+    "options": [
+      "Regulate B cell function",
+      "Cross the placenta",
+      "Bind to cell membrane",
+      "Neutralize toxins"
+    ],
+    "answer": ["Regulate B cell function"]
+  },
+  {
+    "id": 81,
+    "question": "In which condition is there an increase in brain natriuretic peptide?",
+    "options": [
+      "Liver disease",
+      "Renal failure",
+      "Congestive heart failure",
+      "Muscle injury"
+    ],
+    "answer": ["Congestive heart failure"]
+  },
+  {
+    "id": 82,
+    "question": "Which immunoglobulin is resistant to enzyme degradation?",
+    "options": ["IgG", "IgA", "IgM", "IgE"],
+    "answer": ["IgM"]
+  },
+  {
+    "id": 83,
+    "question": "Which protein maintains the adherence of the placenta to the uterus?",
+    "options": [
+      "Fibrinogen",
+      "Fibronectin",
+      "Fibronection/adiponectin",
+      "Beta-trace protein"
+    ],
+    "answer": ["Fibronectin"]
+  },
+  {
+    "id": 84,
+    "question": "What is the role of cross-linked C-telopeptides?",
+    "options": [
+      "Marker for bone resorption",
+      "Marker for renal function",
+      "Marker for muscle injury",
+      "Marker for heart failure"
+    ],
+    "answer": ["Marker for bone resorption"]
+  },
+  {
+    "id": 85,
+    "question": "In which condition is there a decrease in adiponectin levels?",
+    "options": [
+      "Obesity",
+      "Liver disease",
+      "Congestive heart failure",
+      "Rheumatoid arthritis"
+    ],
+    "answer": ["Obesity"]
+  },
+  {
+    "id": 86,
+    "question": "Which protein is a potential marker in the diagnosis of perilymphatic fistulas?",
+    "options": [
+      "Brain natriuretic peptide",
+      "Cross-linked C-telopeptides",
+      "Beta-trace protein",
+      "Cystatin C"
+    ],
+    "answer": ["Beta-trace protein"]
+  },
+  {
+    "id": 87,
+    "question": "Which immunoglobulin is associated with allergic reactions?",
+    "options": ["IgG", "IgA", "IgM", "IgE"],
+    "answer": ["IgE"]
+  },
+  {
+    "id": 88,
+    "question": "In which condition is there an increase in myoglobin levels?",
+    "options": [
+      "Liver disease",
+      "Renal failure",
+      "Muscle injury",
+      "Heart failure"
+    ],
+    "answer": ["Muscle injury"]
+  },
+  {
+    "id": 89,
+    "question": "Amyloidosis is characterized by the deposition of which type of protein in tissues or organs?",
+    "options": ["Alpha-1-antitrypsin", "Amyloid", "Hemoglobin", "Fibrinogen"],
+    "answer": ["Amyloid"]
+  },
+  {
+    "id": 90,
+    "question": "Which alteration in protein structure is responsible for the formation of amyloid fibrils?",
+    "options": [
+      "Alpha-helix",
+      "Beta-pleated sheets",
+      "Random coil",
+      "Extended strand"
+    ],
+    "answer": ["Beta-pleated sheets"]
+  },
+  {
+    "id": 91,
+    "question": "What is the primary function of tau protein in the differentiation of Alzheimer's disease from other forms of dementia?",
+    "options": [
+      "Formation of amyloid fibrils",
+      "Regulation of cell adhesion",
+      "Stabilization of microtubules",
+      "Differentiation of B-lymphocytes"
+    ],
+    "answer": ["Stabilization of microtubules"]
+  },
+  {
+    "id": 92,
+    "question": "Paraproteins are produced by which type of cells?",
+    "options": ["Plasma cells", "T cells", "Macrophages", "B cells"],
+    "answer": ["Plasma cells"]
+  },
+  {
+    "id": 93,
+    "question": "Which condition is characterized by the presence of a monoclonal paraprotein in the blood or urine?",
+    "options": [
+      "Multiple myeloma",
+      "Chronic lymphocytic leukemia",
+      "Hodgkin lymphoma",
+      "Waldenstrom's macroglobulinemia"
+    ],
+    "answer": ["Multiple myeloma"]
+  },
+  {
+    "id": 94,
+    "question": "What is the significance of identifying paraproteins in blood or urine?",
+    "options": [
+      "Assessing prognosis",
+      "Confirming diagnosis",
+      "Monitoring response to treatment",
+      "All of the above"
+    ],
+    "answer": ["All of the above"]
+  },
+  {
+    "id": 95,
+    "question": "Which criterion indicates a benign course for paraproteinaemias?",
+    "options": [
+      "IgG concentration > 2g/dL",
+      "Progressive increase in paraprotein concentration",
+      "Presence of Ig fragments in urine or serum",
+      "Polyclonal Ig concentration decreased greatly"
+    ],
+    "answer": ["Polyclonal Ig concentration decreased greatly"]
+  },
+  {
+    "id": 96,
+    "question": "Multiple myeloma is characterized by the proliferation of which type of cells?",
+    "options": ["Plasma cells", "T cells", "B cells", "Macrophages"],
+    "answer": ["Plasma cells"]
+  },
+  {
+    "id": 97,
+    "question": "What is the cardinal diagnostic feature of multiple myeloma?",
+    "options": [
+      "Presence of Bence Jones proteinuria",
+      "Radiological demonstration of osteolytic lesions",
+      "Identification of paraproteins in serum or urine",
+      "Neoplastic plasma cells in bone marrow aspirate"
+    ],
+    "answer": ["Neoplastic plasma cells in bone marrow aspirate"]
+  },
+  {
+    "id": 98,
+    "question": "Which lymphoid tumor is associated with the production of paraproteins of the IgM class?",
+    "options": [
+      "Chronic lymphocytic leukemia",
+      "Hodgkin lymphoma",
+      "Waldenstrom's macroglobulinemia",
+      "Multiple myeloma"
+    ],
+    "answer": ["Waldenstrom's macroglobulinemia"]
+  },
+  {
+    "id": 99,
+    "question": "Waldenstrom's macroglobulinemia is characterized by the production of which type of immunoglobulin?",
+    "options": ["IgG", "IgA", "IgM", "IgE"],
+    "answer": ["IgM"]
+  },
+  {
+    "id": 100,
+    "question": "Heavy chain disease is characterized by the production of abnormal forms of which immunoglobulin component?",
+    "options": [
+      "Heavy chain only",
+      "Light chain only",
+      "Both heavy and light chains",
+      "Beta-2-microglobulin"
+    ],
+    "answer": ["Heavy chain only"]
+  },
+  {
+    "id": 101,
+    "question": "Cryoglobulinemia is characterized by the precipitation of serum proteins at temperatures lower than normal body temperature. What is the most common type of cryoglobulin?",
+    "options": ["IgG", "IgA", "IgM", "Polyclonal Ig complexes"],
+    "answer": ["Polyclonal Ig complexes"]
+  },
+  {
+    "id": 102,
+    "question": "Hypoparaproteinaemia is characterized by a total protein level less than the reference interval. What is a possible cause of hypoparaproteinaemia?",
+    "options": [
+      "Excessive production of proteins",
+      "Decreased intake of proteins",
+      "Increased synthesis of proteins",
+      "Accelerated catabolism of proteins"
+    ],
+    "answer": ["Accelerated catabolism of proteins"]
+  },
+  {
+    "id": 103,
+    "question": "Hyperproteinaemia is characterized by an increase in total plasma proteins. What is a common cause of hyperproteinaemia?",
+    "options": [
+      "Dehydration",
+      "Malnutrition",
+      "Liver disease",
+      "Excessive protein intake"
+    ],
+    "answer": ["Dehydration"]
+  }
+]

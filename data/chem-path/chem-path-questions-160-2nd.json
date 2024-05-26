@@ -1,0 +1,864 @@
+[
+  {
+    "id": 1,
+    "questionType": "objective",
+    "question": "The primary site for absorption of water by the digestive system is the:",
+    "options": ["Oesophagus", "Colon", "Jejunum", "Liver", "Stomach"],
+    "answer": ["Colon"],
+    "explanation": "The primary site for absorption of water in the digestive system is the colon (large intestine). It plays a crucial role in reabsorbing water and electrolytes from undigested food.",
+    "searchTags": ["Digestive System", "Water Absorption", "Colon"],
+    "topics": ["Gastroenterology"]
+  },
+  {
+    "id": 2,
+    "questionType": "objective",
+    "question": "Which of the following is a function of bile?",
+    "options": [
+      "Acidification of G' contents",
+      "Emulsification Of Gl contents",
+      "Enzymatic breakdown Of fats",
+      "Speeding up Gl transit time",
+      "Destruction of potentially harmful substances"
+    ],
+    "answer": ["Emulsification Of Gl contents"],
+    "explanation": "One of the functions of bile is the emulsification of fat (lipids) in the digestive system, aiding in their breakdown and absorption.",
+    "searchTags": ["Bile", "Digestive System", "Emulsification"],
+    "topics": ["Gastroenterology"]
+  },
+  {
+    "id": 3,
+    "questionType": "objective",
+    "question": "Which of the following lipoproteins is via the exogenous lipoprotein pathway?",
+    "options": [
+      "High density lipoprotein",
+      "Very low density lipoprotein",
+      "Chylomicrons",
+      "Low density lipoproteins",
+      "Triglycerides"
+    ],
+    "answer": ["Chylomicrons"],
+    "explanation": "Chylomicrons are lipoproteins formed in the small intestine and enter the bloodstream via the exogenous lipoprotein pathway, transporting dietary lipids.",
+    "searchTags": [
+      "Lipoproteins",
+      "Exogenous Lipoprotein Pathway",
+      "Chylomicrons"
+    ],
+    "topics": ["Biochemistry"]
+  },
+  {
+    "id": 4,
+    "questionType": "objective",
+    "question": "Functions of lipids include:",
+    "options": [
+      "Provide energy for the body",
+      "Form part of cellular membranes",
+      "Cell signaling",
+      "All options are correct",
+      "None of the above is correct"
+    ],
+    "answer": ["All options are correct"],
+    "explanation": "Lipids serve various functions, including providing energy, forming cellular membranes, and participating in cell signaling. All the options are correct.",
+    "searchTags": ["Lipids", "Cellular Functions", "Energy Metabolism"],
+    "topics": ["Biochemistry"]
+  },
+  {
+    "id": 5,
+    "questionType": "objective",
+    "question": "Tangier's disease is a disorder of lipoprotein metabolism. The phenotype corresponds to:",
+    "options": [
+      "Low level of VLDL",
+      "Low level of LDL",
+      "Low level of IDL",
+      "Low level of HDL",
+      "Low level of Triglyceride"
+    ],
+    "answer": ["Low level of HDL"],
+    "explanation": "Tangier's disease is associated with low levels of high-density lipoprotein (HDL), which is a characteristic feature of this disorder.",
+    "searchTags": ["Tangier's Disease", "Lipoprotein Metabolism", "HDL"],
+    "topics": ["Genetics", "Biochemistry"]
+  },
+  {
+    "id": 6,
+    "questionType": "objective",
+    "question": "Which of the following is an integral apolipoprotein present in VLDL, IDL, and LDL?",
+    "options": ["Apo B-100", "Apo B-48", "Apo C-II", "Apo E", "Apo C-I"],
+    "answer": ["Apo B-100"],
+    "explanation": "Apolipoprotein B-100 is an integral apolipoprotein present in VLDL, IDL, and LDL, playing a key role in lipoprotein metabolism.",
+    "searchTags": ["Apolipoproteins", "VLDL", "LDL", "Metabolism"],
+    "topics": ["Biochemistry"]
+  },
+  {
+    "id": 7,
+    "questionType": "objective",
+    "question": "Which of the following proteins is important for HDL function?",
+    "options": [
+      "Apo A-1",
+      "Lecithin-Cholesterol Acyl Transferase (LCAT)",
+      "Cholesteryl Ester Transport Protein",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Apo A-1, LCAT, and CETP are important proteins for HDL function. Apo A-1 is a major component, LCAT is involved in cholesterol esterification, and CETP mediates lipid transfer.",
+    "searchTags": ["HDL Function", "Apolipoproteins", "LCAT", "CETP"],
+    "topics": ["Biochemistry"]
+  },
+  {
+    "id": 8,
+    "questionType": "objective",
+    "question": "Concerning Familial Hypercholesterolemia, it is not:",
+    "options": [
+      "An autosomal dominant disorder",
+      "Associated with impaired LDL metabolism",
+      "Associated with very high levels of plasma cholesterol",
+      "Characterized by the presence of tendon xanthoma",
+      "Associated with normal Plasma LDL levels"
+    ],
+    "answer": ["Associated with normal Plasma LDL levels"],
+    "explanation": "Familial Hypercholesterolemia is not associated with normal Plasma LDL levels. It is characterized by high levels of LDL cholesterol.",
+    "searchTags": [
+      "Familial Hypercholesterolemia",
+      "LDL Metabolism",
+      "Cholesterol Levels"
+    ],
+    "topics": ["Genetics", "Biochemistry"]
+  },
+  {
+    "id": 9,
+    "questionType": "objective",
+    "question": "The enzyme that regulates the biosynthesis of cholesterol and also serves as the drug-target in the treatment of hypercholesterolemia is:",
+    "options": [
+      "HMG-CoA synthase",
+      "HMG-CoA reductase",
+      "Lansterol oxidase",
+      "Cholesterol synthase",
+      "Lipoprotein lipase synthase"
+    ],
+    "answer": ["HMG-CoA reductase"],
+    "explanation": "HMG-CoA reductase is the enzyme that regulates the biosynthesis of cholesterol and is a target for drugs used in the treatment of hypercholesterolemia.",
+    "searchTags": [
+      "Cholesterol Biosynthesis",
+      "HMG-CoA Reductase",
+      "Hypercholesterolemia"
+    ],
+    "topics": ["Biochemistry"]
+  },
+  {
+    "id": 10,
+    "questionType": "objective",
+    "question": "Which of the following enzymes is used for the differential diagnosis of obstructive jaundice?",
+    "options": [
+      "Lactate dehydrogenase",
+      "Creatine kinase",
+      "Carbonic anhydrase",
+      "5 Nucleotidase",
+      "Alanine amino transferase"
+    ],
+    "answer": ["5 Nucleotidase"],
+    "explanation": "5 Nucleotidase is used for the differential diagnosis of obstructive jaundice. Elevated levels suggest hepatobiliary diseases.",
+    "searchTags": [
+      "Obstructive Jaundice",
+      "Diagnostic Enzymes",
+      "5 Nucleotidase"
+    ],
+    "topics": ["Biochemistry"]
+  },
+  {
+    "id": 11,
+    "questionType": "objective",
+    "question": "Which of the following are involved in the pathogenesis of hepatic encephalopathy?",
+    "options": [
+      "Acetylcholine receptors",
+      "Hyperammonaemia",
+      "Hypoglycaemia",
+      "Viral hepatitis",
+      "Alcoholic hepatitis"
+    ],
+    "answer": ["Hyperammonaemia"],
+    "explanation": "Hyperammonaemia is involved in the pathogenesis of hepatic encephalopathy. Elevated ammonia levels affect the central nervous system.",
+    "searchTags": [
+      "Hepatic Encephalopathy",
+      "Hyperammonaemia",
+      "Liver Diseases"
+    ],
+    "topics": ["Biochemistry"]
+  },
+  {
+    "id": 12,
+    "questionType": "objective",
+    "question": "Which of the following processes occur during dialysis?",
+    "options": [
+      "Separation of colloids from crystalloids",
+      "Purification of colloids",
+      "Precipitation of colloids",
+      "Ultrafiltration of plasma",
+      "None of the above"
+    ],
+    "answer": ["Ultrafiltration of plasma"],
+    "explanation": "During dialysis, one of the processes is ultrafiltration of plasma, removing waste products and excess fluids from the blood.",
+    "searchTags": ["Dialysis", "Renal Replacement Therapy", "Ultrafiltration"],
+    "topics": ["Renal Physiology", "Nephrology"]
+  },
+  {
+    "id": 13,
+    "questionType": "objective",
+    "question": "Enzymes responsible for hydrolysis of esters and peptides are:",
+    "options": [
+      "Transferases",
+      "Lyases",
+      "Hydrolases",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": ["Hydrolases"],
+    "explanation": "Hydrolases are enzymes responsible for the hydrolysis of esters and peptides, breaking them down into their respective components.",
+    "searchTags": ["Enzymes", "Hydrolases", "Biochemical Reactions"],
+    "topics": ["Biochemistry"]
+  },
+  {
+    "id": 14,
+    "questionType": "objective",
+    "question": "Which of the following is not associated with metabolic syndrome?",
+    "options": [
+      "Hypertension",
+      "Malnutrition",
+      "Impaired glucose tolerance",
+      "Hyperlipidaemia",
+      "Obesity"
+    ],
+    "answer": ["Malnutrition"],
+    "explanation": "Malnutrition is not associated with metabolic syndrome. Metabolic syndrome involves a cluster of conditions like obesity, hypertension, and insulin resistance.",
+    "searchTags": ["Metabolic Syndrome", "Obesity", "Insulin Resistance"],
+    "topics": ["Endocrinology", "Metabolic Disorders"]
+  },
+  {
+    "id": 15,
+    "questionType": "objective",
+    "question": "Which one of the following is the major cause of physiological jaundice?",
+    "options": [
+      "Breastfeeding",
+      "Decreased hepatic bilirubin excretion",
+      "Immature hepatic enzymes",
+      "Enterohepatic circulation",
+      "Increased bilirubin production"
+    ],
+    "answer": ["Immature hepatic enzymes"],
+    "explanation": "Physiological jaundice in newborns is often caused by breastfeeding, and it is a normal, temporary condition.",
+    "searchTags": ["Physiological Jaundice", "Newborns", "Breastfeeding"],
+    "topics": ["Pediatrics", "Neonatology"]
+  },
+  {
+    "id": 16,
+    "questionType": "objective",
+    "question": "Abnormal CSF protein bands located in the gamma region on electrophoresis are referred to as ______ and are indicative of ______",
+    "options": [
+      "myoglobins; meningitis",
+      "prealbumins; Guillain-Barre' syndrome",
+      "Oligoclonal bands; multiple sclerosis",
+      "Transarachnoid bands; Neurosyphilis",
+      "Monoclonal bands; multiple myeloma"
+    ],
+    "answer": ["Oligoclonal bands; multiple sclerosis"],
+    "explanation": "Oligoclonal bands in the gamma region on CSF electrophoresis are indicative of multiple sclerosis, a demyelinating neurological disorder.",
+    "searchTags": [
+      "CSF Electrophoresis",
+      "Oligoclonal Bands",
+      "Multiple Sclerosis"
+    ],
+    "topics": ["Neurology", "CSF Analysis"]
+  },
+  {
+    "id": 17,
+    "questionType": "objective",
+    "question": "Transferrin is a protein typically associated with the transport of:",
+    "options": [
+      "Ferritin",
+      "Ferric ions",
+      "Ferrous ions",
+      "Heavy metals",
+      "Copper ions"
+    ],
+    "answer": ["Ferric ions"],
+    "explanation": "Transferrin is associated with the transport of ferric ions (Fe3+), playing a crucial role in iron transport and homeostasis.",
+    "searchTags": ["Transferrin", "Iron Transport", "Ferric Ions"],
+    "topics": ["Biochemistry", "Hematology"]
+  },
+  {
+    "id": 18,
+    "questionType": "objective",
+    "question": "Analytes exclusively synthesized by the liver include all the following except",
+    "options": [
+      "Albumin",
+      "Fibrinogen",
+      "Prothrombin",
+      "Globulin",
+      "Pre-albumin"
+    ],
+    "answer": ["Globulin"],
+    "explanation": "Pre-albumin is not exclusively synthesized by the liver. It is mainly produced in the liver but also by other tissues.",
+    "searchTags": ["Liver Synthesis", "Pre-albumin", "Serum Proteins"],
+    "topics": ["Biochemistry", "Hepatology"]
+  },
+  {
+    "id": 19,
+    "questionType": "objective",
+    "question": "Which of the following is not useful in the treatment of hyperkalaemia",
+    "options": [
+      "10% calcium gluconate corrects hyperkalaemia",
+      "10 units of soluble insulin may be used",
+      "5-10mg nebulized salbutamol is useful",
+      "Serial plasma potassium estimation may be necessary",
+      "Calcium polystyrene sulphonate is a resin"
+    ],
+    "answer": ["Serial plasma potassium estimation may be necessary"],
+    "explanation": "10% calcium gluconate is not used to correct hyperkalaemia. It is used in hypocalcemia, not for potassium regulation.",
+    "searchTags": [
+      "Hyperkalaemia Treatment",
+      "Calcium Gluconate",
+      "Potassium Regulation"
+    ],
+    "topics": ["Nephrology", "Electrolyte Imbalance"]
+  },
+  {
+    "id": 20,
+    "questionType": "objective",
+    "question": "Which of these will cause respiratory acidosis",
+    "options": [
+      "Guillain-Barre syndrome",
+      "Chronic kidney disease",
+      "Glucose-6-phosphatase deficiency",
+      "Cardiovascular shock",
+      "Renal tubular acidosis"
+    ],
+    "answer": ["Guillain-Barre syndrome"],
+    "explanation": "Cardiovascular shock can lead to respiratory acidosis due to inadequate oxygen exchange in the lungs.",
+    "searchTags": [
+      "Respiratory Acidosis",
+      "Cardiovascular Shock",
+      "Acid-Base Balance"
+    ],
+    "topics": ["Respiratory Physiology", "Critical Care"]
+  },
+  {
+    "id": 21,
+    "questionType": "objective",
+    "question": "In metabolic acidosis, the following are true except:",
+    "options": [
+      "PCO2 may be decreased",
+      "Plasma bicarbonate may be low",
+      "Venous blood for blood gas estimation is necessary",
+      "Mechanical ventilation may be necessary",
+      "Venous blood for estimation of electrolyte is useful"
+    ],
+    "answer": ["Venous blood for blood gas estimation is necessary"],
+    "explanation": "Arterial blood, not venous blood, is usually required for accurate blood gas estimation. Venous blood may provide some information but is not ideal.",
+    "searchTags": [
+      "Metabolic Acidosis",
+      "Blood Gas Estimation",
+      "Venous Blood"
+    ],
+    "topics": ["Internal Medicine", "Acid-Base Balance"]
+  },
+  {
+    "id": 22,
+    "questionType": "objective",
+    "question": "Which of these will not cause secondary hyperaldosteronism",
+    "options": [
+      "Liver cirrhosis",
+      "Severe cardiac failure",
+      "Nephrotic syndrome",
+      "Pregnancy",
+      "Spurious diarrhoea"
+    ],
+    "answer": ["Spurious diarrhoea"],
+    "explanation": "Spurious diarrhea is not typically associated with causing secondary hyperaldosteronism. Conditions like heart failure, liver cirrhosis, and nephrotic syndrome are more commonly linked.",
+    "searchTags": ["Secondary Hyperaldosteronism", "Diarrhea", "Aldosterone"],
+    "topics": ["Endocrinology", "Gastroenterology"]
+  },
+  {
+    "id": 23,
+    "questionType": "objective",
+    "question": "Which of the following is not correct concerning respiratory alkalosis?",
+    "options": [
+      "Could be due to salicylate overdose",
+      "May result from hysteria",
+      "There is decreased PCO2",
+      "PCO2 is increased",
+      "Bicarbonate may be low"
+    ],
+    "answer": ["PCO2 is increased"],
+    "explanation": "Respiratory alkalosis is characterized by decreased PCO2, not increased PCO2. It can be caused by conditions like hyperventilation.",
+    "searchTags": [
+      "Respiratory Alkalosis",
+      "PCO2 Levels",
+      "Salicylate Overdose"
+    ],
+    "topics": ["Respiratory Physiology", "Toxicology"]
+  },
+  {
+    "id": 24,
+    "questionType": "objective",
+    "question": "Which of the following investigations is not useful in high anion gap metabolic acidosis?",
+    "options": [
+      "Plasma glucose",
+      "Plasma lactate",
+      "Plasma creatinine",
+      "Plasma calcium",
+      "Urine ketones"
+    ],
+    "answer": ["Plasma calcium"],
+    "explanation": "Plasma calcium is not typically useful in assessing high anion gap metabolic acidosis. Other parameters like glucose, lactate, creatinine, and urine ketones are more relevant.",
+    "searchTags": ["Metabolic Acidosis", "Anion Gap", "Lab Investigations"],
+    "topics": ["Internal Medicine", "Laboratory Medicine"]
+  },
+  {
+    "id": 25,
+    "questionType": "objective",
+    "question": "In primary hyperaldosteronism, there is",
+    "options": [
+      "Hyponatraemia",
+      "Hyperkalaemia",
+      "Metabolic acidosis",
+      "Hypervolaemia",
+      "Decreased urine potassium"
+    ],
+    "answer": ["Hypervolaemia"],
+    "explanation": "Primary hyperaldosteronism is associated with hypervolaemia due to increased sodium reabsorption and potassium excretion.",
+    "searchTags": [
+      "Hyperaldosteronism",
+      "Sodium-Potassium Balance",
+      "Hypervolaemia"
+    ],
+    "topics": ["Endocrinology", "Nephrology"]
+  },
+  {
+    "id": 26,
+    "questionType": "objective",
+    "question": "Galactosaemia is associated with the following except",
+    "options": [
+      "Failure to thrive",
+      "Positive clinitest test",
+      "Ketoacidosis",
+      "Positive clinistix test",
+      "Cataract"
+    ],
+    "answer": ["Positive clinistix test"],
+    "explanation": "Clinitest for Glucose test and Clinistix test for reducing sugars test",
+    "searchTags": ["Galactosaemia", "Metabolic Disorders", "Ketoacidosis"],
+    "topics": ["Pediatrics", "Metabolic Disorders"]
+  },
+  {
+    "id": 27,
+    "questionType": "objective",
+    "question": "Which of the following does not cause hypoglycaemia",
+    "options": [
+      "Glucagonoma",
+      "Insulinoma",
+      "Severe hepatic dysfunction",
+      "Oral hypoglycaemic agents",
+      "Von Gierke's disease"
+    ],
+    "answer": ["Glucagonoma"],
+    "explanation": "Severe hepatic dysfunction typically does not cause hypoglycaemia. Conditions like insulinoma and Von Gierke's disease are more commonly associated.",
+    "searchTags": ["Hypoglycaemia", "Hepatic Dysfunction", "Insulinoma"],
+    "topics": ["Endocrinology", "Hepatology"]
+  },
+  {
+    "id": 28,
+    "questionType": "objective",
+    "question": "The role of the laboratory in the management of diabetes mellitus does not include:",
+    "options": [
+      "Estimation of glycated haemoglobin",
+      "Estimation of urinary proteins",
+      "Estimation of analytes that can evaluate acid-base status",
+      "Estimation of urinary ketones",
+      "Estimation of blood fructose"
+    ],
+    "answer": ["Estimation of blood fructose"],
+    "explanation": "Estimation of blood fructose is not typically part of the laboratory role in diabetes mellitus management. Glycated haemoglobin, urinary proteins, and ketones are more relevant.",
+    "searchTags": [
+      "Diabetes Mellitus",
+      "Laboratory Investigations",
+      "Blood Fructose"
+    ],
+    "topics": ["Endocrinology", "Laboratory Medicine"]
+  },
+  {
+    "id": 29,
+    "questionType": "objective",
+    "question": "Regulation of blood glucose involves the following except:",
+    "options": [
+      "Growth hormone",
+      "Cortisol",
+      "Calcitonin",
+      "Glucagon",
+      "Insulin"
+    ],
+    "answer": ["Calcitonin"],
+    "explanation": "Calcitonin is not a major regulator of blood glucose. Growth hormone, cortisol, glucagon, and insulin play key roles in glucose homeostasis.",
+    "searchTags": ["Blood Glucose Regulation", "Calcitonin", "Hormones"],
+    "topics": ["Endocrinology", "Metabolism"]
+  },
+  {
+    "id": 30,
+    "questionType": "objective",
+    "question": "Functions of glucagon do not include the following",
+    "options": [
+      "Inhibit gluconeogenesis",
+      "Stimulate glycogenolysis",
+      "Stimulate gluconeogenesis",
+      "Cause increased blood glucose",
+      "Stimulate proteolysis"
+    ],
+    "answer": ["Inhibit gluconeogenesis"],
+    "explanation": "Glucagon stimulates gluconeogenesis but does not inhibit it. The role of glucagon includes promoting glucose release from the liver.",
+    "searchTags": ["Glucagon", "Gluconeogenesis", "Blood Glucose Regulation"],
+    "topics": ["Endocrinology", "Metabolism"]
+  },
+  {
+    "id": 31,
+    "questionType": "objective",
+    "question": "Which of the following is not associated with Von-Gierke's disease",
+    "options": [
+      "Hypoglycaemia",
+      "Hepatomegaly",
+      "Lactic acidosis",
+      "Glucose-6-dehydrogenase deficiency",
+      "Hyperuricaemia"
+    ],
+    "answer": ["Glucose-6-dehydrogenase deficiency"],
+    "explanation": "Lactic acidosis is not typically associated with Von Gierke's disease. This glycogen storage disorder primarily manifests with hypoglycaemia and hepatomegaly.",
+    "searchTags": [
+      "Von Gierke's Disease",
+      "Glycogen Storage Disorders",
+      "Lactic Acidosis"
+    ],
+    "topics": ["Genetics", "Metabolic Disorders"]
+  },
+  {
+    "id": 32,
+    "questionType": "objective",
+    "question": "The following are causes of coma in a diabetic patient except",
+    "options": [
+      "Hypoglycaemia",
+      "Hyperglycaemia",
+      "Insulin overdose",
+      "Hyperosmolar state",
+      "Hyperlipidaemia"
+    ],
+    "answer": ["Hyperlipidaemia"],
+    "explanation": "Hyperlipidaemia is not typically a direct cause of coma in a diabetic patient. Hypoglycaemia, hyperglycaemia, insulin overdose, and hyperosmolar state are more relevant causes.",
+    "searchTags": ["Diabetic Coma", "Hyperlipidaemia", "Diabetes Mellitus"],
+    "topics": ["Endocrinology", "Diabetes Mellitus"]
+  },
+  {
+    "id": 33,
+    "questionType": "objective",
+    "question": "Which of these is not associated with acute nephritic syndrome",
+    "options": [
+      "Proteinuria",
+      "Hypertension",
+      "Haematuria",
+      "Metabolic alkalosis",
+      "Hyponatremia"
+    ],
+    "answer": ["Metabolic alkalosis"],
+    "explanation": "Metabolic alkalosis is not typically associated with acute nephritic syndrome. Proteinuria, hypertension, haematuria, and hyponatremia are more relevant findings.",
+    "searchTags": [
+      "Acute Nephritic Syndrome",
+      "Metabolic Alkalosis",
+      "Renal Disorders"
+    ],
+    "topics": ["Nephrology", "Renal Disorders"]
+  },
+  {
+    "id": 34,
+    "questionType": "objective",
+    "question": "Biochemical findings in nephrotic syndrome do not include",
+    "options": [
+      "Hypoalbuminemia",
+      "Hyperlipidemia",
+      "Mild proteinuria",
+      "Hyponatremia",
+      "Reduced HDL-cholesterol"
+    ],
+    "answer": ["Mild proteinuria"],
+    "explanation": "Reduced HDL-cholesterol is not a typical biochemical finding in nephrotic syndrome. Hypoalbuminemia, hyperlipidemia, and proteinuria are more common.",
+    "searchTags": [
+      "Nephrotic Syndrome",
+      "Biochemical Findings",
+      "Cholesterol Levels"
+    ],
+    "topics": ["Nephrology", "Biochemistry"]
+  },
+  {
+    "id": 35,
+    "questionType": "objective",
+    "question": "The thirst mechanism is activated by",
+    "options": [
+      "Hypovolaemia",
+      "Hyperosmolality",
+      "Hyponatremia",
+      "Hyperviscosity",
+      "Anti-diuretics"
+    ],
+    "answer": ["Hyperosmolality"],
+    "explanation": "The thirst mechanism is primarily activated by hyperosmolality, signaling the need for increased fluid intake. Conditions like hypovolaemia, hyponatremia, and hyperviscosity can also contribute.",
+    "searchTags": ["Thirst Mechanism", "Hyperosmolality", "Fluid Balance"],
+    "topics": ["Endocrinology", "Fluid Physiology"]
+  },
+  {
+    "id": 36,
+    "questionType": "objective",
+    "question": "The following hormone level is raised throughout pregnancy.",
+    "options": [
+      "Oestrogen",
+      "Luteinizing hormone",
+      "Inhibin",
+      "Glucagon",
+      "Follicle stimulating hormone"
+    ],
+    "answer": ["Oestrogen"],
+    "explanation": "Oestrogen levels are elevated throughout pregnancy and play a crucial role in various physiological processes during gestation.",
+    "searchTags": ["Pregnancy Hormones", "Oestrogen", "Endocrinology"],
+    "topics": ["Obstetrics", "Endocrinology"]
+  },
+  {
+    "id": 37,
+    "questionType": "objective",
+    "question": "Beta HCG.",
+    "options": [
+      "Serum level is reduced all throughout pregnancy",
+      "Serum level is raised all throughout pregnancy",
+      "Can be detected only in Urine of pregnant women",
+      "Serum levels rise in the first trimester of pregnancy to a peak, and falls subsequently",
+      "Serum level is constant all throughout pregnancy"
+    ],
+    "answer": [
+      "Serum levels rise in the first trimester of pregnancy to a peak, and falls subsequently"
+    ],
+    "explanation": "Beta HCG levels typically rise in the first trimester of pregnancy, reaching a peak, and then gradually decrease. It is a key marker in early pregnancy testing.",
+    "searchTags": ["Beta HCG", "Pregnancy Hormones", "Pregnancy Testing"],
+    "topics": ["Obstetrics", "Endocrinology"]
+  },
+  {
+    "id": 38,
+    "questionType": "objective",
+    "question": "Serum levels of the following hormones rise in pregnancy.",
+    "options": [
+      "Insulin",
+      "Growth hormone",
+      "Cortisol",
+      "Calcitriol",
+      "Epinephrine"
+    ],
+    "answer": ["Cortisol"],
+    "explanation": "Calcitriol, the active form of vitamin D, plays a role in calcium metabolism and its levels rise during pregnancy to support fetal development.",
+    "searchTags": ["Pregnancy Hormones", "Calcitriol", "Vitamin D"],
+    "topics": ["Obstetrics", "Endocrinology"]
+  },
+  {
+    "id": 39,
+    "questionType": "objective",
+    "question": "The rate-limiting step in thyroid hormone synthesis is",
+    "options": [
+      "Trapping of iodide",
+      "Oxidation of iodide",
+      "Organification",
+      "Coupling of iodotyrosyl residues",
+      "Proteolysis of thyroglobulin"
+    ],
+    "answer": ["Trapping of iodide"],
+    "explanation": "The trapping of iodide by the thyroid gland is the initial and rate-limiting step in the synthesis of thyroid hormones.",
+    "searchTags": [
+      "Thyroid Hormone Synthesis",
+      "Iodide Trapping",
+      "Endocrinology"
+    ],
+    "topics": ["Endocrinology", "Thyroid Disorders"]
+  },
+
+  {
+    "id": 40,
+    "questionType": "objective",
+    "question": "The following are thyroid hormones except",
+    "options": [
+      "Thyroxine",
+      "Tetraiodothyronine",
+      "Triiodothyronine",
+      "T3",
+      "Thyroid stimulating hormone"
+    ],
+    "answer": ["Thyroid stimulating hormone"],
+    "explanation": "Thyroid stimulating hormone (TSH) is not a thyroid hormone; it is produced by the pituitary gland to stimulate the thyroid gland to produce thyroid hormones.",
+    "searchTags": ["Thyroid Hormones", "TSH", "Endocrinology"],
+    "topics": ["Endocrinology", "Thyroid Disorders"]
+  },
+  {
+    "id": 41,
+    "questionType": "objective",
+    "question": "Serum thyroid stimulating hormone level is RAISED in the following EXCEPT",
+    "options": [
+      "Hashimoto's thyroiditis",
+      "Primary hyperthyroidism",
+      "Multinodular toxic goitre",
+      "Single toxic nodular goitre",
+      "Plummer's disease"
+    ],
+    "answer": ["Primary hyperthyroidism"],
+    "explanation": "In primary hyperthyroidism, the thyroid is overactive, leading to increased production of thyroid hormones (T3 and T4) and subsequently suppressing TSH levels.",
+    "searchTags": ["TSH Levels", "Thyroid Disorders", "Hyperthyroidism"],
+    "topics": ["Endocrinology", "Thyroid Disorders"]
+  },
+  {
+    "id": 42,
+    "questionType": "objective",
+    "question": "Biochemical changes in Kwashiorkor include",
+    "options": [
+      "Hypervitaminosis",
+      "Hypoalbuminemia",
+      "Citrullinaemia",
+      "Carboxyhaemoglobinaemia",
+      "Hyperalbuminaemia"
+    ],
+    "answer": ["Hypoalbuminemia"],
+    "explanation": "Kwashiorkor is characterized by severe protein malnutrition, leading to hypoalbuminemia. It is not associated with hypervitaminosis.",
+    "searchTags": ["Kwashiorkor", "Hypoalbuminemia", "Malnutrition"],
+    "topics": ["Nutrition", "Biochemistry"]
+  },
+  {
+    "id": 43,
+    "questionType": "objective",
+    "question": "In marasmus",
+    "options": [
+      "Albumin level is typically low",
+      "There is deficient calorie intake",
+      "There is hyperkeratosis",
+      "Muscle is preserved",
+      "There is thick subcutaneous layer in the skin"
+    ],
+    "answer": ["There is deficient calorie intake"],
+    "explanation": "Marasmus is a form of severe malnutrition with overall energy deficiency, leading to muscle wasting. It is characterized by a lack of subcutaneous fat rather than thick subcutaneous layers.",
+    "searchTags": ["Marasmus", "Malnutrition", "Muscle Wasting"],
+    "topics": ["Nutrition", "Pediatrics"]
+  },
+  {
+    "id": 44,
+    "questionType": "objective",
+    "question": "LH Surge will cause the following in females",
+    "options": [
+      "Pregnancy",
+      "Fertilization",
+      "Ovulation",
+      "Implantation",
+      "Blastocyst formation"
+    ],
+    "answer": ["Ovulation"],
+    "explanation": "Luteinizing hormone (LH) surge triggers ovulation in females. It does not directly cause pregnancy but is crucial for fertility.",
+    "searchTags": ["LH Surge", "Ovulation", "Female Reproductive System"],
+    "topics": ["Endocrinology", "Reproductive Health"]
+  },
+  {
+    "id": 45,
+    "questionType": "objective",
+    "question": "Testosterone will cause the following in females",
+    "options": [
+      "Development of axillary and pubic hair",
+      "Development of phallus",
+      "Spermatogenesis",
+      "Ovulation",
+      "Fertilization"
+    ],
+    "answer": ["Development of axillary and pubic hair"],
+    "explanation": "Testosterone, primarily a male sex hormone, can also be present in females but in smaller amounts. It contributes to the development of secondary sexual characteristics such as axillary and pubic hair.",
+    "searchTags": [
+      "Testosterone",
+      "Secondary Sexual Characteristics",
+      "Female Reproductive System"
+    ],
+    "topics": ["Endocrinology", "Reproductive Health"]
+  },
+  {
+    "id": 46,
+    "questionType": "objective",
+    "question": "In male hypogonadism...",
+    "options": [
+      "Testosterone is low",
+      "Testosterone is high",
+      "Aldosterone level is high",
+      "Insulin level is raised",
+      "Dexamethasone level is raised"
+    ],
+    "answer": ["Testosterone is low"],
+    "explanation": "Male hypogonadism is characterized by low testosterone levels. It is not associated with elevated levels of aldosterone, insulin, or dexamethasone.",
+    "searchTags": ["Male Hypogonadism", "Testosterone Levels", "Endocrinology"],
+    "topics": ["Endocrinology", "Reproductive Health"]
+  },
+
+  {
+    "id": 47,
+    "questionType": "objective",
+    "question": "The following is a test of renal tubular function",
+    "options": [
+      "Cystatin-C estimation",
+      "Inulin clearance",
+      "Urine osmolality",
+      "Dexamethasone suppression test",
+      "Glucagon test"
+    ],
+    "answer": ["Urine osmolality"],
+    "explanation": "Renal Tubular function test include Urine specific gravity test, urine osmolality test, Ammonium chloride test ,Water deprivation test",
+    "searchTags": ["Renal Tubular Function", "Inulin Clearance", "GFR"],
+    "topics": ["Nephrology", "Renal Function Tests"]
+  },
+  {
+    "id": 48,
+    "questionType": "objective",
+    "question": "Urea reduction ratio is useful in",
+    "options": [
+      "Determining adequacy of renal dialysis",
+      "Estimating glomerular filtration rate",
+      "Estimation of creatinine clearance ratio",
+      "Determination of albumin creatinine",
+      "Estimation of fractional excretion of sodium"
+    ],
+    "answer": ["Determining adequacy of renal dialysis"],
+    "explanation": "Urea reduction ratio (URR) is a measure used to assess the adequacy of renal dialysis in patients with end-stage renal disease.",
+    "searchTags": ["Urea Reduction Ratio", "Renal Dialysis", "Renal Function"],
+    "topics": ["Nephrology", "Renal Function Tests"]
+  },
+  {
+    "id": 49,
+    "questionType": "objective",
+    "question": "The rate-limiting step in heme synthesis",
+    "options": [
+      "Condensation of glycine and succinate to form aminolevulinic acid",
+      "Formation of coproporphyrinogen",
+      "Formation of uroporphyrinogen III",
+      "Formation of protoporphyrin",
+      "Formation of heme"
+    ],
+    "answer": [
+      "Condensation of glycine and succinate to form aminolevulinic acid"
+    ],
+    "explanation": "The rate-limiting step in heme synthesis is the condensation of glycine and succinate to form aminolevulinic acid (ALA).",
+    "searchTags": ["Heme Synthesis", "Rate-Limiting Step", "Biochemistry"],
+    "topics": ["Biochemistry", "Hematology"]
+  },
+  {
+    "id": 50,
+    "questionType": "objective",
+    "question": "Which of the following is not one of the acute porphyrias",
+    "options": [
+      "Porphyria cutanea tarda",
+      "Acute intermittent porphyria",
+      "Hereditary coproporphyria",
+      "Variegate porphyria",
+      "Protoporphyria"
+    ],
+    "answer": ["Protoporphyria"],
+    "explanation": "Acute hepatic porphyrias are also known as neuro-psychotic porphyria. They include 1. Acute intermitent porphyria 2. Hereditary Coproporphyria 3. Variegate porphyria.  Note None acuute protopohyria include 1. Cutaneous hepatic porphyria, 2. Erythropotic protoporphyria 3. Congential porphyria ",
+    "searchTags": ["Acute Porphyrias", "Protoporphyria", "Porphyria"],
+    "topics": ["Hematology", "Porphyrias"]
+  }
+]

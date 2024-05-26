@@ -1,0 +1,93 @@
+{
+    "Questions": [
+        {
+            "id": 1,
+            "question": "The following are true except",
+            "options": [
+                {
+                    "option": "implantation of the blastocyst occurs at the endometrium",
+                    "answer": "false",
+                    "explanation": "implantation of the blastocyst in the uterine endometrium in the superior part of the body of the uterus, slightly more often on the posterior wall than on the anterior wall of the uterus. It begins at the end of 1st week and is completed by the end of the 2nd week"
+                },
+                {
+                    "option": "implantation is completed at the end of the 2nd week",
+                    "answer": "false"
+                },
+                {
+                    "option": "the syncythiotrophoblast erodes the endometrium during implantation",
+                    "answer": "false"
+                },
+                {
+                    "option": "the cytrophoblast erodes the endometrial blood vessel",
+                    "answer": "true"
+                },
+                {
+                    "option": "estrogen and progesterone do not play a part in implantation",
+                    "answer": "true"
+                }
+            ],
+            "source": "uniben",
+            "year": "MBMed170",
+            "Number": 1
+        },
+        {
+            "id": 2,
+            "question": "The following are true except",
+            "options": [
+                {
+                    "option": "The endometrial change that occurs during implantation is called decidual reaction",
+                    "answer": ""
+                },
+                {
+                    "option": "The extraembryonic mesoderm develops from the primary umbilical vesicle",
+                    "answer": ""
+                },
+                {
+                    "option": "The secondary umbilical vesicle is larger than the primary umbilical vesicle",
+                    "answer": ""
+                },
+                {
+                    "option": "The amniotic cavity appears as a space superior to the embryoblast",
+                    "answer": ""
+                },
+                {
+                    "option": "The embryoblast differenciates into trilaminar embryonic disc",
+                    "answer": ""
+                }
+            ],
+            "source": "uniben",
+            "year": "MBMed170",
+            "Number": 2
+        },
+        {
+            "id": 3,
+            "question": " The following are true about implantation ",
+            "options": [
+                {
+                    "option": "implantation is completed at the end of the 2nd week",
+                    "answer": "True",
+                    "explanation": "begins at the end of 1st week and is completed by the end of the 2nd week"
+                },
+                {
+                    "option": "implantation during a restricted time period 6-10 days after ovulation and fertilization",
+                    "answer": "True"
+                },
+                {
+                    "option": "implantation begins at the 2nd week",
+                    "answer": "false",
+                    "explanation": "begins at the end of 1st week and is completed by the end of the 2nd week"
+                },
+                {
+                    "option": "implantation of the blastocyst can be detected by Ultrasonography and highly sensitive radioimmunoassays of hCG as early as the 1st week",
+                    "answer": "false",
+                    "explanation": "implantation of the blastocyst can be detected by Ultrasonography and highly sensitive radioimmunoassays of hCG as early as the end of 2nd week"
+                },
+                {
+                    "option": "implantion occurs in the myometrium in the superior part of the body of the body of the uterus, slightly more often on the posterior wall than on the anterior wall of the uterus",
+                    "answer": "false",
+                    "explanation": "implantion occurs in the endometrium in the superior part of the body of the body of the uterus, slightly more often on the posterior wall than on the anterior wall of the uterus"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1547 @@
+{
+    "Questions": [
+        {
+            "id": 1,
+            "question": "clavipectorial fascia",
+            "options": [
+                "encloses pectoralis major",
+                "encloses clavicle",
+                "is pierced by medial pectoral nerve",
+                "is piered by cephalic vein",
+                "is pierced by thoracoacromial artery"
+            ],
+            "answer": [
+                false,
+                false,
+                false,
+                true,
+                true
+            ],
+            "explanation": "The clavipectoral fascia is a strong fascial sheet deep to pectoralis major. Its upper part, also known as the costocoracoid membrane, is attacted laterally to the coracoid process and medially blends with the external intercostal membrane of the upper two spaces.\n It encloses the pectoralis minor and subclaus. It is pierced by 4 structures namely \n 1. lymphatic from infraclavicular(deltopectorial) node to apical nodes of the axilla \n 2. cephalic vein \n 3. lateral pectoral nerve \n 4. thoracoacromial artery or its branches(clavicular, pectoral, acromial and deltoid)",
+            "topic": "upper limb"
+        },
+        {
+            "id": 2,
+            "question": "Structures present at the roof of the cubital fossa include",
+            "options": [
+                "Median nerve",
+                "Brachial artery",
+                "Biceps tendon",
+                "Radial nerve",
+                "All of the above"
+            ],
+            "answer": [
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "explanation": "The roof of the cubital fossa is formed by: \n 1. Skin \n 2. Superficial fascia containing the median cubital vein joining the cephalic and basilic veins \n 3. Deep fascia \n 4. Bicipital aponeurosis",
+            "topic": "upper limb"
+        },
+        {
+            "id": 3,
+            "question": "Branches of thoracoacromial artery include",
+            "options": [
+                "Axillary branch",
+                "Acromial branch",
+                "Brachial branch",
+                "Clavicular branch",
+                "Deltoid branch"
+            ],
+            "answer": [
+                false,
+                true,
+                false,
+                true,
+                true
+            ],
+            "explanation": "Branches of acromial artery include \n 1. Clavicular branch \n 2. Acromial branch \n 3. Deltoid branch \n 4. Pectorial branch",
+            "topic": "upper limb"
+        },
+        {
+            "id": 4,
+            "question": "Which of the following contribute to anastomosis on the subscapular fossa",
+            "options": [
+                "Dorsal scapular artery",
+                "suprascapular artery",
+                "subscapular artery",
+                "Circumflex Scapular artery",
+                "Posterior circumflex humeral artery"
+            ],
+            "answer": [
+                true,
+                false,
+                true,
+                false,
+                false
+            ],
+            "explanation": "The Dorsal Scapular artery and the subscapular artery contribute to the anastomosis on the subscapular fossa",
+            "topic": "upper limb"
+        },
+        {
+            "id": 5,
+            "question": "Muscles responsible for abduction of the shoulder joint include the following except",
+            "options": [
+                "Supraspinatus",
+                "Deltoid",
+                "serratus anaterior",
+                "Upper fibers of trapezius",
+                "lower fibers of trapezius"
+            ],
+            "answer": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "explanation": "Abduction of shoulder joint is performed by \n 1. Supraspinatus(0°- 15°) \n 2. Deltoid (15°-100°)\n 3. Upper fibers of Trapezius (>90°) \n 4. serratus Anterior(>100°)",
+            "topic": "upper limb"
+        },
+        {
+            "id": 6,
+            "question": "The following are incorrect about the elbow joint except",
+            "options": [
+                "It is a hinge type of synovial joint",
+                "The capitulum articulates with the trochlea",
+                "Head of radius aritculates with olecranon fossa",
+                "It is continous with superior radioulnar joint",
+                "It allows abduction-adduction movement"
+            ],
+            "answer": [
+                true,
+                false,
+                false,
+                true,
+                false
+            ],
+            "explanation": "The Elbow joint is a hinge type of synovial joint between the lower end of humerus and the upper end of radius and ulna. The elbow joint is a term used for humeroradial (capitulum of humerus articulating with upper surface of head of radius) and humeroulnar joint (trochlea of the humerus articularting with trochlea notch of the ulna). The elbow joint is continous with the radioulnar joint",
+            "topic": "upper limb"
+        },
+        {
+            "id": 7,
+            "question": "which of the following is correct about carrying angle",
+            "options": [
+                "Transverse axis of the elbow joint is directed medially and downward",
+                "The medial flange of the trochlea is lower than the lateral flange",
+                "The superior articular articular surface of the coronoid process of process of ulna is oblique ",
+                "disappears in full flexion",
+                "diappears during pronation"
+            ],
+            "answer": [
+                true,
+                true,
+                true,
+                true,
+                true
+            ],
+            "explanation": "Carring angle is the angle between extended forearm and arm. Its about 13 degrees with the transvers axis of the elbow joint which is directed medially an downwards. The factors responsible for formation of the carrying angle are as follows \n 1. The medial flange of the trochlea is 6mm deeper than the lateral flange \n 2. The superior articular surface of the coronoid process of the ulna is placed  oblique to the long axis of the bone. \n The carrying angle disappears in full flexion of the elbow and also during pronation of the forearm ",
+            "topic": "upper limb"
+        },
+        {
+            "id": 8,
+            "question": "The contents of the upper triangular space include the following except",
+            "options": [
+                "Circumflex Scapular artery",
+                "Dorsal scapular artery",
+                "Suprascapular artery",
+                "Thoracoacromial artery",
+                "Lateral thoracic artery"
+            ],
+            "answer": [
+                true,
+                false,
+                false,
+                false,
+                false
+            ],
+            "explanation": "The content of the upper triangular space is the circumflex scapular artery",
+            "topic": "upper limb"
+        },
+        {
+            "id": 9,
+            "question": "The contents of the quadrangular space includes",
+            "options": [
+                "Radial artery",
+                "anterior circumflex humeral artery",
+                "Posterior circumflex humeral artery",
+                "Radial nerve",
+                "Axillary nerve"
+            ],
+            "answer": [
+                false,
+                false,
+                true,
+                false,
+                true
+            ],
+            "explanation": "The content of the quadrangular space includes \n 1. Axillary nerve \n 2. Posterior circumflex humeral artery"
+        },
+        {
+            "id": 10,
+            "question": "Lymph from the breast drain into",
+            "options": [
+                "Anterior group of axillary nodes",
+                "parasternal nodes",
+                "supraclavicular nodes",
+                "cephalic nodes",
+                "Posterior intercostal nodes"
+            ],
+            "answer": [
+                true,
+                true,
+                true,
+                true,
+                true
+            ],
+            "explanation": "About 75% of lymph from the breast drains into the axillary lymph nodes mainly the anterior group, \n Lymph from the medial half of the breast drain to the parasternal (or internal mammary )node(which is about 20%),\n Some may drain directly or indirectly to supraclavicular and cephalic(deltopectoral/infraclavicular) node \n While about 5% follow the intercoastal arteries to drain into the posterior intercostal nodes",
+            "topic": "upper limb"
+        },
+        {
+            "id": 11,
+            "question": "concerning canal of Schwalbe",
+            "options": [
+                "It can also be called hiatus of Schwalbe",
+                "It can also be called pocket of Schwalbe",
+                "It arises as a tendious gap between the arcus tendinous",
+                "It is a potential site of herniation",
+                "None of the above"
+            ]
+        },
+        {
+            "id": 12,
+            "question": "Concerning urogenital triangle",
+            "options": [
+                "It is bounded by pubic symphysis",
+                "It is bounded by ischiopubic rami",
+                "Structurally, the triangle is a simple type",
+                "Perineal membrane is absent in the triangle",
+                "all of the above"
+            ],
+            "answer": [
+                false,
+                true,
+                false,
+                false,
+                false
+            ],
+            "explanation": "The Urogenital triangle is an area btw the Ischiopubic rami and in front of a horizontal line joining the anterior ends of two ischial tuberosities, it contains superficial and deep pouch. The Superfial perineal pouch is separated from the deep perineal pouch by the perineal membrane",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 13,
+            "question": "The following are content of deep perineal pouch in female",
+            "options": [
+                "Urethra",
+                "External urethral sphinter",
+                "Bulbourethral glands",
+                "Deep transverse perineal muscles",
+                "Kidney"
+            ],
+            "answer": [
+                true,
+                true,
+                false,
+                true,
+                false
+            ],
+            "explanation": "The content of the deep perineal pouch in females include\n 1. Deep transverse perineal muscle \n 2. Sphinter urethra muscles \n 3. vagina and urethra \n 4. branches of the internal pudendal artery(ateries to clitories) \n 5. Branches of pudendal nerve(dorsal nerve of the clitoris)",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 15,
+            "question": "The following are component of external female genitalia",
+            "options": [
+                "Pudendum",
+                "Pudendal majora",
+                "Anterior labial commisioner",
+                "Intoitus",
+                "Skenes Glands"
+            ],
+            "answer": [
+                true,
+                false,
+                true,
+                true,
+                true
+            ],
+            "explanation": "",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 16,
+            "question": "The following about the pelvis are important in obstetrics except",
+            "options": [
+                "The size and shape of the pelvis outlet",
+                "The size and shape of the pelvic inlet",
+                "The prominence of the ischial spine",
+                "The age of the woman",
+                "The height of the woman"
+            ],
+            "answer": [
+                true,
+                true,
+                true,
+                true,
+                false
+            ],
+            "explanation": "In obstetrics the following pelvic measurement are important\n 1. size and shape of plevic inlet and outlet 2. Prominence of the ischial spine, and age of the woman",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 17,
+            "question": "The following are true about the platypelloid pelvis",
+            "options": [
+                "It is oval in shape",
+                "Its ischial spine is prominent",
+                "It has a narrow pelvic outlet",
+                "They usually have prolong labour",
+                "The baby finds it difficult to engage"
+            ],
+            "answer": [
+                true,
+                false,
+                true,
+                true,
+                true
+            ],
+            "explanation": "Platepelliod( flat pelvis) has its transverse diameter much greater than its anterior posterior diameter (i.e it is compressed anteriorposteriorly). It posses difficulty in delivery",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 18,
+            "question": "The following are true about the urinary bladder except",
+            "options": [
+                "It is lined with transitional epithelium",
+                "Its base is the posterior surface",
+                "Its neck is in the superior surface",
+                "Its trigone is at its base",
+                "Detrusor muscle is the smooth muscle"
+            ],
+            "answer": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "explanation": "The Urinary bladder is lined by transitonal epithelium. \n it has  a \n 1. base(or posterior surface. it contains the trigone) \n 2 neck(lowest and most fixed part of the bladder. It is situated where the inferolateral and the posterior surfaces of the bladder meet) \n 3. Apex (situated at the anterior superior part of the bladder. It contains the medial umblical ligament) \n 4. Destrusor muscle as its smooth muscle",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 19,
+            "question": "The following are true about the uterus",
+            "options": [
+                "Its a fibromuscular organ",
+                "The fundus is the part below the entrance of the fallopian tubes",
+                "The muscle of teh uterus plays a role in control of hemostasis",
+                "The edothelial thickness varies with stage in the menstal cycle",
+                "The mucosa of the cervix does not undergo cyclical changes"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 20,
+            "question": "The pudendal canal",
+            "options": [
+                "is also known as the Alcock's canal",
+                "lines the lateral wall of the ischioanal fossa",
+                "covers the medial aspect of the obturator internus muscle",
+                "contains the internal pudendal artery and vein",
+                "contains the internal pudendal nerve and nerve to obturator internus"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 21,
+            "question": "The following are true about urogenital triangle",
+            "options": [
+                "is posterior to the perineal body",
+                "the deep perineal pouch lies between the inferior and superior urogenital fascia",
+                "it is broader in males",
+                "It consist of mainly the internal genitalia",
+                "The superficial perineal pouch lies between the skin and the superfical perineal muscles"
+            ],
+            "answer": [
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "explanation": "The urogenital triangle is anterior to the perineal body.\n The deep perineal pouch lies between the Superficial fascia of urogenital diaphram and the perineal membrane\n it is pierced by urethra in males and urethra and vagina in females\n it consist of mainly the external genitalia\n  The superifial perineal pouch lies between the Colles'(superficial perineal) fascia and perineal membrane",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 22,
+            "question": "The following are true about the penis",
+            "options": [
+                "The root is attached to the superior surface of the perineal membrane",
+                "The bulb is continous with the anterior surface of the corpus spongiosus",
+                "The dorsal vein lies superior to the deep fascia of the penis",
+                "Teh corpora cavernosum lie dorsal to teh corpus spongiosus",
+                "The skin is hairless"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 23,
+            "question": "The peritoneal reflection over the uterus, ductus deferens and superior ends of seminal glands is/are",
+            "options": [
+                "Paravesical fossa",
+                "Ureteric fold",
+                "Pararectal fossa",
+                "Vesico-uterine pouch",
+                "Broad ligament"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 24,
+            "question": "The deep fascia of the perineum is /are",
+            "options": [
+                "Scarpa's fascia",
+                "Endopelvic fascia",
+                "Perineal membrane",
+                "Fascia of Colles'",
+                "Denovillier fascia"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 25,
+            "question": "The pelvic measurement from the retro-public eminence to the promotory of sacrum is/are",
+            "options": [
+                "External conjugate",
+                "Median conjugate",
+                "Diagonal conjugate",
+                "Obstetic conjugate",
+                "Anatomical conjugate"
+            ],
+            "answer": [
+                false,
+                false,
+                false,
+                true,
+                false
+            ],
+            "explanation": "Obstetrical conjugate is the shortest distance between the pelvic surface of the pubic symphysis and sacral promotory",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 26,
+            "question": "Which of the followings do not significantly contribute to the development of the thyroid gland",
+            "options": [
+                "1st pharyngeal pouch",
+                "Endodermal diverticulum that forms at the foramen caecum",
+                "2nd pharyngeal pouch",
+                "3rd pharygeal pouch",
+                "4th pharyngeal pouch"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Embryology of Head and neck"
+        },
+        {
+            "id": 27,
+            "question": "The laryngeal cartilages are derived essentially from",
+            "options": [
+                "Neural crests",
+                "1st pharyngeal arch",
+                "3rd pharyngeal arch",
+                "4th pharyngeal arch",
+                "6th pharyngeal arch"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Embryology of Head and neck"
+        },
+        {
+            "id": 28,
+            "question": "Concernig craniofascial development, the following(s) exclusively demostrates the involvement of pharygeal arch 2",
+            "options": [
+                "Hypocalcaemia",
+                "absence of malleus",
+                "immunodeficiency",
+                "hypothyoidism",
+                "None of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Embryology of Head and neck"
+        },
+        {
+            "id": 29,
+            "question": "The following pharyngeal clefts usually get obliterated during development following cervical cysts or fistulas as remnants",
+            "options": [
+                "Pharyngeal cleft 1",
+                "PHaryngeal cleft 2",
+                "Pharygeal cleft 3",
+                "Pharygeal cleft 4",
+                "all of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Embryology of Head and neck"
+        },
+        {
+            "id": 30,
+            "question": "Thev facial nerve innervates the followings except",
+            "options": [
+                "Muscles of facial expression",
+                "Auricularis",
+                "Occipitalis",
+                "Palatopharyngeus",
+                "all of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and neck"
+        },
+        {
+            "id": 31,
+            "question": "Concerning the Lanugo hair, the following statement(s) is/are correct:",
+            "options": [
+                "They begin to appear at the end of the second trimester",
+                "They are Coarse hairs",
+                "They help to hold the vernixcaseosa on the skin",
+                "They are lightly pigmented",
+                "They are replaced by thick skin during the prenatal period"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Embryology of Integumentary system"
+        },
+        {
+            "id": 32,
+            "question": "The Skin of the palms and soles lacks the following structures except:",
+            "options": [
+                "Hair follicles",
+                "Arrectorpili muscle",
+                "Sebaceous glands",
+                "Sweat pores",
+                "Sweat glands"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Embryology of Integumentary system"
+        },
+        {
+            "id": 33,
+            "question": "The arrectorpili muscles are poorly developed in the following structures:",
+            "options": [
+                "Hair of the axilla",
+                "The hairs forming the eyebrows",
+                "The cilia forming the eyelashes",
+                "Lanugo hair",
+                "Pubic hairs"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Embryology of Integumentary system"
+        },
+        {
+            "id": 34,
+            "question": "Nails that have not reached the tips of the digits at birth indicate:",
+            "options": [
+                "Downs syndrome",
+                "Birth Asphyxia",
+                "Prematurity",
+                "Small-for-date baby",
+                "Hydofoetalis",
+                "Hydofoetalis"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Embryology of Integumentary system"
+        },
+        {
+            "id": 35,
+            "question": "The large apocrine sweat glands develop from:",
+            "options": [
+                "Myeloblast",
+                "Neural crest cells",
+                "Stratum germinatum",
+                "Neural Tubes",
+                "The underlying mesenchymes"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Embryology of Integumentary system"
+        },
+        {
+            "id": 36,
+            "question": "The dermis is derived from the following germ layer excepts:",
+            "options": [
+                "Ectodermal Layer",
+                "Peridermal Layer",
+                "Mesoderm",
+                "Melanocyte germ layer",
+                "Medial ectoderm"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 37,
+            "question": "The following structures are components of the integumentary system except:",
+            "options": [
+                "pineal gland",
+                "sebaceous gland",
+                "Thyroid gland",
+                "Mammary gland",
+                "Renal gland"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Embryology of Integumentary system"
+        },
+        {
+            "id": 38,
+            "question": "vernix caseosais formed by:",
+            "options": [
+                "cellw arising from the basal layer",
+                "Basal germinative layers",
+                "The surface ectodermal cells",
+                "Exfoliated peridermal cells",
+                "Desquamated periderm"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Embryology of Integumentary system"
+        },
+        {
+            "id": 39,
+            "question": "The differentiation of melanoblasts into melanocytes involves the formation of:",
+            "options": [
+                "Pigment granules",
+                "Bile pigment",
+                "Myeloblast",
+                "Ectoderm",
+                "Neural crest cells"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Embryology of Integumentary system"
+        },
+        {
+            "id": 40,
+            "question": "The major vascular organization of the fetal dermis is established at the end of the",
+            "options": [
+                "1st trimester",
+                "#rd trimester",
+                "2nd trimester",
+                "1st week intrauterine life",
+                "immediately after birth"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Embryology of Cardiovascular system"
+        },
+        {
+            "id": 41,
+            "question": "The capsule of the hip is attached proximally to",
+            "options": [
+                "The margins of the acetabulum",
+                "The transvers acetabular ligament",
+                "The trochanteric line",
+                "The base of the greater and lesser trochanters",
+                "Femoral neck"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 42,
+            "question": "Which of the following ligaments remain intact in posterior dislocation of the hip joint",
+            "options": [
+                "Ilio-inguinal ligament",
+                "Ligament of Bigelow",
+                "Pubofemoral ligament",
+                "Ischiofermoral ligament",
+                "Acetabular ligament"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 43,
+            "question": "The principal LATERAL ROTATORS of the hip joint includes",
+            "options": [
+                "obsturators",
+                "quadratus femoris",
+                "gluteus maximus",
+                "gemelli",
+                "sartorus"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 44,
+            "question": "when one foot is off the ground, dropping of the pelvis to the unsupported side is prevented by",
+            "options": [
+                "Gluteus minimus",
+                "Tensor fasciae latae",
+                "Gluteus maximus",
+                "Tibialis anterior",
+                "None of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 45,
+            "question": "Which of the following are encountered in the groin incision for repair of inguinal hernia",
+            "options": [
+                "Superficial circumflex iliac artery",
+                "superficial epigastric artery",
+                "deep circumflex iliac artery",
+                "deep epigastric artery",
+                "Deep external pudendal artery"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 46,
+            "question": "The following is/are true about the catanous supply of the lower limb",
+            "options": [
+                "L4 supplies the frontomedial aspect of the leg",
+                "S1 supplies the lateral side of the of the foot",
+                "S2 supplies the posterior surface of the leg and the thigh",
+                "S3 only supplies the buttock and perineal region",
+                "S3 supplies the posterior part of the scrotum"
+            ],
+            "answer": [
+                true,
+                true,
+                true
+            ],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 47,
+            "question": "The following is/are true about the ILIOTIBIAL TRACT",
+            "options": [
+                "It is a thin fascia lata on the anterior side of the thigh",
+                "It enclose the fascia latae superiorly",
+                "Major part of the gluteus maximus is inserted into it",
+                "The TRACT is inserted into GERDY'S tubercle",
+                "It maintains the knee in the hyperextended position"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 48,
+            "question": "The following is/are true about the SUBSARTORIAL CANAL",
+            "options": [
+                "Lies between vastus lateralis and anterior aspect of adductor muscles",
+                "Its contents include femoral artery and nerve to vastus medialis",
+                "Its floors contains the adductor longus and magnus",
+                "Femoral vein is posterolateral to the artery in the canal distally",
+                "Femoral vein is posterolateral to the artery in the canal medially"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 49,
+            "question": "The following is/are true about the piriformis muscle Except",
+            "options": [
+                "relevant in the arrangement of the structures in the gluteal region",
+                "the surface marking of its lower border is from the middle point of a line between the posterior superior ilac spine",
+                "It is innervated by posterior rami of S2 and S3",
+                "It is inserted into medial surface of the upper border of the greater trochanter",
+                "None of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 50,
+            "question": "About the SCIATIC NERVE the following is/are incorrect",
+            "options": [
+                "it may be damage during intramuscular injection",
+                "It runs vertically through the hamstrings compartment",
+                "Ir surface marking is from the midpoint between the ischial tuberosity and the greater trochanter to the apex of the popliteal fossa",
+                "It lies deep to the long head of biceps",
+                "It divedes into tibial and common peroneal nerves at the apex of the popliteal fossa"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 51,
+            "question": "Concerning the PATELLA, the following is/are",
+            "options": [
+                "It is attached to the femoral condyles posteriorly",
+                "It has a large medial facet and a smaller lateral facet laterally",
+                "Lateral displacement is usually resisted by the femoral condyles",
+                "Recurrent dislocation by the patella may occur in Genu valgum",
+                "It's lateral displacement is usually resisted by the medial pull of vastus medialis"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 52,
+            "question": "Which of the following is/are correct about HIP DISLOCATION",
+            "options": [
+                "it is usually posterior in flexed position",
+                "there may be acetabular fracture if the hip is in adducted position",
+                "in abducted position, there may be fracture of the posterior acetabular lip",
+                "sciatic nerve may be compromised",
+                "central dislocation may result from a fall from a height"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 53,
+            "question": "The following is/are true about the KNEE JOINT EXCEPT",
+            "options": [
+                "Its capsule is reinforced on each side by the medial and lateral collateral ligament",
+                "Its capsule is strengthened anteriorly by the ligamentum patella",
+                "Its capsule is strengthened on each side by the patella",
+                "The cruciate ligaments connect the tibia with the femur",
+                "It is majorly stabilized by quadriceps femoris"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 54,
+            "question": "Concerning the POPLITEAL FOSSA, the following is/are incorrect",
+            "options": [
+                "It is distal continuation of the adductor canal",
+                "It is superolaterally bounded by the biceps femoris tendon",
+                "Its roof is pierced by the small saphenous vein",
+                "The common peroneal nerve exits the fossa along the medial border of the biceps tendon",
+                "The tibial nerve is the first is lateral to the vessels "
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 55,
+            "question": "Concerning the FEMORAL ARTERY, the following is/are true EXCEPT",
+            "options": [
+                "It is a proximal continuation of the external iliac artery",
+                "Its pulsation can be felt at the point where it lies on the psoas major tendon",
+                "It tranverses the femoral triangle and the adductor canal of Hunter",
+                "It becomes the popliteal artery by passing through the hiatus in the adductor magnus",
+                "Its branches includes deep external pudendal artery and superficial circumflex iliac artery"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Lower limb"
+        },
+        {
+            "id": 56,
+            "question": "Concerning the CARVENOUS SINUS",
+            "options": [
+                "They are the largest venous sinuses in the body measuring about 4cm long and 2cm wide",
+                "Are located at the middle of sella turcica and the body of the sphenoid bone",
+                "They extend from the inferior orbital fissure posteriorly",
+                "Extend from the superior orbital tissue anteriorly to the Apex of the petrous part of the temporal bone",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and neck"
+        },
+        {
+            "id": 57,
+            "question": "The following structures are known to traverses through the foramen lacerum except",
+            "options": [
+                "Internal carotid artery",
+                "Greater petrosal nerve",
+                "Nerve to pterygoid canal",
+                "A meningeal branch of ascending pharyngeal artery",
+                "Emissary vein (from carvenous sinus to the ptergoid plexus)"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and neck"
+        },
+        {
+            "id": 58,
+            "question": "The following are parts of the sella turcica(Pituitary fossa) except",
+            "options": [
+                "A hump at the arterior aspect called turberculum sellae",
+                "A transverse process posteriorly called the dorsum sellae",
+                "The dorsum sellae ends at each side as the posterior clinoid process",
+                "The anterior clinoid",
+                "The Hollow central part"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and neck"
+        },
+        {
+            "id": 59,
+            "question": "Concerning the middle Ear the following are false",
+            "options": [
+                "It's medial wall is formed by the forestra cochlea.Forestra vestibule and the promontory",
+                "Posteriorly it communicates with the mastoid or tympanic artrum and the mastoid air cells",
+                "It's principal blood supply are the anterior tympanic artery from the maxillary an dthe sylomastoid artery from the posterior auricular",
+                "It's nerve supply is from the branches of trigeminal facial, glossopharygeal and vagus nerves",
+                "Its mucous membrane is supplied by Jacobson's nerve"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and neck"
+        },
+        {
+            "id": 60,
+            "question": "Concerning the Extra-ocular muscles",
+            "options": [
+                "They are the muscles attached to the inferior aspect of the eyeball",
+                "involved in the movement of the eye in the vertical or horizontal axes only",
+                "Lateral rectus is supplied by 6th cranial nerve(Abducen) while superior oblique by the 4th cranial nerve(trochlear)",
+                "Diplopia does not arise as a result of injury to the nerve supplying the extra ocular muscle",
+                "All of the above"
+            ],
+            "answer": [
+                false,
+                false,
+                true,
+                false,
+                false
+            ],
+            "explanation": "",
+            "topic": "Embryology of Integumentary system"
+        },
+        {
+            "id": 61,
+            "question": "True/false",
+            "options": [
+                "The maxillary artery is the largest of the two terminal branches of external carotid artery",
+                "It arises anteriorly to the neck of the condyler process of the mandible",
+                "The maxillay artery is divided into 3 parts with its 2nd part given rise to 4 branches",
+                "The branches of the 2nd part are the masseteric branch, deep temporal branche, the branch of the pterygoid and branch of the buccal muscle",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and neck"
+        },
+        {
+            "id": 62,
+            "question": "True/false",
+            "options": [
+                "The lymph drainage of the head and neck are divided into numerous outlying nodes and the deep cervical group of node",
+                "The superficial cervical nodes lie adjacent to the external jugular vein",
+                "The anterior cervical nodes lies along the anterior jugular vein",
+                "The pre-auricular nodes are both outside and within the capsule of the parotid gland",
+                "None of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and neck"
+        },
+        {
+            "id": 63,
+            "question": "The following concerning the ptergopalatine fossa is false",
+            "options": [
+                "It is concerned with blood supply and nerve supply to the upper jaw",
+                "It is small-elongated pyramidal space that lies between the back of the maxilla and front of the pterygoid process the spheroid bone",
+                "The maxillary vessels and nerve with ptergopalatine ganglion are the main content",
+                "The pyramidal process of the palatine bone forms the floor",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and neck"
+        },
+        {
+            "id": 64,
+            "question": "The infratemporal fossa",
+            "options": [
+                "It has a regularly shaped inferior and deep to the zygomatic arch",
+                "The anterior surface of the condylar process of the mandible and styloid process of the temporal bone bone forms its posterior border",
+                "The lateral pterygoid plate forms it medial wall",
+                "The mandibular nerve, Auriculotemporal nerve and maxillary artery are the only content",
+                "it provides a major site for mandibular nerve block"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and neck"
+        },
+        {
+            "id": 65,
+            "question": "True/false",
+            "options": [
+                "The frontalis pulls the scalp arteriorly, wrinkles the forehead elevate the eyebrows",
+                "Occipitalis pulls the scalp posteriorly and wrinkle the skin at the back of the neck",
+                "The 1st three layers of the scalp are connected intimately and they move as a unit especially when wrinkle the forehead",
+                "Blood supply to the scalp is from external carotid arteries through occipal, posterior auricular and superficial temporal arteries and the internal carotid arteries and the internal carotid arteries through the supratrochlear of supraorbital arteries",
+                "Anterior to the auricle the innervations is through branches of all three division of trigeminal nerves"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and neck"
+        },
+        {
+            "id": 66,
+            "question": "The following is/are incorrect about the development of the urinary bladder",
+            "options": [
+                "Develops from the vesical part of the urogenital sinus",
+                "It is formed from the wolffian duct",
+                "Its epithelial lining is derived from the endoderm of the same visceral part",
+                "The wolffian duct aids the formation of the connective tissue of the bladder trigone",
+                "The wall of the bladder develops from the splanchnic mesenchyme"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and neck"
+        },
+        {
+            "id": 67,
+            "question": "The following is/are true about the male urethra EXCEPT",
+            "options": [
+                "The penile urethral measures about 15cm",
+                "The epithelium is derived from endoderm of the urogenital sinus",
+                "The distal part is derived from endoderm",
+                "Its smooth muscle is derived from splanchnic mesenchyme",
+                "The prostatic urethra eventually develops into the prostate gland"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "pelvis and perinueum"
+        },
+        {
+            "id": 68,
+            "question": "Consumption of oral contraceptives during early pregnancy may cause the following except",
+            "options": [
+                "VECTERYL syndrome",
+                "Spina bifida occulta",
+                "Phocomely",
+                "Imperforate anus",
+                "Eosophageal atresia"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Introductory Embryology"
+        },
+        {
+            "id": 69,
+            "question": "The following is/are correct about the development of the thoracic diaphragm EXCEPT",
+            "options": [
+                "The short arm of chromosome 15(15q) play on important role",
+                "The septum transversum is the promaordium of central tendom",
+                "The pleuroperitoneal membranes form a small portion fetal diaphragm",
+                "The pleuroperitoneal membranes form a large portion of the newborn's diaphragm",
+                "The crura of the diaphragm develops from epiblasts"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Introductory Embryology"
+        },
+        {
+            "id": 70,
+            "question": "The following is/are true about spina bifida except",
+            "options": [
+                "It's commonest site to occur is the lumbosacral region",
+                "It may result from consumption of teratogenic drugs",
+                "It may be due to lesions affecting the degree of flexion",
+                "It can be averted if all child-bearing women take fovite 3 months before conception",
+                "all of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Introductory Embryology"
+        },
+        {
+            "id": 71,
+            "question": "Concerning the development of the tongue, the following is/are true EXCEPT",
+            "options": [
+                "The copula is formed from the 2nd, 3rd and part of the 5th pharyngeal arch",
+                "The 2nd medial swelling indicated the development of the epiglottis",
+                "It's mucosa develops from the pharyngeal arch",
+                "The mandibular branch of the trigeminal nerve gives sensory innervations to the posterior part of the tongues",
+                "The root of the tongue originates from the 1st, 2nd and 3rd pharyngeal arch"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Embryology of Head and neck"
+        },
+        {
+            "id": 72,
+            "question": "The following is/are incorrect about the first pharyngeal arch",
+            "options": [
+                "Consists of maxillary and mandibular processes",
+                "The mandibular process is ventrally oriented",
+                "Mandibular processes contains the meckel's cartilage",
+                "Incus and malleus are formed from Dorsal end of the Meckels cartilage",
+                "It's muscles include anterior belly of digastric and pterygoids"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Embryology of Head and neck"
+        },
+        {
+            "id": 73,
+            "question": "The following is/are TRUE about Fetal period EXCEPT",
+            "options": [
+                "Commences Nine weeks after fetilization",
+                "Starts Eleven weeks after last normal menstrual period(LNMP)",
+                "Associated with rapid body differenctiation",
+                "Presence of Vernix caseosa",
+                "Presence of Lanugo"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Gastrulation(3rd-8th) week"
+        },
+        {
+            "id": 74,
+            "question": "The following is/are associated with the third(3rd) week of embryonic period",
+            "options": [
+                "Presence of Gastrulation",
+                "Formation of neural tube",
+                "Formation of somites and body cavity",
+                "Development of Fetal and adult erythrocytes",
+                "Conversion of primary chorionic villi to secondary chorionic villi"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Gastrulation(3rd-8th) week"
+        },
+        {
+            "id": 75,
+            "question": "The following is/are functions of the NOTOCHORD except",
+            "options": [
+                "Determines the primordial longitudinal axis of the embryo",
+                "It give the embryo some rigidity",
+                "Provides signals for the development of the musculoskeletal structures",
+                "Provides signal for the development of the Central nervous system",
+                "Contributes to the formation of the intervertebral discs"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Gastrulation(3rd-8th) week"
+        },
+        {
+            "id": 76,
+            "question": "Infrahyoid group of muscles include except",
+            "options": [
+                "sternohyoid",
+                "omohyoid",
+                "thyrohyoid",
+                "digastric",
+                "stylohyoid"
+            ],
+            "answer": [
+                false,
+                false,
+                false,
+                true,
+                true
+            ],
+            "explanation": "The infrahyoid muscles include omohyoid, thyrohyoid, sternohyoid and sternothyroid",
+            "topic": "Head and neck"
+        },
+        {
+            "id": 77,
+            "question": "Suprahyoid muscles include the following",
+            "options": [
+                "mylohyoid",
+                "geniohyoid",
+                "sternothyroid",
+                "omohyoid",
+                "all of the above"
+            ],
+            "answer": [
+                true,
+                true,
+                false,
+                false,
+                false
+            ],
+            "explanation": "The suprahyoid muscles include mylohyoid, digastric, geniohyoid and stylohyoid",
+            "topic": "Head and neck"
+        },
+        {
+            "id": 78,
+            "question": "concerning the digastric muscle",
+            "options": [
+                "The anterior belly is derived from the 1st pharyngeal arch",
+                "The anterior belly is innervated by CN VII",
+                "The posterior belly is innervated by CNV",
+                "The posterior belly is derived from the 2nd pharyngeal arch",
+                "It is attached to the body and greater horn of the hyoid bone"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Head and neck"
+        },
+        {
+            "id": 79,
+            "question": "Which of the following constitute the Layers of The Cardiac wall ",
+            "options": [
+                "Epicardium",
+                "Pericardium",
+                "Myocardium",
+                "Endocardium",
+                "Epineurium"
+            ],
+            "answer": [
+                true,
+                false,
+                true,
+                true,
+                false
+            ],
+            "explanation": "The layers of the Cardiac wall includes Endocardium, Myocardium and Epicardium(or visceral layer of serous pericardium) ",
+            "topic": "Histology of Cardiovascular system"
+        },
+        {
+            "id": 80,
+            "question": "which of the following constitute the conducting tissue of the heart",
+            "options": [
+                "Sinuatrial node",
+                "Atrioventricular node",
+                "Atrioventricular bundle of His",
+                "Artial naturetic factor",
+                "Purkinje fibers"
+            ],
+            "answer": [
+                true,
+                true,
+                true,
+                false,
+                true
+            ],
+            "explanation": "",
+            "topic": "Thorax"
+        },
+        {
+            "id": 81,
+            "question": "About Blood vessels",
+            "options": [
+                "Arteries contain more elastic tissue",
+                "Veins do not have valves",
+                "Venules are capillaries",
+                "Arterioles are the smallest vessels",
+                "Capillaries are larger than arterioles"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Histology of Cardiovascular system"
+        },
+        {
+            "id": 82,
+            "question": "About Blood vessels",
+            "options": [
+                "Atherosclerosis is a risk factor to hypertension",
+                "Hypertension is a risk factor to atherosclerosis",
+                "Arteriosclerosis causes atherosclerosis",
+                "Rupture is not a complication of atherosclerosis",
+                "Old age is a risk factor to atherosclerosis"
+            ],
+            "answer": [
+                true,
+                false,
+                false,
+                true,
+                true
+            ],
+            "explanation": "",
+            "topic": "Histology of Cardiovascular system"
+        },
+        {
+            "id": 83,
+            "question": "About the Skin",
+            "options": [
+                "Macrophages are primary resident cells",
+                "Keratinocytes are migratory cells",
+                "Merkel's cells are found in the dermis",
+                "Melanocytes are immune cells",
+                "Dendritic cells contain Keratohyaline granules"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Histology of integumentary system"
+        },
+        {
+            "id": 84,
+            "question": "About neuron structure",
+            "options": [
+                "Dendrites are nuclear extensions",
+                "The axon has many processes",
+                "Nissl bodies contain ribosomes",
+                "The myelin sheath surrounds the dendrites",
+                "The nodes of Ranvier slow down impulses"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Histology of nervous system"
+        },
+        {
+            "id": 85,
+            "question": "About The nerves Tissue",
+            "options": [
+                "Microglial cells are phagocytes",
+                "Microglial cells are fibroblasts",
+                "Microglial cells are antigen presenting cells",
+                "Microglial cell are immune cells",
+                "None of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Histology of nervous system"
+        },
+        {
+            "id": 86,
+            "question": "Which of the following constitute the cells of the peripheral nervous system",
+            "options": [
+                "Ependymal cell",
+                "Astroglia",
+                "Oligodendrocytes",
+                "Schwann cells",
+                "Microsatelite cells"
+            ],
+            "answer": [
+                false,
+                false,
+                false,
+                true,
+                true
+            ],
+            "explanation": "Supporting cells of PNS incude Schwann cells and Satellite cells",
+            "topic": "Histology of nervous system"
+        },
+        {
+            "id": 87,
+            "question": "Which of the following constitute the supporting cells of the Nervous tissue",
+            "options": [
+                "Neuron",
+                "Schwann cells",
+                "Dendritic cell",
+                "Follicular cells",
+                "Oligodendrocytes"
+            ],
+            "answer": [
+                false,
+                true,
+                false,
+                false,
+                true
+            ],
+            "explanation": "Supporting cells of PNS include Schwann cells and Satellite cells while that of CNS include Oligodendrocytes, Astrocytes, Microgial cell, Ependymal cells",
+            "topic": "Histology of nervous system"
+        },
+        {
+            "id": 88,
+            "question": "About ependymal cells",
+            "options": [
+                "Produce myelin",
+                "Provide barrier",
+                "Line the meninges",
+                "Produce cerebrospinal fluid",
+                "Contain microvilli"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Histology of nervous system"
+        },
+        {
+            "id": 89,
+            "question": "Lymph node Are",
+            "options": [
+                "Enclosed by a capsule",
+                "Originate form a mesenchymal bud",
+                "Consists of lobules",
+                "Contain dendritic cells",
+                "Contain reticular meshwork"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Histology of Cardiovascular system"
+        },
+        {
+            "id": 90,
+            "question": "About the neuron",
+            "options": [
+                "Axons convey impulses towards the soma",
+                "Nissl granule is made up of smooth endoplasmic reticulum",
+                "Nissl granule is present in the axon hillock",
+                "Neurofibrils are absent in neurons",
+                "A neuron can have several dendrites"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Histology of nervous system"
+        },
+        {
+            "id": 91,
+            "question": "About the spinal cord",
+            "options": [
+                "It extends from the upper border of the C1 vertebra to the lower border of the L5 vertebra",
+                "It has an inner white matter",
+                "The cavity is spinal foramen",
+                "The cervical enlargement extends trom C1 to C8",
+                "The lumbar enlargement extends from L1 to Ls segment"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Neuroanatomy"
+        },
+        {
+            "id": 92,
+            "question": "The Rexed laminae",
+            "options": [
+                "Posteromarginal nucleus is in lamina I",
+                "Sustantia gelatinosa is in lamina II",
+                "Intermedilateral nucleus is in lamina IX",
+                "Dorsal nucleus is in lamina VII",
+                "Accessory nucleus is in lamina X"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Neuroanatomy"
+        },
+        {
+            "id": 93,
+            "question": "Which of the following nerves emerge from the medulla oblongata",
+            "options": [
+                "Trigeminal nerve",
+                "Abducens nerve",
+                "Facial nerve",
+                "Vestibulocochlear nerve",
+                "Glossopharyngeal nerve"
+            ],
+            "answer": [
+                false,
+                false,
+                false,
+                false,
+                true
+            ],
+            "explanation": "Glossopharyngeal nerve (CNIX), Vagus(CNX), Accesory nerve(CNXI), Hypoglossal(CNXII) arise from the medulla oblongata ",
+            "topic": "Neuroanatomy"
+        },
+        {
+            "id": 94,
+            "question": "About the cerebellum",
+            "options": [
+                "The most medial nucleus is fastigial nucleus",
+                "Mossy fibers are formed by olivocerebellar fibers",
+                "The output fibers are the axons of granule cells",
+                "The output fibers are formed by olivocerebellar fibers",
+                "Dendritic tree is formed by dendrites of purkinje cells",
+                "Parallel Horns are made up of dendrites of granule cells"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Neuroanatomy"
+        },
+        {
+            "id": 95,
+            "question": "About spinothalamic tracts",
+            "options": [],
+            "answer": [],
+            "explanation": "",
+            "topic": ""
+        },
+        {
+            "id": 96,
+            "question": "The following may not be correct about the effect of nicotine of ANS",
+            "options": [
+                "May induce Ach release from postganglionic fibers of sympathetic nerves",
+                "Causes hypotension in cardiovascular system",
+                "It mimic the effect of Ach at the postganglionic fibers of both parasympathetic and sympathectic nerve",
+                "It's effect on the GI tract may increase GIT secretions and motility",
+                "All of the above"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Histology of nervous system"
+        },
+        {
+            "id": 97,
+            "question": "The following statement(s) is/are true regarding the strutural arragements of the epidermis from outward to inward",
+            "options": [
+                "Stratum basale lies under stratum spinosum",
+                "Stratum granulosum lies above stratum corneum",
+                "Stratum lucidum is present in the epidermis in every part of the body",
+                "Keratinocytes in stratum basale lack nucleus",
+                "Keratinocytes in stratum corneum have nucleus"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Histology of integumentary system"
+        },
+        {
+            "id": 98,
+            "question": "Concerning autonomic stimulation",
+            "options": [
+                "Sympthetic stimulation increases the heart rate and cause vasodilation of the coronary artery",
+                "The Preganglionic neurons of the parasympathetic fibers to the urinary bladder are located in S2 -S$ spinal segments",
+                "The postganglionic parasympathetic neurons to the heart are located in the deep and superficial cardiac plexuses",
+                "Parasympathetic supply to the sphincter pupillae causes pupillary constriction"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Histology of nervous system"
+        },
+        {
+            "id": 99,
+            "question": "The skin",
+            "options": [
+                "Has a surface area of about 20square feet",
+                "Weighs about 10 pounds in average individual",
+                "It is the largest system in the body",
+                "Structural composition varies with age and sex",
+                "Cutaneous sensation are performed by the mechanoreceptors"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Histology of integumentary system"
+        },
+        {
+            "id": 100,
+            "question": "Which of the following is not a function of the skin",
+            "options": [
+                "Thermoregulation",
+                "Keratinization",
+                "Conversion of vitamin D3 to cacitriol",
+                "Protection against UV light producted by presence of the Pacinian corpuscle",
+                "Cutaneous sensation"
+            ],
+            "answer": [],
+            "explanation": "",
+            "topic": "Histology of integumentary system"
+        }
+    ]
+}

@@ -1,0 +1,852 @@
+1. The normal weight of the adult female heart is approximately:
+   A) 150-200g
+   B) 250-300g
+   C) 300-350g
+   D) 400-450g
+
+2. Cardiomegaly is characterized by:
+   A) Increase in heart rate
+   B) Increase in heart weight
+   C) Decrease in heart rate
+   D) Decrease in heart weight
+
+3. The left ventricular wall measures approximately:
+   A) 0.3 - 0.5cm
+   B) 0.5 - 0.8cm
+   C) 1.3 - 1.5cm
+   D) 1.5 - 1.8cm
+
+4. The right coronary artery supplies the:
+   A) Left ventricle
+   B) Right ventricle
+   C) Both ventricles
+   D) Atria
+
+5. The left anterior descending coronary artery supplies the:
+   A) Anterior wall of the right ventricle
+   B) Anterior wall of the left ventricle
+   C) Posterior wall of the left ventricle
+   D) Posterior wall of the right ventricle
+
+6. The myocardium is composed predominantly of:
+   A) Cardiac muscle cells
+   B) Smooth muscle cells
+   C) Skeletal muscle cells
+   D) Adipose tissue
+
+7. The functional unit of the myocardium is the:
+   A) Sarcomere
+   B) Myofibril
+   C) Myocyte
+   D) Cardiomyocyte
+
+8. Atrial natriuretic peptide (ANP) is produced by the myocytes of the:
+   A) Atrium
+   B) Ventricle
+   C) Septum
+   D) Valve
+
+9. The SA node is located at the junction of the:
+   A) Superior vena cava and right atrial appendage
+   B) Inferior vena cava and left atrial appendage
+   C) Superior vena cava and left atrial appendage
+   D) Inferior vena cava and right atrial appendage
+
+10. Heart failure is defined as:
+    A) Inability to maintain an adequate circulation
+    B) Inability to maintain a normal heart rate
+    C) Inability to maintain normal blood pressure
+    D) Inability to maintain normal cardiac output
+
+11. The most common cause of heart failure is:
+    A) Ischaemic heart disease
+    B) Myocarditis
+    C) Cardiomyopathies
+    D) Metabolic disorders
+
+12. Increased pressure load on the heart may occur in:
+    A) Systemic and pulmonary arterial hypertension
+    B) Valvular diseases
+    C) Chronic lung diseases
+    D) All of the above
+
+13. Increased volume load on the heart occurs in:
+    A) Valvular insufficiency
+    B) Severe anaemia
+    C) Thyrotoxicosis
+    D) All of the above
+
+14. Impaired filling of cardiac chambers may result from:
+    A) Cardiac tamponade
+    B) Constrictive pericarditis
+    C) Both A and B
+    D) Neither A nor B
+
+15. Acute heart failure is characterized by:
+    A) Sudden reduction in cardiac output
+    B) Gradual reduction in cardiac output
+    C) Sudden increase in cardiac output
+    D) Gradual increase in cardiac output
+
+16. Chronic heart failure develops:
+    A) Suddenly
+    B) Rapidly
+    C) Slowly
+    D) Sporadically
+
+17. Left-sided heart failure is initiated by stress to the:
+    A) Right heart
+    B) Left heart
+    C) Both A and B
+    D) Neither A nor B
+
+18. Right-sided heart failure may occur as a consequence of:
+    A) Left ventricular failure
+    B) Cor pulmonale
+    C) Both A and B
+    D) Neither A nor B
+
+19. Compensatory mechanisms in heart failure include:
+    A) Tachycardia
+    B) Activation of neurohumoral system
+    C) Cardiac hypertrophy
+    D) All of the above
+
+20. Left ventricular hypertrophy may be caused by:
+    A) Systemic hypertension
+    B) Aortic stenosis
+    C) Mitral insufficiency
+    D) All of the above
+
+21. Right ventricular hypertrophy is most commonly due to:
+    A) Pulmonary stenosis
+    B) Tricuspid insufficiency
+    C) Chronic lung diseases
+    D) Left ventricular failure
+
+22. Failure of the heart results from:
+    A) Myocyte apoptosis
+    B) Cytoskeletal alteration
+    C) Ischaemic injury
+    D) All of the above
+
+23. The lungs in congestive heart failure may show:
+    A) Interstitial pulmonary oedema
+    B) Focal tiny hemorrhages
+    C) Both A and B
+    D) Neither A nor B
+
+24. Hypoxic encephalopathy in heart failure is characterized by:
+    A) Red neurone
+    B) Watershed hemorrhages
+    C) Laminal necrosis
+    D) All of the above
+
+25. Chronic liver congestion in right-sided heart failure may lead to:
+    A) Atrophy of hepatocytes
+    B) Central hemorrhagic necrosis
+    C) Both A and B
+    D) Neither A nor B
+
+26. Nutmeg liver appearance is associated with:
+    A) Right-sided heart failure
+    B) Left-sided heart failure
+    C) Both A and B
+    D) Neither A nor B
+
+27. Systemic venous congestion in right-sided heart failure may result in:
+    A) Subcutaneous oedema
+    B) Passive congestion of the liver
+    C) Both A and B
+    D) Neither A nor B
+
+28. Reduced cardiac output in right-sided heart failure may lead to:
+    A) Anoxia
+    B) Cyanosis
+    C) Coldness of extremities
+    D) All of the above
+
+29. The SA node is located at the junction of the:
+    A) Superior vena cava and right atrium
+    B) Inferior vena cava and left atrium
+    C) Superior vena cava and left atrium
+    D) Inferior vena cava and right atrium
+
+30. The functional unit of the myocardium is the:
+    A) Sarcomere
+    B) Myofibril
+    C) Myocyte
+    D) Cardiomyocyte
+
+31. Atrial natriuretic peptide (ANP) is produced by the myocytes of the:
+    A) Atrium
+    B) Ventricle
+    C) Septum
+    D) Valve
+
+32. The SA node is located at the junction of the:
+    A) Superior vena cava and right atrium
+    B) Inferior vena cava and left atrium
+    C) Superior vena cava and left atrium
+    D) Inferior vena cava and right atrium
+
+33. The functional unit of the myocardium is the:
+    A) Sarcomere
+    B) Myofibril
+    C) Myocyte
+    D) Cardiomyocyte
+
+34. Atrial natriuretic peptide (ANP) is produced by the myocytes of the:
+    A) Atrium
+    B) Ventricle
+    C) Septum
+    D) Valve
+
+35. The SA node is located at the junction of the:
+    A) Superior vena cava and right atrium
+    B) Inferior vena cava and left atrium
+    C) Superior vena cava and left atrium
+    D) Inferior vena cava and right atrium
+
+36. The functional unit of the myocardium is the:
+    A) Sarcomere
+    B) Myofibril
+    C) Myocyte
+    D) Cardiomyocyte
+
+37. Atrial natriuretic peptide (ANP) is produced by the myocytes of the:
+    A) Atrium
+    B) Ventricle
+    C) Septum
+    D) Valve
+
+38. The SA node is located at the junction of the:
+    A) Superior vena cava and right atrium
+    B) Inferior vena cava and left atrium
+    C) Superior vena cava and left atrium
+    D) Inferior vena cava and right atrium
+
+39. The functional unit of the myocardium is the:
+    A) Sarcomere
+    B) Myofibril
+    C) Myocyte
+    D) Cardiomyocyte
+
+40. Atrial natriuretic peptide (ANP) is produced by the myocytes of the:
+    A) Atrium
+    B) Ventricle
+    C) Septum
+    D) Valve
+
+
+1. What is the definition of hypertension (HTN)?
+   A) Temporary rise in blood pressure  
+   B) Persistent raised blood pressure  
+   C) Low blood pressure  
+   D) None of the above
+
+2. How is the rise in blood pressure seen in HTN classified?
+   A) By the presence of headaches  
+   B) By the presence of concentric hyper-atrophy of the left ventricle  
+   C) By the level of blood pressure  
+   D) By the presence of heart murmurs
+
+3. Which stage of hypertension is characterized by a blood pressure between 160-179mmHg?
+   A) Stage 1  
+   B) Stage 2  
+   C) Stage 3  
+   D) Stage 4
+
+4. What percentage of Nigerians are affected by hypertension?
+   A) 10%  
+   B) 15%  
+   C) 20%  
+   D) 25%
+
+5. Which type of hypertension has no real cause and accounts for 90-95% of cases?
+   A) Essential HTN  
+   B) Secondary HTN  
+   C) Malignant HTN  
+   D) Idiopathic HTN
+
+6. What are the two main groups of causes for secondary hypertension?
+   A) Renal and cardiovascular  
+   B) Endocrine and neurologic  
+   C) Cardiovascular and endocrine  
+   D) Renal and endocrine
+
+7. Which of the following is NOT a renal cause of secondary hypertension?
+   A) Acute glomerulonephritis  
+   B) Chronic renal disease  
+   C) Renin-producing tumours  
+   D) Acromegaly
+
+8. Which of the following is an endocrine cause of hypertension?
+   A) Chronic lung diseases  
+   B) Polycystic kidney diseases  
+   C) Adrenocortical hyperfunction  
+   D) Coarctation of the aorta
+
+9. What factors affect cardiac output and peripheral resistance, thus altering blood pressure?
+   A) Hormones  
+   B) Humoral factors  
+   C) Neurological factors  
+   D) All of the above
+
+10. What factors affect peripheral resistance?
+    A) Vasoconstrictors  
+    B) Vasodilators  
+    C) Humoral factors  
+    D) All of the above
+
+11. How does the kidney regulate blood pressure?
+    A) By regulating peripheral resistance  
+    B) By regulating blood volume and cardiac output  
+    C) By producing renin  
+    D) By secreting atriopeptin
+
+12. What effect does aldosterone have on the kidneys?
+    A) Stimulates absorption of Na+ and H2O  
+    B) Inhibits absorption of Na+ and H2O  
+    C) Increases excretion of Na+ and H2O  
+    D) None of the above
+
+13. What naturally counteracts the vasoconstrictive effect of ANG-2?
+    A) Prostaglandins  
+    B) Renin  
+    C) Aldosterone  
+    D) ANP
+
+14. What environmental factors are important in the development of hypertension?
+    A) Stress  
+    B) Obesity  
+    C) Smoking  
+    D) All of the above
+
+15. What is the term for the narrowing of arterioles with associated onion-skin thickening of the arteriolar wall and fibrinoid necrosis of the vessel wall in malignant HTN?
+    A) Hyaline arteriolosclerosis  
+    B) Hyperplastic arteriolosclerosis  
+    C) Benign nephrosclerosis  
+    D) None of the above
+
+16. Which type of arteriolosclerosis is characteristic of benign nephrosclerosis?
+    A) Hyaline arteriolosclerosis  
+    B) Hyperplastic arteriolosclerosis  
+    C) Both A and B  
+    D) Neither A nor B
+
+17. What is the histological appearance of blood vessels in hypertensive individuals characterized by hyaline thickening of the arteriolar wall?
+    A) Hyperplastic arteriolosclerosis  
+    B) Hyaline arteriolosclerosis  
+    C) Necrotizing arteritis  
+    D) Atherosclerosis
+
+18. What is the term for the rapid development of blood pressure leading to death within 1-2 years without treatment?
+    A) Malignant HTN  
+    B) Essential HTN  
+    C) Idiopathic HTN  
+    D) Secondary HTN
+
+19. Which stage of hypertension is considered moderate HTN?
+    A) Stage 1  
+    B) Stage 2  
+    C) Stage 3  
+    D) Stage 4
+
+20. What percentage of patients with hypertension present with no real cause (idiopathic)?
+    A) 90-95%  
+    B) 80-85%  
+    C) 70-75%  
+    D) 60-65%
+
+21. Which of the following is NOT a renal cause of secondary hypertension?
+    A) Renal artery stenosis  
+    B) Chronic glomerulonephritis  
+    C) Hyperthyroidism  
+    D) Polycystic kidney disease
+
+22. Which of the following is an endocrine cause of hypertension?
+    A) Acute glomerulonephritis  
+    B) Cushing's disease  
+    C) Coarctation of the aorta  
+    D) Polyarteritis nodosa
+
+23. What factors affect cardiac output and peripheral resistance, thus altering blood pressure?
+    A) Hormones  
+    B) Humoral factors  
+    C) Neurological factors  
+    D) All of the above
+
+24. What factors affect peripheral resistance?
+    A) Vasoconstrictors  
+    B) Vasodilators  
+    C) Humoral factors  
+    D) All of the above
+
+25. How does the kidney regulate blood pressure?
+    A) By regulating peripheral resistance  
+    B) By regulating blood volume and cardiac output  
+    C) By producing renin  
+    D) By secreting atriopeptin
+
+26. What effect does aldosterone have on the kidneys?
+    A) Stimulates absorption of Na+ and H2O  
+    B) Inhibits absorption of Na+ and H2O  
+    C) Increases excretion of Na+ and H2O  
+    D) None of the above
+
+27. What naturally counteracts the vasoconstrictive effect of ANG-2?
+    A) Prostaglandins  
+    B) Renin  
+    C) Aldosterone  
+    D) ANP
+
+28. What environmental factors are important in the development of hypertension?
+    A) Stress  
+    B) Obesity  
+    C) Smoking  
+    D) All of the above
+
+29. What is the term for the narrowing of arterioles with associated onion-skin thickening of the arteriolar wall and fibrinoid necrosis of the vessel wall in malignant HTN?
+    A) Hyaline
+
+ arteriolosclerosis  
+    B) Hyperplastic arteriolosclerosis  
+    C) Benign nephrosclerosis  
+    D) None of the above
+
+30. Which type of arteriolosclerosis is characteristic of benign nephrosclerosis?
+    A) Hyaline arteriolosclerosis  
+    B) Hyperplastic arteriolosclerosis  
+    C) Both A and B  
+    D) Neither A nor B
+
+31. What is the histological appearance of blood vessels in hypertensive individuals characterized by hyaline thickening of the arteriolar wall?
+    A) Hyperplastic arteriolosclerosis  
+    B) Hyaline arteriolosclerosis  
+    C) Necrotizing arteritis  
+    D) Atherosclerosis
+
+32. What is the term for the rapid development of blood pressure leading to death within 1-2 years without treatment?
+    A) Malignant HTN  
+    B) Essential HTN  
+    C) Idiopathic HTN  
+    D) Secondary HTN
+
+33. Which stage of hypertension is considered moderate HTN?
+    A) Stage 1  
+    B) Stage 2  
+    C) Stage 3  
+    D) Stage 4
+
+34. What percentage of patients with hypertension present with no real cause (idiopathic)?
+    A) 90-95%  
+    B) 80-85%  
+    C) 70-75%  
+    D) 60-65%
+
+35. Which of the following is NOT a renal cause of secondary hypertension?
+    A) Renal artery stenosis  
+    B) Chronic glomerulonephritis  
+    C) Hyperthyroidism  
+    D) Polycystic kidney disease
+
+36. Which of the following is an endocrine cause of hypertension?
+    A) Acute glomerulonephritis  
+    B) Cushing's disease  
+    C) Coarctation of the aorta  
+    D) Polyarteritis nodosa
+
+37. What factors affect cardiac output and peripheral resistance, thus altering blood pressure?
+    A) Hormones  
+    B) Humoral factors  
+    C) Neurological factors  
+    D) All of the above
+
+38. What factors affect peripheral resistance?
+    A) Vasoconstrictors  
+    B) Vasodilators  
+    C) Humoral factors  
+    D) All of the above
+
+39. How does the kidney regulate blood pressure?
+    A) By regulating peripheral resistance  
+    B) By regulating blood volume and cardiac output  
+    C) By producing renin  
+    D) By secreting atriopeptin
+
+40. What effect does aldosterone have on the kidneys?
+    A) Stimulates absorption of Na+ and H2O  
+    B) Inhibits absorption of Na+ and H2O  
+    C) Increases excretion of Na+ and H2O  
+    D) None of the above
+
+41. What naturally counteracts the vasoconstrictive effect of ANG-2?
+    A) Prostaglandins  
+    B) Renin  
+    C) Aldosterone  
+    D) ANP
+
+42. What environmental factors are important in the development of hypertension?
+    A) Stress  
+    B) Obesity  
+    C) Smoking  
+    D) All of the above
+
+43. What is the term for the narrowing of arterioles with associated onion-skin thickening of the arteriolar wall and fibrinoid necrosis of the vessel wall in malignant HTN?
+    A) Hyaline arteriolosclerosis  
+    B) Hyperplastic arteriolosclerosis  
+    C) Benign nephrosclerosis  
+    D) None of the above
+
+44. Which type of arteriolosclerosis is characteristic of benign nephrosclerosis?
+    A) Hyaline arteriolosclerosis  
+    B) Hyperplastic arteriolosclerosis  
+    C) Both A and B  
+    D) Neither A nor B
+
+45. What is the histological appearance of blood vessels in hypertensive individuals characterized by hyaline thickening of the arteriolar wall?
+    A) Hyperplastic arteriolosclerosis  
+    B) Hyaline arteriolosclerosis  
+    C) Necrotizing arteritis  
+    D) Atherosclerosis
+
+46. What is the term for the rapid development of blood pressure leading to death within 1-2 years without treatment?
+    A) Malignant HTN  
+    B) Essential HTN  
+    C) Idiopathic HTN  
+    D) Secondary HTN
+
+47. Which stage of hypertension is considered moderate HTN?
+    A) Stage 1  
+    B) Stage 2  
+    C) Stage 3  
+    D) Stage 4
+
+48. What percentage of patients with hypertension present with no real cause (idiopathic)?
+    A) 90-95%  
+    B) 80-85%  
+    C) 70-75%  
+    D) 60-65%
+
+49. Which of the following is NOT a renal cause of secondary hypertension?
+    A) Renal artery stenosis  
+    B) Chronic glomerulonephritis  
+    C) Hyperthyroidism  
+    D) Polycystic kidney disease
+
+50. Which of the following is an endocrine cause of hypertension?
+    A) Acute glomerulonephritis  
+    B) Cushing's disease  
+    C) Coarctation of the aorta  
+    D) Polyarteritis nodosa
+
+1. What is the characteristic feature of concentric left ventricular hypertrophy?
+   A) Decreased thickness of the left ventricular wall  
+   B) Decreased weight of the heart  
+   C) Increased cavity of the left ventricle  
+   D) Increased thickness of the left ventricular wall
+
+2. What is observed in the kidneys of patients with benign hypertension?
+   A) Benign nephrosclerosis  
+   B) Malignant nephrosclerosis  
+   C) Renal cysts  
+   D) None of the above
+
+3. What is the result of hyaline arteriolosclerosis in the kidneys?
+   A) Enlargement of the kidney  
+   B) Shrinkage of the kidney with fine granularity on the cortical surface  
+   C) Increased blood flow to the kidneys  
+   D) None of the above
+
+4. Which type of arteriolosclerosis is seen in malignant hypertension?
+   A) Hyaline arteriolosclerosis  
+   B) Hyperplastic arteriolosclerosis  
+   C) Atherosclerosis  
+   D) None of the above
+
+5. What is the commonest cause of cerebral hemorrhage?
+   A) Atherosclerosis  
+   B) Hypertension  
+   C) Diabetes  
+   D) None of the above
+
+6. What leads to the development of microaneurysms in chronic hypertension?
+   A) Dilation of blood vessels  
+   B) Constriction of blood vessels  
+   C) Increased blood pressure  
+   D) None of the above
+
+7. What is the term for the development of infarcts in the deep penetrating arteries and arterioles supplying the basal ganglia and white matter of the brain?
+   A) Cerebral hemorrhage  
+   B) Lacunar infarcts  
+   C) Cerebrovascular accident  
+   D) None of the above
+
+8. What characterizes acute hypertensive encephalopathy?
+   A) Raised intracranial pressure  
+   B) Cerebral edema  
+   C) Petechial hemorrhages within the brain  
+   D) All of the above
+
+9. What is Binswanger's disease characterized by?
+   A) Infarcts located preferentially in the subcortical white matter  
+   B) Infarcts located preferentially in the cerebral cortex  
+   C) Infarcts located preferentially in the basal ganglia  
+   D) None of the above
+
+10. What is a major component of rheumatic fever?
+    A) Joint pain  
+    B) Heart damage  
+    C) Muscle inflammation  
+    D) None of the above
+
+11. What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?
+    A) Carditis  
+    B) Polyarthritis  
+    C) Chorea  
+    D) All of the above
+
+12. Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?
+    A) Fever  
+    B) Arthralgia  
+    C) Raised ESR  
+    D) Presence of inactive rheumatic heart disease
+
+13. What is the primary site of lesion in rheumatic fever?
+    A) Joints  
+    B) Heart  
+    C) Lungs  
+    D) Liver
+
+14. What is the characteristic feature of concentric left ventricular hypertrophy?
+    A) Decreased thickness of the left ventricular wall  
+    B) Decreased weight of the heart  
+    C) Increased cavity of the left ventricle  
+    D) Increased thickness of the left ventricular wall
+
+15. What is observed in the kidneys of patients with benign hypertension?
+    A) Benign nephrosclerosis  
+    B) Malignant nephrosclerosis  
+    C) Renal cysts  
+    D) None of the above
+
+16. What is the result of hyaline arteriolosclerosis in the kidneys?
+    A) Enlargement of the kidney  
+    B) Shrinkage of the kidney with fine granularity on the cortical surface  
+    C) Increased blood flow to the kidneys  
+    D) None of the above
+
+17. Which type of arteriolosclerosis is seen in malignant hypertension?
+    A) Hyaline arteriolosclerosis  
+    B) Hyperplastic arteriolosclerosis  
+    C) Atherosclerosis  
+    D) None of the above
+
+18. What is the commonest cause of cerebral hemorrhage?
+    A) Atherosclerosis  
+    B) Hypertension  
+    C) Diabetes  
+    D) None of the above
+
+19. What leads to the development of microaneurysms in chronic hypertension?
+    A) Dilation of blood vessels  
+    B) Constriction of blood vessels  
+    C) Increased blood pressure  
+    D) None of the above
+
+20. What is the term for the development of infarcts in the deep penetrating arteries and arterioles supplying the basal ganglia and white matter of the brain?
+    A) Cerebral hemorrhage  
+    B) Lacunar infarcts  
+    C) Cerebrovascular accident  
+    D) None of the above
+
+21. What characterizes acute hypertensive encephalopathy?
+    A) Raised intracranial pressure  
+    B) Cerebral edema  
+    C) Petechial hemorrhages within the brain  
+    D) All of the above
+
+22. What is Binswanger's disease characterized by?
+    A) Infarcts located preferentially in the subcortical white matter  
+    B) Infarcts located preferentially in the cerebral cortex  
+    C) Infarcts located preferentially in the basal ganglia  
+    D) None of the above
+
+23. What is a major component of rheumatic fever?
+    A) Joint pain  
+    B) Heart damage  
+    C) Muscle inflammation  
+    D) None of the above
+
+24. What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?
+    A) Carditis  
+    B) Polyarthritis  
+    C) Chorea  
+    D) All of the above
+
+25. Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?
+    A) Fever  
+    B) Arthralgia  
+    C) Raised ESR  
+    D) Presence of inactive rheumatic heart disease
+
+26. What is the primary site of lesion in rheumatic fever?
+    A) Joints  
+    B) Heart  
+    C) Lungs  
+    D) Liver
+
+27. What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?
+    A) Carditis  
+    B) Polyarthritis  
+    C) Chorea  
+    D) All of the above
+
+28. Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?
+    A) Fever  
+    B) Arthralgia  
+    C) Raised ESR  
+    D) Presence of inactive rheumatic heart disease
+
+29. What is the primary site of lesion in rheumatic fever?
+    A) Joints  
+    B) Heart  
+    C) Lungs  
+    D) Liver
+
+30. What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?
+    A) Carditis  
+    B) Polyarthritis  
+    C) Chorea  
+    D) All of the above
+
+31. Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?
+    A) Fever  
+    B) Arthralgia  
+    C) Raised ESR  
+    D) Presence of inactive rheumatic heart disease
+
+32. What is the primary site of lesion in rheumatic fever?
+    A) Joints  
+    B) Heart  
+    C) Lungs  
+    D) Liver
+
+33. What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?
+    A) Carditis  
+    B) Polyarthritis  
+    C) Chorea  
+    D) All of the above
+
+34. Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?
+    A) Fever  
+    B) Arthralgia  
+    C) Raised ESR  
+    D) Presence of inactive rheumatic heart disease
+
+35. What is the primary site of lesion in rheumatic fever?
+    A) Joints  
+    B) Heart  
+    C) Lungs  
+    D) Liver
+
+36. What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?
+    A) Carditis  
+    B) Polyarthritis  
+    C) Chorea  
+    D) All of the above
+
+37. Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?
+    A) Fever  
+    B) Arthralgia  
+    C) Raised ESR  
+    D) Presence of inactive rheumatic heart disease
+
+38. What is the primary site of lesion in rheumatic fever?
+    A) Joints  
+    B) Heart  
+    C) Lungs  
+    D) Liver
+
+39. What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?
+    A) Carditis  
+    B) Polyarthritis  
+    C) Chorea  
+    D) All of the above
+
+40. Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?
+    A) Fever  
+    B) Arthralgia  
+    C) Raised ESR  
+    D) Presence of inactive rheumatic heart disease
+
+41. What is the primary site of lesion in rheumatic fever?
+    A) Joints  
+    B) Heart  
+    C) Lungs  
+    D) Liver
+
+42. What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?
+    A) Carditis  
+    B) Polyarthritis  
+    C) Chorea  
+    D) All of the above
+
+43. Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?
+    A) Fever  
+    B) Arthralgia  
+    C) Raised ESR  
+    D) Presence of inactive rheumatic heart disease
+
+44. What is the primary site of lesion in rheumatic fever?
+    A) Joints  
+    B) Heart  
+    C) Lungs  
+    D) Liver
+
+45. What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?
+    A) Carditis  
+    B) Polyarthritis  
+    C) Chorea  
+    D) All of the above
+
+46. Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?
+    A) Fever  
+    B) Arthralgia  
+    C) Raised ESR  
+    D) Presence of inactive rheumatic heart disease
+
+47. What is the primary site of lesion in rheumatic fever?
+    A) Joints  
+    B) Heart  
+    C) Lungs  
+    D) Liver
+
+48. What are the major criteria for diagnosing rheumatic fever according to the Jones criteria?
+    A) Carditis  
+    B) Polyarthritis  
+    C) Chorea  
+    D) All of the above
+
+49. Which of the following is NOT a minor criteria for diagnosing rheumatic fever according to the Jones criteria?
+    A) Fever  
+    B) Arthralgia  
+    C) Raised ESR  
+    D) Presence of inactive rheumatic heart disease
+
+50. What is the primary site of lesion in rheumatic fever?
+    A) Joints  
+    B) Heart  
+    C) Lungs  
+    D) Liver
+
+
+The following are renal courses of secondary hypertension except
+a. Acute pyelonephritis
+b. chronic glomerulonephritis
+c. actue glomerulonephritis 
+d. Renin-producding tumours
+e. chronic glomerulonephritis
+
+answer a. Acute pyelonephritis 

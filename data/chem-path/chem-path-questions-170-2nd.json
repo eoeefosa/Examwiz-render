@@ -1,0 +1,868 @@
+[
+  {
+    "id": 1,
+    "questionType": "objective",
+    "question": "Concerning Calcium Homeostasis:",
+    "options": [
+      "Antidiuretic hormone plays a vital role",
+      "Parathyroid hormone is not involved",
+      "Calcitonin plays a major role",
+      "Calcitriol plays a major role",
+      "None of the above"
+    ],
+    "answer": ["Calcitriol plays a major role"],
+    "explanation": "Although calcitriol and calcitonin play roles in calcium metabolism, calcitriol is generally considered more important for overall calcium homeostasis.\n Calcitriol's actions are more systemic and have a broader impact on calcium absorption, bone turnover, and parathyroid hormone regulation. \nCalcitonin's effects are more localized to bone and kidneys and are primarily involved in short-term regulation of blood calcium levels in response to acute changes.",
+    "searchTags": ["Calcium Homeostasis", "Calcitriol", "Vitamin D"],
+    "topics": ["Endocrinology"]
+  },
+  {
+    "id": 2,
+    "questionType": "objective",
+    "question": "The Following will cause hypocalcaemia:",
+    "options": [
+      "Hypermagnesaemia",
+      "Hypomagnesaemia",
+      "Hypoparathyroidism",
+      "Hypergaminaglobulinaemia",
+      "Hypervitaminosis D"
+    ],
+    "answer": ["Hypomagnesaemia"],
+    "explanation": "Hypocalcaemia can be caused by conditions such as hypomagnesaemia and hypervitaminosis D, which affect calcium balance.",
+    "searchTags": ["Hypocalcaemia", "Magnesium", "Vitamin D"],
+    "topics": ["Endocrinology"]
+  },
+  {
+    "id": 3,
+    "questionType": "objective",
+    "question": "Hormones secreted by the Hypothalamus include the following EXCEPT:",
+    "options": [
+      "Corticotropin",
+      "Thyrotropin",
+      "Antidiuretic hormone",
+      "Somatostatin",
+      "Growth hormone Releasing hormone"
+    ],
+    "answer": ["Antidiuretic hormone"],
+    "explanation": "While the hypothalamus secretes various hormones, antidiuretic hormone (ADH) is produced by the posterior pituitary.",
+    "searchTags": ["Hypothalamus Hormones", "ADH", "Neuroendocrinology"],
+    "topics": ["Neuroendocrinology"]
+  },
+  {
+    "id": 4,
+    "questionType": "objective",
+    "question": "Hypersecretion of Growth hormone in adults will cause:",
+    "options": [
+      "Cushing's syndrome",
+      "Conn's syndrome",
+      "Acromegaly",
+      "Barter's syndrome",
+      "Gitelman's syndrome"
+    ],
+    "answer": ["Acromegaly"],
+    "explanation": "Excessive growth hormone in adults results in acromegaly, characterized by the enlargement of bones and tissues.",
+    "searchTags": ["Growth Hormone", "Acromegaly", "Endocrine Disorders"],
+    "topics": ["Endocrinology"]
+  },
+  {
+    "id": 5,
+    "questionType": "objective",
+    "question": "Acute Porphyrias include the following EXCEPT:",
+    "options": [
+      "Coproporphyria",
+      "Acute intermittent porphyria",
+      "Variegate porphyria",
+      "Erythropoietic porphyria",
+      "Acute hepatic porphyria"
+    ],
+    "answer": ["Erythropoietic porphyria"],
+    "explanation": "Acute porphyrias are a group of disorders, but erythropoietic porphyria is not classified as an acute hepatic porphyria.",
+    "searchTags": [
+      "Acute Porphyrias",
+      "Erythropoietic Porphyria",
+      "Metabolic Disorders"
+    ],
+    "topics": ["Metabolic Medicine"]
+  },
+  {
+    "id": 6,
+    "questionType": "objective",
+    "question": "In Cushing's disease:",
+    "options": [
+      "There is failure of suppression of cortisol in high dose dexamethasone suppression test.",
+      "ACTH level is markedly raised.",
+      "ACTH level is markedly reduced.",
+      "Cortisol level is markedly reduced.",
+      "Plasma cortisol levels not raised after CRH test."
+    ],
+    "answer": ["ACTH level is markedly raised."],
+    "explanation": "In Cushing's disease, there is a lack of normal feedback inhibition of cortisol secretion, leading to a failure of suppression in high dose dexamethasone suppression test.",
+    "searchTags": [
+      "Cushing's Disease",
+      "Dexamethasone Suppression Test",
+      "Endocrine Disorders"
+    ],
+    "topics": ["Endocrinology"]
+  },
+  {
+    "id": 7,
+    "questionType": "objective",
+    "question": "Synacthen Test is useful in the Diagnosis of:",
+    "options": [
+      "Glucose intolerance",
+      "Cushing's disease",
+      "Addison's disease",
+      "Conn's syndrome",
+      "Hypercortisolism"
+    ],
+    "answer": ["Addison's disease"],
+    "explanation": "The Synacthen Test, or ACTH stimulation test, is useful in diagnosing Addison's disease by assessing the adrenal gland's ability to respond to ACTH stimulation.",
+    "searchTags": [
+      "Synacthen Test",
+      "Addison's Disease",
+      "Adrenal Insufficiency"
+    ],
+    "topics": ["Endocrinology"]
+  },
+  {
+    "id": 8,
+    "questionType": "objective",
+    "question": "In Hyperthyroidism, levels of the following hormones are RAISED:",
+    "options": [
+      "Triiodothyronine",
+      "Thyroid Stimulating Hormone",
+      "Thyroglobulin",
+      "Insulin",
+      "Calcitriol"
+    ],
+    "answer": ["Triiodothyronine"],
+    "explanation": "In hyperthyroidism, there is an excessive production of thyroid hormones, including triiodothyronine (T3), leading to increased metabolic activity.",
+    "searchTags": [
+      "Hyperthyroidism",
+      "Thyroid Hormones",
+      "Endocrine Disorders"
+    ],
+    "topics": ["Endocrinology"]
+  },
+  {
+    "id": 9,
+    "questionType": "objective",
+    "question": "The following will cause RAISED THYROXINE LEVEL and REDUCED TSH LEVELS EXCEPT:",
+    "options": [
+      "Graves disease",
+      "Toxic multinodular disease",
+      "Single nodule Adenoma",
+      "Hyperthyroidism",
+      "Pituitary Adenomas producing excessive TSH"
+    ],
+    "answer": ["Pituitary Adenomas producing excessive TSH"],
+    "explanation": "Pituitary adenomas producing excessive TSH can lead to elevated TSH levels, but they are not associated with raised thyroxine (T4) levels.",
+    "searchTags": ["Thyroxine", "TSH", "Pituitary Adenomas"],
+    "topics": ["Endocrinology"]
+  },
+  {
+    "id": 10,
+    "questionType": "objective",
+    "question": "Hormones of the Anterior Pituitary include the following:",
+    "options": [
+      "Corticotropin",
+      "Oxytocin",
+      "Vasoactive inhibitory peptide",
+      "Luteinizing hormone",
+      "Inhibin"
+    ],
+    "answer": ["Luteinizing hormone"],
+    "explanation": "Hormones of the anterior pituitary include corticotropin (ACTH), luteinizing hormone (LH), and inhibin. Oxytocin and vasoactive inhibitory peptide are produced by the posterior pituitary.",
+    "searchTags": ["Anterior Pituitary Hormones", "Endocrine Disorders"],
+    "topics": ["Endocrinology"]
+  },
+  {
+    "id": 11,
+    "questionType": "objective",
+    "question": "Galactosemia is associated with the following except:",
+    "options": [
+      "Jaundice",
+      "Ketoacidosis",
+      "Liver cirrhosis",
+      "Cataract due to accumulation of galactose in the lens",
+      "Renal failure"
+    ],
+    "answer": ["Ketoacidosis"],
+    "explanation": "Ketoacidosis is not a characteristic of galactosemia, but rather a complication that can arise in patients with galactosemia under certain circumstances such as sepsis\n\n Toxic levels of galactose in blood results in  \na. hepatomegally,\nb. cirrhosis of the liver,\nc. renal failure,\nd. cataract,\ne. brain damage etc.\n\nGalactosemia is associated with:\n 1. lethargy\n 2. vomiting\n 3. diarrhoea\n 4. hypoglycemia\n 5. failure to thrive\n 6. jaundice from liver involvement\n 7. mental retardation\n 7. cataract( accumulation of galactitol deposit)\n\nClinitest is a test used to determine the amount of reducing substances, typically glucose, in urine. It provide clinically useful information on carbohydrate levels. Clinitest uses a chemical reaction involving cupric sulfate, sodium hydroxide, and citric acid. when glucose is added to the clinitest tablet in a test tube filled with uring, the glucose react with the chemicals in the tablet, forming a colored compound called cuprous oxide. The intensity of the color indicates the level of glucose in the urine \n\n clinistix tablets are used to test glucose level in urine. Positive clinistix results in patients with galactosemia are unlikely because galactosemia is characterized by excessive amount of galactose, not glucose. Therefore, a positive clinistix test would indicate the presence of glucoes, while galactosemia would suggest the opposite- high levels of galactose and hypoglycemia. If a pateint with galactosemia had a false-postive Clinistix result, it would be advisable to confirm the finding with a test specifically designed for glucose detection, such as clinistix or a blood glucose meter. The clinistix use a double sequential enzymatic reaction. Glucose oxidase converts glucoes into gluconic acid and hydrogen peroxide. Then, peroxidase catalyzes the breakdown of hydrogen peroxide into water and oxygen, producing a colored product. The intensity of the color correlates with the level of glucosee in the urine",
+    "explanation_old": "Galactosemia is a metabolic disorder associated with jaundice, ketoacidosis, liver cirrhosis, and cataracts due to the accumulation of galactose in the lens. It is not typically associated with renal failure.",
+    "searchTags": ["Galactosemia", "Metabolic Disorders", "Renal Failure"],
+    "topics": ["Metabolic Disorders"]
+  },
+  {
+    "id": 12,
+    "questionType": "objective",
+    "question": "Early symptoms of inborn errors of metabolism include the following except:",
+    "options": [
+      "Mental retardation",
+      "Seizures",
+      "Organomegaly",
+      "Failure to thrive",
+      "Vomiting"
+    ],
+    "answer": ["Mental retardation"],
+    "explanation": "Early symptoms of inborn errors of metabolism include seizures, organomegaly, failure to thrive, and vomiting. Mental retardation may develop over time but is not an early symptom.",
+    "searchTags": [
+      "Inborn Errors of Metabolism",
+      "Early Symptoms",
+      "Genetic Disorders"
+    ],
+    "topics": ["Genetic Disorders"]
+  },
+  {
+    "id": 13,
+    "questionType": "objective",
+    "question": "Which of the following is not correct concerning diabetes mellitus:",
+    "options": [
+      "Is a group of metabolic disorder of carbohydrate metabolism.",
+      "Is associated with increased glycogenolysis",
+      "Is associated with increased gluconeogenesis",
+      "Is associated with increased proteolysis",
+      "Usually present with ketoses in type 2"
+    ],
+    "answer": ["Usually present with ketoses in type 2"],
+    "explanation": "Diabetes mellitus is not usually associated with ketoses in type 2. Ketosis is more commonly seen in type 1 diabetes.",
+    "searchTags": ["Diabetes Mellitus", "Carbohydrate Metabolism", "Ketosis"],
+    "topics": ["Endocrinology"]
+  },
+  {
+    "id": 14,
+    "questionType": "objective",
+    "question": "Hypoglycemia may not be a symptom in:",
+    "options": [
+      "Glucagonoma",
+      "Insulinoma",
+      "Severe liver dysfunction",
+      "Inappropriate use of hypoglycemic agents",
+      "Renal failure"
+    ],
+    "answer": ["Glucagonoma"],
+    "explanation": "Hypoglycemia may not be a symptom in severe liver dysfunction, as the liver plays a key role in glucose homeostasis.",
+    "searchTags": ["Hypoglycemia", "Liver Dysfunction", "Hormonal Disorders"],
+    "topics": ["Endocrinology"]
+  },
+  {
+    "id": 15,
+    "questionType": "objective",
+    "question": "Which of the following is not true concerning tumor markers:",
+    "options": [
+      "Prostate-specific antigen (PSA) is an enzyme",
+      "Alpha-fetoprotein is a marker for hepatocellular cancer",
+      "PSA is less sensitive than prostatic acid phosphatase",
+      "PSA is useful in staging prostate cancer",
+      "Protein tumor marker includes Bence Jones protein"
+    ],
+    "answer": ["PSA is less sensitive than prostatic acid phosphatase"],
+    "explanation": "PSA is more sensitive than prostatic acid phosphatase",
+    "searchTags": ["Tumor Markers", "PSA", "Alpha-fetoprotein"],
+    "topics": ["Oncology"]
+  },
+  {
+    "id": 16,
+    "questionType": "objective",
+    "question": "Hemolysis usually does not affect the following analyte except:",
+    "options": [
+      "Serum sodium",
+      "Serum calcium",
+      "Serum bicarbonate",
+      "Serum potassium",
+      "Serum chloride"
+    ],
+    "answer": ["Serum potassium"],
+    "explanation": "Hemolysis can affect some analytes, but serum calcium levels are not typically affected. Other electrolytes like potassium may be influenced by hemolysis.",
+    "searchTags": ["Hemolysis", "Serum Calcium", "Analyte Disturbances"],
+    "topics": ["Clinical Chemistry"]
+  },
+  {
+    "id": 17,
+    "questionType": "objective",
+    "question": "High anion gap metabolic acidosis occurs in the following except",
+    "options": [
+      "Chronic renal failure",
+      "Ketoacidosis",
+      "Starvation",
+      "Renal tubular acidosis",
+      "Methanol poisoning"
+    ],
+    "answer": ["Renal tubular acidosis"],
+    "explanation": "High anion gap metabolic acidosis is typically associated with conditions like ketoacidosis, starvation, renal tubular acidosis, and methanol poisoning, but not chronic renal failure.",
+    "searchTags": ["Metabolic Acidosis", "Anion Gap", "Renal Failure"],
+    "topics": ["Nephrology"]
+  },
+  {
+    "id": 18,
+    "questionType": "objective",
+    "question": "Which of the following is not true concerning acid-base disorders",
+    "options": [
+      "Hypoaldosteronism is an endocrine cause",
+      "Diarrhea causes normal anion gap metabolic acidosis",
+      "Metabolic alkalosis occurs in Conn's syndrome",
+      "Patients may manifest with features of hypercalcemia",
+      "Plasma electrolyte estimation is required in diagnosis"
+    ],
+    "answer": ["Plasma electrolyte estimation is required in diagnosis"],
+    "explanation": "Plasma electrolyte estimation is not always required for the diagnosis of acid-base disorders. Diagnosis involves analyzing blood gases and other clinical parameters.",
+    "searchTags": [
+      "Acid-Base Disorders",
+      "Hypoaldosteronism",
+      "Metabolic Alkalosis"
+    ],
+    "topics": ["Nephrology"]
+  },
+  {
+    "id": 19,
+    "questionType": "objective",
+    "question": "Pyloric stenosis presents with:",
+    "options": [
+      "Hyperchloremic alkalosis",
+      "Hypersomnolence",
+      "Hyperkalemia",
+      "Hyperemia",
+      "Hypoalbuminemia"
+    ],
+    "answer": ["Hypoalbuminemia"],
+    "explanation": "Pyloric stenosis can lead to vomiting and dehydration, causing metabolic alkalosis with high chloride levels (hyperchloremic alkalosis).",
+    "searchTags": ["Pyloric Stenosis", "Alkalosis", "Metabolic Disorders"],
+    "topics": ["Pediatrics"]
+  },
+  {
+    "id": 20,
+    "questionType": "objective",
+    "question": "Cloudy urine may be due to:",
+    "options": [
+      "Urine with acidic pH",
+      "Urine with testing vital pH",
+      "Presence of ketones in urine",
+      "Alkaline urine containing urate",
+      "Alkaline urine containing phosphate precipitate"
+    ],
+    "answer": ["Alkaline urine containing phosphate precipitate"],
+    "explanation": "Cloudy urine can result from various factors, including the presence of phosphate precipitates in alkaline urine.",
+    "searchTags": ["Urine Appearance", "Cloudy Urine", "Urology"],
+    "topics": ["Urology"]
+  },
+  {
+    "id": 21,
+    "questionType": "objective",
+    "question": "Features of respiratory alkalosis include:",
+    "options": [
+      "Alkalosis",
+      "Hypercapnia",
+      "Acidic urine",
+      "Hypoventilation",
+      "Increased hydrogen ion"
+    ],
+    "answer": ["Hypoventilation"],
+    "explanation": "Respiratory alkalosis is characterized by an increased pH (alkalosis) due to hyperventilation and reduced carbon dioxide levels.",
+    "searchTags": ["Respiratory Alkalosis", "Alkalosis", "Pulmonology"],
+    "topics": ["Pulmonology"]
+  },
+  {
+    "id": 22,
+    "questionType": "objective",
+    "question": "Acute tubular necrosis is associated with the following except:",
+    "options": [
+      "Acidosis",
+      "Hypercalcemia",
+      "Oliguria",
+      "Hyperkalemia",
+      "Hyperphosphatemia"
+    ],
+    "answer": ["Hypercalcemia"],
+    "explanation": "Acute tubular necrosis (ATN) is not typically associated with hypercalcemia. ATN involves damage to the renal tubules and can lead to electrolyte imbalances.",
+    "searchTags": [
+      "Acute Tubular Necrosis",
+      "Renal Disorders",
+      "Electrolyte Imbalance"
+    ],
+    "topics": ["Nephrology"]
+  },
+  {
+    "id": 23,
+    "questionType": "objective",
+    "question": "Chronic renal failure is associated with:",
+    "options": [
+      "Dehydration and alkalosis",
+      "Overhydration and acidosis",
+      "Hypercalcemia and hypophosphatemia",
+      "Hyperkalemia and hypernatremia",
+      "Hyponatremia and hyperuricemia"
+    ],
+    "answer": ["Hyponatremia and hyperuricemia"],
+    "explanation": "Chronic renal failure can lead to hyponatremia and hyperuricemia due to impaired renal function affecting sodium and uric acid regulation.",
+    "searchTags": [
+      "Chronic Renal Failure",
+      "Electrolyte Imbalance",
+      "Renal Disorders"
+    ],
+    "topics": ["Nephrology"]
+  },
+  {
+    "id": 24,
+    "questionType": "objective",
+    "question": "The following are mostly reabsorbed in the proximal convoluted tubule except:",
+    "options": [
+      "Calcium",
+      "Glucose",
+      "Amino acids",
+      "Potassium",
+      "None of the above"
+    ],
+    "answer": ["None of the above"],
+    "explanation": "Calcium is mostly reabsorbed in the distal convoluted tubule and the connecting tubule, not the proximal convoluted tubule.",
+    "searchTags": [
+      "Proximal Convoluted Tubule",
+      "Reabsorption",
+      "Calcium Homeostasis"
+    ],
+    "topics": ["Nephrology"]
+  },
+  {
+    "id": 25,
+    "questionType": "objective",
+    "question": "Prerenal causes of renal failure include the following except:",
+    "options": [
+      "Hypovolemia",
+      "Renal artery stenosis",
+      "Acute cardiac failure",
+      "Sepsis",
+      "Acute pyelonephritis"
+    ],
+    "answer": ["Acute pyelonephritis"],
+    "explanation": "Prerenal causes of renal failure are conditions that reduce blood flow to the kidneys. Acute pyelonephritis is an intrarenal cause affecting the renal tissue.",
+    "searchTags": ["Prerenal Causes", "Renal Failure", "Pyelonephritis"],
+    "topics": ["Nephrology"]
+  },
+  {
+    "id": 26,
+    "questionType": "objective",
+    "question": "Potassium is known to be:",
+    "options": [
+      "Freely filtered by the glomeruli",
+      "Almost completely absorbed in the distal convoluted tubule",
+      "50% is absorbed in the proximal convoluted tubule",
+      "Almost completely excreted by the distal convoluted tubule",
+      "Increased in nephrotic syndrome"
+    ],
+    "answer": ["Freely filtered by the glomeruli"],
+    "explanation": "Potassium is primarily excreted by the distal convoluted tubule in the nephron.",
+    "searchTags": ["Potassium", "Distal Convoluted Tubule", "Renal Physiology"],
+    "topics": ["Nephrology"]
+  },
+  {
+    "id": 27,
+    "questionType": "objective",
+    "question": "The thirst mechanism is activated",
+    "options": [
+      "Hypovolemia",
+      "Increased plasma osmolality",
+      "Hyponatremia",
+      "Hyperviscosity",
+      "Antidiuretics"
+    ],
+    "answer": ["Increased plasma osmolality"],
+    "explanation": "The thirst mechanism is activated in response to increased plasma osmolality, indicating a need for water intake to maintain fluid balance.",
+    "searchTags": ["Thirst Mechanism", "Plasma Osmolality", "Fluid Balance"],
+    "topics": ["Nephrology"]
+  },
+  {
+    "id": 28,
+    "questionType": "objective",
+    "question": "Causes of hyperkalemia include the following except:",
+    "options": [
+      "Acute renal failure",
+      "Aldosterone deficiency",
+      "Addison's disease",
+      "Acidosis",
+      "Conn's syndrome"
+    ],
+    "answer": ["Conn's syndrome"],
+    "explanation": "Conn's syndrome is associated with hyperaldosteronism, which would not lead to hyperkalemia.",
+    "searchTags": ["Hyperkalemia", "Conn's Syndrome", "Electrolyte Imbalance"],
+    "topics": ["Nephrology"]
+  },
+  {
+    "id": 29,
+    "questionType": "objective",
+    "question": "The following hormone is essential in sodium homeostasis except:",
+    "options": [
+      "Aldosterone",
+      "Antidiuretic hormone",
+      "Renin",
+      "Somatostatin",
+      "Atrial natriuretic peptide"
+    ],
+    "answer": ["Somatostatin"],
+    "explanation": "Somatostatin is not directly involved in sodium homeostasis. Aldosterone, antidiuretic hormone, renin, and atrial natriuretic peptide play roles in sodium regulation.",
+    "searchTags": ["Sodium Homeostasis", "Hormones", "Nephrology"],
+    "topics": ["Nephrology"]
+  },
+  {
+    "id": 30,
+    "questionType": "objective",
+    "question": "Causes of hypokalemia do not include:",
+    "options": [
+      "Addison's disease",
+      "Cushing's syndrome",
+      "Conn's syndrome",
+      "Carbenoxolone therapy",
+      "Tumour lysis syndrome"
+    ],
+    "answer": ["Addison's disease"],
+    "explanation": "Conn's syndrome is associated with hyperaldosteronism and would not lead to hypokalemia.",
+    "searchTags": ["Hypokalemia", "Conn's Syndrome", "Electrolyte Imbalance"],
+    "topics": ["Nephrology"]
+  },
+  {
+    "id": 31,
+    "questionType": "objective",
+    "question": "The most effective form of Renal Replacement Therapy is:",
+    "options": [
+      "Peritoneal dialysis",
+      "Hemodialysis",
+      "Cadaveric transplant",
+      "Hemodiafiltration",
+      "Live-transplant"
+    ],
+    "answer": ["Live-transplant"],
+    "explanation": "A live transplant is considered the most effective form of Renal Replacement Therapy as it involves replacing a failed kidney with a healthy kidney from a living donor.",
+    "searchTags": [
+      "Renal Replacement Therapy",
+      "Transplantation",
+      "Nephrology"
+    ],
+    "topics": ["Nephrology"]
+  },
+  {
+    "id": 32,
+    "questionType": "objective",
+    "question": "Indications for therapeutic drug monitoring include all but one of the following:",
+    "options": [
+      "Assessment of therapeutic compliance",
+      "Assessment of drug efficacy",
+      "Wide therapeutic index",
+      "Narrow therapeutic index",
+      "Clinical toxicology screening"
+    ],
+    "answer": ["Wide therapeutic index"],
+    "explanation": "Therapeutic drug monitoring is typically more relevant for drugs with a narrow therapeutic index, where small changes in drug concentration can lead to therapeutic failure or toxicity.",
+    "searchTags": [
+      "Therapeutic Drug Monitoring",
+      "Drug Efficacy",
+      "Toxicology Screening"
+    ],
+    "topics": ["Pharmacology"]
+  },
+  {
+    "id": 33,
+    "questionType": "objective",
+    "question": "Biochemical features of Wilson's disease include:",
+    "options": [
+      "Increase in plasma ceruloplasmin",
+      "Low urinary excretion of copper",
+      "Normal total serum copper",
+      "Low plasma ceruloplasmin",
+      "None of the above"
+    ],
+    "answer": ["Low plasma ceruloplasmin"],
+    "explanation": "Wilson's disease is characterized by low levels of plasma ceruloplasmin, leading to copper accumulation in various tissues.",
+    "searchTags": ["Wilson's Disease", "Copper Metabolism", "Ceruloplasmin"],
+    "topics": ["Biochemistry"]
+  },
+  {
+    "id": 34,
+    "questionType": "objective",
+    "question": "Which of the following is an integral apolipoprotein present in VLDL, IDL, and LDL:",
+    "options": ["Apo B-100", "Apo B-48", "Apo C-II", "Apo E", "Apo C-1"],
+    "answer": ["Apo B-100"],
+    "explanation": "Apo B-100 is an integral apolipoprotein present in VLDL, IDL, and LDL, playing a crucial role in lipid transport.",
+    "searchTags": ["Apolipoproteins", "VLDL", "LDL"],
+    "topics": ["Biochemistry"]
+  },
+  {
+    "id": 35,
+    "questionType": "objective",
+    "question": "Advantages of Point of Care Testing include all of the following except:",
+    "options": [
+      "Fast turnaround time",
+      "Prompt and effective patient treatment",
+      "Minimizes delay associated with sample collection and preparation",
+      "It is not useful in remote villages or rural areas",
+      "Avoidance of transportation time for specimens to the main laboratory"
+    ],
+    "answer": ["It is not useful in remote villages or rural areas"],
+    "explanation": "Point of Care Testing is designed to be useful in various settings, including remote or rural areas, to provide timely results.",
+    "searchTags": [
+      "Point of Care Testing",
+      "Laboratory Medicine",
+      "Medical Technology"
+    ],
+    "topics": ["Laboratory Medicine"]
+  },
+  {
+    "id": 36,
+    "questionType": "objective",
+    "question": "In which of the following regions of the gastrointestinal tract will the loss of fluid lead to metabolic acidosis and hypokalemia:",
+    "options": [
+      "Small intestine",
+      "Appendix",
+      "Colon",
+      "Gall bladder",
+      "Stomach"
+    ],
+    "answer": ["Small intestine"],
+    "explanation": "Loss of fluid in the colon can lead to metabolic acidosis and hypokalemia due to factors like diarrhea and increased bicarbonate loss.",
+    "searchTags": [
+      "Gastrointestinal Tract",
+      "Fluid Loss",
+      "Metabolic Acidosis"
+    ],
+    "topics": ["Gastroenterology"]
+  },
+  {
+    "id": 37,
+    "questionType": "objective",
+    "question": "Biochemical features of hepatorenal syndrome include:",
+    "options": [
+      "Hypernatremia",
+      "Hypokalemia",
+      "Metabolic alkalosis",
+      "Hypoventilation",
+      "Hyperventilation"
+    ],
+    "answer": ["Hypoventilation"],
+    "explanation": "Hepatorenal syndrome is associated with renal dysfunction and electrolyte imbalances, including hypokalemia.",
+    "searchTags": [
+      "Hepatorenal Syndrome",
+      "Renal Dysfunction",
+      "Electrolyte Imbalance"
+    ],
+    "topics": ["Nephrology"]
+  },
+  {
+    "id": 38,
+    "questionType": "objective",
+    "question": "Which of the following diseases is caused by deficient secretion of bilirubin into the canaliculi:",
+    "options": [
+      "Crigler-Najjar syndrome",
+      "Dubin-Johnson syndrome",
+      "Gilbert's syndrome",
+      "Hepatocellular carcinoma",
+      "Neonatal hyperbilirubinemia"
+    ],
+    "answer": ["Dubin-Johnson syndrome"],
+    "explanation": "Dubin-Johnson syndrome is characterized by deficient secretion of bilirubin into the canaliculi, leading to its accumulation in the liver.",
+    "searchTags": [
+      "Dubin-Johnson Syndrome",
+      "Bilirubin Secretion",
+      "Liver Disorders"
+    ],
+    "topics": ["Hepatology"]
+  },
+  {
+    "id": 39,
+    "questionType": "objective",
+    "question": "Causes of hypergastrinaemia include:",
+    "options": [
+      "Zollinger-Ellison syndrome",
+      "Pernicious anemia",
+      "Post-vagotomy hypercalcemia",
+      "Extensive carcinoma of the stomach",
+      "Chronic gastritis"
+    ],
+    "answer": ["Zollinger-Ellison syndrome"],
+    "explanation": "Hypergastrinaemia is associated with Zollinger-Ellison syndrome, a condition characterized by gastrin-secreting tumors (gastrinomas) in the pancreas or duodenum.",
+    "searchTags": [
+      "Hypergastrinaemia",
+      "Zollinger-Ellison Syndrome",
+      "Gastrinomas"
+    ],
+    "topics": ["Gastroenterology"]
+  },
+  {
+    "id": 40,
+    "questionType": "objective",
+    "question": "Serum enzyme assays useful in differentiating between normal bone growth and liver dysfunction in a teenager include:",
+    "options": [
+      "Alkaline phosphatase",
+      "Aspartate amino transferase",
+      "Lactate dehydrogenase",
+      "Gamma glutamyl transferase",
+      "Cholinesterase"
+    ],
+    "answer": ["Gamma glutamyl transferase"],
+    "explanation": "Alkaline phosphatase is an enzyme that is elevated in conditions affecting bone growth and liver dysfunction. It is particularly useful in differentiating these conditions in teenagers.",
+    "searchTags": ["Alkaline Phosphatase", "Bone Growth", "Liver Dysfunction"],
+    "topics": ["Biochemistry"]
+  },
+  {
+    "id": 41,
+    "questionType": "objective",
+    "question": "Which of the following diagnoses would be consistent with the finding of a normal lipase but an elevated amylase:",
+    "options": [
+      "Pulmonary infarction",
+      "Acute pancreatitis",
+      "Acute myocardial infarction",
+      "Acute hepatitis",
+      "Macroamylasemia"
+    ],
+    "answer": ["Macroamylasemia"],
+    "explanation": "Macroamylasemia is characterized by elevated amylase levels with normal lipase levels. It is often benign and not associated with pancreatic pathology.",
+    "searchTags": [
+      "Macroamylasemia",
+      "Amylase",
+      "Lipase",
+      "Pancreatic Pathology"
+    ],
+    "topics": ["Clinical Pathology"]
+  },
+  {
+    "id": 42,
+    "questionType": "objective",
+    "question": "Controllable non-physiological preanalytical variables include all but one of the following:",
+    "options": ["Travel", "Diet", "Smoking", "Alcohol intake", "Pregnancy"],
+    "answer": ["Pregnancy"],
+    "explanation": "Pregnancy is a physiological variable and is not controllable. The other options are non-physiological variables that can be controlled.",
+    "searchTags": [
+      "Preanalytical Variables",
+      "Controllable Variables",
+      "Pregnancy"
+    ],
+    "topics": ["Laboratory Medicine"]
+  },
+  {
+    "id": 43,
+    "questionType": "objective",
+    "question": "In which of the following diseases is the ratio of ALT to AST typically 1.07:",
+    "options": [
+      "Viral hepatitis",
+      "Alcoholic hepatitis",
+      "Liver cirrhosis",
+      "Hepatocellular carcinoma",
+      "Neonatal jaundice"
+    ],
+    "answer": ["Viral hepatitis"],
+    "explanation": "In liver cirrhosis, the ALT to AST ratio is often close to 1. An elevated ratio can be suggestive of alcoholic liver disease.",
+    "searchTags": ["ALT", "AST", "Liver Cirrhosis", "Liver Diseases"],
+    "topics": ["Hepatology"]
+  },
+  {
+    "id": 44,
+    "questionType": "objective",
+    "question": "CSF protein is 100mg/dl, CSF glucose is 20mg/dl. The laboratory results above are suggestive of:",
+    "options": [
+      "Acute bacterial meningitis",
+      "Viral meningitis",
+      "Viral encephalitis",
+      "Fungal meningitis",
+      "Meningoencephalitis"
+    ],
+    "answer": ["Fungal meningitis"],
+    "explanation": "Elevated CSF protein and low glucose levels are indicative of fungal meningitis. Bacterial meningitis typically presents with elevated protein and low glucose.",
+    "searchTags": ["CSF Analysis", "Meningitis", "Fungal Meningitis"],
+    "topics": ["Neurology"]
+  },
+  {
+    "id": 45,
+    "questionType": "objective",
+    "question": "Increased CSF glutamine concentration often indicates:",
+    "options": [
+      "Amoebic meningitis",
+      "Brain abscess",
+      "Reye's syndrome",
+      "Leptospirosis",
+      "Syphilis"
+    ],
+    "answer": ["Reye's syndrome"],
+    "explanation": "Increased CSF glutamine levels are associated with Reye's syndrome, a rare but serious condition that can affect the liver and brain.",
+    "searchTags": ["CSF Analysis", "Glutamine", "Reye's Syndrome"],
+    "topics": ["Pediatrics"]
+  },
+  {
+    "id": 46,
+    "questionType": "objective",
+    "question": "The following is useful in determining Glomerular filtration rate:",
+    "options": [
+      "Water Deprivation Test",
+      "Ammonium chloride test",
+      "Oral glucose tolerance test",
+      "Creatinine clearance",
+      "None of the above"
+    ],
+    "answer": ["Creatinine clearance"],
+    "explanation": "Creatinine clearance is a measure used to estimate the glomerular filtration rate (GFR), providing an indication of kidney function.",
+    "searchTags": [
+      "Glomerular Filtration Rate",
+      "Creatinine Clearance",
+      "Kidney Function"
+    ],
+    "topics": ["Nephrology"]
+  },
+  {
+    "id": 47,
+    "questionType": "objective",
+    "question": "Levels of the following hormones are raised throughout pregnancy:",
+    "options": [
+      "B-HCG",
+      "Androstenedione",
+      "Testosterone",
+      "Inhibin",
+      "Estrogen"
+    ],
+    "answer": ["Estrogen"],
+    "explanation": "Estrogen levels increase significantly throughout pregnancy, playing a crucial role in various physiological processes during gestation.",
+    "searchTags": ["Pregnancy Hormones", "Estrogen", "HCG", "Pregnancy"],
+    "topics": ["Obstetrics and Gynecology"]
+  },
+  {
+    "id": 48,
+    "questionType": "objective",
+    "question": "The following are NOT USEFUL in the interpretation of test results EXCEPT:",
+    "options": [
+      "Technologist in charge",
+      "Age",
+      "Hospital address",
+      "Physician in charge",
+      "None of the above"
+    ],
+    "answer": ["Technologist in charge"],
+    "explanation": "The hospital address is not relevant to the interpretation of test results. The other options may play a role in the interpretation and communication of results.",
+    "searchTags": ["Test Results", "Interpretation", "Laboratory Management"],
+    "topics": ["Laboratory Medicine"]
+  },
+  {
+    "id": 49,
+    "questionType": "objective",
+    "question": "Growth hormone exerts its action through:",
+    "options": [
+      "Apo E receptor",
+      "Apo C II receptor",
+      "Insulin-like Growth Factor receptor",
+      "Chylomicron remnant",
+      "Somatostatin receptor"
+    ],
+    "answer": ["Insulin-like Growth Factor receptor"],
+    "explanation": "Growth hormone exerts its primary action through the stimulation of the Insulin-like Growth Factor (IGF) receptor, leading to growth and metabolic effects.",
+    "searchTags": ["Growth Hormone", "IGF Receptor", "Endocrinology"],
+    "topics": ["Endocrinology"]
+  },
+  {
+    "id": 50,
+    "questionType": "objective",
+    "question": "Concerning Active Vitamin D:",
+    "options": [
+      "It does not play a role in Calcium Hemostasis",
+      "It has only osteoclastic effects in the bone",
+      "It is also known as Calcitriol",
+      "It has the same actions like Calcitonin",
+      "Does not have any action on the intestine"
+    ],
+    "answer": ["It is also known as Calcitriol"],
+    "explanation": "Active Vitamin D (Calcitriol) plays a crucial role in calcium homeostasis. It acts on the intestine to enhance calcium absorption.",
+    "searchTags": ["Vitamin D", "Calcitriol", "Calcium Hemostasis"],
+    "topics": ["Endocrinology"]
+  }
+]

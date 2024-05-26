@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "questionType": "objective",
+    "question": "Causes of hypergastrinaemia:",
+    "options": [
+      "Zollinger-Ellison's Syndrome",
+      "Pernicious anemia",
+      "Duodenal ulcer",
+      "Chronic renal failure",
+      "Postvagotomy hypercalcemia"
+    ],
+    "answer": ["Zollinger-Ellison's Syndrome"],
+    "explanation": "Zollinger-Ellison's Syndrome is a condition characterized by hypergastrinemia and is associated with gastrin-secreting tumors (gastrinomas), often in the pancreas or duodenum.",
+    "topics": ["Gastroenterology", "Endocrinology"]
+  },
+  {
+    "id": 2,
+    "questionType": "objective",
+    "question": "Pancreas secretes:",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Bicarbonate-rich juice",
+      "Lipolytic enzymes",
+      "Collagenase"
+    ],
+    "answer": [
+      "Insulin",
+      "Glucagon",
+      "Bicarbonate-rich juice",
+      "Lipolytic enzymes"
+    ],
+    "explanation": "The pancreas secretes insulin, glucagon, bicarbonate-rich juice, and lipolytic enzymes, contributing to various aspects of digestion and metabolism.",
+    "searchTags": [
+      "Pancreas Secretions",
+      "Insulin",
+      "Glucagon",
+      "Digestive Enzymes"
+    ],
+    "topics": ["Endocrinology", "Gastroenterology"]
+  },
+  {
+    "id": 3,
+    "questionType": "objective",
+    "question": "Which of the following binds and transports bilirubin:",
+    "options": [
+      "Bilirubin binding globulin",
+      "Haptoglobin",
+      "Transferrin",
+      "Albumin",
+      "Prealbumin"
+    ],
+    "answer": ["Albumin"],
+    "explanation": "Albumin binds and transports bilirubin in the blood. It plays a crucial role in the transport of various substances, including bilirubin.",
+    "searchTags": ["Bilirubin Transport", "Albumin", "Jaundice"],
+    "topics": ["Hepatology", "Biochemistry"]
+  },
+  {
+    "id": 4,
+    "questionType": "multiple",
+    "question": "Concerning iron,",
+    "options": [
+      "Maximally absorbed in the stomach",
+      "Maximally absorbed in the terminal ileum",
+      "Maximally absorbed in the duodenum",
+      "Maximally absorbed in the colon",
+      "None of the above"
+    ],
+    "answer": ["Maximally absorbed in the duodenum"],
+    "explanation": "Iron is maximally absorbed in the duodenum. It is an essential mineral that is important for various physiological processes.",
+    "searchTags": ["Iron Absorption", "Duodenum", "Mineral Metabolism"],
+    "topics": ["Nutrition", "Mineral Metabolism"]
+  },
+  {
+    "id": 5,
+    "questionType": "multiple",
+    "question": "Concerning iron",
+    "options": [
+      "It is transported to the plasma bound to apoferritin",
+      "It is transported into the plasma bound to transferrin",
+      "Iron overload can cause haemosiderosis"
+    ],
+    "answer": [
+      "It is transported into the plasma bound to transferrin",
+      "Iron overload can cause haemosiderosis"
+    ],
+    "explanation": "Iron is transported into the plasma bound to transferrin. Iron overload can lead to the accumulation of iron in tissues, causing haemosiderosis.",
+    "searchTags": ["Iron Transport", "Transferrin", "Haemosiderosis"],
+    "topics": ["Hematology", "Iron Metabolism"]
+  },
+  {
+    "id": 6,
+    "questionType": "objective",
+    "question": "Biological rhythm would affect plasma levels of the following.",
+    "options": ["Cortisol", "Testosterone", "Vitamin D", "Iron", "Calcium"],
+    "answer": ["Cortisol", "Testosterone", "Vitamin D"],
+    "explanation": "Biological rhythms can affect plasma levels of cortisol, testosterone, and vitamin D. These hormones follow circadian or diurnal patterns.",
+    "searchTags": ["Biological Rhythms", "Circadian Rhythm", "Hormone Levels"],
+    "topics": ["Endocrinology", "Chronobiology"]
+  },
+  {
+    "id": 7,
+    "questionType": "multiple",
+    "question": "SIADH is characterized by the following",
+    "options": [
+      "Hypoosmotic hyponatremia",
+      "Production of dilute urine",
+      "Expansion of ECF volume",
+      "There is usually renal dysfunction"
+    ],
+    "answer": ["Hypoosmotic hyponatremia", "Production of dilute urine"],
+    "explanation": "SIADH (Syndrome of Inappropriate Antidiuretic Hormone) is characterized by hypoosmotic hyponatremia and the production of dilute urine.",
+    "searchTags": ["SIADH", "Hyponatremia", "Antidiuretic Hormone"],
+    "topics": ["Endocrinology", "Nephrology"]
+  },
+  {
+    "id": 8,
+    "questionType": "objective",
+    "question": "Which of the following produces progesterone?",
+    "options": [
+      "Placenta",
+      "Corpus luteum",
+      "Adrenal glands",
+      "Theca cells",
+      "Granulosa cells"
+    ],
+    "answer": ["Corpus luteum"],
+    "explanation": "The corpus luteum, formed after ovulation, is responsible for producing progesterone. It plays a crucial role in the menstrual cycle and early pregnancy.",
+    "searchTags": ["Progesterone", "Corpus Luteum", "Menstrual Cycle"],
+    "topics": ["Gynecology", "Endocrinology"]
+  },
+  {
+    "id": 9,
+    "questionType": "objective",
+    "question": "Which of the following amino acids is necessary for the maintenance of nitrogen balance",
+    "options": ["Serine", "Arginine", "Leucine", "Methionine", "Tryptophan"],
+    "answer": ["Leucine"],
+    "explanation": "Leucine is an essential amino acid that is necessary for the maintenance of nitrogen balance. It plays a crucial role in protein synthesis and overall nitrogen metabolism.",
+    "searchTags": ["Leucine", "Amino Acids", "Nitrogen Balance"],
+    "topics": ["Biochemistry", "Nutrition"]
+  },
+  {
+    "id": 10,
+    "questionType": "multiple",
+    "question": "The following affect the transfer of bilirubin to the canaliculi",
+    "options": [
+      "Criggler-Najjar",
+      "Rotor",
+      "Gilbert's",
+      "Dubin Johnson",
+      "Neonatal Hyperbilirubinemia"
+    ],
+    "answer": ["Criggler-Najjar", "Rotor", "Gilbert's", "Dubin Johnson"],
+    "explanation": "Various conditions affect the transfer of bilirubin to the canaliculi. Criggler-Najjar, Rotor, Gilbert's, and Dubin Johnson are examples of disorders impacting bilirubin metabolism and excretion.",
+    "searchTags": ["Bilirubin Metabolism", "Canaliculi", "Jaundice Disorders"],
+    "topics": ["Hepatology", "Pediatrics"]
+  },
+  {
+    "id": 11,
+    "questionType": "multiple",
+    "question": "About Folic acid:",
+    "options": [
+      "Absorbed in the terminal ileum",
+      "Intrinsic factor is needed?",
+      "Required for purine synthesis",
+      "Deficiency causes megaloblastic anemia"
+    ],
+    "answer": [
+      "Required for purine synthesis",
+      "Deficiency causes megaloblastic anemia"
+    ],
+    "explanation": "Folic acid is required for purine synthesis, and its deficiency can lead to megaloblastic anemia. Unlike vitamin B12, folic acid does not require intrinsic factor for absorption and is absorbed in the small intestine.",
+    "searchTags": ["Folic Acid", "Megaloblastic Anemia", "Vitamin Absorption"],
+    "topics": ["Biochemistry", "Hematology"]
+  }
+]

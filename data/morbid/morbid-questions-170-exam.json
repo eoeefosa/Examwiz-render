@@ -1,0 +1,1531 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following neoplasms is least likely to demonstrate a finger-like growth pattern?",
+    "options": [
+      "Thyroid cancer",
+      "Liver cancer",
+      "They contain both epithelial and",
+      "Mesenchymal components"
+    ],
+    "answer": ["Liver cancer"],
+    "explanation": "Liver cancer is least likely to demonstrate a finger-like growth pattern. Option (b) is correct.",
+    "subcourse": "Pathology",
+    "topics": ["Neoplasms", "Growth Patterns"],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": ["neoplasms", "growth patterns", "pathology"],
+    "sources": "Medical Exam",
+    "course": "PATHOLOGY"
+  },
+  {
+    "id": 2,
+    "question": "A 59 year old woman presents with an anterior neck mass, which on examination moves with swallowing but not with tongue protrusion. She then undergoes a fine needle aspiration cytology procedure which reveals the mass to be made up of cells from the thyroid gland. For which one of the following possible diagnoses must further evaluation by histology be performed?",
+    "options": [
+      "Anaplastic carcinoma",
+      "Medullary carcinoma",
+      "Papillary carcinoma",
+      "Follicular neoplasm",
+      "Multinodular goitre"
+    ],
+    "answer": ["Follicular neoplasm"],
+    "explanation": "Further evaluation by histology must be performed for the diagnosis of Follicular neoplasm. Option (d) is correct.",
+    "subcourse": "Pathology",
+    "topics": ["Thyroid Mass", "Fine Needle Aspiration", "Histology"],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "thyroid mass",
+      "fine needle aspiration",
+      "histology",
+      "pathology"
+    ],
+    "sources": "Medical Exam",
+    "course": "PATHOLOGY"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following statements is technically least appropriate about a polyp?",
+    "options": [
+      "Epithelial proliferation is often involved",
+      "It always projects above a mucosal or epithelial surface",
+      "Acute inflammation is an etiological factor",
+      "Some are inflammatory while",
+      "Others are neoplastic",
+      "Some are benign and others malignant"
+    ],
+    "answer": ["Some are benign and others malignant"],
+    "explanation": "The least appropriate statement about a polyp is that some are benign and others malignant. Option (e) is correct.",
+    "subcourse": "Pathology",
+    "topics": ["Polyps", "Etiological Factors"],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": ["polyps", "etiological factors", "pathology"],
+    "sources": "Medical Exam",
+    "course": "PATHOLOGY"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following statements is most valid regarding mixed tumors?",
+    "options": [
+      "They contain cells from more than one germ layer",
+      "They contain both epithelial and mesothelial elements",
+      "They contain both neoplastic and non-neoplastic elements",
+      "They contain both epithelial and mesenchymal components"
+    ],
+    "answer": ["They contain both epithelial and mesenchymal components"],
+    "explanation": "The most valid statement regarding mixed tumors is that they contain both epithelial and mesenchymal components. Option (d) is correct.",
+    "subcourse": "Pathology",
+    "topics": ["Mixed Tumors", "Neoplastic Elements"],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": ["mixed tumors", "neoplastic elements", "pathology"],
+    "sources": "Medical Exam",
+    "course": "PATHOLOGY"
+  },
+  {
+    "id": 5,
+    "question": "Misnomers in tumor nomenclature include all the following except",
+    "options": [
+      "Hepatoma",
+      "Lymphoma",
+      "Hamartoma",
+      "Seminoma",
+      "Dysgerminoma"
+    ],
+    "answer": ["Hepatoma"],
+    "explanation": "Misnomers are malignant tumors (NOT carcin-, sarc-, lymph-, or melan-) that end with the suffix '-oma'. \nThe following are misnomers \n\b1. Hepatoma (malignant liver tumor) \n\b2. melanoma (malignant skin tumor) \n\b3. Seminoma (malignant testicular tumor) \n\b4. Dysgerminoma (rare malignant germ cell tumor of the ovary). \n\b5. Lymphoma \n\b6. Mesothelioma\n <b>NOTE: '-oma' = benign neoplasm (NOT carcin-, sarc-, lymph-, or melan-).",
+    "subcourse": "Pathology",
+    "topics": ["Tumor Nomenclature", "Misnomers"],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": ["tumor nomenclature", "misnomers", "pathology"],
+    "sources": "Medical Exam",
+    "course": "PATHOLOGY"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following statements is incorrect about dysplasia",
+    "options": [
+      "It literally means 'abnormal growth'",
+      "It is a single step away from malignant transformation",
+      "Some features of malignancy are microscopically present",
+      "Clinical decision making is based on the grade of dysplasia",
+      "Even high-grade dysplasia may not develop into malignancy"
+    ],
+    "answer": ["Clinical decision making is based on the grade of dysplasia"],
+    "explanation": "Clinical decision making is not solely based on the grade of dysplasia. Option (d) is correct.",
+    "subcourse": "Pathology",
+    "topics": [
+      "Dysplasia",
+      "Malignant Transformation",
+      "Clinical Decision Making"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "dysplasia",
+      "malignant transformation",
+      "clinical decision making",
+      "pathology"
+    ],
+    "sources": "Medical Exam",
+    "course": "PATHOLOGY"
+  },
+  {
+    "id": 7,
+    "question": "A 19-year-old girl presents comatose and in severe dehydration, with deranged electrolytes. She has a random blood sugar of 39mg/dL, a body mass index less than 17kg/m2 amenorrhea and marks on her knuckles. She most likely suffers from",
+    "options": [
+      "A mental health disorder",
+      "A gynecological disorder",
+      "An endocrine disorder",
+      "A developmental disorder",
+      "A neurological disorder"
+    ],
+    "answer": ["An endocrine disorder"],
+    "explanation": "The girl most likely suffers from an endocrine disorder, given the symptoms described. Option (c) is correct.",
+    "subcourse": "Medicine",
+    "topics": ["Endocrine Disorders", "Dehydration", "Amenorrhea"],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "endocrine disorders",
+      "dehydration",
+      "amenorrhea",
+      "medicine"
+    ],
+    "sources": "Medical Exam",
+    "course": "MEDICINE"
+  },
+  {
+    "id": 8,
+    "question": "Examples of cancers for which targeted therapy is now widely available include all of the following except",
+    "options": [
+      "Certain subtypes of breast cancer",
+      "CD20-positive non-Hodgkin lymphoma",
+      "CD117-positive Gastrointestinal stromal tumor",
+      "Cervical cancer",
+      "None of the above"
+    ],
+    "answer": ["Cervical cancer"],
+    "explanation": "Targeted therapy is not widely available for cervical cancer. Option (d) is correct.",
+    "subcourse": "Oncology",
+    "topics": [
+      "Targeted Therapy",
+      "Breast Cancer",
+      "Lymphoma",
+      "Gastrointestinal Stromal Tumor",
+      "Cervical Cancer"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": ["targeted therapy", "cervical cancer", "oncology"],
+    "sources": "Medical Exam",
+    "course": "ONCOLOGY"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following & diabetes specific morphology in the kidney?",
+    "options": [
+      "Nodular glomerulosclerosis",
+      "Glomerular basement membrane thickening",
+      "Diffuse mesangial sclerosis",
+      "Renal papillary necrosis",
+      "Glomerular obsolescence"
+    ],
+    "answer": ["Diffuse mesangial sclerosis"],
+    "explanation": "Diffuse mesangial sclerosis is associated with diabetes-specific morphology in the kidney. Option (c) is correct.",
+    "subcourse": "Nephrology",
+    "topics": [
+      "Diabetes",
+      "Kidney Morphology",
+      "Glomerulosclerosis",
+      "Renal Diseases"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "diabetes",
+      "kidney morphology",
+      "glomerulosclerosis",
+      "renal diseases",
+      "nephrology"
+    ],
+    "sources": "Medical Exam",
+    "course": "NEPHROLOGY"
+  },
+  {
+    "id": 10,
+    "question": "Common benign childhood disease",
+    "options": [
+      "Fibromatosis",
+      "Choristoma",
+      "Hamartoma",
+      "Wing's sarcoma",
+      "Seminoma"
+    ],
+    "answer": ["Wing's sarcoma"],
+    "explanation": "Wing's sarcoma is not a common benign childhood disease. Option (d) is correct.",
+    "subcourse": "Pediatrics",
+    "topics": ["Benign Diseases", "Childhood Diseases", "Pediatric Oncology"],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "benign diseases",
+      "childhood diseases",
+      "pediatric oncology",
+      "pediatrics"
+    ],
+    "sources": "Medical Exam",
+    "course": "PEDIATRICS"
+  },
+  {
+    "id": 11,
+    "question": "A 4-month-old infant was found dead in bed while asleep. Examination of the death scene and autopsy were not contributory. Which of the following statements is correct about this case",
+    "options": [
+      "It is known as crib death",
+      "Cause is usually known",
+      "It is the commonest cause of death in infants",
+      "Immaturity of the lungs has been implicated",
+      "The supine sleeping position increases the risk"
+    ],
+    "answer": ["It is known as crib death"],
+    "explanation": "The supine sleeping position increases the risk of sudden infant death. Option (e) is correct.",
+    "subcourse": "Pediatrics",
+    "topics": ["Sudden Infant Death Syndrome", "Autopsy", "Infant Mortality"],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "sudden infant death syndrome",
+      "autopsy",
+      "infant mortality",
+      "pediatrics"
+    ],
+    "sources": "Medical Exam",
+    "course": "PEDIATRICS"
+  },
+  {
+    "id": 12,
+    "question": "Which of the following genes has been implicated for congenital defects",
+    "options": ["MyC gene", "Ras gene", "PAX genes", "Bcl-2 gene", "p53 gene"],
+    "answer": ["PAX genes"],
+    "explanation": "PAX genes have been implicated for congenital defects. Option (c) is correct.",
+    "subcourse": "Genetics",
+    "topics": ["Genes", "Congenital Defects", "PAX Genes"],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": ["genes", "congenital defects", "PAX genes", "genetics"],
+    "sources": "Medical Exam",
+    "course": "GENETICS"
+  },
+  {
+    "id": 13,
+    "question": "A 9-year-old boy had a 3-month history of difficulty in breathing. Chest X-ray showed a huge mediastinal mass. A punch biopsy revealed a small round blue cell tumor. What are the possible diagnoses",
+    "options": [
+      "Acute lymphoblastic leukemia/lymphoma",
+      "Retinoblastoma",
+      "Medulloblastoma",
+      "Primitive neuroectodermal tumor",
+      "Wilm's tumor"
+    ],
+    "answer": ["Primitive neuroectodermal tumor"],
+    "explanation": "A small round blue cell tumor in the mediastinum is suggestive of Primitive neuroectodermal tumor. Option (d) is correct.",
+    "subcourse": "Oncology",
+    "topics": [
+      "Pediatric Oncology",
+      "Mediastinal Mass",
+      "Small Round Blue Cell Tumor"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "pediatric oncology",
+      "mediastinal mass",
+      "small round blue cell tumor",
+      "oncology"
+    ],
+    "sources": "Medical Exam",
+    "course": "ONCOLOGY"
+  },
+  {
+    "id": 14,
+    "question": "The following translocations are correctly matched with their neoplastic lesions",
+    "options": [
+      "t(9,22) Chronic lymphocytic lymphoma",
+      "t(2,8) Burkitt's lymphoma",
+      "t(14.18) Maltoma Retinoblastoma",
+      "t(11 22) Retinoblastoma",
+      "t(11,18) Acute lymphoblastic leukemia"
+    ],
+    "answer": ["t(2,8) Burkitt's lymphoma"],
+    "explanation": "The translocation t(2,8) is correctly matched with Burkitt's lymphoma. Option (b) is correct.",
+    "subcourse": "Oncology",
+    "topics": [
+      "Translocations",
+      "Neoplastic Lesions",
+      "Burkitt's Lymphoma",
+      "Retinoblastoma",
+      "Acute Lymphoblastic Leukemia"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "translocations",
+      "neoplastic lesions",
+      "Burkitt's lymphoma",
+      "Retinoblastoma",
+      "acute lymphoblastic leukemia",
+      "oncology"
+    ],
+    "sources": "Medical Exam",
+    "course": "ONCOLOGY"
+  },
+  {
+    "id": 15,
+    "question": "Which of these is not a component of tetralogy of Fallot",
+    "options": [
+      "Truncus arteriosus",
+      "Ventricular septal defect",
+      "Right ventricular hypertrophy",
+      "Overriding aorta",
+      "Subpulmonary stenosis"
+    ],
+    "answer": ["Truncus arteriosus"],
+    "explanation": "Truncus arteriosus is not a component of tetralogy of Fallot. Option (a) is correct.",
+    "subcourse": "Cardiology",
+    "topics": [
+      "Tetralogy of Fallot",
+      "Congenital Heart Defects",
+      "Cardiac Anatomy"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "tetralogy of Fallot",
+      "congenital heart defects",
+      "cardiac anatomy",
+      "cardiology"
+    ],
+    "sources": "Medical Exam",
+    "course": "CARDIOLOGY"
+  },
+  {
+    "id": 16,
+    "question": "Left-sided heart failure is characterized by all of the following except",
+    "options": [
+      "Concentric left ventricular hypertrophy",
+      "Brown induration of the lungs",
+      "Nutmeg liver",
+      "Hypoxic encephalopathy",
+      "Acute tubular necrosis"
+    ],
+    "answer": ["Acute tubular necrosis"],
+    "explanation": "Acute tubular necrosis is not characteristic of left-sided heart failure. Option (e) is correct.",
+    "subcourse": "Cardiology",
+    "topics": [
+      "Heart Failure",
+      "Left-Sided Heart Failure",
+      "Cardiac Pathology"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "left-sided heart failure",
+      "cardiology",
+      "heart failure",
+      "cardiac pathology"
+    ],
+    "sources": "Medical Exam",
+    "course": "CARDIOLOGY"
+  },
+  {
+    "id": 17,
+    "question": "Which of these is not true of subacute infective endocarditis",
+    "options": [
+      "Often affects damaged heart valves and individuals with artificial heart valves",
+      "Commonest cause is Streptococcus viridans",
+      "Numerous tiny, firm vegetations on the mitral valve",
+      "May be caused by the HACEK group of orgasms",
+      "Rheumatic heart disease is a predisposing factor"
+    ],
+    "answer": ["Rheumatic heart disease is a predisposing factor"],
+    "explanation": "Rheumatic heart disease is not a predisposing factor for subacute infective endocarditis. Option (e) is correct.",
+    "subcourse": "Cardiology",
+    "topics": [
+      "Infective Endocarditis",
+      "Subacute Endocarditis",
+      "Cardiac Valves"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "subacute infective endocarditis",
+      "cardiology",
+      "infective endocarditis",
+      "cardiac valves"
+    ],
+    "sources": "Medical Exam",
+    "course": "CARDIOLOGY"
+  },
+  {
+    "id": 18,
+    "question": "With regards to transmural myocardial infarction, which of the following is false",
+    "options": [
+      "Caused mostly by a superimposed thrombus on an atherosclerotic plaque",
+      "ECG shows ST-segment elevation",
+      "Elevated levels of Creatine Kinase, troponin, and LDH",
+      "Circumferential Infarcts involving the inner 1/3rd of the myocardium",
+      "Occlusion occurs most commonly in the anterior descending artery"
+    ],
+    "answer": [
+      "Circumferential Infarcts involving the inner 1/3rd of the myocardium"
+    ],
+    "explanation": "Circumferential infarcts involving the inner 1/3rd of the myocardium are not characteristic of transmural myocardial infarction. Option (d) is correct.",
+    "subcourse": "Cardiology",
+    "topics": [
+      "Myocardial Infarction",
+      "ECG Changes",
+      "Cardiac Enzymes",
+      "Coronary Artery Occlusion"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "transmural myocardial infarction",
+      "cardiology",
+      "myocardial infarction",
+      "ECG changes",
+      "coronary artery occlusion"
+    ],
+    "sources": "Medical Exam",
+    "course": "CARDIOLOGY"
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is a characteristic feature of Endocardial fibroelastosis",
+    "options": [
+      "Diffuse fibroelastic thickening of the left ventricular endocardium",
+      "Cardiomegaly with markedly dilated heart chambers",
+      "Cardiomegaly with markedly hypertrophied interventricular septum",
+      "Marked thinning of the right ventricular wall with massive fatty infiltration",
+      "Vegetations on the endocardium and heart valves"
+    ],
+    "answer": ["Vegetations on the endocardium and heart valves"],
+    "explanation": "Vegetations on the endocardium and heart valves are not characteristic of Endocardial fibroelastosis. Option (e) is correct.",
+    "subcourse": "Cardiology",
+    "topics": [
+      "Endocardial Fibroelastosis",
+      "Cardiac Pathology",
+      "Cardiomegaly"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "endocardial fibroelastosis",
+      "cardiology",
+      "cardiac pathology",
+      "cardiomegaly"
+    ],
+    "sources": "Medical Exam",
+    "course": "CARDIOLOGY"
+  },
+  {
+    "id": 20,
+    "question": "A 35-year-old lady has fever and erythematous facial rashes on the malar region. Echocardiogram shows vegetations on the mitral valve. Laboratory results reveal positive double-stranded DNA and anti-smith antibody. The likely diagnosis is",
+    "options": [
+      "Scleroderma",
+      "Polyarteritis nodosa",
+      "Systemic lupus erythematosus",
+      "Rheumatic carditis",
+      "Non-thrombotic endocarditis"
+    ],
+    "answer": ["Systemic lupus erythematosus"],
+    "explanation": "The clinical presentation, positive anti-smith antibody, and mitral valve vegetations are indicative of Systemic lupus erythematosus. Option (c) is correct.",
+    "subcourse": "Rheumatology",
+    "topics": [
+      "Systemic Lupus Erythematosus",
+      "Endocarditis",
+      "Autoimmune Diseases"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "systemic lupus erythematosus",
+      "rheumatology",
+      "endocarditis",
+      "autoimmune diseases"
+    ],
+    "sources": "Medical Exam",
+    "course": "RHEUMATOLOGY"
+  },
+  {
+    "id": 21,
+    "question": "Pathologic autoimmune reactions are normally avoided because of the immunologic tolerance mechanisms of oral deletion and clonal anergy Which of",
+    "options": [
+      "Cross-reaction with antibodies to foreign antigen",
+      "Sequestration of antigens"
+    ],
+    "answer": ["Sequestration of antigens"],
+    "explanation": "Sequestration of antigens is not a mechanism of immunologic tolerance. Option (e) is correct.",
+    "subcourse": "Immunology",
+    "topics": [
+      "Autoimmune Reactions",
+      "Immunologic Tolerance",
+      "Immunology Mechanisms"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "autoimmune reactions",
+      "immunologic tolerance",
+      "immunology mechanisms",
+      "immunology"
+    ],
+    "sources": "Medical Exam",
+    "course": "IMMUNOLOGY"
+  },
+  {
+    "id": 22,
+    "question": "The following statements regarding HIV infection are true except",
+    "options": [
+      "Monocytes and macrophages are the major reservoir of infection",
+      "Reverse transcriptase is required for viral replication",
+      "The envelope protein gp120 is required for the attachment of HIV virus to CD4 receptor of target cells",
+      "CXCR4 is the chemokine receptor present in host macrophages that helps in primary attachment of HIV",
+      "Tuberculosis is predominant in chronically infected HIV or AIDS patients"
+    ],
+    "answer": [
+      "CXCR4 is the chemokine receptor present in host macrophages that helps in primary attachment of HIV"
+    ],
+    "explanation": "In Hiv infections \n\b1. Virus binds CD4 as well as a coreceptor either \n\b\bCCR5 on macrophages(early infections) or \n\b\bCXCR4 on T cell (late infection).\n\b gp 120 mediates CD4 and chemokine receptor binding, while gp 41 mediates fusion. ",
+    "subcourse": "Infectious Diseases",
+    "topics": ["HIV Infection", "AIDS", "Immunodeficiency", "Tuberculosis"],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "HIV infection",
+      "AIDS",
+      "immunodeficiency",
+      "tuberculosis",
+      "infectious diseases"
+    ],
+    "sources": "Medical Exam",
+    "course": "INFECTIOUS DISEASES"
+  },
+  {
+    "id": 23,
+    "question": "Which of the following statements is not true regarding the effector phase of delayed-type hypersensitivity reaction (DTH)",
+    "options": [
+      "T Helper 2 cells secrete antibodies and activate antibody-dependent cell cytotoxicity",
+      "The response generally peaks at 48-72 hours after a second exposure",
+      "T Helper 2 secrete interferon-gamma that recruit and activate macrophages",
+      "DTH is visible as granulomatous inflammation",
+      "Tuberculin reaction is A prototype"
+    ],
+    "answer": [
+      "T Helper 2 cells secrete antibodies and activate antibody-dependent cell cytotoxicity"
+    ],
+    "explanation": "T Helper 2 cells do not secrete antibodies or activate antibody-dependent cell cytotoxicity in delayed-type hypersensitivity reaction (DTH). Option (a) is correct.",
+    "subcourse": "Immunology",
+    "topics": [
+      "Delayed-Type Hypersensitivity Reaction",
+      "DTH Effector Phase",
+      "Immunology Mechanisms"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "delayed-type hypersensitivity reaction",
+      "DTH effector phase",
+      "immunology mechanisms",
+      "immunology"
+    ],
+    "sources": "Medical Exam",
+    "course": "IMMUNOLOGY"
+  },
+
+  {
+    "id": 24,
+    "question": "A 47-year-old male with a history of rheumatoid arthritis presents with signs of organ dysfunction. A biopsy reveals amyloid deposits. Which of the following could explain this biopsy finding.",
+    "options": [
+      "SAA amyloid occurs in chronic inflammatory disorders",
+      "Is a basophilic granular substance which can be stained with congo red",
+      "May occur in medullary carcinoma of the thyroid",
+      "May result in restrictive cardiomyopathy",
+      "Al amyloidosis is associated with multiple myeloma"
+    ],
+    "answer": ["Al amyloidosis is associated with multiple myeloma"],
+    "explanation": "Al amyloidosis is associated with multiple myeloma. Option (e) is correct.",
+    "subcourse": "Pathology",
+    "topics": [
+      "Amyloidosis",
+      "Rheumatoid Arthritis",
+      "Organ Dysfunction",
+      "Biopsy Findings"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "amyloidosis",
+      "rheumatoid arthritis",
+      "organ dysfunction",
+      "biopsy findings",
+      "pathology"
+    ],
+    "sources": "Medical Exam",
+    "course": "PATHOLOGY"
+  },
+  {
+    "id": 25,
+    "question": "Oedema of the brain can cause instant death due to",
+    "options": [
+      "Compression of the cerebral hemisphere",
+      "Thrombosis affecting the cerebral blood vessels",
+      "Herniation of the cerebellar tonsils and compression of medullary centres",
+      "Increase susceptibility to infection by gram-negative organisms",
+      "Compression and narrowing of the ventricles"
+    ],
+    "answer": [
+      "Herniation of the cerebellar tonsils and compression of medullary centres"
+    ],
+    "explanation": "Oedema of the brain can cause instant death due to herniation of the cerebellar tonsils and compression of medullary centres. Option (c) is correct.",
+    "subcourse": "Neurology",
+    "topics": [
+      "Brain Edema",
+      "Instant Death",
+      "Cerebral Herniation",
+      "Neurological Complications"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "brain edema",
+      "instant death",
+      "cerebral herniation",
+      "neurological complications",
+      "neurology"
+    ],
+    "sources": "Medical Exam",
+    "course": "NEUROLOGY"
+  },
+  {
+    "id": 26,
+    "question": "One of the following oedema is not due to an increase in hydrostatic pressure",
+    "options": [
+      "Oedema due to nephrotic syndrome",
+      "Oedema due to venous thrombosis",
+      "Oedema due to congestive cardiac failure",
+      "Oedema due to liver cirrhosis",
+      "Oedema due to arterial occlusion"
+    ],
+    "answer": ["Oedema due to arterial occlusion"],
+    "explanation": "Oedema due to arterial occlusion is not primarily due to an increase in hydrostatic pressure. Option (e) is correct.",
+    "subcourse": "Cardiology",
+    "topics": [
+      "Edema",
+      "Hydrostatic Pressure",
+      "Cardiac Failure",
+      "Nephrotic Syndrome"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "edema",
+      "hydrostatic pressure",
+      "cardiac failure",
+      "nephrotic syndrome",
+      "cardiology"
+    ],
+    "sources": "Medical Exam",
+    "course": "CARDIOLOGY"
+  },
+  {
+    "id": 27,
+    "question": "Periorbital oedema occurs commonly in",
+    "options": [
+      "Congestion cardiac failure",
+      "Nephrotic syndrome",
+      "Malnutrition",
+      "Cirrhosis",
+      "Septicaemia"
+    ],
+    "answer": ["Nephrotic syndrome"],
+    "explanation": "Periorbital oedema commonly occurs in congestion cardiac failure. Option (a) is correct.",
+    "subcourse": "Cardiology",
+    "topics": [
+      "Edema",
+      "Cardiac Failure",
+      "Periorbital Edema",
+      "Cardiac Disorders"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "edema",
+      "cardiac failure",
+      "periorbital edema",
+      "cardiac disorders",
+      "cardiology"
+    ],
+    "sources": "Medical Exam",
+    "course": "CARDIOLOGY"
+  },
+  {
+    "id": 28,
+    "question": "A 55-year-old patient with a history of chronic alcohol abuse presents with jaundice, hepatomegaly, and ascites. Laboratory tests show elevated liver enzymes, prolonged prothrombin time, and hyperbilirubinemia. A liver biopsy reveals regenerating nodules surrounded by fibrous tissue with a characteristic micronodular pattern. What is the most likely diagnosis?",
+    "options": [
+      "Alcoholic liver disease with cirrhosis",
+      "Acute hepatitis",
+      "Liver cirrhosis",
+      "Hepatoma",
+      "Diffuse fibrous of the liver"
+    ],
+    "answer": ["Alcoholic liver disease with cirrhosis"],
+    "explanation": "The patient's history of chronic alcohol abuse, along with jaundice, hepatomegaly, ascites, elevated liver enzymes, prolonged prothrombin time, and hyperbilirubinemia, points to alcoholic liver disease with cirrhosis. Option (a) is correct.",
+    "subcourse": "Gastroenterology",
+    "topics": [
+      "Alcoholic Liver Disease",
+      "Liver Cirrhosis",
+      "Liver Biopsy",
+      "Gastrointestinal Disorders"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "alcoholic liver disease",
+      "cirrhosis",
+      "liver biopsy",
+      "gastrointestinal disorders",
+      "gastroenterology"
+    ],
+    "sources": "Medical Exam",
+    "course": "GASTROENTEROLOGY"
+  },
+  {
+    "id": 29,
+    "question": "The correct statement about Atelectasis",
+    "options": [
+      "Mediastinum shift to the affected side in resorption atelectasis",
+      "Mediastinum shift to the affected side on compression atelectasis",
+      "Mediastinum does not shift in resorption atelectasis",
+      "The bronchial airway is affected in contraction atelectasis",
+      "Cor pulmonale is commonly seen in compression atelectasis"
+    ],
+    "answer": ["Mediastinum does not shift in resorption atelectasis"],
+    "explanation": "In resorption atelectasis, the mediastinum does not shift to the affected side. Option (c) is correct.",
+    "subcourse": "Pulmonology",
+    "topics": [
+      "Atelectasis",
+      "Resorption Atelectasis",
+      "Compression Atelectasis",
+      "Pulmonary Disorders"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "atelectasis",
+      "resorption atelectasis",
+      "compression atelectasis",
+      "pulmonary disorders",
+      "pulmonology"
+    ],
+    "sources": "Medical Exam",
+    "course": "PULMONOLOGY"
+  },
+  {
+    "id": 30,
+    "question": "The duration of cough in chronic bronchitis should be at least",
+    "options": [
+      "3 months for 3 consecutive years",
+      "2 months for 2 consecutive years",
+      "3 months for 2 consecutive years",
+      "2 months for 3 consecutive years",
+      "2 months for 4 consecutive years"
+    ],
+    "answer": ["3 months for 2 consecutive years"],
+    "explanation": "The duration of cough in chronic bronchitis should be at least 3 months for 2 consecutive years. Option (c) is correct.",
+    "subcourse": "Pulmonology",
+    "topics": ["Chronic Bronchitis", "Cough Duration", "Pulmonary Disorders"],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "chronic bronchitis",
+      "cough duration",
+      "pulmonary disorders",
+      "pulmonology"
+    ],
+    "sources": "Medical Exam",
+    "course": "PULMONOLOGY"
+  },
+  {
+    "id": 31,
+    "question": "Which is not a feature of primary pulmonary tuberculosis",
+    "options": [
+      "Lesion may undergo fibrosis and calcification",
+      "It is usually asymptomatic",
+      "Spread cavitation is usual",
+      "May start from another site apart from the lungs",
+      "Ghon complex is a combination of parenchymal lung lesion and hilar lymph node"
+    ],
+    "answer": ["Spread cavitation is usual"],
+    "explanation": "Primary pulmonary tuberculosis usually starts in the lungs and then may spread to other sites. Option (d) is correct.",
+    "subcourse": "Pulmonology",
+    "topics": [
+      "Pulmonary Tuberculosis",
+      "Primary Tuberculosis",
+      "Tuberculosis Features",
+      "Pulmonary Disorders"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "pulmonary tuberculosis",
+      "primary tuberculosis",
+      "tuberculosis features",
+      "pulmonary disorders",
+      "pulmonology"
+    ],
+    "sources": "Medical Exam",
+    "course": "PULMONOLOGY"
+  },
+  {
+    "id": 32,
+    "question": "The most common manifestation of asbestosis is",
+    "options": ["Mesothelioma", "Bronchogenic carcinoma"],
+    "answer": ["Bronchogenic carcinoma"],
+    "explanation": "The most common manifestation of asbestosis is bronchogenic carcinoma. Option (b) is correct.",
+    "subcourse": "Pulmonology",
+    "topics": [
+      "Asbestosis",
+      "Manifestations",
+      "Bronchogenic Carcinoma",
+      "Pulmonary Disorders"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "asbestosis",
+      "manifestations",
+      "bronchogenic carcinoma",
+      "pulmonary disorders",
+      "pulmonology"
+    ],
+    "sources": "Medical Exam",
+    "course": "PULMONOLOGY"
+  },
+  {
+    "id": 33,
+    "question": "Neurosyphilis",
+    "options": [
+      "Manifests as firm raised red residue fenosis moll on the head",
+      "Tabes dorsalis is a generalized brain parenchymal disease",
+      "General paresis is paralysis due to spinal cord involvement",
+      "The presence of antibiotics to spirochetes in CSF in the absence of neurologic symptoms is indicative",
+      "Is treated with short course antibiotic therapy"
+    ],
+    "answer": ["Is treated with short course antibiotic therapy"],
+    "explanation": "Neurosyphilis is treated with a short course of antibiotic therapy. Option (e) is correct.",
+    "subcourse": "Neurology",
+    "topics": [
+      "Neurosyphilis",
+      "Syphilis",
+      "Antibiotic Therapy",
+      "Neurological Disorders"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "neurosyphilis",
+      "syphilis",
+      "antibiotic therapy",
+      "neurological disorders",
+      "neurology"
+    ],
+    "sources": "Medical Exam",
+    "course": "NEUROLOGY"
+  },
+  {
+    "id": 34,
+    "question": "Which of the following is a Transforming virus.",
+    "options": [
+      "Epstein-Barr Virus",
+      "Human Papilloma Virus",
+      "Hepatitis C virus",
+      "All of the above",
+      "None of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "The correct answer is 'All of the above.' Transforming viruses are capable of inducing uncontrolled cell growth and transformation, leading to the development of tumors. Epstein-Barr Virus (EBV), Human Papillomavirus (HPV), and Hepatitis C virus (HCV) are examples of transforming viruses. These viruses are associated with the development of certain cancers. The option 'All of the above' is the correct answer, as all three viruses mentioned have transforming capabilities.",
+    "subcourse": "Virology",
+    "topics": [
+      "Transforming Viruses",
+      "Epstein-Barr Virus",
+      "Human Papilloma Virus",
+      "Hepatitis C Virus"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "transforming viruses",
+      "epstein-barr virus",
+      "human papilloma virus",
+      "hepatitis c virus",
+      "virology"
+    ],
+    "sources": "Medical Exam",
+    "course": "VIROLOGY"
+  },
+  {
+    "id": 35,
+    "question": "Primary Tuberculosis",
+    "options": [
+      "Develops in previously exposed, unsensitized persons",
+      "Does not progress",
+      "The source of the organism is endogenous",
+      "Presents as an apical cavitary lesion",
+      "May present as an upper lower lobe consolidation"
+    ],
+    "answer": ["May present as an upper lower lobe consolidation"],
+    "explanation": "Infection  with M. tuberculosis leads to the development of delayed hypersensitivity to M. tuberculosis antigens, detectable by the tuberculin (Mantoux) skin test, 2 to 4 weeks after infection. \n\nA positive tuberculin test result signifies T cell–mediated immunity to mycobacterial antigens, but does not differentiate between infection and disease. \n\nFalse-negative reactions may occur in the setting of certain \n1. viral infections, \n2. sarcoidosis, \n3. malnutrition, \n4. Hodgkin lymphoma, \n5. immunosuppression, and \n6. (notably) overwhelming active tuberculous disease. \nFalse-positive reactions may result from \n7. infection by atypical mycobacteria or \n8. prior vaccination with BCG (Bacillus Calmette-Guerin).",
+    "subcourse": "Pulmonology",
+    "topics": [
+      "Pulmonary Tuberculosis",
+      "Primary Tuberculosis",
+      "Tuberculosis Presentation",
+      "Pulmonary Disorders"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "pulmonary tuberculosis",
+      "primary tuberculosis",
+      "tuberculosis presentation",
+      "pulmonary disorders",
+      "pulmonology"
+    ],
+    "sources": "Medical Exam",
+    "course": "PULMONOLOGY"
+  },
+  {
+    "id": 36,
+    "question": "The following are true of Pathogenesis of TB except",
+    "options": [
+      "T4l response orchestrates the formation of granulomas and caseous necrosis",
+      "Macrophages become bactericidal when activated by IFN-Y",
+      "Activated macrophages secrete TNF. to recruit more monocytes",
+      "Hypersensitivity is evidence of immunity",
+      "Loss of hypersensitivity can result in persistence"
+    ],
+    "answer": ["Hypersensitivity is evidence of immunity"],
+    "explanation": "Hypersensitivity is not evidence of immunity in tuberculosis pathogenesis. Option (d) is correct.",
+    "subcourse": "Immunology",
+    "topics": [
+      "Tuberculosis Pathogenesis",
+      "TB Immunity",
+      "Hypersensitivity",
+      "Immunology Mechanisms"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "tuberculosis pathogenesis",
+      "TB immunity",
+      "hypersensitivity",
+      "immunology mechanisms",
+      "immunology"
+    ],
+    "sources": "Medical Exam",
+    "course": "IMMUNOLOGY"
+  },
+  {
+    "id": 38,
+    "question": "Regarding the Mantoux test. The following can cause a false positive reaction",
+    "options": [
+      "Infection with atypical mycobacteria",
+      "Certain viral infections",
+      "Overwhelming active Primary Tuberculosis disease",
+      "Immunosuppression",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "Various factors, including infection with atypical mycobacteria, certain viral infections, overwhelming active primary tuberculosis disease, and immunosuppression, can cause false positive reactions in the Mantoux test. Option (e) is correct.",
+    "subcourse": "Infectious Diseases",
+    "topics": [
+      "Mantoux Test",
+      "False Positive Reactions",
+      "Infectious Diseases"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "mantoux test",
+      "false positive reactions",
+      "infectious diseases"
+    ],
+    "sources": "Medical Exam",
+    "course": "INFECTIOUS DISEASES"
+  },
+  {
+    "id": 39,
+    "question": "Which of these are not correctly matched",
+    "options": [
+      "Syphilis-------Treponema pallidum",
+      "Hansen's disease ----- Mycobacterium leprae",
+      "Kala-azar------Trypanosoma spp",
+      "Black fever -------LD bodies",
+      "Lepra cells --------Globi"
+    ],
+    "answer": ["Kala-azar------Trypanosoma spp"],
+    "explanation": "Lepra cells are not correctly matched; they are not associated with Globi. Option (e) is correct.",
+    "subcourse": "Microbiology",
+    "topics": ["Disease Matching", "Microorganisms", "Microbiology"],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": ["disease matching", "microorganisms", "microbiology"],
+    "sources": "Medical Exam",
+    "course": "MICROBIOLOGY"
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is true of Malaria",
+    "options": [
+      "Hyperendemic highly endemic zones there is persistent year-round transmission.",
+      "Hyperendemic/ highly endemic zones: The spleen rate is >75% and parasite rate > 75%.",
+      "Stable or holoendemic zones: The spleen and parasite rates are between 50 and 74%.",
+      "Stable or holoendemic zones: Malarial transmission is seasonal",
+      "None of the above."
+    ],
+    "answer": ["None of the above."],
+    "explanation": "None of the provided statements is true regarding Malaria. Option (e) is correct.",
+    "subcourse": "Infectious Diseases",
+    "topics": [
+      "Malaria",
+      "Transmission Zones",
+      "Parasite Rate",
+      "Infectious Diseases"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "malaria",
+      "transmission zones",
+      "parasite rate",
+      "infectious diseases"
+    ],
+    "sources": "Medical Exam",
+    "course": "INFECTIOUS DISEASES"
+  },
+  {
+    "id": 41,
+    "question": "The following are relevant in Prostatic adenocarcinoma diagnosis except",
+    "options": [
+      "Age",
+      "Gleason score of 18",
+      "Gleason score of 2",
+      "Primary and secondary grades",
+      "Family history"
+    ],
+    "answer": ["Gleason score of 2"],
+    "explanation": "A Gleason score of 2 is not relevant in Prostatic adenocarcinoma diagnosis. Option (c) is correct.",
+    "subcourse": "Oncology",
+    "topics": ["Prostatic Adenocarcinoma", "Diagnosis Factors", "Oncology"],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": ["prostatic adenocarcinoma", "diagnosis factors", "oncology"],
+    "sources": "Medical Exam",
+    "course": "ONCOLOGY"
+  },
+  {
+    "id": 42,
+    "question": "Turner's syndrome is characterized by the following",
+    "options": [
+      "Leydig cell hypertrophy",
+      "Large ovaries",
+      "Menorrhagia",
+      "Coarctation of the aorta",
+      "Eunuchoid body habitus"
+    ],
+    "answer": ["Coarctation of the aorta"],
+    "explanation": "Turner Syndrome: Results from complete or partial monosomy of the x chromosome and is characterized by hypogonadism in females. It is the most common sex chromosome abnormality in females.\nTurner's syndrome is characterized by,\n1. Oedema at infancy on the extremities and the neck due to lymph  stasis,\n2. neck webbing short stature,\n2. hypothyroidism,\n3. broad chest and widely spaced nipple streak  ovaries, \n5. amenorrhoea, \n6. coartation of the aorta with features of congenital heart dx.  \n7. Delayed or lack of develop secondary sexual maturity.\n\n Fetal ovaries develop normally in  embryogenesis but the absence of the second x chromosomes lead to accelerated loss of oocytes  which is complete before 2 to 3 years which means that menopause may occur before menarche  and the ovaries are reduced to streak ovaries (atrophic fibrous strand without oval or follicles)",
+    "subcourse": "Endocrinology",
+    "topics": ["Turner's Syndrome", "Characteristics", "Endocrinology"],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": ["turner's syndrome", "characteristics", "endocrinology"],
+    "sources": "Medical Exam",
+    "course": "ENDOCRINOLOGY"
+  },
+  {
+    "id": 43,
+    "question": "The following are molecular diagnosis and their application in genetic disorders except",
+    "options": [
+      "FISH ______ Complex genetic translocation",
+      "FISH ______ Gene amplification",
+      "Southern blot_____DNA analysis mainly",
+      "Microarray_______Population study of genetic disorders",
+      "Northern blot _______DNA studies"
+    ],
+    "answer": ["Microarray_______Population study of genetic disorders"],
+    "explanation": "Microarray is not used for population study of genetic disorders; it is mainly employed in analyzing DNA. Option (d) is correct.",
+    "subcourse": "Genetics",
+    "topics": ["Molecular Diagnosis", "Genetic Disorders", "Genetics"],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": ["molecular diagnosis", "genetic disorders", "genetics"],
+    "sources": "Medical Exam",
+    "course": "GENETICS"
+  },
+  {
+    "id": 44,
+    "question": "Marfan syndrome is characterized by the following except",
+    "options": [
+      "Cherry red spot",
+      "Dolichocephalic",
+      "Mutation of FBN 1 gene",
+      "Mitral valve prolapse",
+      "Mutation of fibrillin II"
+    ],
+    "answer": ["Cherry red spot"],
+    "explanation": "Marfan syndrome is not characterized by a cherry red spot. Option (a) is correct.",
+    "subcourse": "Genetics",
+    "topics": ["Marfan Syndrome", "Characteristics", "Genetics"],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": ["marfan syndrome", "characteristics", "genetics"],
+    "sources": "Medical Exam",
+    "course": "GENETICS"
+  },
+  {
+    "id": 45,
+    "question": "Familial Hypercholesterolemia is characterized by one of the following",
+    "options": [
+      "Glycogen accumulation",
+      "Shingomyelin accumulation",
+      "Glycolipid accumulation",
+      "Premature atherosclerosis",
+      "Gaucher's cells"
+    ],
+    "answer": ["Premature atherosclerosis"],
+    "explanation": "Familial Hypercholesterolemia is characterized by premature atherosclerosis. Option (d) is correct.",
+    "subcourse": "Cardiology",
+    "topics": [
+      "Familial Hypercholesterolemia",
+      "Atherosclerosis",
+      "Cardiology"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "familial hypercholesterolemia",
+      "atherosclerosis",
+      "cardiology"
+    ],
+    "sources": "Medical Exam",
+    "course": "CARDIOLOGY"
+  },
+  {
+    "id": 46,
+    "question": "Down syndrome is characterized by one of the following",
+    "options": [
+      "More than 90% of the patients are mosaics",
+      "Robertsonian translocation may be involved",
+      "Trisomy 18",
+      "47, XX, +18 karyotype"
+    ],
+    "answer": ["Trisomy 18"],
+    "explanation": "Down syndrome is not characterized by Trisomy 18. Option (c) is correct.",
+    "subcourse": "Genetics",
+    "topics": ["Down Syndrome", "Characteristics", "Genetics"],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": ["down syndrome", "characteristics", "genetics"],
+    "sources": "Medical Exam",
+    "course": "GENETICS"
+  },
+  {
+    "id": 48,
+    "question": "A painless cervical lymph node was biopsied from an individual with a previous history of tooth infection. The biopsy was sent for histopathological examination, and numerous lymphoid follicles were seen under the microscope. Which one of the following will rule out a reactive follicular hyperplasia",
+    "options": [
+      "Preservation of lymph node architecture",
+      "Marked variation in shape and size of the lymphoid follicles",
+      "Frequent mitotic figures",
+      "Tangible body macrophages",
+      "Uniformity in the size of lymphoid nodules with loss of interfollicular T zones and sinusoids"
+    ],
+    "answer": [
+      "Uniformity in the size of lymphoid nodules with loss of interfollicular T zones and sinusoids"
+    ],
+    "explanation": "Uniformity in the size of lymphoid nodules with loss of interfollicular T zones and sinusoids will rule out reactive follicular hyperplasia. Option (e) is correct.",
+    "subcourse": "Pathology",
+    "topics": [
+      "Lymph Node Biopsy",
+      "Reactive Follicular Hyperplasia",
+      "Pathology"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "lymph node biopsy",
+      "reactive follicular hyperplasia",
+      "pathology"
+    ],
+    "sources": "Medical Exam",
+    "course": "PATHOLOGY"
+  },
+  {
+    "id": 49,
+    "question": "Which immunohistochemical marker best defines a chronic lymphocytic lymphoma diagnosis",
+    "options": [
+      "CD 19+, CD20+, CD23-, CD5-",
+      "CD 19+, CD20+, CD23+, CD5",
+      "CD 19+ CD20+, CD23-, CD5",
+      "CD 19+, CD20-, CD23+, CD5",
+      "CD 19+, CD20+, CD23+, CD5"
+    ],
+    "answer": ["CD 19+, CD20+, CD23+, CD5"],
+    "explanation": "The combination CD 19+, CD20+, CD23+, CD5 best defines a chronic lymphocytic lymphoma diagnosis. Option (e) is correct.",
+    "subcourse": "Pathology",
+    "topics": [
+      "Chronic Lymphocytic Lymphoma",
+      "Immunohistochemical Marker",
+      "Pathology"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "chronic lymphocytic lymphoma",
+      "immunohistochemical marker",
+      "pathology"
+    ],
+    "sources": "Medical Exam",
+    "course": "PATHOLOGY"
+  },
+  {
+    "id": 50,
+    "question": "Cyclin D1+ immunohistochemical staining in addition to which one of the following combinations will define a mantle cell lymphoma",
+    "options": [
+      "CD19+, CD20+, CD23-, Cyclin D1+",
+      "CD19+, CD20+, CD23+, Cyclin D1+",
+      "CD19+, CD20+, CD23-, Cyclin D1+",
+      "CD19+, CD20-, CD23+, Cyclin D1+",
+      "CD19+, CD20+, CD23+, Cyclin D1+"
+    ],
+    "answer": ["CD19+, CD20+, CD23+, Cyclin D1+"],
+    "explanation": "Cyclin D1+ immunohistochemical staining in addition to CD19+, CD20+, CD23+, Cyclin D1+ defines a mantle cell lymphoma. Option (e) is correct.",
+    "subcourse": "Pathology",
+    "topics": [
+      "Mantle Cell Lymphoma",
+      "Immunohistochemical Staining",
+      "Pathology"
+    ],
+    "numberOfAttempts": 0,
+    "averageUnderstanding": 0,
+    "previous10AttemptQuestionScore": [],
+    "averageUnderstandingRatePer10": [],
+    "isCompleted": false,
+    "averageRating": 0,
+    "variationGiven": 0,
+    "searchTags": [
+      "mantle cell lymphoma",
+      "immunohistochemical staining",
+      "pathology"
+    ],
+    "sources": "Medical Exam",
+    "course": "PATHOLOGY"
+  }
+]

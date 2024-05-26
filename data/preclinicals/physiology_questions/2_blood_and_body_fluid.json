@@ -1,0 +1,1374 @@
+[
+  {
+    "id": 1,
+    "question": "Each of the following mature cells has a nucleus EXCEPT",
+    "options": ["lymphocyte", "monocyte", "erythrocyte", "basophil"],
+    "answer": ["erythrocyte"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 2,
+    "question": "Which sequence is correct for the following events:\n 1.fibrinogen→ fibrin\n 2. Clot retraction\n 3.Formation of thromboplastin\n 4. Prothrombin → thrombin",
+    "options": ["3,4, 1,2", "1,2,3,4", "4,3,1,2", "3,2,1,4"],
+    "answer": ["3,4, 1,2"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is not a physical characteristic of blood?",
+    "options": [
+      "PH range of 7.35 to 7.45",
+      "temperature of 38◦c",
+      "average volume of 5-6 litres in a male",
+      "8% of body weight"
+    ],
+    "answer": ["PH range of 7.35 to 7.45"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following statements about factors involved in the formation of blood cells is false?",
+    "options": [
+      "cytokines called colony stimulating factors and interleukins regulate the formation and activities of phagocytes and leukocytes involved in nonspecific defense and immunity",
+      "thrombopoietin produced in the kidney regulates the clotting activities of platelets",
+      "erythropoietin and thrombopoietin may be referred to as both hormones and homopoietic growth factors",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 5,
+    "question": "Sites of hemopoiesis in the adult include all of the following except",
+    "options": [
+      "liver",
+      "sternum",
+      "cranial bones",
+      "head of femur",
+      "all marrows"
+    ],
+    "answer": ["all marrows"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 6,
+    "question": "1. The heme portion of hemoglobin contains iron that binds reversibly with oxygen. In addition to oxygen and carbon dioxide transport;\n2. hemoglobin functions in blood pressure regulation by ferrying nitricoxide throughout the body",
+    "options": [
+      "both statements are true",
+      "both statements are false",
+      "the first statement is true, the second is false",
+      "the second statement is true; the first is false",
+      "all of the above"
+    ],
+    "answer": ["both statements are true"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 7,
+    "question": "Fred’s blood was determined to be AB positive. What does this mean?",
+    "options": [
+      "antibodies to A and B are present in the erythrocytes",
+      "there are no antibodies to A, to B , or to Rh antigens in the plasma",
+      "his blood lacks Rh factor",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": [
+      "there are no antibodies to A, to B , or to Rh antigens in the plasma"
+    ],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following lead(s) to an increase in the rate of RBC production?",
+    "options": [
+      "hypoxia",
+      "testosterone",
+      "erythropoietin",
+      "all of these",
+      "none of these"
+    ],
+    "answer": ["all of these"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 9,
+    "question": "A, B and Rh(D) are examples of ________ found in RBC membranes",
+    "options": [
+      "antibodies",
+      "agglutinogens",
+      "isoantigens",
+      "both agglutinogens and isoantigens"
+    ],
+    "answer": ["both agglutinogens and isoantigens"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 10,
+    "question": "Monocytes migrate into the body tissues to become phagocytic cells called",
+    "options": [
+      "macrophages",
+      "fibroblasts",
+      "lymphocytes",
+      "polymorphs",
+      "monoblasts"
+    ],
+    "answer": ["macrophages"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 11,
+    "question": "Neutrophils provide weapons against bacteria in the form of",
+    "options": ["lysozymes", "defensins", "oxidants", "all of these", "weapon"],
+    "answer": ["all of these"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 12,
+    "question": "The white blood cells that typically increase in response to allergic conditions or parasitic infections are",
+    "options": [
+      "neutrophils",
+      "eosinophils",
+      "basophils",
+      "monocytes",
+      "lymphocytes"
+    ],
+    "answer": ["eosinophils"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 13,
+    "question": "Platelets",
+    "options": [
+      "have a longer lifespan than RBC",
+      "develop from worn out RBC",
+      "are more numerous than RBC",
+      "promote blood clotting and blood vessel repair"
+    ],
+    "answer": ["promote blood clotting and blood vessel repair"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 14,
+    "question": "Concerning plasma",
+    "options": [
+      "is an ICF",
+      "it is an ECF",
+      "it is found in both ICF and ECF",
+      "the differences between plasma and ICF is their protein concentration",
+      "its protein concentration is about 5 times that of ICF"
+    ],
+    "answer": ["it is an ECF"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 15,
+    "question": "Normal human red cells",
+    "options": [
+      "are released into circulation as immature cells called reticulocytes",
+      "live for about 10 days",
+      "rely on mitochondria for their ATP production",
+      "they are rod shaped"
+    ],
+    "answer": [
+      "are released into circulation as immature cells called reticulocytes"
+    ],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 16,
+    "question": "Regarding the platelets:",
+    "options": [
+      "are present in greater number than red cells",
+      "secrete the main clotting factors",
+      "will adhere to the walls of damaged blood vessels",
+      "is the last cellular response for bleeding",
+      "will adhere to the walls of damaged blood vessels"
+    ],
+    "answer": ["are present in greater number than red cells"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 17,
+    "question": "Regarding inflammatory response",
+    "options": [
+      "tissue swelling is the fist stage of inflammatory response",
+      "mast cells secrete chemotactic agents that attract lymphocytes",
+      "macrophages secrete vasoactive materials during inflammatory response",
+      "the inflammatory response can be triggered by antibody binding to the surface of microorganism"
+    ],
+    "answer": ["tissue swelling is the fist stage of inflammatory response"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 18,
+    "question": "Regarding the natural immune system",
+    "options": [
+      "neutrophils only destroy bacteria circulating in the blood",
+      "macrophages use nitrous oxide to kill bacteria they have engulfed",
+      "complement kills bacteria prior to their uptake by phagocytes",
+      "the monocytes of the blood are the precursors of tissue macrophages",
+      "the monocytes of the blood are the precursors of immunity"
+    ],
+    "answer": [
+      "the monocytes of the blood are the precursors of tissue macrophages"
+    ],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 19,
+    "question": "Regarding the lymphocytes",
+    "options": [
+      "the lymphocytes are the most abundant white cells of the blood",
+      "lymphocytes only leave the blood at sites of inflammation",
+      "B lymphocytes respond to antigens in the extracellular fluid",
+      "all T lymphocytes become plasma cells after they have been stimulated"
+    ],
+    "answer": ["B lymphocytes respond to antigens in the extracellular fluid"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 20,
+    "question": "Regarding the functions of T lymphocytes:",
+    "options": [
+      "T lymphocytes mature in the thyroid gland",
+      "all T cells secrete cytotoxic materials",
+      "they function like B- lymphocytes",
+      "T- cells respond to proteins on the surface of host cells"
+    ],
+    "answer": ["T- cells respond to proteins on the surface of host cells"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 21,
+    "question": "About antibodies",
+    "options": [
+      "The antigen receptor on a lymphocyte has the same specificity as the antibody it secretes",
+      "IgM cross the placenta and provides a fetus with antibody protection",
+      "T lymphocyte secrete IgM in response to a first infection",
+      "antibody molecules have two identical antigen binding sites in the Fe region",
+      "they are activated by monocytes"
+    ],
+    "answer": ["they are activated by monocytes"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 22,
+    "question": "Decreased number of megakaryocytes results in",
+    "options": [
+      "increased rate of infection",
+      "defective clot formation",
+      "decreased antibody production",
+      "none of these"
+    ],
+    "answer": ["defective clot formation"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 23,
+    "question": "Measuring total body water requires",
+    "options": [
+      "Evans blue dye",
+      "Tritium marked water",
+      "leishman dye",
+      "Romanowsky group of dyes",
+      "chromium labeled EDTA"
+    ],
+    "answer": ["Tritium marked water"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 24,
+    "question": "In the ABO blood group system transfused cells are likely to be affected by an antigen-antibody reaction when",
+    "options": [
+      "group A blood is transfused to a group B person",
+      "group O blood is transfused to a group AB person",
+      "group O blood is transfused to a group A person",
+      "group A blood is transfused to a group AB person",
+      "group B blood is transfused to a group AB person"
+    ],
+    "answer": ["group A blood is transfused to a group B person"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 25,
+    "question": "The conversion of fibrinogen to fibrin",
+    "options": [
+      "is promoted by prothrombin , a proteolytic enzyme",
+      "involves the disruption of certain peptide linkages in fibrinogen",
+      "is not inhibited by heparin, a strong electronegative substance",
+      "all of the above",
+      "none of the above"
+    ],
+    "answer": [
+      "involves the disruption of certain peptide linkages in fibrinogen"
+    ],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 26,
+    "question": "Thirst is",
+    "options": [
+      "produced by a fall in plasma tonicity when though blood volume is normal",
+      "produced by rise in blood volume even though blood tonicity is normal",
+      "relieved when water is drunk before the water has been absorbed and the blood volume and tonicity returned to normal",
+      "produced by stimulation of certain areas in the thalamus",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 27,
+    "question": "Erythropoiesis",
+    "options": [
+      "is stimulated when a person descends to a height where the atmospheric pressure is doubled",
+      "occurs only in the bone marrow",
+      "is dependent on normal gastric secretory activity",
+      "is stimulated by a rise in the pressure of carbondioxide (PCO₂) in the arterial blood",
+      "is less in high altitude"
+    ],
+    "answer": [
+      "is stimulated by a rise in the pressure of carbondioxide (PCO₂) in the arterial blood"
+    ],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 28,
+    "question": "The granulocytes in the blood of normal people",
+    "options": [
+      "multinucleated",
+      "are incapable of crossing capillary walls",
+      "are derived from the bone marrow",
+      "are confined within blood",
+      "flow in the main axial stem of blood"
+    ],
+    "answer": ["are derived from the bone marrow"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 29,
+    "question": "Lymphocytes",
+    "options": [
+      "in the africans from 1-2 % of the white cell count",
+      "cannot be transformed by a suitable stimulus into plasma cells",
+      "cannot cross the capillary wall",
+      "are motile",
+      "none of the above is correct"
+    ],
+    "answer": ["are motile"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 30,
+    "question": "Antibodies",
+    "options": [
+      "are formed in response to exposure to antigen in early fetal life",
+      "tend to be produced in smaller quantities in response to the second than in response to the first exposure to antigen",
+      "which circulate as free immunoglobulins are produced by the B-lymphocytes",
+      "are all lipids",
+      "all of the above is correct"
+    ],
+    "answer": [
+      "which circulate as free immunoglobulins are produced by the B-lymphocytes"
+    ],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 31,
+    "question": "Bleeding from a small cut in the skin",
+    "options": [
+      "is normally diminished in normal people",
+      "ceases within 5 minutes in normal people",
+      "would prolong if factor VIII is absent",
+      "is likely to be greater if the skin is cold than if it is warm",
+      "none of the above is correct"
+    ],
+    "answer": ["would prolong if factor VIII is absent"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 32,
+    "question": "Bilirubin",
+    "options": [
+      "is a vigroid pigment",
+      "tissues from red cell breakdown sites to the liver dissolved in plasma in an unbound form",
+      "contains iron",
+      "is necessary for digestion and absorption of fat in the intestine",
+      "is a porphyrin pigment derived from haem"
+    ],
+    "answer": [
+      "is necessary for digestion and absorption of fat in the intestine"
+    ],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 33,
+    "question": "Monocytes",
+    "options": [
+      "originate from precursor cells in the lymph nodes",
+      "are proteolytic",
+      "may migrate from blood into tissues",
+      "can manufacture certain immunoglobulins",
+      "all of the above are correct"
+    ],
+    "answer": ["may migrate from blood into tissues"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 34,
+    "question": "Erythrocytes",
+    "options": [
+      "measure about 1-2 microns",
+      "contains carbonic hydrase",
+      "swell up and burst when placed in hypertonic solution",
+      "generate energy from glucose so that oxygen may combine with haemoglobin"
+    ],
+    "answer": ["measure about 1-2 microns"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 35,
+    "question": "Thrombocytes are important in stopping bleeding that",
+    "options": [
+      "they can release thrombin , which have a role to play in clotting process",
+      "the bleeding time tend to increase when the platelet count is high",
+      "when exposed to collagen they become active and loose",
+      "a fall in plateletcount prolongs the clotting time before the bleeding time is affected",
+      "they get digested very quickly"
+    ],
+    "answer": ["when exposed to collagen they become active and loose"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 36,
+    "question": "Human plasma albumin:",
+    "options": [
+      "makes a greater contribution to the colloid osmotic pressure of the plasma than does globulin",
+      "is freely filtered at renal glomerulus",
+      "is involved in the carriage of oxygen in the blood",
+      "is not involved in the carriage of carbondioxide",
+      "none of the above"
+    ],
+    "answer": [
+      "makes a greater contribution to the colloid osmotic pressure of the plasma than does globulin"
+    ],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 37,
+    "question": "If a person has group B blood",
+    "options": [
+      "He may have the genotype AB",
+      "His father might have group O blood",
+      "his father can only have either group B blood",
+      "and his wife also has blood group B, all their children will have group B",
+      "He will have antibody B in his plasma"
+    ],
+    "answer": ["His father might have group O blood"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 38,
+    "question": "Total body water",
+    "options": [
+      "forms a smaller percentage of body weight in fat persons than in thin",
+      "compress half to two-thirds of body water in young adults",
+      "is smaller proportion of body weight in men than in women",
+      "it is about 42mls"
+    ],
+    "answer": [
+      "forms a smaller percentage of body weight in fat persons than in thin"
+    ],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 39,
+    "question": "Extracellular body fluid is different from intracellular body fluid in man in that",
+    "options": [
+      "it has smaller volume",
+      "it has lower tonicity",
+      "its anions are mainly organic",
+      "it has higher potassium-sodium molar rate",
+      "its PH is more acidic"
+    ],
+    "answer": ["it has smaller volume"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 40,
+    "question": "Monocytes are leucocytes which",
+    "options": [
+      "are formed from the lymphoid stem cells",
+      "they act as tissue macrophages",
+      "proliferate into killer cells",
+      "they form antibodies",
+      "their diameters range between 10 - 12 microns"
+    ],
+    "answer": ["they act as tissue macrophages"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 41,
+    "question": "Which of the following haematological parameters is incorrect?",
+    "options": [
+      "mean cell volume range between 76-96",
+      "mean cell haemoglobin range between 27- 32 pqHb/ cell",
+      "mean cell haemoglobin concentration range between 300-350 / litre of cells",
+      "Hb concentration in non-pregnant women range between 14.5 g/100 mls of blood",
+      "PCV for women range between 0.34- 0.47"
+    ],
+    "answer": ["PCV for women range between 0.34- 0.47"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 42,
+    "question": "Which of the following substance is not an essential ingredient for erythropoiesis?",
+    "options": [
+      "carbohydrate",
+      "iron",
+      "cobalt and copper",
+      "thyroxin",
+      "pyridoxine"
+    ],
+    "answer": ["carbohydrate"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 43,
+    "question": "All are true of the Rh blood group except",
+    "options": [
+      "it is associated with haemolytic transfusion reactions",
+      "the antigens are highly immunogenic",
+      "it is found in rhesus monkey",
+      "it is associated with haemolytic disease of the newborn",
+      "they are five main antigens C,c, D, E and e"
+    ],
+    "answer": ["they are five main antigens C,c, D, E and e"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is incorrect about Basophils?",
+    "options": [
+      "they are the least numerous of the WBC",
+      "they have dark coarse granules, which stain blue",
+      "they contain heparin and histamine",
+      "they are the largest WBCs",
+      "they have obscured nuclei"
+    ],
+    "answer": ["they are the largest WBCs"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 45,
+    "question": "The % range of body water that is total body water in infants is",
+    "options": ["45-60%", "54-70%", "65-75%", "40-60%", "none of the abov"],
+    "answer": ["65-75%"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 46,
+    "question": "The amount of water in the body does not depend on",
+    "options": ["fat content", "weight", "age", "sex", "height"],
+    "answer": ["height"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 47,
+    "question": "ICF volume can be measured using all but one of the following in the ECF except",
+    "options": [
+      "ATP",
+      "Hexamonophosphate",
+      "urea",
+      "carnosine",
+      "phosphocreatine"
+    ],
+    "answer": ["urea"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 48,
+    "question": "All of the functions below are carried out by blood except",
+    "options": [
+      "reproductive function",
+      "regulatory function",
+      "protective function",
+      "transportation",
+      "excretory function"
+    ],
+    "answer": ["reproductive function"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 49,
+    "question": "The biconcave shape of the RBC is advantageous to it because",
+    "options": [
+      "it provides a higher surface area to volume ratio",
+      "it enables its membrane to have low tension",
+      "it makes it to be more flexible",
+      "A and C only are correct",
+      "A,B,C above are correct"
+    ],
+    "answer": ["A,B,C above are correct"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 50,
+    "question": "Which of these components of blood does not originate from the multipurpose stem cells?",
+    "options": [
+      "Basophils",
+      "platelets",
+      "neutrophils",
+      "B- lymphocytes",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 51,
+    "question": "All but one of these factors increase the rate of RBC production",
+    "options": [
+      "erythrocyte stimulating factor",
+      "Hypoxia",
+      "Thyroxine",
+      "Thromboxane",
+      "intrinsic factor"
+    ],
+    "answer": ["Thromboxane"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 52,
+    "question": "All of the following is true of the Rhesus blood group except",
+    "options": [
+      "85% of all Africans have the anti D antigen",
+      "in the rhesus blood group there is no preformed antibody",
+      "any of the ABO, blood groups can be RH -ve or Rh +ve",
+      "Antibody D can only develop when a RH -ve person is exposed to a Rh+e bloo",
+      "the rhesus blood group has 3 genotypes"
+    ],
+    "answer": ["85% of all Africans have the anti D antigen"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 53,
+    "question": "The mean value for adult plasma bilirubin concentration is",
+    "options": [
+      "0.5gm/100mls of blood",
+      "0.8gm/100mls of blood",
+      "0.5mg/100mls of blood",
+      "0.8/100mls of blood",
+      "0.2gm/100 of blood"
+    ],
+    "answer": ["0.5mg/100mls of blood"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 54,
+    "question": "RBC will shrink if placed for several hours in a saline solution of",
+    "options": ["0.009%", "9%", "0.5%", "0.9%", "none of the above"],
+    "answer": ["9%"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 55,
+    "question": "One of the following is not true of the haem molecule",
+    "options": [
+      "it gives blood its characteristic red colour",
+      "it has molecular weight of about 65,000",
+      "it contains iron",
+      "Each of the Hb molecules has four haem",
+      "synthesis of Hb starts in the erythroblast"
+    ],
+    "answer": ["it has molecular weight of about 65,000"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 56,
+    "question": "All of these clotting factors when absent in blood will prevent clot formation except",
+    "options": [
+      "fibrinogen",
+      "Anti Haemophilic Globulin",
+      "Factor IV",
+      "Thromboxane",
+      "prothrombin"
+    ],
+    "answer": ["Anti Haemophilic Globulin"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 57,
+    "question": "Bleeding time can be prolonged by",
+    "options": [
+      "lack of RBCs",
+      "polycytemia",
+      "lack of fibrin stabilizing factor",
+      "neutrophilia",
+      "Thrombocytopenia"
+    ],
+    "answer": ["lack of fibrin stabilizing factor"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 58,
+    "question": "The RBC status of an individual can be as of these factors except",
+    "options": [
+      "RBC count",
+      "Haematocrit",
+      "Haemoglobin concentration",
+      "Anaemia",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 59,
+    "question": "Which of the following statements is true of leucocytes",
+    "options": [
+      "they are non-nucleated",
+      "they are confined to blood",
+      "they move in the main axial stream of blood flow",
+      "the majority of them are less than 10 microns in diameter",
+      "they are chemotaxic"
+    ],
+    "answer": ["they are chemotaxic"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 60,
+    "question": "All are functions of blood except",
+    "options": [
+      "transportation",
+      "thermoregulation",
+      "osmoregulation",
+      "Haemostasis",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 61,
+    "question": "Total plasma osmolarity is determined by",
+    "options": [
+      "dissolved ions",
+      "water concentration",
+      "plasma protein",
+      "colloid osmotic pressure",
+      "osmolar concentration of K+ and Na+"
+    ],
+    "answer": ["dissolved ions"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 62,
+    "question": "The rhesus blood group status is one of the following except",
+    "options": [
+      "inherited in the mendelian fashion",
+      "may differ for father and child",
+      "is defined by antibodies in plasma",
+      "is most commonly Rh negative in Africans",
+      "can be tested using RBC coagulation reaction"
+    ],
+    "answer": ["is most commonly Rh negative in Africans"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 63,
+    "question": "Circulating white blood cells",
+    "options": [
+      "measure about 5 microns in diameter",
+      "mainly consists of megakaryocytes",
+      "can leave the circulation at inflammation sites",
+      "are directly derived from lymphoid cells"
+    ],
+    "answer": ["can leave the circulation at inflammation sites"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 64,
+    "question": "Which of the following statements is not true of monocytes",
+    "options": [
+      "they are the largest blood cells",
+      "they are granular",
+      "they do not form antibodies",
+      "they have nuclei that vary in shape",
+      "their diameters range between 16-20 microns"
+    ],
+    "answer": ["they have nuclei that vary in shape"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 65,
+    "question": "In the fibrinolytic system fibrin cannot digest on of the following factors",
+    "options": [
+      "factor I",
+      "factor XIII",
+      "factor V",
+      "factor VIII",
+      "factor IX"
+    ],
+    "answer": ["factor I"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 66,
+    "question": "Which of the statements below is most correct for platelets",
+    "options": [
+      "measure about 8 microns in diameter",
+      "are small pieces of cytoplasm with small nuclei",
+      "are very important for homeostasis",
+      "are made from megakaryocyte cells in bone marrow",
+      "are about 4,000-11,000/mm³ in man"
+    ],
+    "answer": ["are about 4,000-11,000/mm³ in man"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 67,
+    "question": "All but one of the following significantly affects ESR",
+    "options": [
+      "Fibrinogen",
+      "viscosity",
+      "rouleaux formation",
+      "platelets",
+      "plasma proteins"
+    ],
+    "answer": ["platelets"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 68,
+    "question": "Which one is incorrect about blood clotting?",
+    "options": [
+      "it is promoted by platelet plugging",
+      "it is initiated by tissue thromboplastin in the extrinsic pathway",
+      "it does not stimulate fibrinolysis",
+      "it requires Ca²ᶧ",
+      "defects usually prolong bleeding"
+    ],
+    "answer": ["it does not stimulate fibrinolysis"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 69,
+    "question": "Which is not correct of interferon",
+    "options": [
+      "it is a protein produced in the body in response to bacterial invasion",
+      "it inhibits viral replication",
+      "it is non-specific",
+      "it is important for viral infection",
+      "it is not important for bacterial infection"
+    ],
+    "answer": ["it is not important for bacterial infection"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 70,
+    "question": "The T- lymphocytes",
+    "options": [
+      "have immunoglobulins on the surface of their membranes",
+      "proliferate to form a clone of plasma cells",
+      "may contain proteins, which allows antigens permeate through them",
+      "greatly depend on the cooperation of macrophages in its function",
+      "have T- specific surfangce antigens"
+    ],
+    "answer": [
+      "greatly depend on the cooperation of macrophages in its function"
+    ],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 71,
+    "question": "During platelet plug formation all these substances are produced except",
+    "options": [
+      "Thromboplastin",
+      "protacyclin",
+      "thromboxane",
+      "Adenosine diphosphate",
+      "serotonin"
+    ],
+    "answer": ["protacyclin"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 72,
+    "question": "Vit K. is required for the following blood clotting factors except",
+    "options": ["III", "II", "VII", "IX", "X"],
+    "answer": ["III"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 73,
+    "question": "Plasma fibrinogen concentration is ...........gram %",
+    "options": [" 3.8", "0.3", "2.3", "3.0", "0.38"],
+    "answer": ["0.3"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 74,
+    "question": "The cell volume of an RBC is expected to:",
+    "options": [
+      "To remain the same in hypotonic solution",
+      "increase in a hypertonic solution",
+      "remain the same in a 100mosmol per litre NaCl Solution",
+      "stay constant in a 300mosmol per litre of urea",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 75,
+    "question": "Which is not true of ABO blood group",
+    "options": [
+      "Group O is universal donor",
+      "A group O has no antigen on the surface of RBC",
+      "group O individual has no agglutinin in the plasma",
+      "group A individual has antigen A on the surface of RBC",
+      "none of the above"
+    ],
+    "answer": ["group O individual has no agglutinin in the plasma"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 76,
+    "question": "All these are clotting factors except",
+    "options": [
+      "prothrombin",
+      "iron",
+      "calcium",
+      "christmas factor",
+      "thromboplastin"
+    ],
+    "answer": ["iron"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 77,
+    "question": "During hemoglobin recycling in the spleen , heme is initially converted into",
+    "options": [
+      "bilirubin",
+      "Bilverdin",
+      "Urobilin",
+      "Urobilinogen",
+      "splenectomy"
+    ],
+    "answer": ["Bilverdin"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 78,
+    "question": "Excessive destruction of erythrocytes is characteristic of",
+    "options": [
+      "Thalassemia",
+      "Aplastic anaemia",
+      "pernicious anemia",
+      "hemolytic anemia",
+      "none of the above"
+    ],
+    "answer": ["hemolytic anemia"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 79,
+    "question": "Erythrocytes",
+    "options": [
+      "enter the circulation only after becoming fully mature",
+      "undergo mitosis iin the circulation in response to erythropoietin",
+      "are removed from the circulation after about 120 days by macrophages in the spleen, liver and bone marrow",
+      "have mitochondria and are capable of oxidative respiration",
+      "none of the above"
+    ],
+    "answer": [
+      "are removed from the circulation after about 120 days by macrophages in the spleen, liver and bone marrow"
+    ],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 80,
+    "question": "Which of the following cell types is specifically responsible for humoral immunity",
+    "options": [
+      "T cells",
+      "B cells",
+      "leukocytes",
+      "natural killer cell",
+      "lymphocytes"
+    ],
+    "answer": ["B cells"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 81,
+    "question": "A substance that can elicit an immune response is called",
+    "options": [
+      "complement",
+      "an interferon",
+      "a histamin",
+      "an antibody",
+      "an antigen"
+    ],
+    "answer": ["an antigen"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 82,
+    "question": "Antibodies are",
+    "options": [
+      "amino acids",
+      "lipids",
+      "carbohydrates",
+      "proteins",
+      "nucleus"
+    ],
+    "answer": ["proteins"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 83,
+    "question": "Which of the following activates platelets during hemostasis",
+    "options": [
+      "Eosinophil degranulation",
+      "exposed collagen or endothelial basement membrane",
+      "fibrin thread formation",
+      "thromboplastin",
+      "factor VII"
+    ],
+    "answer": ["exposed collagen or endothelial basement membrane"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 84,
+    "question": "What kind of cells wander the interstitial fluid ingesting whatever bacteria and infected cell they encounter and recognize",
+    "options": [
+      "neutrophils",
+      "monocytes",
+      "lymphocytes",
+      "macrophages",
+      "interferons"
+    ],
+    "answer": ["macrophages"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 85,
+    "question": "What is the body’s first line of defense against infection ?",
+    "options": [
+      "several nonspecific antibodies",
+      "several nonspecific amino acid toxins",
+      "several non specific obstacles such as skin and mucus",
+      "several nonspecific antimicrobial chemicals",
+      "both c and d"
+    ],
+    "answer": ["both c and d"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 86,
+    "question": "Blood group antigens are",
+    "options": [
+      "attached o the haemoglobin molecule",
+      "inherited characteristics carried by the autosomes",
+      "inherited as recessive characteristics",
+      "are found only in blood cells",
+      "none of the above"
+    ],
+    "answer": ["inherited characteristics carried by the autosomes"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 87,
+    "question": "Eosinophils in the blood:",
+    "options": [
+      "comprise about a quarter of all the granulocytes",
+      "account for most of the increase in white cell count caused by acute infections",
+      "are sites of antibody manufacture",
+      "have typically bilobbed nuclei",
+      "have dark blue granules"
+    ],
+    "answer": ["have typically bilobbed nuclei"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 88,
+    "question": "Erythrocyte sedimentation rate",
+    "options": [
+      "is the same in women and women",
+      "has a value of 18mmm/min",
+      "can be affected by fibrin concentration",
+      "has several factors one of which is realeaux formation affecting it",
+      "is a specific test for inflammatory conditions"
+    ],
+    "answer": [
+      "has several factors one of which is realeaux formation affecting it"
+    ],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 89,
+    "question": "ICF volume can be measured using all but one of the following substances",
+    "options": [
+      "sucrose",
+      "titrated water",
+      "thiosulphate",
+      "inulin",
+      "none of the above"
+    ],
+    "answer": ["none of the above"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 90,
+    "question": "Which of the following measurements cannot be used to assess RBC status ?",
+    "options": [
+      "RBC count",
+      "Haematocrit",
+      "haemoglobin concentration",
+      "Anaemia",
+      "none of the above"
+    ],
+    "answer": ["Anaemia"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 91,
+    "question": "The following conditions can result in excessive bleeding in humans except",
+    "options": [
+      "thrombocytopenia",
+      "vit. K deficiency",
+      "Haemophilia",
+      "Von Willbrand’s disease",
+      "leucocytopenia"
+    ],
+    "answer": ["Haemophilia"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 92,
+    "question": "Iron deficiency anaemia is",
+    "options": [
+      "more common in men than in women",
+      "is characterized by large, pale red blood cells",
+      "should be treated with intramuscular injections of iron",
+      "is the form of anaemia typically found following chronic blood loss from the body",
+      "none of the above is correct"
+    ],
+    "answer": [
+      "is the form of anaemia typically found following chronic blood loss from the body"
+    ],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 93,
+    "question": "Plasma is composed of all of the following except",
+    "options": ["globins", "water", "albumin", "inorganic ions", "antibodies"],
+    "answer": ["globins"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 94,
+    "question": "All but one of these factors promote erythropoeisis",
+    "options": [
+      "erythropoietin",
+      "hypoxia",
+      "vitamin B12",
+      "thromboplastin",
+      "ACTH"
+    ],
+    "answer": ["thromboplastin"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 95,
+    "question": "What is the normal platelet count in an adult man?",
+    "options": [
+      "5000-11000 platelets/mm²",
+      "50,000-11,000 platelets/mm²",
+      "150,000-400,000 platelets/mm²",
+      "150,000-200,000 platelets/mm²",
+      "15,000-500,000 platelets/mm²"
+    ],
+    "answer": ["150,000-400,000 platelets/mm²"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 96,
+    "question": "Normal clotting time range between",
+    "options": [
+      "3-10 mins",
+      "5-10 mins",
+      "1- 5 mins",
+      "2- 5 mins",
+      "10-15 mins"
+    ],
+    "answer": ["3-10 mins"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 97,
+    "question": "Which of the following is not true of the Rhesus blood group?",
+    "options": [
+      "75%",
+      "The rhesus blood group has naturally occurring antibody in the plasma to the antigen D",
+      "any of the A,BO blood groups can be Rh – ve or Rh +ve",
+      "Antibody D can only develop when a Rh-ve person is exposed to a Rh +ve blood",
+      "none of the above"
+    ],
+    "answer": [
+      "The rhesus blood group has naturally occurring antibody in the plasma to the antigen D"
+    ],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 98,
+    "question": "Bleeding time can be prolonged by",
+    "options": [
+      "lack of platelets",
+      "lack of neutrophils",
+      "lack of factor Xii",
+      "lack of RBCs",
+      "none of the above"
+    ],
+    "answer": ["lack of platelets"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 99,
+    "question": "Which of these statements is not true of leucocytes",
+    "options": [
+      "they are nucleated",
+      "they are confined to blood",
+      "they have amoeboid movement",
+      "they are larger than RBCs",
+      "they are chemotaxic"
+    ],
+    "answer": ["they are confined to blood"],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  },
+  {
+    "id": 100,
+    "question": "The % range of body water that is total body water in females is",
+    "options": ["45-60%", "54-70 %", "65-75%", "40-60%", "none of the above"],
+    "answer": ["45-60%"],
+    "explanation": "Female 50% \n Male 60% \n infant 75%",
+    "topic": ""
+  },
+  {
+    "id": 101,
+    "question": "Regarding the lymphocytes",
+    "options": [
+      "the lymphocytes are the most abundant white cells of the blood",
+      "lymphocytes only leave the blood at sites of inflammation",
+      "all B lymphocytes become plasma cells after they have been stimulated",
+      "all T lymphocytes become plasma cells after they have been stimulated"
+    ],
+    "answer": [
+      "all B lymphocytes become plasma cells after they have been stimulated"
+    ],
+    "explanation": "",
+    "topic": "Blood and Body fluid"
+  }
+]

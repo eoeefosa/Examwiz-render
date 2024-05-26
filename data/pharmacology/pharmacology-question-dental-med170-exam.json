@@ -1,0 +1,578 @@
+[
+  {
+    "id": 1,
+    "question": "The bioavailability of this drug is increased when given by the sublingual route",
+    "options": [
+      "Diazepam extended release",
+      "Simvastatin",
+      "Methyl Prednisolone",
+      "Diltiazem preparations",
+      "Glyceryl trinitrate"
+    ],
+    "answer": ["Glyceryl trinitrate"]
+  },
+  {
+    "id": 2,
+    "question": "One of the following statements is consistent with drug therapy in elderly patients:",
+    "options": [
+      "Elderly patients have an increased volume of distribution due to decreased total body water",
+      "Elderly patients are 2-3x more predisposed to having an adverse drug reaction",
+      "Fat-soluble drugs have a shorter half-life in elderly patients",
+      "Hypoalbuminemia in the elderly can lead to decreased toxicity of some drugs like warfarin",
+      "Hepatic clearance of lipid-soluble drugs reduces with age"
+    ],
+    "answer": [
+      "Hypoalbuminemia in the elderly can lead to decreased toxicity of some drugs like warfarin"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "The following adverse drug event pair is correct EXCEPT",
+    "options": [
+      "Cinchonism - Quinine",
+      "Watery diarrhea - Loperamide",
+      "Tardive dyskinesia - Metoclopramide",
+      "Optic neuritis - Isoniazid",
+      "Ototoxicity - Gentamicin"
+    ],
+    "answer": ["Optic neuritis - Isoniazid"]
+  },
+  {
+    "id": 4,
+    "question": "A 49-year-old patient developed severe anaphylaxis after eating shellfish, which ONE of the following drugs is the life-saving medication that must be given IMMEDIATELY to treat this patient?",
+    "options": [
+      "Intravenous frusemide",
+      "Intravenous chlorpheniramine maleate",
+      "Intramuscular adrenaline hydrochloride",
+      "Subcutaneous fludrocortisone",
+      "Intravenous hydrocortisone succinate"
+    ],
+    "answer": ["Intramuscular adrenaline hydrochloride"]
+  },
+  {
+    "id": 5,
+    "question": "A 26-year-old bus driver who has been abusing oral steroids to build muscles for over 9 years and now develops osteoporosis has what type of adverse reaction?",
+    "options": ["Type A", "Type B", "Type C", "Type D", "Type E"],
+    "answer": ["Type A"]
+  },
+  {
+    "id": 6,
+    "question": "Which of the following drugs is likely to increase the plasma warfarin concentration if co-prescribed to a patient on chronic warfarin therapy?",
+    "options": [
+      "St John's wort",
+      "Phenobarbitone",
+      "Phenytoin",
+      "Omeprazole",
+      "Rifampicin"
+    ],
+    "answer": ["Omeprazole"]
+  },
+  {
+    "id": 7,
+    "question": "Therapeutic index Of Drugs A. B, C, D. and E are 2, 5, 15, 20, and 50, respectively. Based on this, which drug has the lowest potential to have adverse or toxic effects?",
+    "options": ["A", "B", "C", "D", "E"],
+    "answer": ["E"]
+  },
+  {
+    "id": 8,
+    "question": "Achieving steady state is dependent on which of the following?",
+    "options": [
+      "Bioavailability",
+      "Loading dose",
+      "Half-life",
+      "Clearance",
+      "Volume of distribution"
+    ],
+    "answer": ["Half-life"]
+  },
+  {
+    "id": 9,
+    "question": "Maintenance of steady state is dependent on which of the following?",
+    "options": [
+      "Bioavailability",
+      "Loading dose",
+      "Half-life",
+      "Clearance",
+      "Volume of distribution"
+    ],
+    "answer": ["Clearance"]
+  },
+  {
+    "id": 10,
+    "question": "Digoxin has a half-life of approximately 40 hours if renal function is normal. How long will it take to reach 90 per cent of the steady state plasma concentration?",
+    "options": ["2 days", "7 days", "10 days", "14 days", "18 days"],
+    "answer": ["7 days"]
+  },
+  {
+    "id": 11,
+    "question": "One of the following statements best describes the final presentation in which the drug is given to the patient",
+    "options": [
+      "It comprises aide, adjuncts, excipients that are all non-medicinal agents",
+      "It determines the action of the effective compound in the patient",
+      "It determines how appealing the drug would be to the patients",
+      "It increases the dosage strength of the medication",
+      "It can determine the adverse effects profile of the medication"
+    ],
+    "answer": ["It determines how appealing the drug would be to the patients"]
+  },
+  {
+    "id": 12,
+    "question": "In determining the bioavailability of an oral medicine, the following pharmaceutical factors are important EXCEPT",
+    "options": [
+      "Particle form",
+      "Dehydration",
+      "Lipid solubility",
+      "Ionic form",
+      "Dissolution rate"
+    ],
+    "answer": ["Dehydration"]
+  },
+  {
+    "id": 13,
+    "question": "Regarding the Histamine receptors, ONE of the following statements is consistent with the stimulation of the H2 receptor.",
+    "options": [
+      "It causes a negative inotropic and chronotropic effect on the heart",
+      "It mediates constriction of the large blood vessel",
+      "It augments lymphatic flow",
+      "It increases capillary vessel permeability",
+      "It increases glandular secretion in the stomach mucosa"
+    ],
+    "answer": ["It increases glandular secretion in the stomach mucosa"]
+  },
+  {
+    "id": 14,
+    "question": "An elderly man presented to the emergency with hyperthermia, muscle rigidity, myoclonus and altered sensorium. He had undergone treatment for severe depression and was placed on a fluoxetine. He reported using another new antidepressant concurrently in the last 24-36 hours before onset of symptoms. What could this suspected new drug be?",
+    "options": [
+      "Escitalopram",
+      "Paroxetine",
+      "Tranycylopromine",
+      "Amitrityilline",
+      "Sertraline"
+    ],
+    "answer": ["Tranycylopromine"]
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is NOT a relevant characteristic for neuropeptide function?",
+    "options": [
+      "Secretion of neuropeptide is through a regulated route",
+      "They are not typically recycled once secreted",
+      "They may be modified in the extracellular space by peptidases",
+      "Their synthesis occurs by influx of precursor into a presynaptic neuron",
+      "Peptidases can increase their target binding affinity or inactivate their activity"
+    ],
+    "answer": [
+      "Their synthesis occurs by influx of precursor into a presynaptic neuron"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Which one of the following atypical antipsychotics is most likely to cause weight gain?",
+    "options": [
+      "Risperidone",
+      "Aripiprazole",
+      "Amisulpiride",
+      "Olanzapine",
+      "Quetiapine"
+    ],
+    "answer": ["Olanzapine"]
+  },
+  {
+    "id": 17,
+    "question": "A 34-year-old lady with clinical depression was given amitriptyline. However, she complained that she wasn't feeling better after a period of time. When is the expected commencement of therapeutic response to antidepressants?",
+    "options": ["2-3 days", "2-3 weeks", "24 hours", "2-3 months", "1 week"],
+    "answer": ["2-3 weeks"]
+  },
+  {
+    "id": 18,
+    "question": "In the management of acute dystonic reaction following the use of haloperidol, the best treatment modality would be to?",
+    "options": [
+      "Add risperidone to the drug regimen",
+      "Discontinue haloperidol and observe the patient",
+      "Give oral diphenhydramine",
+      "Give injection benztropine",
+      "Switch the patient to fluphenazine"
+    ],
+    "answer": ["Give injection benztropine"]
+  },
+  {
+    "id": 19,
+    "question": "ONE of the following pharmacokinetic principles of tricyclic antidepressant is majorly responsible for its accumulation in the elderly",
+    "options": [
+      "Inactivation by glucuronide conjugation of metabolites",
+      "Long half-life of between 10-80 hours",
+      "Hepatic metabolism by CYP enzymes",
+      "Strong binding to plasma albumin",
+      "Presence of active metabolites"
+    ],
+    "answer": ["Long half-life of between 10-80 hours"]
+  },
+  {
+    "id": 20,
+    "question": "One of these is not a characteristic of the sympathetic nervous system:",
+    "options": [
+      "Cell for preganglionic neurons originate in the brain",
+      "The neurotransmitter for preganglionic neurons is acetylcholine",
+      "Long postganglionic neurons",
+      "Postganglionic nerve terminals with an active uptake process for noradrenaline known as uptake I",
+      "Nicotinic cholinergic receptors are present at the paravertebral ganglia"
+    ],
+    "answer": [
+      "Nicotinic cholinergic receptors are present at the paravertebral ganglia"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "The postganglionic sympathetic nerves at the following organs release noradrenaline as the neurotransmitter except:",
+    "options": [
+      "Sweat glands",
+      "Adrenal medulla",
+      "Piloerector muscles",
+      "Skin",
+      "Kidney"
+    ],
+    "answer": ["Sweat glands"]
+  },
+  {
+    "id": 22,
+    "question": "All preganglionic neurons are:",
+    "options": [
+      "Cholinergic",
+      "Adrenergic",
+      "Both cholinergic and adrenergic",
+      "Non-Adrenergic Non-cholinergic",
+      "Sympathetic"
+    ],
+    "answer": ["Cholinergic"]
+  },
+  {
+    "id": 23,
+    "question": "Carbamate Acetylcholinesterase inhibitors are useful in:",
+    "options": [
+      "Blepherospasms",
+      "Reduction of wrinkling",
+      "Hyperhydrosis",
+      "Glaucoma",
+      "Diarrhoea"
+    ],
+    "answer": ["Glaucoma"]
+  },
+  {
+    "id": 24,
+    "question": "The sympathetic nervous system is characterized by which one of the following?",
+    "options": [
+      "Ganglia are located close to the organ innervated.",
+      "The neurotransmitter at all postganglionic sympathetic neuroeffector junctions is Norepinephrine",
+      "Postganglionic sympathetic neurons are short.",
+      "Cell bodies for preganglionic neurons are thoracolumbar",
+      "No Postganglionic sympathetic fibers to the sweat gland"
+    ],
+    "answer": ["Cell bodies for preganglionic neurons are thoracolumbar"]
+  },
+  {
+    "id": 25,
+    "question": "Disadvantages of a bioassay procedure include",
+    "options": [
+      "Variability in responses",
+      "Expensive and time-consuming",
+      "Insensitivity",
+      "Measures minute quantities of the active substance",
+      "Time-related changes in sensitivity of the test organ"
+    ],
+    "answer": ["Measures minute quantities of the active substance"]
+  },
+  {
+    "id": 26,
+    "question": "Which of the following statements regarding adrenergic antagonists is CORRECT?",
+    "options": [
+      "a-antagonists and ß-antagonists exert similar effects on cardiac function",
+      "b a-antagonists are used to treat glaucoma by reducing intraocular pressure",
+      "The primary difference between al and arselective antagonists is that antagonists do not induce vasodilation",
+      "ß-selective antagonists can cause airway resistance via decreased bronchial smooth muscle relaxation",
+      "ß-antagonists reduce blood pressure via complex effects involving the cardiovascular and renal systems"
+    ],
+    "answer": [
+      "ß-antagonists reduce blood pressure via complex effects involving the cardiovascular and renal systems"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "With respect to noradrenergic transmission:",
+    "options": [
+      "Dihydroxyphenylalanine (DOPA) decarboxylase is located in the synaptic vesicles.",
+      "Dopamine ß-hydroxylase (DBH) is located in the cytoplasm of the cell.",
+      "Rate-limiting step in the synthesis of noradrenaline is the conversion of tyrosine to DOPA",
+      "The final step in the synthesis of noradrenaline is outside the vesicle",
+      "NA binds only to post-synaptic receptors, not presynaptic receptors"
+    ],
+    "answer": [
+      "Rate-limiting step in the synthesis of noradrenaline is the conversion of tyrosine to DOPA"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Which of these statements is correct?",
+    "options": [
+      "Drugs that act on GABA receptors target mostly GABA binding sites",
+      "The highest concentration of GABA is in the mesolimbic pathway",
+      "Concentration of serotonin is very high in the central nervous system",
+      "Serotonin agonists are useful in the management of migraines and anxiety",
+      "Melatonin agonists are antioxidants"
+    ],
+    "answer": [
+      "Serotonin agonists are useful in the management of migraines and anxiety"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Concerning centrally acting drugs",
+    "options": [
+      "Most CNS depressants potentiate the actions of GABA",
+      "CNS depressants are mostly sedatives",
+      "Long-acting barbiturates can be used as anesthetic agents",
+      "Adverse effects of benzodiazepines include hypertension",
+      "Flumazenil is contraindicated in benzodiazepine intoxication"
+    ],
+    "answer": ["Flumazenil is contraindicated in benzodiazepine intoxication"]
+  },
+  {
+    "id": 30,
+    "question": "The development of Parkinsonian symptoms and tardive dyskinesia are caused by blockade of dopamine in which of the following?",
+    "options": [
+      "The nigrostriatal system",
+      "The mesolimbic systems",
+      "The mesofrontal systems",
+      "The chemoreceptor trigger zone of the medulla",
+      "The tuberoinfundibular system"
+    ],
+    "answer": ["The nigrostriatal system"]
+  },
+  {
+    "id": 31,
+    "question": "The most effective drug for the management of Parkinson disease",
+    "options": [
+      "Bromocriptine",
+      "Lisuride",
+      "Pergolide",
+      "Benztropine",
+      "Levodopa"
+    ],
+    "answer": ["Levodopa"]
+  },
+  {
+    "id": 32,
+    "question": "Which antiviral agent is useful in Parkinson disease?",
+    "options": [
+      "Acyclovir",
+      "Foscamate",
+      "Idoxuridine",
+      "Adefovir",
+      "Amantadine"
+    ],
+    "answer": ["Amantadine"]
+  },
+  {
+    "id": 33,
+    "question": "Which antiparkinson medication is associated with On and Off fluctuations?",
+    "options": [
+      "Tolcapone",
+      "Levodopa",
+      "Benztropine",
+      "Bromocriptine",
+      "Selegiline"
+    ],
+    "answer": ["Levodopa"]
+  },
+  {
+    "id": 34,
+    "question": "The drug of choice in aborting severe attacks of migraine headache",
+    "options": [
+      "Ergotamine",
+      "Sumatriptan",
+      "Opioids",
+      "Propranolol",
+      "NSAIDs"
+    ],
+    "answer": ["Sumatriptan"]
+  },
+  {
+    "id": 35,
+    "question": "Which of the following is not a mechanism of action of antiepileptic drugs:",
+    "options": [
+      "Na-channel mediated inhibition",
+      "Cl-channel mediated inhibition",
+      "K-channel mediated inhibition",
+      "Ca-channel mediated inhibition",
+      "Glutamate receptor blocker"
+    ],
+    "answer": ["K-channel mediated inhibition"]
+  },
+  {
+    "id": 36,
+    "question": "Phenytoin Na:",
+    "options": [
+      "Enhances K-channel mediated inhibition",
+      "Promotes Cl-channel mediated inhibition",
+      "Interacts with Ca-channels to promote calcium influx",
+      "Follows a zero-order kinetics",
+      "Facilitates GABAergic inhibition transmission"
+    ],
+    "answer": ["Facilitates GABAergic inhibition transmission"]
+  },
+  {
+    "id": 37,
+    "question": "Which of the following antiepileptics has the highest risk of teratogenicity:",
+    "options": [
+      "Carbamazepine",
+      "Sodium valproate",
+      "Levetiracetam",
+      "Vigabatrin",
+      "Phenytoin"
+    ],
+    "answer": ["Sodium valproate"]
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is an inhaled general anesthesia?",
+    "options": ["Midazolam", "Desflurane", "Fentanyl", "Ketamine", "Propofol"],
+    "answer": ["Desflurane"]
+  },
+  {
+    "id": 39,
+    "question": "Which of the following is an intravenous general anesthesia?",
+    "options": [
+      "Propofol",
+      "Chlorphenol",
+      "Halothane",
+      "Desflurane",
+      "Hydrophenol"
+    ],
+    "answer": ["Propofol"]
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is NOT a stage in general anesthesia?",
+    "options": [
+      "Medullary depression",
+      "Analgesia",
+      "Disinhibition",
+      "Surgical anesthesia",
+      "Induction"
+    ],
+    "answer": ["Induction"]
+  },
+  {
+    "id": 41,
+    "question": "Which of the following is an amide",
+    "options": ["Lidocaine", "Tetracaine", "Benzocaine", "Cocaine", "Procaine"],
+    "answer": ["Tetracaine"]
+  },
+  {
+    "id": 42,
+    "question": "The following drug used in erectile dysfunction is administered as an intraurethral mini-suppository or intracarvenosally.",
+    "options": [
+      "Sildenafil",
+      "Papaverine",
+      "Yohimbine",
+      "Phentolamine",
+      "Alprostadil"
+    ],
+    "answer": ["Alprostadil"]
+  },
+  {
+    "id": 43,
+    "question": "Which of the following substances inhibits type 2 1 1 Beta hydroxysteroid dehydrogenase to cause hypertension and hypokalemia?",
+    "options": [
+      "Torsemide",
+      "Pseudoephedrine",
+      "Licorice",
+      "Tacrolimus",
+      "Erythropoietin"
+    ],
+    "answer": ["Licorice"]
+  },
+  {
+    "id": 44,
+    "question": "This dopamine D1 receptor agonist is useful in patients with post-operative hypertension. The following features are consistent with its use EXCEPT",
+    "options": [
+      "It is given by continuous intravenous infusion",
+      "It can cause rebound hypertension",
+      "The dose is increased every quarter hour",
+      "It has a half-life of 10 minutes",
+      "It encourages natriuresis and arterial dilations"
+    ],
+    "answer": [""]
+  },
+  {
+    "id": 45,
+    "question": "Which of the following drugs increases the plasma levels of endogenous BNP and is combined with another agent that blocks angiotensin receptors?",
+    "options": [
+      "Furosemide",
+      "Losartan",
+      "Nesiritide",
+      "Sacubitril",
+      "Spironolactone"
+    ],
+    "answer": ["Nesiritide"]
+  },
+  {
+    "id": 46,
+    "question": "ONE of the following drugs is NOT a substrate of CYP3A4",
+    "options": [
+      "Nifedipine",
+      "Nimodipine",
+      "Clevidipine",
+      "Amlodipine",
+      "Felodipine"
+    ],
+    "answer": ["Clevidipine"]
+  },
+  {
+    "id": 47,
+    "question": "Of the following, intake of grape-juice can increase the concentration by 8-24 fold EXCEPT for this drug?",
+    "options": [
+      "Felodipine",
+      "Atorvastatin",
+      "Verapamil",
+      "Amlodipine",
+      "Nicardipine"
+    ],
+    "answer": ["Amlodipine"]
+  },
+  {
+    "id": 48,
+    "question": "A 22-year-old woman in her first week of pregnancy started on daily folic acid supplementation. The therapy was given to decrease the risk of which of the following congenital abnormalities?",
+    "options": [
+      "Atrial septal defect",
+      "Spina bifida",
+      "Tetralogy of Fallot",
+      "Esophageal atresia",
+      "Congenital cataract"
+    ],
+    "answer": ["Spina bifida"]
+  },
+  {
+    "id": 49,
+    "question": "A 24-year-old NYSC corp member presented with exercise intolerance, worsened by her heavy menstrual flow. Her MCV was found to be low. Which of the following agents would be most beneficial to this patient?",
+    "options": [
+      "High protein / caloric diet",
+      "Folic acid supplementation",
+      "Vitamin B12 supplementation",
+      "Hydroxyurea injections",
+      "Ferrous sulfate supplements"
+    ],
+    "answer": ["Vitamin B12 supplementation"]
+  },
+  {
+    "id": 50,
+    "question": "A 19-year-old footballer complained that he has had to change his boot twice in a month to a larger size, also noticed increased hand thickness, hyperhidrosis and fatigue. ONE of the following is consistent with a drug used in the management of this case EXCEPT",
+    "options": [
+      "It can normalize growth hormone levels in 60% of patients",
+      "It is useful in the management of radiation-induced diarrhea",
+      "It can decrease adenoma size in 40-50% of affected patients",
+      "It can be used to control bleeding esophageal varices",
+      "It can be given orally once every four weeks"
+    ],
+    "answer": ["It can decrease adenoma size in 40-50% of affected patients"]
+  }
+]

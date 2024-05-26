@@ -1,0 +1,648 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following diagnostic methods used in haematology is most sensitive?",
+    "options": [
+      "Morphology",
+      "Cytogenetics",
+      "Immunophenotyping",
+      "PCR",
+      "Florescent in-situ hybridization"
+    ],
+    "answer": ["PCR"],
+    "explanation": "The most sensitive diagnostic method in haematology is Polymerase Chain Reaction (PCR), particularly for the detection of specific genetic mutations or the presence of low levels of genetic material \n\n Flow cytometry is also highly sensitive for the detection of specific cell surface markers, which is essential in the diagnosis and classification of haematological malignancies\n\nFluorescent in-situ hybridization (FISH) is also sensitive for detecting specific chromosomal abnormalities, which is useful in the diagnosis and monitoring of certain haematological disorders.\n\n However, PCR is generally considered the most sensitive method for molecular diagnostics in haematology"
+  },
+  {
+    "id": 2,
+    "question": "Which of these cells is commonly used for cytogenetic studies?",
+    "options": [
+      "Lymphocyte",
+      "Neutrophil",
+      "Macrophage",
+      "Erythrocytes",
+      "Platelets"
+    ],
+    "answer": ["Lymphocyte"],
+    "explanation": "Lymphocytes are commonly used for cytogenetic studies due to their involvement in the immune system and their ability to undergo mitosis, providing suitable cells for analysis."
+  },
+  {
+    "id": 3,
+    "question": "Clinical applications of specific haematological investigations include the following except",
+    "options": [
+      "Establish clonality",
+      "To classify diseases",
+      "To recommend a therapy",
+      "To determine prognosis purposes",
+      "None of the above"
+    ],
+    "answer": ["None of the above"],
+    "explanation": "All the mentioned options are valid clinical applications of haematological investigations."
+  },
+  {
+    "id": 4,
+    "question": "Which of these cytogenetic patterns is correctly linked to the appropriate haematological condition?",
+    "options": [
+      "t(9:22) Chronic myeloid leukaemia",
+      "t(15:17) Acute myeloid leukaemia (M3)",
+      "Inversion 16 Acute myeloid leukaemia (M4)",
+      "t(8:21) Acute myeloid leukaemia (M1)",
+      "t(9:22) Acute lymphoblastic leukaemia (ALL)"
+    ],
+    "answer": ["t(9:22) Chronic myeloid leukaemia"],
+    "explanation": "The cytogenetic pattern t(9:22) is associated with Chronic myeloid leukaemia (CML)."
+  },
+  {
+    "id": 5,
+    "question": "Advantages of FISH method over routine cytogenetics include that:",
+    "options": [
+      "It is cheaper",
+      "It can be used for slow-growing cells",
+      "It is readily available",
+      "It can study cells at metaphase",
+      "None of the above"
+    ],
+    "answer": ["It can be used for slow-growing cells"],
+    "explanation": "FISH has the advantage of being able to study cells that may not be actively dividing or in metaphase, making it useful for slow-growing cells."
+  },
+  {
+    "id": 6,
+    "question": "Choose the correct hierarchy of stem cells",
+    "options": [
+      "Totipotent - Pluripotent - Multipotent",
+      "Pluripotent - Totipotent - Multipotent",
+      "Totipotent - Multipotent - Pluripotent",
+      "Multipotent - Totipotent - Pluripotent",
+      "Multipotent - Pluripotent - Totipotent"
+    ],
+    "answer": ["Totipotent - Pluripotent - Multipotent"],
+    "explanation": "The correct hierarchy of stem cells is Totipotent, Pluripotent, and Multipotent, representing their differentiation potential."
+  },
+  {
+    "id": 7,
+    "question": "The least sources of stem cells utilized in haematology include",
+    "options": [
+      "Bone marrow",
+      "Peripheral blood",
+      "Cord blood",
+      "None of the above"
+    ],
+    "answer": ["None of the above"],
+    "explanation": "All the mentioned sources (Bone marrow, Peripheral blood, and Cord blood) are utilized in haematology for obtaining stem cells."
+  },
+  {
+    "id": 8,
+    "question": "Indications for autologous transplant include:",
+    "options": [
+      "Sickle cell disease",
+      "Multiple myeloma",
+      "Aplastic anaemia",
+      "Thalassaemia",
+      "Wiskott-Aldrich syndrome"
+    ],
+    "answer": ["Multiple myeloma"],
+    "explanation": "Autologous transplant is indicated for conditions like Multiple myeloma, where a patient's own cells are used for transplantation."
+  },
+  {
+    "id": 9,
+    "question": "Concerning the conditioning regimen in haemopoietic stem cell transplant, which of the following statements is correct",
+    "options": [
+      "The myeloablative transplant is less toxic",
+      "The reduced intensity conditioning is best for non-neoplastic disease",
+      "The non-myeloablative conditioning is best for neoplastic conditions",
+      "The myeloablative conditioning is more tolerable by the elderly",
+      "The myeloablative conditioning is best for non-neoplastic disorders"
+    ],
+    "answer": [
+      "The reduced intensity conditioning is best for non-neoplastic disease"
+    ],
+    "explanation": "Reduced intensity conditioning is often preferred for non-neoplastic diseases as it minimizes toxicity while providing sufficient support for stem cell engraftment."
+  },
+  {
+    "id": 10,
+    "question": "Concerning complications of HSCT, which of the following statements is correct",
+    "options": [
+      "Graft versus host disease is a major complication of allogeneic transplant",
+      "Graft versus leukaemia effect can be a beneficial effect that can be explored in allogeneic transplant",
+      "Infection is a common complication in all forms of HSCT",
+      "Graft failure is a more serious concern in allogeneic transplant",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "All the mentioned statements are correct regarding complications of Hematopoietic Stem Cell Transplant (HSCT)."
+  },
+  {
+    "id": 11,
+    "question": "Causes of lymphocytosis include the following except:",
+    "options": [
+      "Cytomegalovirus infection",
+      "Pneumococcal pneumonia",
+      "Infectious mononucleosis",
+      "Tuberculosis",
+      "Hodgkin's lymphoma"
+    ],
+    "answer": ["Pneumococcal pneumonia"],
+    "explanation": "Lymphocytosis can be caused by various conditions, but Pneumococcal pneumonia is not typically associated with an increase in lymphocyte count."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is the best description of chronic lymphocytic leukemia?",
+    "options": [
+      "A disease which often transforms into ALL",
+      "A disease in which immunologically incompetent B-cell accumulate",
+      "A disease which is treated with Busulfan for symptoms control",
+      "A disease etiologically linked to radiation exposure",
+      "May be familial"
+    ],
+    "answer": [
+      "A disease in which immunologically incompetent B-cell accumulate"
+    ],
+    "explanation": "Chronic lymphocytic leukemia (CLL) is characterized by the accumulation of immunologically incompetent B-cells. It is a type of leukemia affecting the lymphocytes."
+  },
+  {
+    "id": 13,
+    "question": "All are true about CLL except:",
+    "options": [
+      "Is a cause of hypogammaglobulinemia?",
+      "Is commonly treated with intensive combination chemotherapy",
+      "Often presents asymptomatically",
+      "Is more commonly derived from B cells than T cells",
+      "Can undergo transformation to a high-grade lymphoma"
+    ],
+    "answer": ["Is commonly treated with intensive combination chemotherapy"],
+    "explanation": "CLL is typically managed with various treatment approaches, but intensive combination chemotherapy is not commonly used due to the indolent nature of the disease."
+  },
+  {
+    "id": 14,
+    "question": "During treatment for lymphoma, one common effect of a single course of combination chemotherapy includes a significant.",
+    "options": [
+      "Decrease in granulocytes",
+      "Increase in platelets",
+      "Decrease in erythrocytes",
+      "Increase in leukocytes",
+      "Emesis"
+    ],
+    "answer": ["Decrease in erythrocytes"],
+    "explanation": "Combination chemotherapy can lead to myelosuppression, resulting in a decrease in red blood cells (erythrocytes), leading to anemia."
+  },
+  {
+    "id": 15,
+    "question": "Which of these is not correct about Hodgkin's lymphoma:",
+    "options": [
+      "They have a bimodal disease peak",
+      "It is associated with EBV virus infection",
+      "Presence of Reed-Sternberg cells are diagnostic",
+      "The nodular lymphocyte predominant variant is CD 20 positive",
+      "The classical forms express CD"
+    ],
+    "answer": ["The nodular lymphocyte predominant variant is CD 20 positive"],
+    "explanation": "The nodular lymphocyte predominant variant of Hodgkin's lymphoma is typically CD 20 negative, unlike the classical forms."
+  },
+  {
+    "id": 16,
+    "question": "The following chemotherapy regimens are correctly matched with the disease condition in which it is used.",
+    "options": [
+      "Daunorubin & cytosine arabinoside - ALL",
+      "Chlorambucil, Adriamycin, vincristine and prednisolone (CHOP) - NHL",
+      "Adriamycin, bendamustine, vincristine and dacarbazine (ABVD) - Hodgkin's lymphoma",
+      "Imatinib mesylate – AML",
+      "Bortezomib, Lenalidomide and Dexamethasone - Multiple myeloma"
+    ],
+    "answer": [
+      "Chlorambucil, Adriamycin, vincristine and prednisolone (CHOP) - NHL"
+    ],
+    "explanation": "CHOP regimen is commonly used for Non-Hodgkin's lymphoma (NHL) treatment."
+  },
+  {
+    "id": 17,
+    "question": "Supportive therapy involves the following except:",
+    "options": [
+      "Use of blood products",
+      "Counseling",
+      "Antimicrobial therapy",
+      "Chemotherapy",
+      "Rehydration"
+    ],
+    "answer": ["Chemotherapy"],
+    "explanation": "Supportive therapy aims to alleviate symptoms and support the patient but typically does not include active chemotherapy as part of its approach."
+  },
+  {
+    "id": 18,
+    "question": "The following pathogens are associated with the development of NHL except:",
+    "options": [
+      "Human T cell lymphotropic virus I (HTLV-1)",
+      "Helicobacter pylori",
+      "Parvovirus B19",
+      "Hepatitis C virus",
+      "Cytomegalovirus"
+    ],
+    "answer": ["Helicobacter pylori"],
+    "explanation": "While Helicobacter pylori is associated with certain gastric lymphomas, it is not a common pathogen associated with the development of Non-Hodgkin's lymphoma (NHL)."
+  },
+  {
+    "id": 19,
+    "question": "The following diagnostic modality can be used to distinguish HL from NHL",
+    "options": [
+      "Flow cytometry",
+      "PET Scan",
+      "Immunohistochemistry",
+      "T cell receptor rearrangement",
+      "Cytochemistry"
+    ],
+    "answer": ["Immunohistochemistry"],
+    "explanation": "Immunohistochemistry is commonly used to distinguish between Hodgkin's lymphoma (HL) and Non-Hodgkin's lymphoma (NHL) based on the presence of specific markers such as Reed-Sternberg cells in HL."
+  },
+  {
+    "id": 20,
+    "question": "Which of these is a benign cause of paraproteinaemia include:",
+    "options": [
+      "CLL",
+      "Waldenstrom macroglobulinaemia",
+      "Monoclonal gammopathy of undetermined significance",
+      "Plasma cell leukaemia",
+      "HIV/AIDS"
+    ],
+    "answer": ["Monoclonal gammopathy of undetermined significance"],
+    "explanation": "Monoclonal gammopathy of undetermined significance (MGUS) is a benign condition characterized by the presence of a paraprotein in the blood without any associated malignancy."
+  },
+  {
+    "id": 21,
+    "question": "Factor VIII is commonly known as",
+    "options": [
+      "Tissue factor",
+      "Prothrombin",
+      "Antihemophilic factor",
+      "Fibrinogen"
+    ],
+    "answer": ["Antihemophilic factor"],
+    "explanation": "Factor VIII is commonly known as antihemophilic factor and plays a crucial role in the blood clotting process."
+  },
+  {
+    "id": 22,
+    "question": "The traditional intrinsic coagulation pathway includes factors",
+    "options": [
+      "X, V, IV, III, II and I",
+      "XII, XI, IX, VIII, Prekallikrein and HMWK",
+      "XII, X, IX, XIII, Prekallikrein and HMWK",
+      "VII and tissue factors",
+      "VIII, IX, X, XII"
+    ],
+    "answer": ["XII, XI, IX, VIII, Prekallikrein and HMWK"],
+    "explanation": "The traditional intrinsic coagulation pathway includes factors XII, XI, IX, VIII, Prekallikrein, and High Molecular Weight Kininogen (HMWK)."
+  },
+  {
+    "id": 23,
+    "question": "A substance released from platelets that promotes their aggregation is",
+    "options": ["HMWK", "ADP", "Factor V", "a2-antiplasmin", "Prostacyclin"],
+    "answer": ["ADP"],
+    "explanation": "ADP (adenosine diphosphate) is a substance released from platelets that plays a key role in promoting their aggregation."
+  },
+  {
+    "id": 24,
+    "question": "A normal hemostatic mechanism depends upon the normal structure and function of",
+    "options": [
+      "Tissue surrounding the blood vessels",
+      "Platelets",
+      "Blood vessels",
+      "Plasma coagulation protein",
+      "All of the above"
+    ],
+    "answer": ["All of the above"],
+    "explanation": "A normal hemostatic mechanism depends on the coordinated function of the tissue surrounding blood vessels, platelets, blood vessels themselves, and plasma coagulation proteins."
+  },
+  {
+    "id": 25,
+    "question": "Concerning Acute Leukemias, stages of maturation follows the order",
+    "options": [
+      "Metamyelocyte-myeloblast-promyelocyte-band forms",
+      "Myeloblast-myelocyte-promyelocyte-metamyelocyte-band forms",
+      "Myeloblast-promyelocyte-myelocyte-metamyelocyte-band forms-segment",
+      "Myeloblast-segment-band forms-promyelocyte-metamyelocyte-myelocyte",
+      "Myeloblast-promyelocyte-myelocyte-metamyelocyte-band forms"
+    ],
+    "answer": ["Myeloblast-promyelocyte-myelocyte-metamyelocyte-band forms"],
+    "explanation": "In Acute Leukemias, the stages of maturation follow the order: Myeloblast - Promyelocyte - Myelocyte - Metamyelocyte - Band forms."
+  },
+  {
+    "id": 26,
+    "question": "In the epidemiology of acute leukemias",
+    "options": [
+      "ALL is more common in adults.",
+      "ALL represents 23% of pediatric cancer",
+      "AML is restricted to adults only",
+      "AML forms 60% of childhood leukemia",
+      "In ALL median age at diagnosis occurs approximately at 68 years."
+    ],
+    "answer": ["ALL represents 23% of pediatric cancer"],
+    "explanation": "In the epidemiology of acute leukemias, ALL (Acute Lymphoblastic Leukemia) is more common in children, representing 23% of pediatric cancer cases."
+  },
+  {
+    "id": 27,
+    "question": "Secondary AML can arise from the following except",
+    "options": [
+      "Myelodysplasia",
+      "Myeloproliferative disease",
+      "Therapy-related AML",
+      "Primary AML",
+      "All of the above"
+    ],
+    "answer": ["Primary AML"],
+    "explanation": "Secondary AML can arise from myelodysplasia, myeloproliferative disease, and therapy-related AML. However, primary AML is not a source of secondary AML."
+  },
+  {
+    "id": 28,
+    "question": "In hemostasis",
+    "options": [
+      "Hemostatic process only is involved",
+      "Fibrinolytic system is not called to play",
+      "There is no balance between procoagulant and anticoagulant",
+      "Balance must occur between the procoagulant and anticoagulant proteins",
+      "Inhibitors are not required at the site of injury."
+    ],
+    "answer": [
+      "Balance must occur between the procoagulant and anticoagulant proteins"
+    ],
+    "explanation": "In hemostasis, a delicate balance must occur between procoagulant and anticoagulant proteins to prevent excessive bleeding or clotting."
+  },
+  {
+    "id": 29,
+    "question": "Primary hemostatic plug occurs at",
+    "options": [
+      "Vascular phase",
+      "Plasma phase",
+      "Platelet adhesion",
+      "Initiation phase",
+      "Platelet aggregation"
+    ],
+    "answer": ["Platelet adhesion"],
+    "explanation": "The primary hemostatic plug occurs at the platelet adhesion phase, where platelets adhere to the exposed collagen at the site of vascular injury."
+  },
+  {
+    "id": 30,
+    "question": "The extrinsic tenase complex is",
+    "options": ["TF: VIIIa", "TF: IX", "TF: VII", "TF: Xa", "TF: VIIa"],
+    "answer": ["TF: VIIa"],
+    "explanation": "The extrinsic tenase complex is composed of tissue factor (TF) and activated factor VII (VIIa), and it plays a crucial role in the initiation of the coagulation cascade."
+  },
+  {
+    "id": 31,
+    "question": "Fibrinolytic process includes the following proteins except",
+    "options": [
+      "Tissue plasminogen activator",
+      "Plasminogen",
+      "Plasmin",
+      "Thrombin",
+      "α2-antiplasmin"
+    ],
+    "answer": ["Thrombin"],
+    "explanation": "Thrombin is not directly involved in the fibrinolytic process. The key players include tissue plasminogen activator (tPA), plasminogen, plasmin, and α2-antiplasmin."
+  },
+  {
+    "id": 32,
+    "question": "Molecular genetics discovered by Dameshek include:",
+    "options": [
+      "JAK2V617F",
+      "CALR",
+      "Somatic inhibition in JAK2 exon 13",
+      "MPL",
+      "CSF3R"
+    ],
+    "answer": ["Somatic inhibition in JAK2 exon 13"],
+    "explanation": "Molecular genetics discovered by Dameshek include somatic inhibition in JAK2 exon 13, which is relevant in the context of hematologic disorders."
+  },
+  {
+    "id": 33,
+    "question": "In the pathogenesis of myeloproliferative neoplasm",
+    "options": [
+      "Only one type of JAK family is involved",
+      "Only one type of STAT family involved",
+      "STAT family includes STAT 1,2,3,4,5B and STAT 6",
+      "STAT (Signal Transducer and Action Transcription)",
+      "STAT pathway means Signal Transcription and Activation Transducer"
+    ],
+    "answer": ["STAT family includes STAT 1,2,3,4,5B and STAT 6"],
+    "explanation": "The STAT (Signal Transducer and Activator of Transcription) family includes multiple members (STAT 1, 2, 3, 4, 5B, and STAT 6) and plays a role in the pathogenesis of myeloproliferative neoplasms."
+  },
+  {
+    "id": 34,
+    "question": "All except are incorrect about Hodgkin Lymphoma.",
+    "options": [
+      "It is neoplasm of lymphoid and myeloid tissues",
+      "Originates from the cortex of lymphoid cells",
+      "Characterized by the presence of mort cells",
+      "Characteristic immunophenotypes consist of CD20, CD 19 and CD 79a",
+      "First described by Thomas Hodgkin (1832) using 7 cases"
+    ],
+    "answer": ["Originates from the cortex of lymphoid cells"],
+    "explanation": "Hodgkin Lymphoma originates from lymphoid tissues but not specifically from the cortex of lymphoid cells."
+  },
+  {
+    "id": 35,
+    "question": "About the prevalence of Hodgkin Lymphoma:",
+    "options": [
+      "Nodular Sclerosing is the most all Hodgkin Lymphoma",
+      "Nodular Sclerosing is least common prevalent in females",
+      "Non-classical is more common than the classical forms in the older age group",
+      "The lymphocytes depleted LH is most common in Benin City",
+      "Nodular lymphocytes predominant is the commonest"
+    ],
+    "answer": ["Nodular Sclerosing is least common prevalent in females"],
+    "explanation": "Nodular Sclerosing Hodgkin Lymphoma is more common in females, not least common. The other options are also incorrect statements."
+  },
+  {
+    "id": 36,
+    "question": "The following are B-cell NHL except",
+    "options": [
+      "Hairy cell leukemia",
+      "Plasma cell myeloma/plasmacytoma",
+      "Extra-nodal marginal zone B-cell NHL",
+      "Lymphoma of MALT type of the GIT",
+      "Sezary Syndrome"
+    ],
+    "answer": ["Plasma cell myeloma/plasmacytoma"],
+    "explanation": "Plasma cell myeloma, also known as multiple myeloma, is not classified as B-cell NHL. It is a distinct malignancy of plasma cells."
+  },
+  {
+    "id": 37,
+    "question": "All are differential diagnoses of Non-Hodgkin Lymphoma except",
+    "options": [
+      "Hodgkin's lymphoma",
+      "TB",
+      "Castleman disease",
+      "Sinus histiocytosis with massive lymphadenopathy (Rosai-Dorfman's disease)",
+      "PML-RARA proliferative disease"
+    ],
+    "answer": ["PML-RARA proliferative disease"],
+    "explanation": "PML-RARA proliferative disease is associated with acute promyelocytic leukemia (APL), which is a subtype of acute myeloid leukemia (AML), not Non-Hodgkin Lymphoma (NHL)."
+  },
+  {
+    "id": 38,
+    "question": "Poor prognostic indices in non-Hodgkin Lymphoma include all but one:",
+    "options": [
+      "Age > 60 years at presentation",
+      "Presence of constitutional 'B' symptoms",
+      "Elevated serum LDH",
+      "Low beta2 microglobulin",
+      "High proliferative rate based on ki-67 value"
+    ],
+    "answer": ["Low beta2 microglobulin"],
+    "explanation": "Low beta2 microglobulin is associated with a better prognosis in non-Hodgkin Lymphoma. The other options are poor prognostic factors."
+  },
+  {
+    "id": 39,
+    "question": "True about Ann-Arbor staging of Lymphomas:",
+    "options": [
+      "Staging is dissimilar for HL and NHL",
+      "It is the same as Binet staging",
+      "Stage IV in HL is the same as stage 3 HL",
+      "It was first used in 1975/77",
+      "Stage III is the involvement of lymphoid tissues above and below the diaphragm"
+    ],
+    "answer": ["Staging is dissimilar for HL and NHL"],
+    "explanation": "Ann-Arbor staging is different for Hodgkin Lymphoma (HL) and Non-Hodgkin Lymphoma (NHL). The other options are incorrect statements."
+  },
+  {
+    "id": 40,
+    "question": "One of the following is untrue about the pathogenesis of paraproteinaemia",
+    "options": [
+      "Enhanced signaling pathways",
+      "Disturbed apoptotic mechanisms",
+      "Disturbed bone marrow microenvironment",
+      "Evolves from MGUD to SMM to MM",
+      "Cytogenetic abnormalities involving mainly 'even' numbered chromosomes"
+    ],
+    "answer": ["Evolves from MGUD to SMM to MM"],
+    "explanation": "Paraproteinaemia typically evolves from Monoclonal Gammopathy of Undetermined Significance (MGUS) to Smoldering Multiple Myeloma (SMM) and may progress to Multiple Myeloma (MM). The other options are correct."
+  },
+  {
+    "id": 41,
+    "question": "Which of the following would strongly suggest multiple myeloma?",
+    "options": [
+      "Severe back pain in a 60-year-old prisoner with lumbo-sacral X-Ray showing significant osteophytes",
+      "Severe osteoporosis of the bony architecture",
+      "Normal WBC count with some rouleau formation",
+      "Elevated gamma-globulin with beta-2 microglobulin of 6ug/L",
+      "Elevated gamma-globulin with beta-2 microglobulin of 6mg/L"
+    ],
+    "answer": ["Elevated gamma-globulin with beta-2 microglobulin of 6mg/L"],
+    "explanation": "Elevated gamma-globulin, along with an elevated beta-2 microglobulin level, is indicative of multiple myeloma. The other options are not specific to multiple myeloma."
+  },
+  {
+    "id": 42,
+    "question": "The most appropriate and likely curative treatment for MM in 2023 include",
+    "options": [
+      "Lenanidome, bortezomid and dexamethazone combination",
+      "Cyclophosphamide, bortemid and dexamethasone",
+      "Daratumomad, Bi tri-specific antibody engager with cartizomid, lenalidomide & dexamethasone",
+      "Thalidomide, lenanidomidie and dexamethasone",
+      "Lenalidomide and predinosolone"
+    ],
+    "answer": [
+      "Daratumomad, Bi tri-specific antibody engager with cartizomid, lenalidomide & dexamethasone"
+    ],
+    "explanation": "Daratumomad, a bi-specific antibody engager combined with cartizomid, lenalidomide, and dexamethasone represents a modern and effective treatment for multiple myeloma."
+  },
+  {
+    "id": 43,
+    "question": "Multiple myeloma defining features include all but one:",
+    "options": [
+      "Elevated calcium",
+      "Presence of anemia",
+      "Chronic renal failure",
+      "Severe osteolytic lesion",
+      "High ERS"
+    ],
+    "answer": ["High ERS"],
+    "explanation": "High ESR (Erythrocyte Sedimentation Rate) is not a defining feature of multiple myeloma. The other options are characteristic features of the disease."
+  },
+  {
+    "id": 44,
+    "question": "The blood film in infectious mononucleosis reveals:",
+    "options": [
+      "Circulating megaloblast",
+      "Smear cells",
+      "Atypical Lymphocytes",
+      "Target cells",
+      "Neutrophilia"
+    ],
+    "answer": ["Atypical Lymphocytes"],
+    "explanation": "The blood film in infectious mononucleosis typically reveals the presence of atypical lymphocytes, which are enlarged and reactive lymphocytes."
+  },
+  {
+    "id": 45,
+    "question": "A characteristic clinical feature in Infectious mononucleosis is:",
+    "options": [
+      "Sciatica",
+      "Peripheral neuropathy",
+      "Pedal edema",
+      "Sore throat",
+      "Massive splenomegaly"
+    ],
+    "answer": ["Sore throat"],
+    "explanation": "A characteristic clinical feature of infectious mononucleosis is a sore throat, often accompanied by other symptoms such as fever and lymphadenopathy."
+  },
+  {
+    "id": 46,
+    "question": "An important laboratory finding in Infectious mononucleosis is:",
+    "options": [
+      "Positive Monospot test",
+      "Reduced IgM level, with anti-P specificity",
+      "Elevated cold antibody level with anti-H specificity",
+      "Reduced EBV capsid antigen titre",
+      "Reduced IgG level"
+    ],
+    "answer": ["Positive Monospot test"],
+    "explanation": "A positive Monospot test is an important laboratory finding in infectious mononucleosis, indicating the presence of heterophil antibodies."
+  },
+  {
+    "id": 47,
+    "question": "Which condition is not a cause of generalized lymphadenopathy?",
+    "options": [
+      "Hodgkin's Lymphoma",
+      "Hyperthyroidism",
+      "Dental abscess",
+      "Toxoplasmosis",
+      "Malaria"
+    ],
+    "answer": ["Malaria"],
+    "explanation": "Malaria is not a typical cause of generalized lymphadenopathy. The other options can contribute to the development of enlarged lymph nodes."
+  },
+  {
+    "id": 48,
+    "question": "Which is a useful lab investigation for Lymphadenopathy:",
+    "options": [
+      "Activated partial thromboplastin time",
+      "Bone marrow aspiration",
+      "Coagulation screen",
+      "Thyroid hormone assay",
+      "Lymph node biopsy"
+    ],
+    "answer": ["Lymph node biopsy"],
+    "explanation": "Lymph node biopsy is a useful laboratory investigation for assessing the cause of lymphadenopathy. It allows for the examination of lymph node tissue to identify any abnormalities or underlying conditions."
+  },
+  {
+    "id": 49,
+    "question": "The antidote for heparin is",
+    "options": [
+      "Clexane",
+      "Vitamin K",
+      "Protamine sulphate",
+      "Fresh frozen plasma",
+      "Cryoprecipitate"
+    ],
+    "answer": ["Protamine sulphate"],
+    "explanation": "Protamine sulphate is the antidote for heparin. It neutralizes the anticoagulant effects of heparin by forming a stable complex with it."
+  },
+  {
+    "id": 50,
+    "question": "Thrombolytic agents should be given",
+    "options": [
+      "All patients with thrombotic disorders",
+      "Thrombotic disorders presenting within 24 hours of onset",
+      "Thrombotic disorders presenting within 6 hours of onset",
+      "As prophylaxis against stroke",
+      "Thrombotic disorders presenting within 12 hours of onset"
+    ],
+    "answer": ["Thrombotic disorders presenting within 6 hours of onset"],
+    "explanation": "Thrombolytic agents are most effective when administered within a narrow time window. They are generally recommended for thrombotic disorders presenting within 6 hours of onset to achieve optimal outcomes."
+  }
+]
