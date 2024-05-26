@@ -18,7 +18,7 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Phoenix</title>
+    <title>ExamWiz</title>
 
     <!-- ===============================================-->
     <!--    Favicons-->
@@ -125,10 +125,7 @@
         <div class="col-lg-6">
           <div class="row flex-center h-100 g-0 px-4 px-sm-0">
             <div class="col col-sm-6 col-lg-7 col-xl-6">
-              <a
-                class="d-flex flex-center text-decoration-none mb-4"
-                href="/"
-              >
+              <a class="d-flex flex-center text-decoration-none mb-4" href="/">
                 <div
                   class="d-flex align-items-center fw-bolder fs-3 d-inline-block"
                 >
@@ -154,49 +151,64 @@
               <div class="position-relative">
                 <hr class="bg-body-secondary mt-5 mb-4" />
                 <div class="divider-content-center">or use email</div>
-              </div>
-              <div class="mb-3 text-start">
-                <label class="form-label" for="email">Email address</label>
-                <div class="form-icon-container">
-                  <input
-                    class="form-control form-icon-input"
-                    id="email"
-                    type="email"
-                    placeholder="name@example.com"
-                  /><span class="fas fa-user text-body fs-9 form-icon"></span>
-                </div>
-              </div>
-              <div class="mb-3 text-start">
-                <label class="form-label" for="password">Password</label>
-                <div class="form-icon-container">
-                  <input
-                    class="form-control form-icon-input"
-                    id="password"
-                    type="password"
-                    placeholder="Password"
-                  /><span class="fas fa-key text-body fs-9 form-icon"></span>
-                </div>
-              </div>
-              <div class="row flex-between-center mb-7">
-                <div class="col-auto">
-                  <div class="form-check mb-0">
-                    <input
-                      class="form-check-input"
-                      id="basic-checkbox"
-                      type="checkbox"
-                      checked="checked"
-                    /><label class="form-check-label mb-0" for="basic-checkbox"
-                      >Remember me</label
-                    >
+                <form action="/login" method="POST">
+                  <!-- Display error message -->
+                  <% if (errorMessage) { %>
+                  <div style="color: red"><%= errorMessage %></div>
+                  <% } %>
+                  <div class="mb-3 text-start">
+                    <label class="form-label" for="username">Username</label>
+                    <div class="form-icon-container">
+                      <input
+                        class="form-control form-icon-input"
+                        id="username"
+                        type="text"
+                        placeholder="username"
+                        name="username"
+                      /><span
+                        class="fas fa-user text-body fs-9 form-icon"
+                      ></span>
+                    </div>
                   </div>
-                </div>
-                <div class="col-auto">
-                  <a class="fs-9 fw-semibold" href="/forgot-password"
-                    >Forgot Password?</a
-                  >
-                </div>
+                  <div class="mb-3 text-start">
+                    <label class="form-label" for="password">Password</label>
+                    <div class="form-icon-container">
+                      <input
+                        class="form-control form-icon-input"
+                        id="password"
+                        type="password"
+                        placeholder="Password"
+                        name="password"
+                        required
+                      /><span
+                        class="fas fa-key text-body fs-9 form-icon"
+                      ></span>
+                    </div>
+                  </div>
+                  <div class="row flex-between-center mb-7">
+                    <div class="col-auto">
+                      <div class="form-check mb-0">
+                        <input
+                          class="form-check-input"
+                          id="basic-checkbox"
+                          type="checkbox"
+                          checked="checked"
+                        /><label
+                          class="form-check-label mb-0"
+                          for="basic-checkbox"
+                          >Remember me</label
+                        >
+                      </div>
+                    </div>
+                    <div class="col-auto">
+                      <a class="fs-9 fw-semibold" href="/forgot-password"
+                        >Forgot Password?</a
+                      >
+                    </div>
+                  </div>
+                  <button class="btn btn-primary w-100 mb-3">Sign In</button>
+                </form>
               </div>
-              <button class="btn btn-primary w-100 mb-3">Sign In</button>
               <div class="text-center">
                 <a class="fs-9 fw-bold" href="/register">Create an account</a>
               </div>
