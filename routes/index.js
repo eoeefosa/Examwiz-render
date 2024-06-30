@@ -275,6 +275,60 @@ router.get("/forgot-password", function (req, res, next) {
   res.render("auth/forgot-password", { title: "login" });
 });
 
+router.get(
+  "/ubemsa",
+
+  function (req, res, next) {
+    res.render("ubemsa/selecttheme", {
+      errorMessage: "",
+      level: [
+        "100lv",
+        "200lv",
+        "300lv",
+        "Path-pharm",
+        "Sub-specilatity",
+        "600lv",
+        "final year",
+      ],
+    });
+  }
+);
+
+router.post(
+  "/ubemsa",
+  registerLimiter,
+  [
+    // ensure it start with  MED
+    body("mnumber").trim(),
+  ],
+  function (req, res, next) {
+    const { fname, mnumber, level } = req.body;
+
+    try {
+      // Check if mat number exist
+      // if it exist return false
+      // check groups in class
+      // if a class has 100 check the equality
+      // randomly select from 1 to the number of groups
+      //  give candidate that group
+    } catch (e) {}
+
+    console.log(fname + mnumber + level);
+    return res.render("ubemsa/selecttheme", {
+      errorMessage: "",
+      level: [
+        "100lv",
+        "200lv",
+        "300lv",
+        "Path-pharm",
+        "Sub-specilatity",
+        "600lv",
+        "final year",
+      ],
+    });
+  }
+);
+
 // Logout route
 router.get("/logout", function (req, res) {
   // Clear the authentication token cookie
@@ -303,7 +357,38 @@ router.get("/lock-screen", function (req, res, next) {
   res.render("auth/lock-screen", { title: "login" });
 });
 
+router.get("/question", function (req, res, next) {
+  res.render("questionpage", { title: "login" });
+});
 /* Admin*/
+router.get("/test", verifyToken, async function (req, res) {
+  // Access user information from req.user and pass it to the view
+  const { username, email, _id } = req.user;
+
+  const user = await User.findById({ _id });
+
+  const {
+    referralCode,
+    balance,
+    plan,
+    follower,
+    following,
+    bonusPoints,
+    is_online,
+  } = user;
+  res.render("user/layout/test", {
+    title: "Dashboard",
+    username,
+    email,
+    referralCode,
+    balance,
+    plan,
+    follower,
+    following,
+    bonusPoints,
+    is_online,
+  });
+});
 
 // Dashboard route
 router.get("/dashboard", verifyToken, async function (req, res) {
@@ -322,17 +407,6 @@ router.get("/dashboard", verifyToken, async function (req, res) {
     is_online,
   } = user;
 
-  console.log(
-    username,
-    email,
-    referralCode,
-    balance,
-    plan,
-    follower,
-    following,
-    bonusPoints,
-    is_online
-  );
   res.render("user/courses", {
     title: "Dashboard",
     username,
